@@ -1,28 +1,13 @@
-
-    # ============================================
-    # DATA-ONLY SYNC REPOSITORY
-    # This repo should ONLY contain data files
-    # Code is stored in a separate repository
-    # ============================================
-
-    # Ignore everything except sync_data.json and files/
-    *
-    !sync_data.json
-    !files/
-    !files/**
-
-    # Ignore IDE files
-    .idea/
-    .vscode/
-    *.swp
-    *.swo
-
-    # Ignore OS files
-    .DS_Store
-    Thumbs.db
-
-    # Ignore temporary files
-    *.tmp
-    *.temp
-    *.log
-    
+*
+!sync_data.json
+!files/
+!files/**
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+*.log
