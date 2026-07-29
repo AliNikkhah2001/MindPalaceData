@@ -1,6 +1,6 @@
 {
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-07-29T15:23:25.603753",
+  "last_sync": "2026-07-29T15:31:08.507154",
   "settings": {
     "font_family": "Inter",
     "custom_font_path": "/Users/alinikkhah/Desktop/Cinzel,Plaster/Cinzel/Cinzel-VariableFont_wght.ttf",
@@ -2386,11 +2386,39 @@
     "courses": [],
     "pomodoro_sessions": [],
     "cascading_goals": [],
-    "habits": [],
+    "habits": [
+      {
+        "id": 1,
+        "name": "htrfg",
+        "created_at": "2026-07-29T15:24:07.083122",
+        "type": "Positive",
+        "uuid": "d3f9a94065a14cefbf1d8173f9c4b981",
+        "modified_at": "2026-07-29T15:24:07.083122"
+      },
+      {
+        "id": 2,
+        "name": "",
+        "created_at": "2026-07-29T15:24:07.942040",
+        "type": "Positive",
+        "uuid": "3bcaad08fa97468ebc1eda8b495929b0",
+        "modified_at": "2026-07-29T15:24:07.942040"
+      }
+    ],
     "habit_logs": [],
     "flashcards": [],
     "quizzes": [],
-    "focus_queue": [],
+    "focus_queue": [
+      {
+        "id": 1,
+        "title": "General",
+        "duration": 25,
+        "type": "Work",
+        "status": "pending",
+        "course": "General",
+        "uuid": "e101dbd4cc3f414296b17294971569e4",
+        "modified_at": "2026-07-29T15:24:01.468240"
+      }
+    ],
     "notes": []
   }
 }
