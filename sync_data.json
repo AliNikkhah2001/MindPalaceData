@@ -1,6 +1,6 @@
 {
   "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-  "last_sync": "2026-07-30T01:15:14.906343",
+  "last_sync": "2026-07-30T01:21:47.570635",
   "settings": {
     "font_family": "Inter",
     "custom_font_path": "",
@@ -15,7 +15,7 @@
     "clock_complication": "None",
     "dist_delay": 3,
     "vision_mode": "Strict (Face & Eyes)",
-    "bg_image_path": "img/bg.jpg",
+    "bg_image_path": "/Users/alinikkhah/Documents/Wallpaper/vibrant-fluid-art-7680x4320-22982.jpg",
     "quotes_path": "",
     "panel_opacity": 180,
     "face_scale_factor": 1.2,
@@ -43,7 +43,8 @@
     "sync_device_name": "Win",
     "sync_interval": 360,
     "sync_local_paths": [
-      "sample"
+      "sample",
+      "/Users/alinikkhah/Documents/Personal Library/Coding Practice/"
     ],
     "quiet_mode": false,
     "app_monitoring_enabled": true,
@@ -52,7 +53,7 @@
     "auto_block": false,
     "target_hours": 5000,
     "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-    "has_token": false,
+    "has_token": true,
     "process_list": [
       {
         "name": "kernel_task",
@@ -356,7 +357,11 @@
       }
     ],
     "git_status": "connected",
-    "git_last_sync": "7/30/2026, 12:36:16 AM"
+    "git_last_sync": "7/30/2026, 12:36:16 AM",
+    "mapped_folders": [
+      "sample",
+      "/Users/alinikkhah/Documents/Wallpaper/"
+    ]
   },
   "tables": {
     "courses": [],
@@ -373,6 +378,32 @@
         "distraction_data": null,
         "uuid": "2e6f183fa56946049bd4be0a43008f47",
         "modified_at": "2026-07-29T16:00:11.317975"
+      },
+      {
+        "id": 2,
+        "course": "General",
+        "duration": 25,
+        "actual_duration": 0,
+        "timestamp": "2026-07-30T01:16:02.612274",
+        "type": "Work",
+        "distractions": 2,
+        "timelapse_path": null,
+        "distraction_data": null,
+        "uuid": "33f71b44d4c64df9b717da70914b0d8e",
+        "modified_at": "2026-07-30T01:16:02.612264"
+      },
+      {
+        "id": 3,
+        "course": "General",
+        "duration": 25,
+        "actual_duration": 0,
+        "timestamp": "2026-07-30T01:16:14.208684",
+        "type": "Work",
+        "distractions": 2,
+        "timelapse_path": null,
+        "distraction_data": null,
+        "uuid": "fa78482007634599bfb8b5cff8729735",
+        "modified_at": "2026-07-30T01:16:14.208663"
       }
     ],
     "cascading_goals": [
