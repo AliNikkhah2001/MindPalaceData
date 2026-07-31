@@ -1,6 +1,6 @@
 {
   "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-  "last_sync": "2026-07-31T18:22:55.565057",
+  "last_sync": "2026-07-31T18:29:41.735172",
   "settings": {
     "font_family": "Inter",
     "custom_font_path": "",
@@ -571,6 +571,38 @@
         "data_json": "{\"name\": \"\", \"kcal\": \"\", \"protein\": \"\"}",
         "uuid": "10c1de2a63e44b86bb38025a12d7d271",
         "modified_at": "2026-07-31T18:11:11.519316"
+      },
+      {
+        "id": 3,
+        "log_type": "food",
+        "date": "2026-07-31",
+        "data_json": "{\"name\": \"fdfsd\", \"kcal\": 3232, \"protein\": 32}",
+        "uuid": "a39e230fa327470e8590767df1d2c829",
+        "modified_at": "2026-07-31T18:23:56.921245"
+      }
+    ],
+    "custom_foods": [
+      {
+        "id": 1,
+        "name": "fdfsd",
+        "kcal": 3232.0,
+        "protein": 32.0,
+        "fat": 0.0,
+        "carbs": 0.0,
+        "category": "Meals",
+        "uuid": "145ba8f7364b4e598ce799d23b9b985a",
+        "modified_at": "2026-07-31T18:23:56.918664"
+      }
+    ],
+    "custom_activities": [],
+    "health_plans": [
+      {
+        "id": 1,
+        "type": "Exercise",
+        "title": "fdsfds",
+        "details": "sdfsdfds",
+        "uuid": "51026f24790247f9a9966d2ccab825eb",
+        "modified_at": "2026-07-31T18:24:16.414904"
       }
     ]
   }
