@@ -1,6 +1,6 @@
 {
   "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-  "last_sync": "2026-07-31T18:35:41.554801",
+  "last_sync": "2026-07-31T18:43:26.233634",
   "settings": {
     "font_family": "Inter",
     "custom_font_path": "",
@@ -404,6 +404,32 @@
         "distraction_data": null,
         "uuid": "fa78482007634599bfb8b5cff8729735",
         "modified_at": "2026-07-30T01:16:14.208663"
+      },
+      {
+        "id": 4,
+        "course": "General",
+        "duration": 25,
+        "actual_duration": 0,
+        "timestamp": "2026-07-31T18:41:22.267004",
+        "type": "Work",
+        "distractions": 0,
+        "timelapse_path": null,
+        "distraction_data": null,
+        "uuid": "878321bf9cf8469ba0992b471002d657",
+        "modified_at": "2026-07-31T18:41:22.266995"
+      },
+      {
+        "id": 5,
+        "course": "General",
+        "duration": 25,
+        "actual_duration": 0,
+        "timestamp": "2026-07-31T18:43:18.220816",
+        "type": "Work",
+        "distractions": 20,
+        "timelapse_path": null,
+        "distraction_data": null,
+        "uuid": "6a924f2ec1674d10b7a48f5ea9308297",
+        "modified_at": "2026-07-31T18:43:18.220800"
       }
     ],
     "cascading_goals": [
