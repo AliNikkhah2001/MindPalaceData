@@ -1,6 +1,6 @@
 {
   "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-  "last_sync": "2026-08-01T14:10:34.831895",
+  "last_sync": "2026-08-01T14:51:07.408689",
   "settings": {
     "font_family": "Inter",
     "custom_font_path": "",
@@ -619,7 +619,14 @@
         "modified_at": "2026-07-29T16:31:14.230981"
       }
     ],
-    "health_profile": [],
+    "health_profile": [
+      {
+        "id": 1,
+        "data_json": "{\"weight\": 107, \"bmr\": 15.2}",
+        "uuid": "cbd5ce7383d94a289cfec51f416efb37",
+        "modified_at": "2026-08-01T14:25:50.574331"
+      }
+    ],
     "health_logs": [
       {
         "id": 1,
@@ -644,6 +651,22 @@
         "data_json": "{\"name\": \"fdfsd\", \"kcal\": 3232, \"protein\": 32}",
         "uuid": "a39e230fa327470e8590767df1d2c829",
         "modified_at": "2026-07-31T18:23:56.921245"
+      },
+      {
+        "id": 4,
+        "log_type": "body_scan",
+        "date": "2026-08-01",
+        "data_json": "{\"weight\": 1071, \"body_score\": 76, \"bmi\": 29.7, \"body_fat\": 28.4, \"muscle_mass\": null, \"water\": 52.7, \"bmr\": 15.2, \"file_path\": \"/Users/alinikkhah/Downloads/OCR/Image PNG.jpg\"}",
+        "uuid": "069351fef54049d1aa63976fd7a8b6d7",
+        "modified_at": "2026-08-01T14:20:55.070871"
+      },
+      {
+        "id": 5,
+        "log_type": "body_scan",
+        "date": "2026-08-01",
+        "data_json": "{\"weight\": 107, \"body_score\": 76, \"bmi\": 29.7, \"body_fat\": 28.4, \"muscle_mass\": null, \"water\": 52, \"bmr\": 15.2, \"file_path\": \"/Users/alinikkhah/Downloads/OCR/Image PNG.jpg\"}",
+        "uuid": "2f9f25fdb4cf460498f5ee4c947949b4",
+        "modified_at": "2026-08-01T14:25:50.574652"
       }
     ]
   }
