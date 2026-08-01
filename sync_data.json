@@ -1,6 +1,6 @@
 {
   "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-  "last_sync": "2026-08-01T15:57:20.682806",
+  "last_sync": "2026-08-01T16:05:08.204649",
   "settings": {
     "font_family": "Inter",
     "custom_font_path": "",
@@ -552,7 +552,18 @@
         "modified_at": "2026-07-29T16:31:18.564906"
       }
     ],
-    "quizzes": [],
+    "quizzes": [
+      {
+        "id": 1,
+        "title": "New Quiz",
+        "questions_json": "[\n  {\"q\": \"Difference between Process and Thread?\", \"opts\": [\"Memory Isolation\", \"No Difference\"], \"ans\": 0}\n]",
+        "course": "General",
+        "folder": "Uncategorized",
+        "color": "#3b82f6",
+        "uuid": "5296759463574042a85507ae81c96f31",
+        "modified_at": "2026-08-01T16:04:07.838934"
+      }
+    ],
     "focus_queue": [
       {
         "id": 1,
@@ -611,13 +622,13 @@
       {
         "id": 3,
         "title": "Untitled Note",
-        "content": "aerfaefasdfdas",
+        "content": "aerfaefasdfdasnjjk",
         "timestamp": "2026-07-29T16:31:14.230981",
         "course": "General",
         "folder": "Uncategorized",
         "color": "#3b82f6",
         "uuid": "c8c5a648d27b41e684a61a950e5f1313",
-        "modified_at": "2026-07-29T16:31:14.230981"
+        "modified_at": "2026-08-01T16:01:45.185770"
       }
     ],
     "health_profile": [
