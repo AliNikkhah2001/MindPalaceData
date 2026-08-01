@@ -1,23 +1,22 @@
 {
-  "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-  "last_sync": "2026-08-01T08:32:23.276784",
+  "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+  "last_sync": "2026-08-01T10:15:45.623318",
   "settings": {
     "font_family": "Inter",
-    "custom_font_path": "",
-    "font_color": "#e2e8f0",
-    "font_size": 16,
+    "custom_font_path": "/Users/alinikkhah/Desktop/Cinzel,Plaster/Cinzel/Cinzel-VariableFont_wght.ttf",
+    "font_size": 20,
     "clock_style": "Analog Classic",
-    "clock_case_shape": "Round",
-    "clock_bezel": "Plain",
-    "clock_indices": "Baton",
-    "clock_ticks": "Standard",
-    "clock_hands": "Classic",
-    "clock_complication": "None",
+    "clock_case": "Octagonal (AP)",
+    "clock_bezel": "Coin-Edge",
+    "clock_indices": "California",
+    "clock_ticks": "Crosshair",
+    "clock_hands": "Spade",
+    "clock_comp": "Date Window",
     "dist_delay": 3,
-    "vision_mode": "Strict (Face & Eyes)",
-    "bg_image_path": "/Users/alinikkhah/Documents/Wallpaper/vibrant-fluid-art-7680x4320-22982.jpg",
-    "quotes_path": "",
-    "panel_opacity": 180,
+    "vision_mode": "Visible (Face Only)",
+    "bg_image_path": "C:/Users/10225/Downloads/wp6636860-richard-feynman-wallpapers.png",
+    "quotes_path": "data/quotes.json",
+    "panel_opacity": "238",
     "face_scale_factor": 1.2,
     "face_min_neighbors": 8,
     "face_min_size": 120,
@@ -32,336 +31,2356 @@
     "loop_15m": 10,
     "loop_30m": 20,
     "loop_60m": 30,
-    "speech_dist": "You have been distracted. Please return to work.",
-    "speech_comp": "Fantastic job! Your deep work session is complete.",
+    "speech_dist": "Distraction.",
+    "speech_comp": "session complete. ",
     "deadline_name": "Goal",
-    "deadline_date": "2026-08-06 00:19",
-    "mute_sounds": true,
-    "mute_speech": true,
+    "deadline_date": "2000-01-01 00:00",
+    "clock_numbers": "Arabic (1, 2, 3)",
+    "clock_brand": "None",
+    "clock_dial_color": "Emerald Green",
+    "clock_strap": "Steel",
+    "clock_dial": "Matte Black",
+    "dashboard_layout": {
+      "Clock": {
+        "visible": true,
+        "row": 2,
+        "col": 0,
+        "rspan": 1,
+        "cspan": 1
+      },
+      "Goals": {
+        "visible": true,
+        "row": 0,
+        "col": 1,
+        "rspan": 1,
+        "cspan": 1
+      },
+      "Calendar": {
+        "visible": true,
+        "row": 0,
+        "col": 2,
+        "rspan": 1,
+        "cspan": 1
+      },
+      "Heatmap": {
+        "visible": false,
+        "row": 1,
+        "col": 0,
+        "rspan": 1,
+        "cspan": 3
+      }
+    },
+    "clock_case_shape": "Round",
+    "clock_metal": "PVD Black",
+    "clock_complication": "Date Window",
+    "font_color": "#ffffff",
+    "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
     "sync_enabled": true,
-    "sync_repo_url": "https://github.com/alinikkhah2001/MindPalaceData.git",
-    "sync_device_name": "Win",
-    "sync_interval": 360,
-    "sync_local_paths": [
-      "sample",
-      "/Users/alinikkhah/Documents/Personal Library/Coding Practice/"
+    "sync_repo_url": "https://github.com/AliNikkhah2001/MindPalaceData.git",
+    "sync_interval": 3600,
+    "mapped_folders": [
+      "C:/Users/10225/Downloads/SHADOW OS copy 2/SHADOW OS copy 2/Paper"
     ],
-    "quiet_mode": false,
+    "sync_local_paths": [
+      "C:/Users/10225/Downloads/SHADOW OS copy 2/SHADOW OS copy 2/Paper",
+      "C:/Users/10225/Downloads/KB 27July"
+    ],
+    "quiet_mode": true,
     "app_monitoring_enabled": true,
-    "allowed_apps": [],
-    "blocked_apps": [],
     "auto_block": false,
-    "target_hours": 5000,
-    "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-    "has_token": true,
     "process_list": [
       {
-        "name": "kernel_task",
         "pid": 0,
+        "name": "System Idle Process",
+        "exe": null,
         "cpu": 0,
-        "memory": 0
+        "memory": 4.9382411219683836e-05,
+        "create_time": 0
       },
       {
-        "name": "launchd",
-        "pid": 1,
+        "pid": 4,
+        "name": "System",
+        "exe": "",
         "cpu": 0,
-        "memory": 0
+        "memory": 0.032765229844260224,
+        "create_time": 0
       },
       {
-        "name": "logd",
-        "pid": 361,
+        "pid": 212,
+        "name": "",
+        "exe": "",
         "cpu": 0,
-        "memory": 0
+        "memory": 0.3893309300559873,
+        "create_time": 1785045326.5692666
       },
       {
-        "name": "smd",
-        "pid": 362,
+        "pid": 256,
+        "name": "Registry",
+        "exe": "Registry",
         "cpu": 0,
-        "memory": 0
+        "memory": 0.4817254214480158,
+        "create_time": 1785045326.5825975
       },
       {
-        "name": "UserEventAgent",
-        "pid": 363,
+        "pid": 1236,
+        "name": "fontdrvhost.exe",
+        "exe": "C:\\Windows\\System32\\fontdrvhost.exe",
         "cpu": 0,
-        "memory": 0
+        "memory": 0.021728260936660887,
+        "create_time": 1785045335.5563776
       },
       {
-        "name": "fseventsd",
-        "pid": 365,
+        "pid": 1264,
+        "name": "smss.exe",
+        "exe": "C:\\Windows\\System32\\smss.exe",
         "cpu": 0,
-        "memory": 0
+        "memory": 0.003111091906840081,
+        "create_time": 1785045328.4600651
       },
       {
-        "name": "mediaremoted",
-        "pid": 366,
+        "pid": 1284,
+        "name": "WUDFHost.exe",
+        "exe": "C:\\Windows\\System32\\WUDFHost.exe",
         "cpu": 0,
-        "memory": 0
+        "memory": 0.05288856241628138,
+        "create_time": 1785045335.5321927
       },
       {
-        "name": "systemstats",
-        "pid": 369,
+        "pid": 1344,
+        "name": "conhost.exe",
+        "exe": "C:\\Windows\\System32\\conhost.exe",
         "cpu": 0,
-        "memory": 0
+        "memory": 0.010617218412232022,
+        "create_time": 1785045342.2175825
       },
       {
-        "name": "accessoryupdater",
-        "pid": 371,
+        "pid": 1352,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
         "cpu": 0,
-        "memory": 0
+        "memory": 0.05395028425750458,
+        "create_time": 1785045943.7909567
       },
       {
-        "name": "uarpassetmanager",
-        "pid": 372,
+        "pid": 1416,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
         "cpu": 0,
-        "memory": 0
+        "memory": 0.19385065524286887,
+        "create_time": 1785045335.5262845
       },
       {
-        "name": "configd",
-        "pid": 373,
+        "pid": 1436,
+        "name": "SearchIndexer.exe",
+        "exe": "C:\\Windows\\System32\\SearchIndexer.exe",
         "cpu": 0,
-        "memory": 0
+        "memory": 0.3498003098746304,
+        "create_time": 1785045464.244269
       },
       {
-        "name": "endpointsecurity",
-        "pid": 374,
+        "pid": 1676,
+        "name": "csrss.exe",
+        "exe": "C:\\Windows\\System32\\csrss.exe",
         "cpu": 0,
-        "memory": 0
+        "memory": 0.022419614693736458,
+        "create_time": 1785045334.536896
       },
       {
-        "name": "powerd",
-        "pid": 375,
+        "pid": 1776,
+        "name": "fontdrvhost.exe",
+        "exe": "C:\\Windows\\System32\\fontdrvhost.exe",
         "cpu": 0,
-        "memory": 0
+        "memory": 0.014419664076147679,
+        "create_time": 1785045335.5563636
       },
       {
-        "name": "IOMFB_bics_daemo",
-        "pid": 376,
+        "pid": 1780,
+        "name": "wininit.exe",
+        "exe": "C:\\Windows\\System32\\wininit.exe",
         "cpu": 0,
-        "memory": 0
+        "memory": 0.018073962506404282,
+        "create_time": 1785045335.0461073
       },
       {
-        "name": "amfid",
-        "pid": 378,
+        "pid": 1788,
+        "name": "csrss.exe",
+        "exe": "C:\\Windows\\System32\\csrss.exe",
         "cpu": 0,
-        "memory": 0
+        "memory": 0.024172690292035233,
+        "create_time": 1785045335.04887
       },
       {
-        "name": "remoted",
-        "pid": 380,
+        "pid": 1864,
+        "name": "winlogon.exe",
+        "exe": "C:\\Windows\\System32\\winlogon.exe",
         "cpu": 0,
-        "memory": 0
+        "memory": 0.04555527435015833,
+        "create_time": 1785045335.0724137
       },
       {
-        "name": "keybagd",
-        "pid": 382,
+        "pid": 1920,
+        "name": "services.exe",
+        "exe": "C:\\Windows\\System32\\services.exe",
         "cpu": 0,
-        "memory": 0
+        "memory": 0.07575261881099499,
+        "create_time": 1785045335.0972593
       },
       {
-        "name": "softwareupdated",
-        "pid": 383,
+        "pid": 1928,
+        "name": "LsaIso.exe",
+        "exe": "C:\\Windows\\System32\\LsaIso.exe",
         "cpu": 0,
-        "memory": 0
+        "memory": 0.020172714983240844,
+        "create_time": 1785045335.1277723
       },
       {
-        "name": "corespeechd_syst",
-        "pid": 384,
+        "pid": 1948,
+        "name": "lsass.exe",
+        "exe": "C:\\Windows\\System32\\lsass.exe",
         "cpu": 0,
-        "memory": 0
+        "memory": 0.1598755563237264,
+        "create_time": 1785045335.1321013
       },
       {
-        "name": "watchdogd",
-        "pid": 386,
+        "pid": 2028,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
         "cpu": 0,
-        "memory": 0
+        "memory": 0.03108622786279097,
+        "create_time": 1785052612.4652703
       },
       {
-        "name": "mds",
-        "pid": 390,
+        "pid": 2072,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
         "cpu": 0,
-        "memory": 0
+        "memory": 0.10157961987888964,
+        "create_time": 1785045335.6245396
       },
       {
-        "name": "iconservicesd",
-        "pid": 391,
+        "pid": 2092,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
         "cpu": 0,
-        "memory": 0
+        "memory": 0.01609866605761693,
+        "create_time": 1785045336.1274064
       },
       {
-        "name": "kernelmanagerd",
-        "pid": 392,
+        "pid": 2108,
+        "name": "WmiPrvSE.exe",
+        "exe": "C:\\Windows\\SysWOW64\\wbem\\WmiPrvSE.exe",
         "cpu": 0,
-        "memory": 0
+        "memory": 0.31772643378744575,
+        "create_time": 1785052609.9983215
       },
       {
-        "name": "diskarbitrationd",
-        "pid": 393,
+        "pid": 2116,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
         "cpu": 0,
-        "memory": 0
+        "memory": 0.03437015820889995,
+        "create_time": 1785045335.647182
       },
       {
-        "name": "coreduetd",
-        "pid": 396,
+        "pid": 2152,
+        "name": "WUDFHost.exe",
+        "exe": "C:\\Windows\\System32\\WUDFHost.exe",
         "cpu": 0,
-        "memory": 0
+        "memory": 0.0714563490348825,
+        "create_time": 1785045335.6603048
       },
       {
-        "name": "syslogd",
-        "pid": 397,
+        "pid": 2272,
+        "name": "WUDFHost.exe",
+        "exe": "C:\\Windows\\System32\\WUDFHost.exe",
         "cpu": 0,
-        "memory": 0
+        "memory": 0.03543188005012315,
+        "create_time": 1785045335.7289133
       },
       {
-        "name": "thermalmonitord",
-        "pid": 399,
+        "pid": 2336,
+        "name": "dwm.exe",
+        "exe": "C:\\Windows\\System32\\dwm.exe",
         "cpu": 0,
-        "memory": 0
+        "memory": 1.0994746946006506,
+        "create_time": 1785045335.7553055
       },
       {
-        "name": "contextstored",
-        "pid": 400,
+        "pid": 2356,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
         "cpu": 0,
-        "memory": 0
+        "memory": 0.35686199467904517,
+        "create_time": 1785045463.8650622
       },
       {
-        "name": "xprotectd",
-        "pid": 401,
+        "pid": 2388,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
         "cpu": 0,
-        "memory": 0
+        "memory": 0.16528293035228178,
+        "create_time": 1785045335.7583573
       },
       {
-        "name": "opendirectoryd",
-        "pid": 402,
+        "pid": 2400,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
         "cpu": 0,
-        "memory": 0
+        "memory": 0.012864118122727638,
+        "create_time": 1785045335.7587392
       },
       {
-        "name": "apsd",
-        "pid": 403,
+        "pid": 2408,
+        "name": "firefox.exe",
+        "exe": "C:\\Program Files\\Mozilla Firefox\\firefox.exe",
         "cpu": 0,
-        "memory": 0
+        "memory": 0.9415497435201018,
+        "create_time": 1785309433.9936273
       },
       {
-        "name": "launchservicesd",
-        "pid": 404,
+        "pid": 2420,
+        "name": "VerifyTrustedFiles.exe",
+        "exe": "C:\\Program Files (x86)\\ManageEngine\\UEMS_Agent\\appctrl\\bin\\VerifyTrustedFiles.exe",
         "cpu": 0,
-        "memory": 0
+        "memory": 0.32802266652674983,
+        "create_time": 1785045342.3030095
       },
       {
-        "name": "timed",
-        "pid": 405,
+        "pid": 2428,
+        "name": "sihost.exe",
+        "exe": "C:\\Windows\\System32\\sihost.exe",
         "cpu": 0,
-        "memory": 0
+        "memory": 0.1720730118949883,
+        "create_time": 1785059925.1844656
       },
       {
-        "name": "usbmuxd",
-        "pid": 406,
+        "pid": 2440,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
         "cpu": 0,
-        "memory": 0
+        "memory": 0.028938092974734726,
+        "create_time": 1785045335.764116
       },
       {
-        "name": "securityd",
-        "pid": 407,
+        "pid": 2448,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
         "cpu": 0,
-        "memory": 0
+        "memory": 0.0516046197245696,
+        "create_time": 1785045335.7641664
       },
       {
-        "name": "locationd",
-        "pid": 409,
+        "pid": 2456,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
         "cpu": 0,
-        "memory": 0
+        "memory": 0.018740625057870015,
+        "create_time": 1785045335.7643726
       },
       {
-        "name": "nesessionmanager",
-        "pid": 410,
+        "pid": 2468,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
         "cpu": 0,
-        "memory": 0
+        "memory": 0.09133276955080524,
+        "create_time": 1785045335.7651596
       },
       {
-        "name": "autofsd",
-        "pid": 412,
+        "pid": 2476,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
         "cpu": 0,
-        "memory": 0
+        "memory": 0.033505966012555476,
+        "create_time": 1785045335.765381
       },
       {
-        "name": "dasd",
-        "pid": 413,
+        "pid": 2536,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
         "cpu": 0,
-        "memory": 0
+        "memory": 0.018024580095184595,
+        "create_time": 1785133724.45592
       },
       {
-        "name": "corerepaird",
-        "pid": 414,
+        "pid": 2660,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
         "cpu": 0,
-        "memory": 0
+        "memory": 0.049110807957975566,
+        "create_time": 1785045335.8625093
       },
       {
-        "name": "distnoted",
-        "pid": 416,
+        "pid": 2748,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
         "cpu": 0,
-        "memory": 0
+        "memory": 0.045703421583817384,
+        "create_time": 1785045335.795756
       },
       {
-        "name": "AppleCredentialM",
-        "pid": 417,
+        "pid": 2756,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
         "cpu": 0,
-        "memory": 0
+        "memory": 0.0448886117986926,
+        "create_time": 1785045335.7963076
       },
       {
-        "name": "PerfPowerService",
-        "pid": 418,
+        "pid": 2768,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
         "cpu": 0,
-        "memory": 0
+        "memory": 0.04241949123770841,
+        "create_time": 1785045335.7976172
       },
       {
-        "name": "dirhelper",
-        "pid": 419,
+        "pid": 2800,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
         "cpu": 0,
-        "memory": 0
+        "memory": 0.027259090993265473,
+        "create_time": 1785045335.8030016
       },
       {
-        "name": "logind",
-        "pid": 420,
+        "pid": 2864,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
         "cpu": 0,
-        "memory": 0
+        "memory": 0.23533188066740326,
+        "create_time": 1785309951.9883485
       },
       {
-        "name": "revisiond",
-        "pid": 421,
+        "pid": 2896,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
         "cpu": 0,
-        "memory": 0
+        "memory": 0.030962771834741762,
+        "create_time": 1785045335.8223894
       },
       {
-        "name": "KernelEventAgent",
-        "pid": 422,
+        "pid": 2928,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
         "cpu": 0,
-        "memory": 0
+        "memory": 0.09471546471935358,
+        "create_time": 1785045335.829408
       },
       {
-        "name": "peakpowermanager",
-        "pid": 423,
+        "pid": 2972,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
         "cpu": 0,
-        "memory": 0
+        "memory": 0.06985142067024278,
+        "create_time": 1785045335.83719
       },
       {
-        "name": "usermanagerd",
-        "pid": 424,
+        "pid": 3008,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
         "cpu": 0,
-        "memory": 0
+        "memory": 0.03671582274183493,
+        "create_time": 1785046007.488235
       },
       {
-        "name": "bluetoothd",
-        "pid": 426,
+        "pid": 3016,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
         "cpu": 0,
-        "memory": 0
+        "memory": 0.02846896006814773,
+        "create_time": 1785045335.844879
+      },
+      {
+        "pid": 3056,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.01417275202004926,
+        "create_time": 1785045335.8513315
+      },
+      {
+        "pid": 3096,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.12190048209578953,
+        "create_time": 1785045336.1279633
+      },
+      {
+        "pid": 3108,
+        "name": "msedge.exe",
+        "exe": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+        "cpu": 0,
+        "memory": 0.20891229066487246,
+        "create_time": 1785316474.2132921
+      },
+      {
+        "pid": 3168,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.021752952142270725,
+        "create_time": 1785045335.8892753
+      },
+      {
+        "pid": 3296,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.07916000518515318,
+        "create_time": 1785045335.9174123
+      },
+      {
+        "pid": 3444,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.03550595366695267,
+        "create_time": 1785045335.9455523
+      },
+      {
+        "pid": 3464,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.03866642798501244,
+        "create_time": 1785045336.128568
+      },
+      {
+        "pid": 3668,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.06523416522120234,
+        "create_time": 1785045335.9914231
+      },
+      {
+        "pid": 3684,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.039036796069160065,
+        "create_time": 1785045335.9932685
+      },
+      {
+        "pid": 3928,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.23066524280714318,
+        "create_time": 1785045809.0333962
+      },
+      {
+        "pid": 3944,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.09528336244837994,
+        "create_time": 1785059925.2426329
+      },
+      {
+        "pid": 3952,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.12113505472188443,
+        "create_time": 1785059925.5370665
+      },
+      {
+        "pid": 4036,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.12955475583484052,
+        "create_time": 1785045336.1023667
+      },
+      {
+        "pid": 4072,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.033802260479873586,
+        "create_time": 1785045336.1454556
+      },
+      {
+        "pid": 4176,
+        "name": "MemCompression",
+        "exe": "MemCompression",
+        "cpu": 0,
+        "memory": 6.622057888531552,
+        "create_time": 1785045336.1662118
+      },
+      {
+        "pid": 4228,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.048863895901877154,
+        "create_time": 1785045336.17179
+      },
+      {
+        "pid": 4308,
+        "name": "NetworkCap.exe",
+        "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\hpcustomcapcomp.inf_amd64_166246cb8bd387ff\\x64\\NetworkCap.exe",
+        "cpu": 0,
+        "memory": 0.46498478404454296,
+        "create_time": 1785045336.1966147
+      },
+      {
+        "pid": 4316,
+        "name": "TouchpointAnalyticsClientService.exe",
+        "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\hpanalyticscomp.inf_amd64_ef460d1f2a35fc16\\x64\\TouchpointAnalyticsClientService.exe",
+        "cpu": 0,
+        "memory": 0.24525774532255973,
+        "create_time": 1785045336.1966512
+      },
+      {
+        "pid": 4328,
+        "name": "DiagsCap.exe",
+        "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\hpcustomcapcomp.inf_amd64_166246cb8bd387ff\\x64\\DiagsCap.exe",
+        "cpu": 0,
+        "memory": 0.3513805470336603,
+        "create_time": 1785045336.197188
+      },
+      {
+        "pid": 4336,
+        "name": "AppHelperCap.exe",
+        "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\hpcustomcapcomp.inf_amd64_166246cb8bd387ff\\x64\\AppHelperCap.exe",
+        "cpu": 0,
+        "memory": 0.34187443287387115,
+        "create_time": 1785045336.1975749
+      },
+      {
+        "pid": 4344,
+        "name": "SysInfoCap.exe",
+        "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\hpcustomcapcomp.inf_amd64_166246cb8bd387ff\\x64\\SysInfoCap.exe",
+        "cpu": 0,
+        "memory": 0.8800192591403756,
+        "create_time": 1785045336.1976562
+      },
+      {
+        "pid": 4352,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.027481311843754047,
+        "create_time": 1785045336.198564
+      },
+      {
+        "pid": 4368,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.05530830056604589,
+        "create_time": 1785045336.1996524
+      },
+      {
+        "pid": 4420,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.05444410836970141,
+        "create_time": 1785059925.2404656
+      },
+      {
+        "pid": 4468,
+        "name": "Code.exe",
+        "exe": "C:\\Users\\10225\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "cpu": 0,
+        "memory": 0.6595514842500972,
+        "create_time": 1785236240.9220839
+      },
+      {
+        "pid": 4516,
+        "name": "powershell.exe",
+        "exe": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "cpu": 0,
+        "memory": 0.29550434873858805,
+        "create_time": 1785241201.6006033
+      },
+      {
+        "pid": 4652,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.07056746563292819,
+        "create_time": 1785045336.3212855
+      },
+      {
+        "pid": 4664,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.08315998049394757,
+        "create_time": 1785059926.330299
+      },
+      {
+        "pid": 4856,
+        "name": "mctray.exe",
+        "exe": "C:\\Program Files\\McAfee\\Agent\\x86\\mctray.exe",
+        "cpu": 0,
+        "memory": 0.024666514404232075,
+        "create_time": 1785252797.4474032
+      },
+      {
+        "pid": 4868,
+        "name": "AggregatorHost.exe",
+        "exe": "C:\\Windows\\System32\\AggregatorHost.exe",
+        "cpu": 0,
+        "memory": 0.029703520348639822,
+        "create_time": 1785045342.6116583
+      },
+      {
+        "pid": 4892,
+        "name": "MEDLP.exe",
+        "exe": "C:\\Program Files (x86)\\ManageEngine\\UEMS_Agent\\EndpointDLP\\bin\\MEDLP.exe",
+        "cpu": 0,
+        "memory": 0.3296275948913896,
+        "create_time": 1785045342.617808
+      },
+      {
+        "pid": 5032,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.0940734933734977,
+        "create_time": 1785045336.5588317
+      },
+      {
+        "pid": 5044,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.1296535206572799,
+        "create_time": 1785045336.5623019
+      },
+      {
+        "pid": 5144,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.10972771773013748,
+        "create_time": 1785059927.0467598
+      },
+      {
+        "pid": 5164,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.030518330133764607,
+        "create_time": 1785045336.7998638
+      },
+      {
+        "pid": 5188,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.01444435528175752,
+        "create_time": 1785045336.80298
+      },
+      {
+        "pid": 5204,
+        "name": "msedgewebview2.exe",
+        "exe": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\150.0.4078.83\\msedgewebview2.exe",
+        "cpu": 0,
+        "memory": 0.1930852278689638,
+        "create_time": 1785159213.0410008
+      },
+      {
+        "pid": 5264,
+        "name": "EPSecurityService.exe",
+        "exe": "C:\\Program Files\\Bitdefender\\Endpoint Security\\EPSecurityService.exe",
+        "cpu": 0,
+        "memory": 4.598588897599398,
+        "create_time": 1785045337.6110067
+      },
+      {
+        "pid": 5292,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.0468885994530898,
+        "create_time": 1785045336.8512368
+      },
+      {
+        "pid": 5356,
+        "name": "unsecapp.exe",
+        "exe": "C:\\Windows\\System32\\wbem\\unsecapp.exe",
+        "cpu": 0,
+        "memory": 0.024222072703254917,
+        "create_time": 1785045336.9022648
+      },
+      {
+        "pid": 5408,
+        "name": "Code.exe",
+        "exe": "C:\\Users\\10225\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "cpu": 0,
+        "memory": 0.6596502490725366,
+        "create_time": 1785225799.0592136
+      },
+      {
+        "pid": 5424,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.025925765890334008,
+        "create_time": 1785045336.9544008
+      },
+      {
+        "pid": 5492,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.07790075369905125,
+        "create_time": 1785059925.7497053
+      },
+      {
+        "pid": 5500,
+        "name": "MfeFfCoreService.exe",
+        "exe": "C:\\Program Files\\McAfee\\Endpoint Encryption for Files and Folders\\MfeFfCoreService.exe",
+        "cpu": 0,
+        "memory": 0.29068956364466886,
+        "create_time": 1785045337.644426
+      },
+      {
+        "pid": 5512,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.14236949154634848,
+        "create_time": 1785059925.5175726
+      },
+      {
+        "pid": 5532,
+        "name": "WmiPrvSE.exe",
+        "exe": "C:\\Windows\\System32\\wbem\\WmiPrvSE.exe",
+        "cpu": 0,
+        "memory": 0.06985142067024278,
+        "create_time": 1785045337.0045826
+      },
+      {
+        "pid": 5760,
+        "name": "spoolsv.exe",
+        "exe": "C:\\Windows\\System32\\spoolsv.exe",
+        "cpu": 0,
+        "memory": 0.03832075110647465,
+        "create_time": 1785045337.2377062
+      },
+      {
+        "pid": 5776,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.024839352843500962,
+        "create_time": 1785045478.2382526
+      },
+      {
+        "pid": 5812,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.028123283189609938,
+        "create_time": 1785045337.4075124
+      },
+      {
+        "pid": 5924,
+        "name": "DtsApo4Service.exe",
+        "exe": "C:\\Windows\\System32\\DTS\\PC\\APO4x\\DtsApo4Service.exe",
+        "cpu": 0,
+        "memory": 0.03032080048888587,
+        "create_time": 1785045337.496728
+      },
+      {
+        "pid": 5936,
+        "name": "EPProtectedService.exe",
+        "exe": "C:\\Program Files\\Bitdefender\\Endpoint Security\\EPProtectedService.exe",
+        "cpu": 0,
+        "memory": 0.11938197912358565,
+        "create_time": 1785045337.5046177
+      },
+      {
+        "pid": 5948,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.24661576163110105,
+        "create_time": 1785045337.506236
+      },
+      {
+        "pid": 5956,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.21150486725390583,
+        "create_time": 1785045337.5066347
+      },
+      {
+        "pid": 5968,
+        "name": "EPUpdateService.exe",
+        "exe": "C:\\Program Files\\Bitdefender\\Endpoint Security\\EPUpdateService.exe",
+        "cpu": 0,
+        "memory": 0.10530799192597577,
+        "create_time": 1785045337.5151083
+      },
+      {
+        "pid": 5984,
+        "name": "ipfsvc.exe",
+        "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\dtt_sw.inf_amd64_6f0f80b4eb56d588\\ipfsvc.exe",
+        "cpu": 0,
+        "memory": 0.1525175770519935,
+        "create_time": 1785045337.516476
+      },
+      {
+        "pid": 5992,
+        "name": "OfficeClickToRun.exe",
+        "exe": "C:\\Program Files\\Common Files\\microsoft shared\\ClickToRun\\OfficeClickToRun.exe",
+        "cpu": 0,
+        "memory": 0.6420207282671094,
+        "create_time": 1785045337.5181797
+      },
+      {
+        "pid": 6000,
+        "name": "EPIntegrationService.exe",
+        "exe": "C:\\Program Files\\Bitdefender\\Endpoint Security\\EPIntegrationService.exe",
+        "cpu": 0,
+        "memory": 0.2139492966092802,
+        "create_time": 1785045337.5198348
+      },
+      {
+        "pid": 6012,
+        "name": "ipf_uf.exe",
+        "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\ipf_cpu.inf_amd64_09022c71eac15532\\ipf_uf.exe",
+        "cpu": 0,
+        "memory": 0.019802346899093215,
+        "create_time": 1785045337.5269089
+      },
+      {
+        "pid": 6024,
+        "name": "macmnsvc.exe",
+        "exe": "C:\\Program Files\\McAfee\\Agent\\macmnsvc.exe",
+        "cpu": 0,
+        "memory": 0.23162819982592697,
+        "create_time": 1785045337.5313077
+      },
+      {
+        "pid": 6032,
+        "name": "uesAgentService.exe",
+        "exe": "C:\\Program Files (x86)\\ManageEngine\\UEMS_Agent\\DeviceControl\\bin\\uesAgentService.exe",
+        "cpu": 0,
+        "memory": 0.24849229325744904,
+        "create_time": 1785045337.534888
+      },
+      {
+        "pid": 6040,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.022394923488126616,
+        "create_time": 1785045337.535535
+      },
+      {
+        "pid": 6056,
+        "name": "dcagentservice.exe",
+        "exe": "C:\\Program Files (x86)\\ManageEngine\\UEMS_Agent\\bin\\dcagentservice.exe",
+        "cpu": 0,
+        "memory": 0.24061579866790947,
+        "create_time": 1785045337.547465
+      },
+      {
+        "pid": 6080,
+        "name": "bdredline.exe",
+        "exe": "C:\\Program Files\\Bitdefender\\Endpoint Security\\bdredline.exe",
+        "cpu": 0,
+        "memory": 0.04256763847136746,
+        "create_time": 1785045337.5546227
+      },
+      {
+        "pid": 6088,
+        "name": "masvc.exe",
+        "exe": "C:\\Program Files\\McAfee\\Agent\\masvc.exe",
+        "cpu": 0,
+        "memory": 0.32002271590916104,
+        "create_time": 1785045337.560145
+      },
+      {
+        "pid": 6132,
+        "name": "IntelAudioService.exe",
+        "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\intcoed.inf_amd64_a2e27d213608ea21\\AS\\IAS\\IntelAudioService.exe",
+        "cpu": 0,
+        "memory": 0.052024370219936916,
+        "create_time": 1785045337.6003287
+      },
+      {
+        "pid": 6204,
+        "name": "MpDefenderCoreService.exe",
+        "exe": "C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.26060.3008-0\\MpDefenderCoreService.exe",
+        "cpu": 0,
+        "memory": 0.09587595138301616,
+        "create_time": 1785045337.698504
+      },
+      {
+        "pid": 6296,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.040542959611360424,
+        "create_time": 1785045337.8142283
+      },
+      {
+        "pid": 6312,
+        "name": "RtkBtManServ.exe",
+        "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\rtkbtfilter.inf_amd64_8561933210461490\\RtkBtManServ.exe",
+        "cpu": 0,
+        "memory": 0.019802346899093215,
+        "create_time": 1785045337.8254404
+      },
+      {
+        "pid": 6356,
+        "name": "RtkAudUService64.exe",
+        "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\realtekservice.inf_amd64_f4c5e5443290b318\\RtkAudUService64.exe",
+        "cpu": 0,
+        "memory": 0.053258930500429014,
+        "create_time": 1785045337.8948958
+      },
+      {
+        "pid": 6376,
+        "name": "splunkd.exe",
+        "exe": "C:\\Program Files\\SplunkUniversalForwarder\\bin\\splunkd.exe",
+        "cpu": 0,
+        "memory": 0.7739705310461046,
+        "create_time": 1785045337.906921
+      },
+      {
+        "pid": 6408,
+        "name": "Sysmon64.exe",
+        "exe": "C:\\Windows\\Sysmon64.exe",
+        "cpu": 0,
+        "memory": 0.1804433305967247,
+        "create_time": 1785045337.9407375
+      },
+      {
+        "pid": 6428,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.015950518823957878,
+        "create_time": 1785045337.9603045
+      },
+      {
+        "pid": 6444,
+        "name": "MsMpEng.exe",
+        "exe": "C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.26060.3008-0\\MsMpEng.exe",
+        "cpu": 0,
+        "memory": 0.6996746933660903,
+        "create_time": 1785045337.9757545
+      },
+      {
+        "pid": 6468,
+        "name": "ApplicationFrameHost.exe",
+        "exe": "C:\\Windows\\System32\\ApplicationFrameHost.exe",
+        "cpu": 0,
+        "memory": 0.26293664853920656,
+        "create_time": 1785059999.1257074
+      },
+      {
+        "pid": 6472,
+        "name": "msedgewebview2.exe",
+        "exe": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\150.0.4078.83\\msedgewebview2.exe",
+        "cpu": 0,
+        "memory": 0.030468947722544923,
+        "create_time": 1785059990.5336912
+      },
+      {
+        "pid": 6500,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.10688822908500564,
+        "create_time": 1785045338.0176456
+      },
+      {
+        "pid": 6532,
+        "name": "WMIRegistrationService.exe",
+        "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\mewmiprov.inf_amd64_47b9a82f73e9dad8\\WMIRegistrationService.exe",
+        "cpu": 0,
+        "memory": 0.24627008475256326,
+        "create_time": 1785045338.065604
+      },
+      {
+        "pid": 6588,
+        "name": "cmd.exe",
+        "exe": "C:\\Windows\\System32\\cmd.exe",
+        "cpu": 0,
+        "memory": 0.03871581039623212,
+        "create_time": 1785306716.7859187
+      },
+      {
+        "pid": 6800,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.032493626582551956,
+        "create_time": 1785045338.236434
+      },
+      {
+        "pid": 7464,
+        "name": "CrossDeviceResume.exe",
+        "exe": "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\CrossDeviceResume.exe",
+        "cpu": 0,
+        "memory": 0.14513490657465078,
+        "create_time": 1785059926.6990435
+      },
+      {
+        "pid": 7620,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.02814797439521978,
+        "create_time": 1785059925.2330623
+      },
+      {
+        "pid": 7812,
+        "name": "dcondemand.exe",
+        "exe": "C:\\Program Files (x86)\\ManageEngine\\UEMS_Agent\\bin\\dcondemand.exe",
+        "cpu": 0,
+        "memory": 0.30782526033789914,
+        "create_time": 1785045342.0909836
+      },
+      {
+        "pid": 7860,
+        "name": "MfeFfProxy32.exe",
+        "exe": "C:\\Program Files\\McAfee\\Endpoint Encryption for Files and Folders\\MfeFfProxy32.exe",
+        "cpu": 0,
+        "memory": 0.2699242597267918,
+        "create_time": 1785045339.0806198
+      },
+      {
+        "pid": 7880,
+        "name": "OpenConsole.exe",
+        "exe": "C:\\Program Files\\WindowsApps\\Microsoft.WindowsTerminal_1.24.11911.0_x64__8wekyb3d8bbwe\\OpenConsole.exe",
+        "cpu": 0,
+        "memory": 0.07888840192344493,
+        "create_time": 1785315350.238902
+      },
+      {
+        "pid": 8256,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.09261671224251702,
+        "create_time": 1785045461.9685464
+      },
+      {
+        "pid": 8392,
+        "name": "conhost.exe",
+        "exe": "C:\\Windows\\System32\\conhost.exe",
+        "cpu": 0,
+        "memory": 0.016814711020302343,
+        "create_time": 1785045339.618757
+      },
+      {
+        "pid": 8436,
+        "name": "CHXSmartScreen.exe",
+        "exe": "C:\\Windows\\SystemApps\\Microsoft.Windows.AppRep.ChxApp_cw5n1h2txyewy\\CHXSmartScreen.exe",
+        "cpu": 0,
+        "memory": 0.1518015320893081,
+        "create_time": 1785062107.2629585
+      },
+      {
+        "pid": 8488,
+        "name": "EPSecurityConsole.exe",
+        "exe": "C:\\Program Files\\Bitdefender\\Endpoint Security\\UI\\EPSecurityConsole.exe",
+        "cpu": 0,
+        "memory": 0.03644421948012667,
+        "create_time": 1785059925.3946333
+      },
+      {
+        "pid": 8740,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.0372343380596416,
+        "create_time": 1785059925.412444
+      },
+      {
+        "pid": 8760,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.03716026444281208,
+        "create_time": 1785045341.887246
+      },
+      {
+        "pid": 8780,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.044937994209912284,
+        "create_time": 1785046054.042616
+      },
+      {
+        "pid": 8832,
+        "name": "RuntimeBroker.exe",
+        "exe": "C:\\Windows\\System32\\RuntimeBroker.exe",
+        "cpu": 0,
+        "memory": 0.10651786100085803,
+        "create_time": 1785143673.1013522
+      },
+      {
+        "pid": 9116,
+        "name": "macompatsvc.exe",
+        "exe": "C:\\Program Files\\McAfee\\Agent\\x86\\macompatsvc.exe",
+        "cpu": 0,
+        "memory": 0.18054209541916408,
+        "create_time": 1785045340.3797505
+      },
+      {
+        "pid": 9172,
+        "name": "mfemactl.exe",
+        "exe": "C:\\Program Files\\McAfee\\Agent\\x86\\mfemactl.exe",
+        "cpu": 0,
+        "memory": 0.1661224313430164,
+        "create_time": 1785045340.5008984
+      },
+      {
+        "pid": 9208,
+        "name": "conhost.exe",
+        "exe": "C:\\Windows\\System32\\conhost.exe",
+        "cpu": 0,
+        "memory": 0.010913512879550126,
+        "create_time": 1785045342.5240502
+      },
+      {
+        "pid": 9244,
+        "name": "conhost.exe",
+        "exe": "C:\\Windows\\System32\\conhost.exe",
+        "cpu": 0,
+        "memory": 0.014641884926636255,
+        "create_time": 1785045344.3049805
+      },
+      {
+        "pid": 9332,
+        "name": "firefox.exe",
+        "exe": "C:\\Program Files\\Mozilla Firefox\\firefox.exe",
+        "cpu": 0,
+        "memory": 0.07869087227856618,
+        "create_time": 1785250014.7528093
+      },
+      {
+        "pid": 9368,
+        "name": "conhost.exe",
+        "exe": "C:\\Windows\\System32\\conhost.exe",
+        "cpu": 0,
+        "memory": 0.01459250251541657,
+        "create_time": 1785045343.1373525
+      },
+      {
+        "pid": 9408,
+        "name": "dcprocmon.exe",
+        "exe": "C:\\Program Files (x86)\\ManageEngine\\UEMS_Agent\\appctrl\\bin\\dcprocmon.exe",
+        "cpu": 0,
+        "memory": 0.013259177412485107,
+        "create_time": 1785045343.2019005
+      },
+      {
+        "pid": 9500,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.17871494620403577,
+        "create_time": 1785045343.2482443
+      },
+      {
+        "pid": 9812,
+        "name": "conhost.exe",
+        "exe": "C:\\Windows\\System32\\conhost.exe",
+        "cpu": 0,
+        "memory": 0.011851778692724118,
+        "create_time": 1785045343.537784
+      },
+      {
+        "pid": 9860,
+        "name": "firefox.exe",
+        "exe": "C:\\Program Files\\Mozilla Firefox\\firefox.exe",
+        "cpu": 0,
+        "memory": 2.3977876679773584,
+        "create_time": 1785312019.8124647
+      },
+      {
+        "pid": 9912,
+        "name": "ACPipelogServer.exe",
+        "exe": "C:\\Program Files (x86)\\ManageEngine\\UEMS_Agent\\appctrl\\bin\\ACPipelogServer.exe",
+        "cpu": 0,
+        "memory": 0.006246875019290004,
+        "create_time": 1785045344.2549877
+      },
+      {
+        "pid": 9928,
+        "name": "MEEDRMCEngine.exe",
+        "exe": "C:\\Program Files (x86)\\ManageEngine\\UEMS_Agent\\EDR\\Anti-Ransomware\\Public\\Bin\\EXE\\MEEDRMCEngine.exe",
+        "cpu": 0,
+        "memory": 0.09232041777519892,
+        "create_time": 1785119322.1347566
+      },
+      {
+        "pid": 10168,
+        "name": "firefox.exe",
+        "exe": "C:\\Program Files\\Mozilla Firefox\\firefox.exe",
+        "cpu": 0,
+        "memory": 1.630162776772983,
+        "create_time": 1785250031.0496688
+      },
+      {
+        "pid": 10344,
+        "name": "firefox.exe",
+        "exe": "C:\\Program Files\\Mozilla Firefox\\firefox.exe",
+        "cpu": 0,
+        "memory": 0.07577731001660483,
+        "create_time": 1785250004.1072
+      },
+      {
+        "pid": 10528,
+        "name": "EPSecurityService.exe",
+        "exe": "C:\\Program Files\\Bitdefender\\Endpoint Security\\EPSecurityService.exe",
+        "cpu": 0,
+        "memory": 0.04177751989185252,
+        "create_time": 1785045347.9711287
+      },
+      {
+        "pid": 11012,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.0961969370559441,
+        "create_time": 1785045348.8038652
+      },
+      {
+        "pid": 11080,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.12693748804019728,
+        "create_time": 1785059924.9260824
+      },
+      {
+        "pid": 11176,
+        "name": "wscript.exe",
+        "exe": "C:\\Windows\\System32\\wscript.exe",
+        "cpu": 0,
+        "memory": 0.021728260936660887,
+        "create_time": 1785045349.0026357
+      },
+      {
+        "pid": 11240,
+        "name": "OpenConsole.exe",
+        "exe": "C:\\Program Files\\WindowsApps\\Microsoft.WindowsTerminal_1.24.11911.0_x64__8wekyb3d8bbwe\\OpenConsole.exe",
+        "cpu": 0,
+        "memory": 0.13723372077950136,
+        "create_time": 1785315352.716939
+      },
+      {
+        "pid": 11920,
+        "name": "EPHost.Integrity.exe",
+        "exe": "C:\\Program Files\\Bitdefender\\Endpoint Security\\EPHost.Integrity.exe",
+        "cpu": 0,
+        "memory": 0.054295961136042376,
+        "create_time": 1785045358.604581
+      },
+      {
+        "pid": 11936,
+        "name": "EPHost.exe",
+        "exe": "C:\\Program Files\\Bitdefender\\Endpoint Security\\EPHost.exe",
+        "cpu": 0,
+        "memory": 0.05753050907093166,
+        "create_time": 1785045358.5686228
+      },
+      {
+        "pid": 12092,
+        "name": "splunk-winevtlog.exe",
+        "exe": "C:\\Program Files\\SplunkUniversalForwarder\\bin\\splunk-winevtlog.exe",
+        "cpu": 0,
+        "memory": 0.1997024709724014,
+        "create_time": 1785045354.4150777
+      },
+      {
+        "pid": 12644,
+        "name": "dllhost.exe",
+        "exe": "C:\\Windows\\System32\\dllhost.exe",
+        "cpu": 0,
+        "memory": 0.0343454670032901,
+        "create_time": 1785245526.8351188
+      },
+      {
+        "pid": 12832,
+        "name": "ipf_helper.exe",
+        "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\ipf_cpu.inf_amd64_09022c71eac15532\\ipf_helper.exe",
+        "cpu": 0,
+        "memory": 0.04101209251794742,
+        "create_time": 1785059925.0548632
+      },
+      {
+        "pid": 12904,
+        "name": "taskhostw.exe",
+        "exe": "C:\\Windows\\System32\\taskhostw.exe",
+        "cpu": 0,
+        "memory": 0.08597477793346954,
+        "create_time": 1785059925.7575743
+      },
+      {
+        "pid": 12976,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.0467157610138209,
+        "create_time": 1785045462.7273176
+      },
+      {
+        "pid": 13128,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.05735767063166277,
+        "create_time": 1785045463.3557553
+      },
+      {
+        "pid": 13208,
+        "name": "DataExchangeHost.exe",
+        "exe": "C:\\Windows\\System32\\DataExchangeHost.exe",
+        "cpu": 0,
+        "memory": 0.19392472885969841,
+        "create_time": 1785241207.9337418
+      },
+      {
+        "pid": 13212,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.09276485947617608,
+        "create_time": 1785045463.5443733
+      },
+      {
+        "pid": 13292,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.03812322146159592,
+        "create_time": 1785045464.05447
+      },
+      {
+        "pid": 13316,
+        "name": "msedgewebview2.exe",
+        "exe": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\150.0.4078.83\\msedgewebview2.exe",
+        "cpu": 0,
+        "memory": 0.014641884926636255,
+        "create_time": 1785059992.216967
+      },
+      {
+        "pid": 13332,
+        "name": "RuntimeBroker.exe",
+        "exe": "C:\\Windows\\System32\\RuntimeBroker.exe",
+        "cpu": 0,
+        "memory": 0.02360479256300887,
+        "create_time": 1785062107.7825818
+      },
+      {
+        "pid": 13336,
+        "name": "MfeFfCore.exe",
+        "exe": "C:\\Program Files\\McAfee\\Endpoint Encryption for Files and Folders\\MfeFfCore.exe",
+        "cpu": 0,
+        "memory": 0.10713514114110408,
+        "create_time": 1785059927.790347
+      },
+      {
+        "pid": 13384,
+        "name": "DCProcessMonitor.exe",
+        "exe": "C:\\Program Files (x86)\\ManageEngine\\UEMS_Agent\\bin\\DCProcessMonitor.exe",
+        "cpu": 0,
+        "memory": 0.05501200609872778,
+        "create_time": 1785059947.0913804
+      },
+      {
+        "pid": 13396,
+        "name": "jupyter.exe",
+        "exe": "C:\\Users\\10225\\.conda\\envs\\viz_env\\Scripts\\jupyter.exe",
+        "cpu": 0,
+        "memory": 0.03883926642428133,
+        "create_time": 1785313585.498
+      },
+      {
+        "pid": 13556,
+        "name": "MfeFfProxy32.exe",
+        "exe": "C:\\Program Files\\McAfee\\Endpoint Encryption for Files and Folders\\MfeFfProxy32.exe",
+        "cpu": 0,
+        "memory": 0.0583206276504466,
+        "create_time": 1785059928.0918405
+      },
+      {
+        "pid": 13568,
+        "name": "Widgets.exe",
+        "exe": "C:\\Program Files\\WindowsApps\\MicrosoftWindows.Client.WebExperience_526.17301.40.0_x64__cw5n1h2txyewy\\Dashboard\\Widgets.exe",
+        "cpu": 0,
+        "memory": 0.21565298979635927,
+        "create_time": 1785059928.1237037
+      },
+      {
+        "pid": 13620,
+        "name": "RuntimeBroker.exe",
+        "exe": "C:\\Windows\\System32\\RuntimeBroker.exe",
+        "cpu": 0,
+        "memory": 0.21923321460978637,
+        "create_time": 1785059928.2143476
+      },
+      {
+        "pid": 13636,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.06049345374411269,
+        "create_time": 1785059928.2504706
+      },
+      {
+        "pid": 13652,
+        "name": "msedge.exe",
+        "exe": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+        "cpu": 0,
+        "memory": 0.9059203338250998,
+        "create_time": 1785316444.0006766
+      },
+      {
+        "pid": 13692,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.06980203825902309,
+        "create_time": 1785060123.252
+      },
+      {
+        "pid": 13696,
+        "name": "conhost.exe",
+        "exe": "C:\\Windows\\System32\\conhost.exe",
+        "cpu": 0,
+        "memory": 0.06691316720267158,
+        "create_time": 1785315352.6559372
+      },
+      {
+        "pid": 13704,
+        "name": "MEEDRInferenceEngine.exe",
+        "exe": "C:\\Program Files (x86)\\ManageEngine\\UEMS_Agent\\EDR\\Anti-Ransomware\\Public\\Bin\\EXE\\MEEDRInferenceEngine.exe",
+        "cpu": 0,
+        "memory": 0.1783198869142783,
+        "create_time": 1785119112.0034764
+      },
+      {
+        "pid": 13752,
+        "name": "AppActions.exe",
+        "exe": "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\AppActions.exe",
+        "cpu": 0,
+        "memory": 0.11681409374016209,
+        "create_time": 1785158782.1910217
+      },
+      {
+        "pid": 13952,
+        "name": "WidgetService.exe",
+        "exe": "C:\\Program Files\\WindowsApps\\Microsoft.WidgetsPlatformRuntime_1.6.14.0_x64__8wekyb3d8bbwe\\WidgetService\\WidgetService.exe",
+        "cpu": 0,
+        "memory": 0.040938018901117895,
+        "create_time": 1785059928.6739695
+      },
+      {
+        "pid": 14036,
+        "name": "RuntimeBroker.exe",
+        "exe": "C:\\Windows\\System32\\RuntimeBroker.exe",
+        "cpu": 0,
+        "memory": 0.018469021796161753,
+        "create_time": 1785059994.3605108
+      },
+      {
+        "pid": 14192,
+        "name": "conhost.exe",
+        "exe": "C:\\Windows\\System32\\conhost.exe",
+        "cpu": 0,
+        "memory": 0.03296275948913895,
+        "create_time": 1785306716.829183
+      },
+      {
+        "pid": 14256,
+        "name": "WmiApSrv.exe",
+        "exe": "C:\\Windows\\System32\\wbem\\WmiApSrv.exe",
+        "cpu": 0,
+        "memory": 0.09962901463571212,
+        "create_time": 1785317394.479226
+      },
+      {
+        "pid": 14540,
+        "name": "ShellHost.exe",
+        "exe": "C:\\Windows\\System32\\ShellHost.exe",
+        "cpu": 0,
+        "memory": 0.10809809815988791,
+        "create_time": 1785229975.8009171
+      },
+      {
+        "pid": 14708,
+        "name": "OpenConsole.exe",
+        "exe": "C:\\Program Files\\WindowsApps\\Microsoft.WindowsTerminal_1.24.11911.0_x64__8wekyb3d8bbwe\\OpenConsole.exe",
+        "cpu": 0,
+        "memory": 0.07059215683853803,
+        "create_time": 1785306716.8786793
+      },
+      {
+        "pid": 14880,
+        "name": "firefox.exe",
+        "exe": "C:\\Program Files\\Mozilla Firefox\\firefox.exe",
+        "cpu": 0,
+        "memory": 0.21310979561854557,
+        "create_time": 1785316443.5951486
+      },
+      {
+        "pid": 15072,
+        "name": "Code.exe",
+        "exe": "C:\\Users\\10225\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "cpu": 0,
+        "memory": 0.057382361837272605,
+        "create_time": 1785225800.275151
+      },
+      {
+        "pid": 15288,
+        "name": "python.exe",
+        "exe": "C:\\Users\\10225\\Downloads\\SHADOW OS copy 2\\SHADOW OS copy 2\\shadow_venv\\Scripts\\python.exe",
+        "cpu": 0,
+        "memory": 0.046197245696014216,
+        "create_time": 1785317457.757655
+      },
+      {
+        "pid": 15616,
+        "name": "firefox.exe",
+        "exe": "C:\\Program Files\\Mozilla Firefox\\firefox.exe",
+        "cpu": 0,
+        "memory": 0.07333288066123048,
+        "create_time": 1785250002.7522545
+      },
+      {
+        "pid": 15624,
+        "name": "ctfmon.exe",
+        "exe": "C:\\Windows\\System32\\ctfmon.exe",
+        "cpu": 0,
+        "memory": 0.1351349683026648,
+        "create_time": 1785059933.2085915
+      },
+      {
+        "pid": 15788,
+        "name": "SecurityHealthSystray.exe",
+        "exe": "C:\\Windows\\System32\\SecurityHealthSystray.exe",
+        "cpu": 0,
+        "memory": 0.0343454670032901,
+        "create_time": 1785059940.8791807
+      },
+      {
+        "pid": 15796,
+        "name": "SecurityHealthService.exe",
+        "exe": "C:\\Windows\\System32\\SecurityHealthService.exe",
+        "cpu": 0,
+        "memory": 0.09066610699933951,
+        "create_time": 1785059940.973746
+      },
+      {
+        "pid": 15936,
+        "name": "firefox.exe",
+        "exe": "C:\\Program Files\\Mozilla Firefox\\firefox.exe",
+        "cpu": 0,
+        "memory": 0.2119986913661027,
+        "create_time": 1785316564.31964
+      },
+      {
+        "pid": 15980,
+        "name": "OneDrive.exe",
+        "exe": "C:\\Program Files (x86)\\Microsoft OneDrive\\OneDrive.exe",
+        "cpu": 0,
+        "memory": 0.11562891587088969,
+        "create_time": 1785059950.3537676
+      },
+      {
+        "pid": 16084,
+        "name": "firefox.exe",
+        "exe": "C:\\Program Files\\Mozilla Firefox\\firefox.exe",
+        "cpu": 0,
+        "memory": 1.1730791785235892,
+        "create_time": 1785250966.3251488
+      },
+      {
+        "pid": 16168,
+        "name": "msedge.exe",
+        "exe": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+        "cpu": 0,
+        "memory": 0.09041919494324109,
+        "create_time": 1785316445.6336253
+      },
+      {
+        "pid": 16208,
+        "name": "LockApp.exe",
+        "exe": "C:\\Windows\\SystemApps\\Microsoft.LockApp_cw5n1h2txyewy\\LockApp.exe",
+        "cpu": 0,
+        "memory": 0.4853550286726625,
+        "create_time": 1785251664.0200157
+      },
+      {
+        "pid": 16248,
+        "name": "WmiPrvSE.exe",
+        "exe": "C:\\Windows\\SysWOW64\\wbem\\WmiPrvSE.exe",
+        "cpu": 0,
+        "memory": 0.21533200412343134,
+        "create_time": 1785317273.60068
+      },
+      {
+        "pid": 16312,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.07296251257708286,
+        "create_time": 1785317360.6404195
+      },
+      {
+        "pid": 16524,
+        "name": "python.exe",
+        "exe": "C:\\Users\\10225\\.conda\\envs\\viz_env\\python.exe",
+        "cpu": 0,
+        "memory": 0.09029573891519188,
+        "create_time": 1785313585.5411818
+      },
+      {
+        "pid": 16740,
+        "name": "firefox.exe",
+        "exe": "C:\\Program Files\\Mozilla Firefox\\firefox.exe",
+        "cpu": 0,
+        "memory": 3.514373368065629,
+        "create_time": 1785313800.5935948
+      },
+      {
+        "pid": 16764,
+        "name": "firefox.exe",
+        "exe": "C:\\Program Files\\Mozilla Firefox\\firefox.exe",
+        "cpu": 0,
+        "memory": 0.0934315220276418,
+        "create_time": 1785308479.831947
+      },
+      {
+        "pid": 16828,
+        "name": "firefox.exe",
+        "exe": "C:\\Program Files\\Mozilla Firefox\\firefox.exe",
+        "cpu": 0,
+        "memory": 3.4869167474274847,
+        "create_time": 1785250002.398764
+      },
+      {
+        "pid": 16980,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.032641773816211014,
+        "create_time": 1785244650.4180036
+      },
+      {
+        "pid": 16992,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.05812309800556787,
+        "create_time": 1785245519.141878
+      },
+      {
+        "pid": 17092,
+        "name": "msedgewebview2.exe",
+        "exe": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\150.0.4078.83\\msedgewebview2.exe",
+        "cpu": 0,
+        "memory": 0.03446892303133931,
+        "create_time": 1785059991.9903104
+      },
+      {
+        "pid": 17100,
+        "name": "msedgewebview2.exe",
+        "exe": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\150.0.4078.83\\msedgewebview2.exe",
+        "cpu": 0,
+        "memory": 0.044691082153813864,
+        "create_time": 1785059991.9944797
+      },
+      {
+        "pid": 17232,
+        "name": "RtkAudUService64.exe",
+        "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\realtekservice.inf_amd64_f4c5e5443290b318\\RtkAudUService64.exe",
+        "cpu": 0,
+        "memory": 0.048123159733581895,
+        "create_time": 1785059956.2741325
+      },
+      {
+        "pid": 17384,
+        "name": "msedgewebview2.exe",
+        "exe": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\150.0.4078.83\\msedgewebview2.exe",
+        "cpu": 0,
+        "memory": 0.005999962963191585,
+        "create_time": 1785059992.082514
+      },
+      {
+        "pid": 17488,
+        "name": "msedge.exe",
+        "exe": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+        "cpu": 0,
+        "memory": 0.37362732328812787,
+        "create_time": 1785316445.886536
+      },
+      {
+        "pid": 17556,
+        "name": "msedgewebview2.exe",
+        "exe": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\150.0.4078.83\\msedgewebview2.exe",
+        "cpu": 0,
+        "memory": 0.1038512107949951,
+        "create_time": 1785059990.4021485
+      },
+      {
+        "pid": 17716,
+        "name": "conhost.exe",
+        "exe": "C:\\Windows\\System32\\conhost.exe",
+        "cpu": 0,
+        "memory": 0.06656749032413381,
+        "create_time": 1785317467.624447
+      },
+      {
+        "pid": 17832,
+        "name": "firefox.exe",
+        "exe": "C:\\Program Files\\Mozilla Firefox\\firefox.exe",
+        "cpu": 0,
+        "memory": 0.5417250510799316,
+        "create_time": 1785250003.3510275
+      },
+      {
+        "pid": 17920,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.05328362170603885,
+        "create_time": 1785232648.40451
+      },
+      {
+        "pid": 18184,
+        "name": "QtWebEngineProcess.exe",
+        "exe": "C:\\Users\\10225\\Downloads\\SHADOW OS copy 2\\SHADOW OS copy 2\\shadow_venv\\Lib\\site-packages\\PyQt6\\Qt6\\bin\\QtWebEngineProcess.exe",
+        "cpu": 0,
+        "memory": 1.9512719057289771,
+        "create_time": 1785317462.5321288
+      },
+      {
+        "pid": 18412,
+        "name": "UpdaterUI.exe",
+        "exe": "C:\\Program Files\\McAfee\\Agent\\x86\\UpdaterUI.exe",
+        "cpu": 0,
+        "memory": 0.05753050907093166,
+        "create_time": 1785059961.7913504
+      },
+      {
+        "pid": 18524,
+        "name": "Code.exe",
+        "exe": "C:\\Users\\10225\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "cpu": 0,
+        "memory": 0.28955376818661616,
+        "create_time": 1785225804.43594
+      },
+      {
+        "pid": 18600,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.020543083067388473,
+        "create_time": 1785060000.2644727
+      },
+      {
+        "pid": 18624,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.09456731748569452,
+        "create_time": 1785060000.329796
+      },
+      {
+        "pid": 18660,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.02382701341349745,
+        "create_time": 1785062149.154571
+      },
+      {
+        "pid": 18784,
+        "name": "SystemSettings.exe",
+        "exe": "C:\\Windows\\ImmersiveControlPanel\\SystemSettings.exe",
+        "cpu": 0,
+        "memory": 0.03562940969500188,
+        "create_time": 1785309947.9867325
+      },
+      {
+        "pid": 19084,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.0386417367794026,
+        "create_time": 1785060001.3892634
+      },
+      {
+        "pid": 19492,
+        "name": "msedge.exe",
+        "exe": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+        "cpu": 0,
+        "memory": 0.3297757421250486,
+        "create_time": 1785316474.2078102
+      },
+      {
+        "pid": 19548,
+        "name": "Code.exe",
+        "exe": "C:\\Users\\10225\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "cpu": 0,
+        "memory": 0.4559971852025605,
+        "create_time": 1785236239.6743197
+      },
+      {
+        "pid": 19808,
+        "name": "msiexec.exe",
+        "exe": "C:\\Windows\\System32\\msiexec.exe",
+        "cpu": 0,
+        "memory": 0.11982642082456281,
+        "create_time": 1785317422.898766
+      },
+      {
+        "pid": 20144,
+        "name": "msedgewebview2.exe",
+        "exe": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\150.0.4078.83\\msedgewebview2.exe",
+        "cpu": 0,
+        "memory": 0.057678656304590716,
+        "create_time": 1785159213.1437812
+      },
+      {
+        "pid": 20148,
+        "name": "firefox.exe",
+        "exe": "C:\\Program Files\\Mozilla Firefox\\firefox.exe",
+        "cpu": 0,
+        "memory": 0.21194930895488298,
+        "create_time": 1785316657.9632208
+      },
+      {
+        "pid": 20260,
+        "name": "wermgr.exe",
+        "exe": "C:\\Windows\\System32\\wermgr.exe",
+        "cpu": 0,
+        "memory": 0.11829556607675261,
+        "create_time": 1785316845.9834752
+      },
+      {
+        "pid": 20560,
+        "name": "cmd.exe",
+        "exe": "C:\\Windows\\System32\\cmd.exe",
+        "cpu": 0,
+        "memory": 0.08622168998956796,
+        "create_time": 1785315352.6273654
+      },
+      {
+        "pid": 20864,
+        "name": "taskhostw.exe",
+        "exe": "C:\\Windows\\System32\\taskhostw.exe",
+        "cpu": 0,
+        "memory": 0.12115974592749428,
+        "create_time": 1785232648.5067647
+      },
+      {
+        "pid": 21068,
+        "name": "MEARWService.exe",
+        "exe": "C:\\Program Files (x86)\\ManageEngine\\UEMS_Agent\\EDR\\Anti-Ransomware\\Public\\Bin\\EXE\\MEARWService.exe",
+        "cpu": 0,
+        "memory": 0.4330837463966272,
+        "create_time": 1785118060.6721435
+      },
+      {
+        "pid": 21176,
+        "name": "explorer.exe",
+        "exe": "C:\\Windows\\explorer.exe",
+        "cpu": 0,
+        "memory": 1.9170252035481263,
+        "create_time": 1785159207.3139586
+      },
+      {
+        "pid": 21180,
+        "name": "SearchHost.exe",
+        "exe": "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\SearchHost.exe",
+        "cpu": 0,
+        "memory": 0.4001456781130981,
+        "create_time": 1785159209.637512
+      },
+      {
+        "pid": 21380,
+        "name": "msedgewebview2.exe",
+        "exe": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\150.0.4078.83\\msedgewebview2.exe",
+        "cpu": 0,
+        "memory": 0.3744915154844723,
+        "create_time": 1785159211.3319607
+      },
+      {
+        "pid": 21432,
+        "name": "python.exe",
+        "exe": "C:\\Users\\10225\\.conda\\envs\\viz_env\\python.exe",
+        "cpu": 0,
+        "memory": 1.038635563978,
+        "create_time": 1785313622.5545444
+      },
+      {
+        "pid": 21568,
+        "name": "appidcertstorecheck.exe",
+        "exe": "C:\\Windows\\System32\\appidcertstorecheck.exe",
+        "cpu": 0,
+        "memory": 0.10288825377621127,
+        "create_time": 1785317467.5921462
+      },
+      {
+        "pid": 21732,
+        "name": "dllhost.exe",
+        "exe": "C:\\Windows\\System32\\dllhost.exe",
+        "cpu": 0,
+        "memory": 0.017111005487620446,
+        "create_time": 1785155033.5261452
+      },
+      {
+        "pid": 22140,
+        "name": "firefox.exe",
+        "exe": "C:\\Program Files\\Mozilla Firefox\\firefox.exe",
+        "cpu": 0,
+        "memory": 4.647675014351763,
+        "create_time": 1785250002.6870408
+      },
+      {
+        "pid": 22164,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.06506132678193345,
+        "create_time": 1785317345.0431533
+      },
+      {
+        "pid": 22828,
+        "name": "RuntimeBroker.exe",
+        "exe": "C:\\Windows\\System32\\RuntimeBroker.exe",
+        "cpu": 0,
+        "memory": 0.18340627526990574,
+        "create_time": 1785251664.9999652
+      },
+      {
+        "pid": 22880,
+        "name": "msedge.exe",
+        "exe": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+        "cpu": 0,
+        "memory": 0.12207332053505843,
+        "create_time": 1785316446.038607
+      },
+      {
+        "pid": 23104,
+        "name": "DWRCS.EXE",
+        "exe": "C:\\Windows\\dwrcs\\DWRCS.EXE",
+        "cpu": 0,
+        "memory": 0.11427089956234837,
+        "create_time": 1785153458.9822228
+      },
+      {
+        "pid": 23412,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.024864044049110808,
+        "create_time": 1785076456.1439486
+      },
+      {
+        "pid": 23604,
+        "name": "conhost.exe",
+        "exe": "C:\\Windows\\System32\\conhost.exe",
+        "cpu": 0,
+        "memory": 0.04103678372355726,
+        "create_time": 1785119141.3407907
+      },
+      {
+        "pid": 23748,
+        "name": "WmiPrvSE.exe",
+        "exe": "C:\\Windows\\System32\\wbem\\WmiPrvSE.exe",
+        "cpu": 0,
+        "memory": 0.08725872062518132,
+        "create_time": 1785305643.2586625
+      },
+      {
+        "pid": 23876,
+        "name": "conhost.exe",
+        "exe": "C:\\Windows\\System32\\conhost.exe",
+        "cpu": 0,
+        "memory": 0.004592564243430596,
+        "create_time": 1785119351.4528892
+      },
+      {
+        "pid": 23968,
+        "name": "OpenConsole.exe",
+        "exe": "C:\\Program Files\\WindowsApps\\Microsoft.WindowsTerminal_1.24.11911.0_x64__8wekyb3d8bbwe\\OpenConsole.exe",
+        "cpu": 0,
+        "memory": 0.04392565477990877,
+        "create_time": 1785241201.583746
+      },
+      {
+        "pid": 24020,
+        "name": "armsvc.exe",
+        "exe": "C:\\Program Files (x86)\\Common Files\\Adobe\\ARM\\1.0\\armsvc.exe",
+        "cpu": 0,
+        "memory": 0.019654199665434163,
+        "create_time": 1785085922.3561487
+      },
+      {
+        "pid": 24036,
+        "name": "firefox.exe",
+        "exe": "C:\\Program Files\\Mozilla Firefox\\firefox.exe",
+        "cpu": 0,
+        "memory": 1.0182900105554904,
+        "create_time": 1785250003.0103505
+      },
+      {
+        "pid": 24256,
+        "name": "python.exe",
+        "exe": "C:\\Users\\10225\\.conda\\envs\\viz_env\\python.exe",
+        "cpu": 0,
+        "memory": 0.4957006438231863,
+        "create_time": 1785313585.752056
+      },
+      {
+        "pid": 24376,
+        "name": "Code.exe",
+        "exe": "C:\\Users\\10225\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "cpu": 0,
+        "memory": 0.11254251516965945,
+        "create_time": 1785225800.6240382
+      },
+      {
+        "pid": 24668,
+        "name": "python.exe",
+        "exe": "C:\\Program Files\\Python312\\python.exe",
+        "cpu": 0,
+        "memory": 3.16437552854612,
+        "create_time": 1785317457.8063197
+      },
+      {
+        "pid": 25068,
+        "name": "StartMenuExperienceHost.exe",
+        "exe": "C:\\Windows\\SystemApps\\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\\StartMenuExperienceHost.exe",
+        "cpu": 0,
+        "memory": 0.5289350065740335,
+        "create_time": 1785159211.7669523
+      },
+      {
+        "pid": 25192,
+        "name": "Code.exe",
+        "exe": "C:\\Users\\10225\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "cpu": 0,
+        "memory": 1.8547786742057149,
+        "create_time": 1785225801.060936
+      },
+      {
+        "pid": 25236,
+        "name": "WmiPrvSE.exe",
+        "exe": "C:\\Windows\\System32\\wbem\\WmiPrvSE.exe",
+        "cpu": 0,
+        "memory": 0.15891259930494256,
+        "create_time": 1785305636.6806536
+      },
+      {
+        "pid": 25256,
+        "name": "SearchFilterHost.exe",
+        "exe": "C:\\Windows\\System32\\SearchFilterHost.exe",
+        "cpu": 0,
+        "memory": 0.10861661347769458,
+        "create_time": 1785317354.7012868
+      },
+      {
+        "pid": 25352,
+        "name": "python.exe",
+        "exe": "C:\\Users\\10225\\.conda\\envs\\viz_env\\python.exe",
+        "cpu": 0,
+        "memory": 2.4791204992561773,
+        "create_time": 1785315048.2515495
+      },
+      {
+        "pid": 25560,
+        "name": "jupyter-lab.exe",
+        "exe": "C:\\Users\\10225\\.conda\\envs\\viz_env\\Scripts\\jupyter-lab.exe",
+        "cpu": 0,
+        "memory": 0.03945654656452738,
+        "create_time": 1785313585.7137637
+      },
+      {
+        "pid": 25616,
+        "name": "SearchProtocolHost.exe",
+        "exe": "C:\\Windows\\System32\\SearchProtocolHost.exe",
+        "cpu": 0,
+        "memory": 0.15293732754736084,
+        "create_time": 1785317225.8111565
+      },
+      {
+        "pid": 25708,
+        "name": "MEEDRSyncAgent.exe",
+        "exe": "C:\\Program Files (x86)\\ManageEngine\\UEMS_Agent\\EDR\\bin\\MEEDRSyncAgent.exe",
+        "cpu": 0,
+        "memory": 0.03711088203159239,
+        "create_time": 1785119562.2566965
+      },
+      {
+        "pid": 25760,
+        "name": "conhost.exe",
+        "exe": "C:\\Windows\\System32\\conhost.exe",
+        "cpu": 0,
+        "memory": 0.01251844124418985,
+        "create_time": 1785119591.6961644
+      },
+      {
+        "pid": 26432,
+        "name": "RuntimeBroker.exe",
+        "exe": "C:\\Windows\\System32\\RuntimeBroker.exe",
+        "cpu": 0,
+        "memory": 0.1572335973234733,
+        "create_time": 1785234023.2749288
+      },
+      {
+        "pid": 26548,
+        "name": "msedgewebview2.exe",
+        "exe": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\150.0.4078.83\\msedgewebview2.exe",
+        "cpu": 0,
+        "memory": 0.1358510132653502,
+        "create_time": 1785159213.0430267
+      },
+      {
+        "pid": 26788,
+        "name": "audiodg.exe",
+        "exe": "C:\\Windows\\System32\\audiodg.exe",
+        "cpu": 0,
+        "memory": 0.16456688538959635,
+        "create_time": 1785317462.1723936
+      },
+      {
+        "pid": 26944,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.04451824371454498,
+        "create_time": 1785237446.9683168
+      },
+      {
+        "pid": 27440,
+        "name": "msedgewebview2.exe",
+        "exe": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\150.0.4078.83\\msedgewebview2.exe",
+        "cpu": 0,
+        "memory": 0.029752902759859506,
+        "create_time": 1785159211.4430606
+      },
+      {
+        "pid": 27696,
+        "name": "msedgewebview2.exe",
+        "exe": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\150.0.4078.83\\msedgewebview2.exe",
+        "cpu": 0,
+        "memory": 0.2775044598490133,
+        "create_time": 1785240862.0315945
+      },
+      {
+        "pid": 27828,
+        "name": "msedge.exe",
+        "exe": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+        "cpu": 0,
+        "memory": 0.2380972956957056,
+        "create_time": 1785316445.887326
+      },
+      {
+        "pid": 27924,
+        "name": "firefox.exe",
+        "exe": "C:\\Program Files\\Mozilla Firefox\\firefox.exe",
+        "cpu": 0,
+        "memory": 1.9171486595761753,
+        "create_time": 1785305917.2386503
+      },
+      {
+        "pid": 27956,
+        "name": "DWRCST.EXE",
+        "exe": "C:\\Windows\\dwrcs\\DWRCST.EXE",
+        "cpu": 0,
+        "memory": 0.04180221109746236,
+        "create_time": 1785153463.1242719
+      },
+      {
+        "pid": 28168,
+        "name": "firefox.exe",
+        "exe": "C:\\Program Files\\Mozilla Firefox\\firefox.exe",
+        "cpu": 0,
+        "memory": 0.1615792495108055,
+        "create_time": 1785250003.0371487
+      },
+      {
+        "pid": 28636,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.04837007178968031,
+        "create_time": 1785155033.0431907
+      },
+      {
+        "pid": 28688,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.05617249276239036,
+        "create_time": 1785264708.0516715
+      },
+      {
+        "pid": 28900,
+        "name": "ShellExperienceHost.exe",
+        "exe": "C:\\Windows\\SystemApps\\ShellExperienceHost_cw5n1h2txyewy\\ShellExperienceHost.exe",
+        "cpu": 0,
+        "memory": 0.32298566058234207,
+        "create_time": 1785159209.9207697
+      },
+      {
+        "pid": 29372,
+        "name": "WindowsTerminal.exe",
+        "exe": "C:\\Program Files\\WindowsApps\\Microsoft.WindowsTerminal_1.24.11911.0_x64__8wekyb3d8bbwe\\WindowsTerminal.exe",
+        "cpu": 0,
+        "memory": 0.9414262874920525,
+        "create_time": 1785240918.3260872
+      },
+      {
+        "pid": 29376,
+        "name": "Code.exe",
+        "exe": "C:\\Users\\10225\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "cpu": 0,
+        "memory": 0.872932883130351,
+        "create_time": 1785225800.6054363
+      },
+      {
+        "pid": 29384,
+        "name": "powershell.exe",
+        "exe": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "cpu": 0,
+        "memory": 0.4537009030808452,
+        "create_time": 1785315350.2676888
+      },
+      {
+        "pid": 29524,
+        "name": "crashhelper.exe",
+        "exe": "C:\\Program Files\\Mozilla Firefox\\crashhelper.exe",
+        "cpu": 0,
+        "memory": 0.04548120073332881,
+        "create_time": 1785250002.5137885
+      },
+      {
+        "pid": 29552,
+        "name": "svchost.exe",
+        "exe": "C:\\Windows\\System32\\svchost.exe",
+        "cpu": 0,
+        "memory": 0.10059197165449595,
+        "create_time": 1785317179.2112744
       }
     ],
     "git_status": "connected",
-    "git_last_sync": "7/30/2026, 12:36:16 AM",
-    "mapped_folders": [
-      "sample",
-      "/Users/alinikkhah/Documents/Wallpaper/"
-    ]
+    "git_last_sync": "7/29/2026, 3:03:27 PM",
+    "has_token": true
   },
   "tables": {
     "courses": [],
@@ -384,6 +2403,45 @@
         "course": "General",
         "duration": 25,
         "actual_duration": 0,
+        "timestamp": "2026-07-29T16:51:55.966760",
+        "type": "Work",
+        "distractions": 0,
+        "timelapse_path": null,
+        "distraction_data": null,
+        "uuid": "7304043e78b54532a146a50794c927e4",
+        "modified_at": "2026-07-29T16:51:55.966760"
+      },
+      {
+        "id": 3,
+        "course": "General",
+        "duration": 25,
+        "actual_duration": 13,
+        "timestamp": "2026-07-29T17:44:07.753559",
+        "type": "Work",
+        "distractions": 0,
+        "timelapse_path": null,
+        "distraction_data": null,
+        "uuid": "1698181997e0477493729535ccb1cddc",
+        "modified_at": "2026-07-29T17:44:07.753559"
+      },
+      {
+        "id": 4,
+        "course": "General",
+        "duration": 25,
+        "actual_duration": 0,
+        "timestamp": "2026-07-29T18:03:25.315532",
+        "type": "Work",
+        "distractions": 0,
+        "timelapse_path": null,
+        "distraction_data": null,
+        "uuid": "146ddf6cc7544e6eb0db0dd08867a6b0",
+        "modified_at": "2026-07-29T18:03:25.315532"
+      },
+      {
+        "id": 5,
+        "course": "General",
+        "duration": 25,
+        "actual_duration": 0,
         "timestamp": "2026-07-30T01:16:02.612274",
         "type": "Work",
         "distractions": 2,
@@ -393,7 +2451,7 @@
         "modified_at": "2026-07-30T01:16:02.612264"
       },
       {
-        "id": 3,
+        "id": 6,
         "course": "General",
         "duration": 25,
         "actual_duration": 0,
@@ -406,7 +2464,7 @@
         "modified_at": "2026-07-30T01:16:14.208663"
       },
       {
-        "id": 4,
+        "id": 7,
         "course": "General",
         "duration": 25,
         "actual_duration": 0,
@@ -419,7 +2477,7 @@
         "modified_at": "2026-07-31T18:41:22.266995"
       },
       {
-        "id": 5,
+        "id": 8,
         "course": "General",
         "duration": 25,
         "actual_duration": 0,
@@ -549,6 +2607,17 @@
       {
         "id": 1,
         "title": "Untitled Note",
+        "content": "aerfaefasdfdas",
+        "timestamp": "2026-07-29T16:31:14.230981",
+        "course": "General",
+        "folder": "Uncategorized",
+        "color": "#3b82f6",
+        "uuid": "c8c5a648d27b41e684a61a950e5f1313",
+        "modified_at": "2026-07-29T16:31:14.230981"
+      },
+      {
+        "id": 2,
+        "title": "Untitled Note",
         "content": "knmk\n",
         "timestamp": "2026-07-30T00:21:11.581912",
         "course": "General",
@@ -558,7 +2627,7 @@
         "modified_at": "2026-07-30T00:21:11.581895"
       },
       {
-        "id": 2,
+        "id": 3,
         "title": "Untitled Note",
         "content": "kjnn,mlnkmnp",
         "timestamp": "2026-07-30T01:09:06.931668",
@@ -567,68 +2636,6 @@
         "color": "#3b82f6",
         "uuid": "665b6d0cfd7d4192b7cdf61ed71540ac",
         "modified_at": "2026-07-30T01:09:06.931643"
-      },
-      {
-        "id": 3,
-        "title": "Untitled Note",
-        "content": "aerfaefasdfdas",
-        "timestamp": "2026-07-29T16:31:14.230981",
-        "course": "General",
-        "folder": "Uncategorized",
-        "color": "#3b82f6",
-        "uuid": "c8c5a648d27b41e684a61a950e5f1313",
-        "modified_at": "2026-07-29T16:31:14.230981"
-      }
-    ],
-    "health_profile": [],
-    "health_logs": [
-      {
-        "id": 1,
-        "log_type": "exercise",
-        "date": "2026-07-31",
-        "data_json": "{\"name\": \"\", \"duration\": \"\", \"kcal_burn\": \"\"}",
-        "uuid": "f26c0ec225e14859a7f5c0630b1b432c",
-        "modified_at": "2026-07-31T18:11:08.784271"
-      },
-      {
-        "id": 2,
-        "log_type": "food",
-        "date": "2026-07-31",
-        "data_json": "{\"name\": \"\", \"kcal\": \"\", \"protein\": \"\"}",
-        "uuid": "10c1de2a63e44b86bb38025a12d7d271",
-        "modified_at": "2026-07-31T18:11:11.519316"
-      },
-      {
-        "id": 3,
-        "log_type": "food",
-        "date": "2026-07-31",
-        "data_json": "{\"name\": \"fdfsd\", \"kcal\": 3232, \"protein\": 32}",
-        "uuid": "a39e230fa327470e8590767df1d2c829",
-        "modified_at": "2026-07-31T18:23:56.921245"
-      }
-    ],
-    "custom_foods": [
-      {
-        "id": 1,
-        "name": "fdfsd",
-        "kcal": 3232.0,
-        "protein": 32.0,
-        "fat": 0.0,
-        "carbs": 0.0,
-        "category": "Meals",
-        "uuid": "145ba8f7364b4e598ce799d23b9b985a",
-        "modified_at": "2026-07-31T18:23:56.918664"
-      }
-    ],
-    "custom_activities": [],
-    "health_plans": [
-      {
-        "id": 1,
-        "type": "Exercise",
-        "title": "fdsfds",
-        "details": "sdfsdfds",
-        "uuid": "51026f24790247f9a9966d2ccab825eb",
-        "modified_at": "2026-07-31T18:24:16.414904"
       }
     ]
   }
