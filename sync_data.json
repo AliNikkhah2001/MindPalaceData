@@ -1,6 +1,6 @@
 {
   "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-  "last_sync": "2026-08-01T16:30:42.020686",
+  "last_sync": "2026-08-01T18:16:39.728398",
   "settings": {
     "font_family": "Inter",
     "custom_font_path": "",
@@ -484,17 +484,21 @@
         "deadline": "2026-07-31 00:00",
         "uuid": "c3cb88a223604e3695beba2de17bdb8a",
         "modified_at": "2026-07-30T00:21:19.633502"
+      },
+      {
+        "id": 2,
+        "parent_id": null,
+        "level": null,
+        "title": "rewrew",
+        "category": null,
+        "target_hours": -1223.0,
+        "logged_hours": 0.0,
+        "deadline": "2026-08-08 13:05",
+        "uuid": "36f34b4a3e5a4c83ab04f9689e3f4879",
+        "modified_at": "2026-08-01T16:35:46.626683"
       }
     ],
     "habits": [
-      {
-        "id": 2,
-        "name": "htrfgbggf",
-        "created_at": "2026-07-29T15:24:07.083122",
-        "type": "Positive",
-        "uuid": "d3f9a94065a14cefbf1d8173f9c4b981",
-        "modified_at": "2026-07-29T15:34:43.066224"
-      },
       {
         "id": 3,
         "name": "",
@@ -510,6 +514,22 @@
         "type": "Positive",
         "uuid": "e2909033aa604e7abbc09766d7703d3a",
         "modified_at": "2026-07-30T01:08:57.574915"
+      },
+      {
+        "id": 5,
+        "name": "423423",
+        "created_at": "2026-08-01T16:35:52.562430",
+        "type": "Positive",
+        "uuid": "bd759723beb44107afd764b98eb7b088",
+        "modified_at": "2026-08-01T16:35:52.562419"
+      },
+      {
+        "id": 6,
+        "name": "htrfgbggf",
+        "created_at": "2026-07-29T15:24:07.083122",
+        "type": "Positive",
+        "uuid": "d3f9a94065a14cefbf1d8173f9c4b981",
+        "modified_at": "2026-07-29T15:34:43.066224"
       }
     ],
     "habit_logs": [
@@ -566,6 +586,18 @@
         "color": "#3b82f6",
         "uuid": "8dd57de6c05d41c2b2aef18b0fd49867",
         "modified_at": "2026-07-29T16:31:18.564906"
+      },
+      {
+        "id": 2,
+        "front": "eqweqwewq",
+        "back": "eqweqw",
+        "deck": "Main",
+        "next_review": null,
+        "course": "General",
+        "folder": "Uncategorized",
+        "color": "#3b82f6",
+        "uuid": "065f5a7088874beb970b067cc3917c68",
+        "modified_at": "2026-08-01T16:36:14.302097"
       }
     ],
     "quizzes": [
@@ -578,6 +610,16 @@
         "color": "#3b82f6",
         "uuid": "5296759463574042a85507ae81c96f31",
         "modified_at": "2026-08-01T16:04:07.838934"
+      },
+      {
+        "id": 2,
+        "title": "New Quiz",
+        "questions_json": "[\n  {\"q\": \"Difference between Process and Thread?\", \"opts\": [\"Memory Isolation\", \"No Difference\"], \"ans\": 0}\n]",
+        "course": "General",
+        "folder": "Uncategorized",
+        "color": "#3b82f6",
+        "uuid": "e637f2584e704712814e8a7227dc3fc7",
+        "modified_at": "2026-08-01T16:36:08.346137"
       }
     ],
     "focus_queue": [
@@ -645,6 +687,17 @@
         "color": "#3b82f6",
         "uuid": "c8c5a648d27b41e684a61a950e5f1313",
         "modified_at": "2026-08-01T16:01:45.185770"
+      },
+      {
+        "id": 4,
+        "title": "Untitled Note",
+        "content": "\n<div style=\"background-color: rgba(245, 158, 11, 0.2); border-left: 4px solid #f59e0b; padding: 10px; margin: 10px 0; border-radius: 4px;\">\n\u26a0\ufe0f <b>Warning:</b> \n<div style=\"background-color: rgba(245, 158, 11, 0.2); border-left: 4px solid #f59e0b; padding: 10px; margin: 10px 0; border-radius: 4px;\">\n\u26a0\ufe0f <b>Warning:</b> \n</div>\n\n</div>\n\n\n\n<div style=\"background-color: rgba(59, 130, 246, 0.2); border-left: 4px solid #3b82f6; padding: 10px; margin: 10px 0; border-radius: 4px;\">\n\ud83d\udca1 <b>Info:</b> \n\n<span style=\"color: #f87171;\">jnkkjjnknjknkkn</span>\n</div>\n",
+        "timestamp": "2026-08-01T16:36:33.357279",
+        "course": "General",
+        "folder": "Uncategorized",
+        "color": "#3b82f6",
+        "uuid": "9ea597b2b988412dac02695f1663fb20",
+        "modified_at": "2026-08-01T16:36:33.357256"
       }
     ],
     "health_profile": [
