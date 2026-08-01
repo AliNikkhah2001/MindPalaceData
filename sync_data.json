@@ -1,6 +1,6 @@
 {
   "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-  "last_sync": "2026-08-01T18:16:39.728398",
+  "last_sync": "2026-08-01T18:23:07.692487",
   "settings": {
     "font_family": "Inter",
     "custom_font_path": "",
@@ -500,7 +500,7 @@
     ],
     "habits": [
       {
-        "id": 3,
+        "id": 1,
         "name": "",
         "created_at": "2026-07-29T15:24:07.942040",
         "type": "Positive",
@@ -508,7 +508,7 @@
         "modified_at": "2026-07-29T15:24:07.942040"
       },
       {
-        "id": 4,
+        "id": 2,
         "name": "jnkl",
         "created_at": "2026-07-30T01:08:57.574940",
         "type": "Positive",
@@ -516,7 +516,7 @@
         "modified_at": "2026-07-30T01:08:57.574915"
       },
       {
-        "id": 5,
+        "id": 3,
         "name": "423423",
         "created_at": "2026-08-01T16:35:52.562430",
         "type": "Positive",
@@ -524,7 +524,7 @@
         "modified_at": "2026-08-01T16:35:52.562419"
       },
       {
-        "id": 6,
+        "id": 4,
         "name": "htrfgbggf",
         "created_at": "2026-07-29T15:24:07.083122",
         "type": "Positive",
