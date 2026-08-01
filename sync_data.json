@@ -1,6 +1,6 @@
 {
   "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-  "last_sync": "2026-08-01T15:33:54.987298",
+  "last_sync": "2026-08-01T15:48:58.949868",
   "settings": {
     "font_family": "Inter",
     "custom_font_path": "",
@@ -15,7 +15,7 @@
     "clock_complication": "None",
     "dist_delay": 3,
     "vision_mode": "Strict (Face & Eyes)",
-    "bg_image_path": "/Users/alinikkhah/Documents/Wallpaper/vibrant-fluid-art-7680x4320-22982.jpg",
+    "bg_image_path": "/Users/alinikkhah/Documents/Wallpaper/explosion-color-7680x4320-22201.jpg",
     "quotes_path": "",
     "panel_opacity": 180,
     "face_scale_factor": 1.2,
@@ -360,8 +360,9 @@
     "git_last_sync": "7/30/2026, 12:36:16 AM",
     "mapped_folders": [
       "sample",
-      "/Users/alinikkhah/Documents/Wallpaper/"
-    ]
+      "/Users/alinikkhah/Documents/Personal Library/Coding Practice/"
+    ],
+    "health_weight": 107
   },
   "tables": {
     "courses": [],
