@@ -1,6 +1,6 @@
 {
   "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-  "last_sync": "2026-08-01T15:21:00.322142",
+  "last_sync": "2026-08-01T15:33:54.987298",
   "settings": {
     "font_family": "Inter",
     "custom_font_path": "",
@@ -624,7 +624,7 @@
         "id": 1,
         "data_json": "{\"weight\": 107, \"bmr\": 15.2}",
         "uuid": "cbd5ce7383d94a289cfec51f416efb37",
-        "modified_at": "2026-08-01T14:25:50.574331"
+        "modified_at": "2026-08-01T15:22:15.539262"
       }
     ],
     "health_logs": [
@@ -667,6 +667,38 @@
         "data_json": "{\"weight\": 107, \"body_score\": 76, \"bmi\": 29.7, \"body_fat\": 28.4, \"muscle_mass\": null, \"water\": 52, \"bmr\": 15.2, \"file_path\": \"/Users/alinikkhah/Downloads/OCR/Image PNG.jpg\"}",
         "uuid": "2f9f25fdb4cf460498f5ee4c947949b4",
         "modified_at": "2026-08-01T14:25:50.574652"
+      },
+      {
+        "id": 6,
+        "log_type": "body_scan",
+        "date": "2026-08-01",
+        "data_json": "{\"weight\": 107, \"body_score\": 76, \"bmi\": 29.7, \"body_fat\": 28.4, \"muscle_mass\": 77, \"water\": 52, \"bmr\": 15.2, \"file_path\": \"/Users/alinikkhah/Downloads/OCR/Image PNG.jpg\"}",
+        "uuid": "725b9e3c416943a68343862cc36c4aa9",
+        "modified_at": "2026-08-01T15:22:15.539834"
+      }
+    ],
+    "custom_foods": [
+      {
+        "id": 1,
+        "name": "fdfsd",
+        "kcal": 3232.0,
+        "protein": 32.0,
+        "fat": 0.0,
+        "carbs": 0.0,
+        "category": "Meals",
+        "uuid": "145ba8f7364b4e598ce799d23b9b985a",
+        "modified_at": "2026-07-31T18:23:56.918664"
+      }
+    ],
+    "custom_activities": [],
+    "health_plans": [
+      {
+        "id": 1,
+        "type": "Exercise",
+        "title": "fdsfds",
+        "details": "sdfsdfds",
+        "uuid": "51026f24790247f9a9966d2ccab825eb",
+        "modified_at": "2026-07-31T18:24:16.414904"
       }
     ]
   }
