@@ -1,6 +1,6 @@
 {
   "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-  "last_sync": "2026-08-02T11:45:24.821162",
+  "last_sync": "2026-08-02T18:23:43.586549",
   "settings": {
     "font_family": "Inter",
     "custom_font_path": "",
@@ -52,7 +52,8 @@
     "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
     "has_token": true,
     "mapped_folders": [
-      "/Users/alinikkhah/MindPalace_Library"
+      "/Users/alinikkhah/MindPalace_Library",
+      "/Users/alinikkhah/Documents/Research/Kolouri/"
     ],
     "health_weight": 107,
     "git_status": "connected",
@@ -290,6 +291,18 @@
         "deadline": "2026-08-08 13:05",
         "uuid": "36f34b4a3e5a4c83ab04f9689e3f4879",
         "modified_at": "2026-08-01T16:35:46.626683"
+      },
+      {
+        "id": 7,
+        "parent_id": null,
+        "level": null,
+        "title": "sample test syncing ",
+        "category": null,
+        "target_hours": 999.0,
+        "logged_hours": 0.0,
+        "deadline": "2026-09-09 14:12",
+        "uuid": "d77a99ecb5244498a2c29126c853c199",
+        "modified_at": "2026-08-02T17:42:28.353801"
       }
     ],
     "habits": [
@@ -520,6 +533,17 @@
         "color": "#3b82f6",
         "uuid": "9ea597b2b988412dac02695f1663fb20",
         "modified_at": "2026-08-01T16:36:33.357256"
+      },
+      {
+        "id": 5,
+        "title": "Bookmark: 2001.03447v2.pdf P6",
+        "content": "Bookmarked page 6 of 2001.03447v2.pdf",
+        "timestamp": "2026-08-02T17:13:24.072602",
+        "course": "General",
+        "folder": "Bookmarks",
+        "color": "#facc15",
+        "uuid": null,
+        "modified_at": null
       }
     ],
     "health_profile": [
