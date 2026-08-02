@@ -1,6 +1,6 @@
 {
   "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-  "last_sync": "2026-08-01T18:41:07.172612",
+  "last_sync": "2026-08-02T11:45:24.821162",
   "settings": {
     "font_family": "Inter",
     "custom_font_path": "",
@@ -8,14 +8,14 @@
     "font_size": 16,
     "clock_style": "Analog Classic",
     "clock_case_shape": "Round",
-    "clock_bezel": "Plain",
-    "clock_indices": "Baton",
-    "clock_ticks": "Standard",
-    "clock_hands": "Classic",
+    "clock_bezel": "Fluted",
+    "clock_indices": "California",
+    "clock_ticks": "Crosshair",
+    "clock_hands": "Serpentine",
     "clock_complication": "None",
     "dist_delay": 3,
     "vision_mode": "Strict (Face & Eyes)",
-    "bg_image_path": "/Users/alinikkhah/Documents/Wallpaper/explosion-color-7680x4320-22201.jpg",
+    "bg_image_path": "/Users/alinikkhah/Documents/Wallpaper/geometric-abstract-7680x4320-23187.jpg",
     "quotes_path": "",
     "panel_opacity": 180,
     "face_scale_factor": 1.2,
@@ -34,341 +34,87 @@
     "loop_60m": 30,
     "speech_dist": "You have been distracted. Please return to work.",
     "speech_comp": "Fantastic job! Your deep work session is complete.",
-    "deadline_name": "Goal",
-    "deadline_date": "2026-08-06 00:19",
-    "mute_sounds": true,
-    "mute_speech": true,
+    "mute_sounds": false,
+    "mute_speech": false,
     "sync_enabled": true,
-    "sync_repo_url": "https://github.com/alinikkhah2001/MindPalaceData.git",
-    "sync_device_name": "Win",
-    "sync_interval": 360,
+    "sync_repo_url": "https://github.com/AliNikkhah2001/MindPalaceData.git",
+    "sync_interval": 3600,
     "sync_local_paths": [
-      "sample",
-      "/Users/alinikkhah/Documents/Personal Library/Coding Practice/"
+      "/Users/alinikkhah/MindPalace_Library",
+      "/Users/alinikkhah/Documents/Research/Kolouri/"
     ],
     "quiet_mode": false,
-    "app_monitoring_enabled": true,
+    "app_monitoring_enabled": false,
     "allowed_apps": [],
     "blocked_apps": [],
     "auto_block": false,
-    "target_hours": 5000,
+    "dashboard_layout": {},
     "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
     "has_token": true,
-    "process_list": [
-      {
-        "name": "kernel_task",
-        "pid": 0,
-        "cpu": 0,
-        "memory": 0
-      },
-      {
-        "name": "launchd",
-        "pid": 1,
-        "cpu": 0,
-        "memory": 0
-      },
-      {
-        "name": "logd",
-        "pid": 361,
-        "cpu": 0,
-        "memory": 0
-      },
-      {
-        "name": "smd",
-        "pid": 362,
-        "cpu": 0,
-        "memory": 0
-      },
-      {
-        "name": "UserEventAgent",
-        "pid": 363,
-        "cpu": 0,
-        "memory": 0
-      },
-      {
-        "name": "fseventsd",
-        "pid": 365,
-        "cpu": 0,
-        "memory": 0
-      },
-      {
-        "name": "mediaremoted",
-        "pid": 366,
-        "cpu": 0,
-        "memory": 0
-      },
-      {
-        "name": "systemstats",
-        "pid": 369,
-        "cpu": 0,
-        "memory": 0
-      },
-      {
-        "name": "accessoryupdater",
-        "pid": 371,
-        "cpu": 0,
-        "memory": 0
-      },
-      {
-        "name": "uarpassetmanager",
-        "pid": 372,
-        "cpu": 0,
-        "memory": 0
-      },
-      {
-        "name": "configd",
-        "pid": 373,
-        "cpu": 0,
-        "memory": 0
-      },
-      {
-        "name": "endpointsecurity",
-        "pid": 374,
-        "cpu": 0,
-        "memory": 0
-      },
-      {
-        "name": "powerd",
-        "pid": 375,
-        "cpu": 0,
-        "memory": 0
-      },
-      {
-        "name": "IOMFB_bics_daemo",
-        "pid": 376,
-        "cpu": 0,
-        "memory": 0
-      },
-      {
-        "name": "amfid",
-        "pid": 378,
-        "cpu": 0,
-        "memory": 0
-      },
-      {
-        "name": "remoted",
-        "pid": 380,
-        "cpu": 0,
-        "memory": 0
-      },
-      {
-        "name": "keybagd",
-        "pid": 382,
-        "cpu": 0,
-        "memory": 0
-      },
-      {
-        "name": "softwareupdated",
-        "pid": 383,
-        "cpu": 0,
-        "memory": 0
-      },
-      {
-        "name": "corespeechd_syst",
-        "pid": 384,
-        "cpu": 0,
-        "memory": 0
-      },
-      {
-        "name": "watchdogd",
-        "pid": 386,
-        "cpu": 0,
-        "memory": 0
-      },
-      {
-        "name": "mds",
-        "pid": 390,
-        "cpu": 0,
-        "memory": 0
-      },
-      {
-        "name": "iconservicesd",
-        "pid": 391,
-        "cpu": 0,
-        "memory": 0
-      },
-      {
-        "name": "kernelmanagerd",
-        "pid": 392,
-        "cpu": 0,
-        "memory": 0
-      },
-      {
-        "name": "diskarbitrationd",
-        "pid": 393,
-        "cpu": 0,
-        "memory": 0
-      },
-      {
-        "name": "coreduetd",
-        "pid": 396,
-        "cpu": 0,
-        "memory": 0
-      },
-      {
-        "name": "syslogd",
-        "pid": 397,
-        "cpu": 0,
-        "memory": 0
-      },
-      {
-        "name": "thermalmonitord",
-        "pid": 399,
-        "cpu": 0,
-        "memory": 0
-      },
-      {
-        "name": "contextstored",
-        "pid": 400,
-        "cpu": 0,
-        "memory": 0
-      },
-      {
-        "name": "xprotectd",
-        "pid": 401,
-        "cpu": 0,
-        "memory": 0
-      },
-      {
-        "name": "opendirectoryd",
-        "pid": 402,
-        "cpu": 0,
-        "memory": 0
-      },
-      {
-        "name": "apsd",
-        "pid": 403,
-        "cpu": 0,
-        "memory": 0
-      },
-      {
-        "name": "launchservicesd",
-        "pid": 404,
-        "cpu": 0,
-        "memory": 0
-      },
-      {
-        "name": "timed",
-        "pid": 405,
-        "cpu": 0,
-        "memory": 0
-      },
-      {
-        "name": "usbmuxd",
-        "pid": 406,
-        "cpu": 0,
-        "memory": 0
-      },
-      {
-        "name": "securityd",
-        "pid": 407,
-        "cpu": 0,
-        "memory": 0
-      },
-      {
-        "name": "locationd",
-        "pid": 409,
-        "cpu": 0,
-        "memory": 0
-      },
-      {
-        "name": "nesessionmanager",
-        "pid": 410,
-        "cpu": 0,
-        "memory": 0
-      },
-      {
-        "name": "autofsd",
-        "pid": 412,
-        "cpu": 0,
-        "memory": 0
-      },
-      {
-        "name": "dasd",
-        "pid": 413,
-        "cpu": 0,
-        "memory": 0
-      },
-      {
-        "name": "corerepaird",
-        "pid": 414,
-        "cpu": 0,
-        "memory": 0
-      },
-      {
-        "name": "distnoted",
-        "pid": 416,
-        "cpu": 0,
-        "memory": 0
-      },
-      {
-        "name": "AppleCredentialM",
-        "pid": 417,
-        "cpu": 0,
-        "memory": 0
-      },
-      {
-        "name": "PerfPowerService",
-        "pid": 418,
-        "cpu": 0,
-        "memory": 0
-      },
-      {
-        "name": "dirhelper",
-        "pid": 419,
-        "cpu": 0,
-        "memory": 0
-      },
-      {
-        "name": "logind",
-        "pid": 420,
-        "cpu": 0,
-        "memory": 0
-      },
-      {
-        "name": "revisiond",
-        "pid": 421,
-        "cpu": 0,
-        "memory": 0
-      },
-      {
-        "name": "KernelEventAgent",
-        "pid": 422,
-        "cpu": 0,
-        "memory": 0
-      },
-      {
-        "name": "peakpowermanager",
-        "pid": 423,
-        "cpu": 0,
-        "memory": 0
-      },
-      {
-        "name": "usermanagerd",
-        "pid": 424,
-        "cpu": 0,
-        "memory": 0
-      },
-      {
-        "name": "bluetoothd",
-        "pid": 426,
-        "cpu": 0,
-        "memory": 0
-      }
-    ],
-    "git_status": "connected",
-    "git_last_sync": "7/30/2026, 12:36:16 AM",
     "mapped_folders": [
-      "sample",
-      "/Users/alinikkhah/Documents/Personal Library/Coding Practice/"
+      "/Users/alinikkhah/MindPalace_Library"
     ],
-    "health_weight": 107
+    "health_weight": 107,
+    "git_status": "connected",
+    "git_last_sync": "8/2/2026, 12:26:05 AM"
   },
   "tables": {
     "courses": [],
     "pomodoro_sessions": [
       {
         "id": 1,
+        "course": "General",
+        "duration": 25,
+        "actual_duration": 0,
+        "timestamp": "2026-08-01T21:49:57.578254",
+        "type": "Work",
+        "distractions": 1,
+        "timelapse_path": null,
+        "distraction_data": null,
+        "uuid": "014d66b18206459da9c5c6a418fa04f3",
+        "modified_at": "2026-08-01T21:49:57.578244"
+      },
+      {
+        "id": 2,
+        "course": "General",
+        "duration": 25,
+        "actual_duration": 0,
+        "timestamp": "2026-08-01T21:50:09.723529",
+        "type": "Work",
+        "distractions": 0,
+        "timelapse_path": null,
+        "distraction_data": null,
+        "uuid": "291211a86d1d4edfb95af6d4090b01f3",
+        "modified_at": "2026-08-01T21:50:09.723518"
+      },
+      {
+        "id": 3,
+        "course": "General",
+        "duration": 25,
+        "actual_duration": 5,
+        "timestamp": "2026-08-02T00:27:48.508094",
+        "type": "Work",
+        "distractions": 38,
+        "timelapse_path": null,
+        "distraction_data": null,
+        "uuid": "34a55a13edc04d7ebd41ef9155f7929c",
+        "modified_at": "2026-08-02T00:27:48.508084"
+      },
+      {
+        "id": 4,
+        "course": "General",
+        "duration": 25,
+        "actual_duration": 0,
+        "timestamp": "2026-08-02T00:28:03.534594",
+        "type": "Work",
+        "distractions": 0,
+        "timelapse_path": null,
+        "distraction_data": null,
+        "uuid": "5e2159f82bdb437bb312fa536f1441b6",
+        "modified_at": "2026-08-02T00:28:03.534584"
+      },
+      {
+        "id": 5,
         "course": "General",
         "duration": 25,
         "actual_duration": 0,
@@ -381,7 +127,7 @@
         "modified_at": "2026-07-29T16:00:11.317975"
       },
       {
-        "id": 2,
+        "id": 6,
         "course": "General",
         "duration": 25,
         "actual_duration": 0,
@@ -394,7 +140,7 @@
         "modified_at": "2026-07-30T01:16:02.612264"
       },
       {
-        "id": 3,
+        "id": 7,
         "course": "General",
         "duration": 25,
         "actual_duration": 0,
@@ -407,7 +153,7 @@
         "modified_at": "2026-07-30T01:16:14.208663"
       },
       {
-        "id": 4,
+        "id": 8,
         "course": "General",
         "duration": 25,
         "actual_duration": 0,
@@ -420,7 +166,7 @@
         "modified_at": "2026-07-31T18:41:22.266995"
       },
       {
-        "id": 5,
+        "id": 9,
         "course": "General",
         "duration": 25,
         "actual_duration": 0,
@@ -433,7 +179,7 @@
         "modified_at": "2026-07-31T18:43:18.220800"
       },
       {
-        "id": 6,
+        "id": 10,
         "course": "General",
         "duration": 25,
         "actual_duration": 0,
@@ -446,7 +192,7 @@
         "modified_at": "2026-07-29T16:51:55.966760"
       },
       {
-        "id": 7,
+        "id": 11,
         "course": "General",
         "duration": 25,
         "actual_duration": 13,
@@ -459,7 +205,7 @@
         "modified_at": "2026-07-29T17:44:07.753559"
       },
       {
-        "id": 8,
+        "id": 12,
         "course": "General",
         "duration": 25,
         "actual_duration": 0,
@@ -477,6 +223,54 @@
         "id": 1,
         "parent_id": null,
         "level": null,
+        "title": "mac",
+        "category": null,
+        "target_hours": 6.0,
+        "logged_hours": 0.0,
+        "deadline": "2026-08-08 20:54",
+        "uuid": "0727660c27254279b1e28ff1ee35622b",
+        "modified_at": "2026-08-02T00:24:43.700603"
+      },
+      {
+        "id": 2,
+        "parent_id": 1,
+        "level": null,
+        "title": "os",
+        "category": null,
+        "target_hours": 8.0,
+        "logged_hours": 0.0,
+        "deadline": "2026-08-08 20:54",
+        "uuid": "2961897cb2924142906b96ffa5dd4f75",
+        "modified_at": "2026-08-02T00:24:52.495216"
+      },
+      {
+        "id": 3,
+        "parent_id": 1,
+        "level": null,
+        "title": "iphone",
+        "category": null,
+        "target_hours": 8.0,
+        "logged_hours": 0.0,
+        "deadline": "2026-08-08 20:54",
+        "uuid": "f01262ec68524e3889d37c336d2e4338",
+        "modified_at": "2026-08-02T00:24:59.984057"
+      },
+      {
+        "id": 4,
+        "parent_id": 3,
+        "level": null,
+        "title": "ubuntu",
+        "category": null,
+        "target_hours": 5.0,
+        "logged_hours": 0.0,
+        "deadline": "2026-08-08 20:54",
+        "uuid": "e10e0c3e71e244c8a94a38abd42fb223",
+        "modified_at": "2026-08-02T00:25:15.924057"
+      },
+      {
+        "id": 5,
+        "parent_id": null,
+        "level": null,
         "title": "uoji",
         "category": "Goal",
         "target_hours": 9.0,
@@ -486,7 +280,7 @@
         "modified_at": "2026-07-30T00:21:19.633502"
       },
       {
-        "id": 2,
+        "id": 6,
         "parent_id": null,
         "level": null,
         "title": "rewrew",
@@ -501,6 +295,14 @@
     "habits": [
       {
         "id": 1,
+        "name": "anal",
+        "created_at": "2026-08-02T00:25:27.923731",
+        "type": "Positive",
+        "uuid": "2228f5861667444a8ce7f8494c6eb454",
+        "modified_at": "2026-08-02T00:25:27.923718"
+      },
+      {
+        "id": 2,
         "name": "",
         "created_at": "2026-07-29T15:24:07.942040",
         "type": "Positive",
@@ -508,7 +310,7 @@
         "modified_at": "2026-07-29T15:24:07.942040"
       },
       {
-        "id": 2,
+        "id": 3,
         "name": "jnkl",
         "created_at": "2026-07-30T01:08:57.574940",
         "type": "Positive",
@@ -516,7 +318,7 @@
         "modified_at": "2026-07-30T01:08:57.574915"
       },
       {
-        "id": 3,
+        "id": 4,
         "name": "423423",
         "created_at": "2026-08-01T16:35:52.562430",
         "type": "Positive",
@@ -524,7 +326,7 @@
         "modified_at": "2026-08-01T16:35:52.562419"
       },
       {
-        "id": 4,
+        "id": 5,
         "name": "htrfgbggf",
         "created_at": "2026-07-29T15:24:07.083122",
         "type": "Positive",
@@ -630,11 +432,31 @@
         "type": "Work",
         "status": "pending",
         "course": "General",
+        "uuid": "e80715ab1ca74b36a08cde3f184679b1",
+        "modified_at": "2026-08-01T21:49:47.688034"
+      },
+      {
+        "id": 2,
+        "title": "General",
+        "duration": 25,
+        "type": "Work",
+        "status": "pending",
+        "course": "General",
+        "uuid": "d7e285d5fa654511a0b9a1b56bcddd72",
+        "modified_at": "2026-08-02T00:21:54.392915"
+      },
+      {
+        "id": 3,
+        "title": "General",
+        "duration": 25,
+        "type": "Work",
+        "status": "pending",
+        "course": "General",
         "uuid": "79fa4c2c314a484091a78a2c2a0b2959",
         "modified_at": "2026-07-30T00:19:43.456685"
       },
       {
-        "id": 2,
+        "id": 4,
         "title": "General",
         "duration": 25,
         "type": "Work",
@@ -644,7 +466,7 @@
         "modified_at": "2026-07-29T15:24:01.468240"
       },
       {
-        "id": 3,
+        "id": 5,
         "title": "General",
         "duration": 25,
         "type": "Work",
@@ -704,6 +526,12 @@
       {
         "id": 1,
         "data_json": "{\"weight\": 107, \"bmr\": 15.2}",
+        "uuid": "bf400476856841b7b1f53b07d44f86bc",
+        "modified_at": "2026-08-01T21:07:44.513260"
+      },
+      {
+        "id": 2,
+        "data_json": "{\"weight\": 107, \"bmr\": 15.2}",
         "uuid": "cbd5ce7383d94a289cfec51f416efb37",
         "modified_at": "2026-08-01T15:22:15.539262"
       }
@@ -711,6 +539,14 @@
     "health_logs": [
       {
         "id": 1,
+        "log_type": "body_scan",
+        "date": "2026-08-01",
+        "data_json": "{\"weight\": 107, \"body_score\": 76, \"bmi\": 29.7, \"body_fat\": 28.4, \"muscle_mass\": 89, \"water\": 52, \"bmr\": 15.2, \"file_path\": \"/Users/alinikkhah/Downloads/OCR/Image PNG.jpg\"}",
+        "uuid": "2928a1fec7ee417b841c88eb87bff8fd",
+        "modified_at": "2026-08-01T21:07:44.514029"
+      },
+      {
+        "id": 2,
         "log_type": "exercise",
         "date": "2026-07-31",
         "data_json": "{\"name\": \"\", \"duration\": \"\", \"kcal_burn\": \"\"}",
@@ -718,7 +554,7 @@
         "modified_at": "2026-07-31T18:11:08.784271"
       },
       {
-        "id": 2,
+        "id": 3,
         "log_type": "food",
         "date": "2026-07-31",
         "data_json": "{\"name\": \"\", \"kcal\": \"\", \"protein\": \"\"}",
@@ -726,7 +562,7 @@
         "modified_at": "2026-07-31T18:11:11.519316"
       },
       {
-        "id": 3,
+        "id": 4,
         "log_type": "food",
         "date": "2026-07-31",
         "data_json": "{\"name\": \"fdfsd\", \"kcal\": 3232, \"protein\": 32}",
@@ -734,7 +570,7 @@
         "modified_at": "2026-07-31T18:23:56.921245"
       },
       {
-        "id": 4,
+        "id": 5,
         "log_type": "body_scan",
         "date": "2026-08-01",
         "data_json": "{\"weight\": 1071, \"body_score\": 76, \"bmi\": 29.7, \"body_fat\": 28.4, \"muscle_mass\": null, \"water\": 52.7, \"bmr\": 15.2, \"file_path\": \"/Users/alinikkhah/Downloads/OCR/Image PNG.jpg\"}",
@@ -742,7 +578,7 @@
         "modified_at": "2026-08-01T14:20:55.070871"
       },
       {
-        "id": 5,
+        "id": 6,
         "log_type": "body_scan",
         "date": "2026-08-01",
         "data_json": "{\"weight\": 107, \"body_score\": 76, \"bmi\": 29.7, \"body_fat\": 28.4, \"muscle_mass\": null, \"water\": 52, \"bmr\": 15.2, \"file_path\": \"/Users/alinikkhah/Downloads/OCR/Image PNG.jpg\"}",
@@ -750,7 +586,7 @@
         "modified_at": "2026-08-01T14:25:50.574652"
       },
       {
-        "id": 6,
+        "id": 7,
         "log_type": "body_scan",
         "date": "2026-08-01",
         "data_json": "{\"weight\": 107, \"body_score\": 76, \"bmi\": 29.7, \"body_fat\": 28.4, \"muscle_mass\": 77, \"water\": 52, \"bmr\": 15.2, \"file_path\": \"/Users/alinikkhah/Downloads/OCR/Image PNG.jpg\"}",
