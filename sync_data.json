@@ -1,6 +1,6 @@
 {
   "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-  "last_sync": "2026-08-02T18:23:43.586549",
+  "last_sync": "2026-08-02T18:25:44.508756",
   "settings": {
     "font_family": "Inter",
     "custom_font_path": "",
@@ -345,6 +345,14 @@
         "type": "Positive",
         "uuid": "d3f9a94065a14cefbf1d8173f9c4b981",
         "modified_at": "2026-07-29T15:34:43.066224"
+      },
+      {
+        "id": 6,
+        "name": "test new postiive",
+        "created_at": "2026-08-02T18:25:25.747465",
+        "type": "Positive",
+        "uuid": "5f8bf1acd20546549710df67efd35abd",
+        "modified_at": "2026-08-02T18:25:25.747448"
       }
     ],
     "habit_logs": [
@@ -387,6 +395,22 @@
         "status": 1,
         "uuid": "5b3a4784c6af44b5a35b734ff07b75ba",
         "modified_at": "2026-07-29T16:30:59.871328"
+      },
+      {
+        "id": 6,
+        "habit_id": 6,
+        "date": "Mon, 7/27",
+        "status": 1,
+        "uuid": "f6d872a064434700b9d67eef4c6bea38",
+        "modified_at": "2026-08-02T18:25:28.117293"
+      },
+      {
+        "id": 7,
+        "habit_id": 6,
+        "date": "Tue, 7/28",
+        "status": 1,
+        "uuid": "aafbc2b96abb40f5a4af238d1faddb7e",
+        "modified_at": "2026-08-02T18:25:29.133419"
       }
     ],
     "flashcards": [
@@ -543,6 +567,61 @@
         "folder": "Bookmarks",
         "color": "#facc15",
         "uuid": null,
+        "modified_at": null
+      },
+      {
+        "id": 6,
+        "title": "Bookmark: 2001.03447v2.pdf P6",
+        "content": "Bookmarked page 6 of 2001.03447v2.pdf",
+        "timestamp": "2026-08-02T17:13:24.072602",
+        "course": "General",
+        "folder": "Bookmarks",
+        "color": "#facc15",
+        "uuid": "518e28c52dd54e908f8cca4f7b10a86d",
+        "modified_at": null
+      },
+      {
+        "id": 7,
+        "title": "Bookmark: 2001.03447v2.pdf P6",
+        "content": "Bookmarked page 6 of 2001.03447v2.pdf",
+        "timestamp": "2026-08-02T17:13:24.072602",
+        "course": "General",
+        "folder": "Bookmarks",
+        "color": "#facc15",
+        "uuid": "f17d78e2c0d74ebea3d8f4823314caf6",
+        "modified_at": null
+      },
+      {
+        "id": 8,
+        "title": "Bookmark: 2001.03447v2.pdf P6",
+        "content": "Bookmarked page 6 of 2001.03447v2.pdf",
+        "timestamp": "2026-08-02T17:13:24.072602",
+        "course": "General",
+        "folder": "Bookmarks",
+        "color": "#facc15",
+        "uuid": "64f19d2e13cb4b2d9b4b2adecff28886",
+        "modified_at": null
+      },
+      {
+        "id": 9,
+        "title": "Bookmark: 2001.03447v2.pdf P6",
+        "content": "Bookmarked page 6 of 2001.03447v2.pdf",
+        "timestamp": "2026-08-02T17:13:24.072602",
+        "course": "General",
+        "folder": "Bookmarks",
+        "color": "#facc15",
+        "uuid": "26a1aa63491f468d8150c50a452b0eea",
+        "modified_at": null
+      },
+      {
+        "id": 10,
+        "title": "Bookmark: 2001.03447v2.pdf P6",
+        "content": "Bookmarked page 6 of 2001.03447v2.pdf",
+        "timestamp": "2026-08-02T17:13:24.072602",
+        "course": "General",
+        "folder": "Bookmarks",
+        "color": "#facc15",
+        "uuid": "f840096dc47b417aa939e2e2016772bb",
         "modified_at": null
       }
     ],
