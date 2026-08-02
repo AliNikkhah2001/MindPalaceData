@@ -1,6 +1,6 @@
 {
-  "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-  "last_sync": "2026-08-02T18:25:44.508756",
+  "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+  "last_sync": "2026-08-02T18:29:00.008953",
   "settings": {
     "font_family": "Inter",
     "custom_font_path": "",
@@ -8,14 +8,14 @@
     "font_size": 16,
     "clock_style": "Analog Classic",
     "clock_case_shape": "Round",
-    "clock_bezel": "Fluted",
-    "clock_indices": "California",
-    "clock_ticks": "Crosshair",
-    "clock_hands": "Serpentine",
+    "clock_bezel": "Plain",
+    "clock_indices": "Baton",
+    "clock_ticks": "Standard",
+    "clock_hands": "Classic",
     "clock_complication": "None",
     "dist_delay": 3,
     "vision_mode": "Strict (Face & Eyes)",
-    "bg_image_path": "/Users/alinikkhah/Documents/Wallpaper/geometric-abstract-7680x4320-23187.jpg",
+    "bg_image_path": "img/bg.jpg",
     "quotes_path": "",
     "panel_opacity": 180,
     "face_scale_factor": 1.2,
@@ -40,8 +40,7 @@
     "sync_repo_url": "https://github.com/AliNikkhah2001/MindPalaceData.git",
     "sync_interval": 3600,
     "sync_local_paths": [
-      "/Users/alinikkhah/MindPalace_Library",
-      "/Users/alinikkhah/Documents/Research/Kolouri/"
+      "C:\\Users\\10225/MindPalace_Library"
     ],
     "quiet_mode": false,
     "app_monitoring_enabled": false,
@@ -49,15 +48,13 @@
     "blocked_apps": [],
     "auto_block": false,
     "dashboard_layout": {},
-    "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+    "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
     "has_token": true,
     "mapped_folders": [
-      "/Users/alinikkhah/MindPalace_Library",
-      "/Users/alinikkhah/Documents/Research/Kolouri/"
+      "C:\\Users\\10225/MindPalace_Library"
     ],
-    "health_weight": 107,
     "git_status": "connected",
-    "git_last_sync": "8/2/2026, 12:26:05 AM"
+    "git_last_sync": "8/2/2026, 10:57:28 AM"
   },
   "tables": {
     "courses": [],
@@ -308,6 +305,22 @@
     "habits": [
       {
         "id": 1,
+        "name": "hello from windows",
+        "created_at": "2026-08-02T18:27:01.505024",
+        "type": "Positive",
+        "uuid": "17b85af9be824196a164de73b90019be",
+        "modified_at": "2026-08-02T18:27:01.505024"
+      },
+      {
+        "id": 2,
+        "name": "hoiii",
+        "created_at": "2026-08-02T18:27:09.609282",
+        "type": "Negative",
+        "uuid": "8e51d4ce6e2744c4bccc8933bb2021fb",
+        "modified_at": "2026-08-02T18:27:09.609282"
+      },
+      {
+        "id": 3,
         "name": "anal",
         "created_at": "2026-08-02T00:25:27.923731",
         "type": "Positive",
@@ -315,7 +328,7 @@
         "modified_at": "2026-08-02T00:25:27.923718"
       },
       {
-        "id": 2,
+        "id": 4,
         "name": "",
         "created_at": "2026-07-29T15:24:07.942040",
         "type": "Positive",
@@ -323,7 +336,7 @@
         "modified_at": "2026-07-29T15:24:07.942040"
       },
       {
-        "id": 3,
+        "id": 5,
         "name": "jnkl",
         "created_at": "2026-07-30T01:08:57.574940",
         "type": "Positive",
@@ -331,7 +344,7 @@
         "modified_at": "2026-07-30T01:08:57.574915"
       },
       {
-        "id": 4,
+        "id": 6,
         "name": "423423",
         "created_at": "2026-08-01T16:35:52.562430",
         "type": "Positive",
@@ -339,7 +352,7 @@
         "modified_at": "2026-08-01T16:35:52.562419"
       },
       {
-        "id": 5,
+        "id": 7,
         "name": "htrfgbggf",
         "created_at": "2026-07-29T15:24:07.083122",
         "type": "Positive",
@@ -347,7 +360,7 @@
         "modified_at": "2026-07-29T15:34:43.066224"
       },
       {
-        "id": 6,
+        "id": 8,
         "name": "test new postiive",
         "created_at": "2026-08-02T18:25:25.747465",
         "type": "Positive",
@@ -358,6 +371,30 @@
     "habit_logs": [
       {
         "id": 1,
+        "habit_id": 1,
+        "date": "Sat, 8/1",
+        "status": 1,
+        "uuid": "4c10f4768f4a4686ab8236d1158df079",
+        "modified_at": "2026-08-02T18:27:02.985944"
+      },
+      {
+        "id": 2,
+        "habit_id": 1,
+        "date": "Fri, 7/31",
+        "status": 1,
+        "uuid": "0e4137ea0189423d900f6bbd974d0cc7",
+        "modified_at": "2026-08-02T18:27:03.619743"
+      },
+      {
+        "id": 3,
+        "habit_id": 1,
+        "date": "Thu, 7/30",
+        "status": 1,
+        "uuid": "4eb4756355f5484b831f885962205f44",
+        "modified_at": "2026-08-02T18:27:04.209920"
+      },
+      {
+        "id": 4,
         "habit_id": 2,
         "date": "Fri, 7/31",
         "status": 1,
@@ -365,7 +402,7 @@
         "modified_at": "2026-08-01T16:19:41.227424"
       },
       {
-        "id": 2,
+        "id": 5,
         "habit_id": 3,
         "date": "Fri, 7/31",
         "status": 1,
@@ -373,7 +410,7 @@
         "modified_at": "2026-08-01T16:19:41.766817"
       },
       {
-        "id": 3,
+        "id": 6,
         "habit_id": 1,
         "date": "Mon 1",
         "status": 1,
@@ -381,7 +418,7 @@
         "modified_at": "2026-07-29T15:34:44.682694"
       },
       {
-        "id": 4,
+        "id": 7,
         "habit_id": 1,
         "date": "Tue 2",
         "status": 1,
@@ -389,7 +426,7 @@
         "modified_at": "2026-07-29T16:31:05.158841"
       },
       {
-        "id": 5,
+        "id": 8,
         "habit_id": 1,
         "date": "Wed 3",
         "status": 1,
@@ -397,7 +434,7 @@
         "modified_at": "2026-07-29T16:30:59.871328"
       },
       {
-        "id": 6,
+        "id": 9,
         "habit_id": 6,
         "date": "Mon, 7/27",
         "status": 1,
@@ -405,7 +442,7 @@
         "modified_at": "2026-08-02T18:25:28.117293"
       },
       {
-        "id": 7,
+        "id": 10,
         "habit_id": 6,
         "date": "Tue, 7/28",
         "status": 1,
@@ -566,7 +603,7 @@
         "course": "General",
         "folder": "Bookmarks",
         "color": "#facc15",
-        "uuid": null,
+        "uuid": "f33274f5de3c4e409e41e7e6ba0874c6",
         "modified_at": null
       },
       {
