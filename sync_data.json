@@ -1,6 +1,6 @@
 {
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-08-02T18:29:00.008953",
+  "last_sync": "2026-08-02T18:29:10.173068",
   "settings": {
     "font_family": "Inter",
     "custom_font_path": "",
@@ -659,6 +659,17 @@
         "folder": "Bookmarks",
         "color": "#facc15",
         "uuid": "f840096dc47b417aa939e2e2016772bb",
+        "modified_at": null
+      },
+      {
+        "id": 11,
+        "title": "Bookmark: 2001.03447v2.pdf P6",
+        "content": "Bookmarked page 6 of 2001.03447v2.pdf",
+        "timestamp": "2026-08-02T17:13:24.072602",
+        "course": "General",
+        "folder": "Bookmarks",
+        "color": "#facc15",
+        "uuid": "b7b534f2cd77452f87f9b8195620d7b6",
         "modified_at": null
       }
     ],
