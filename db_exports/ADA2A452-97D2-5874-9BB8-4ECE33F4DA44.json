@@ -1,6 +1,6 @@
 {
   "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-  "last_sync": "2026-08-08T16:32:27.421107",
+  "last_sync": "2026-08-08T16:34:32.255995",
   "settings": {
     "font_family": "Inter",
     "custom_font_path": "",
@@ -58,7 +58,7 @@
     "health_weight": 107,
     "git_status": "connected",
     "git_last_sync": "8/8/2026, 3:07:28 PM",
-    "last_sync_timestamp": "2026-08-08T16:32:21.851055",
+    "last_sync_timestamp": "2026-08-08T16:32:27.421107",
     "health_age": 24,
     "health_height": 190,
     "health_gender": "Male",
@@ -71,13 +71,71 @@
   "tables": {
     "courses": [],
     "pomodoro_sessions": [],
-    "cascading_goals": [],
+    "cascading_goals": [
+      {
+        "id": 1,
+        "parent_id": null,
+        "level": null,
+        "title": "test 1",
+        "category": null,
+        "target_hours": 10.0,
+        "logged_hours": 0.0,
+        "deadline": "2026-08-15 13:03",
+        "uuid": "9abcdb0e4f7e4c1f8d115b4b2235f376",
+        "modified_at": "2026-08-08T16:33:45.661942"
+      },
+      {
+        "id": 2,
+        "parent_id": 1,
+        "level": null,
+        "title": "test 2",
+        "category": null,
+        "target_hours": 100.0,
+        "logged_hours": 0.0,
+        "deadline": "2026-08-15 13:03",
+        "uuid": "fcc9420c34a842779102597baa71d4c5",
+        "modified_at": "2026-08-08T16:33:52.331215"
+      }
+    ],
     "habits": [],
     "habit_logs": [],
     "flashcards": [],
     "quizzes": [],
-    "focus_queue": [],
-    "notes": [],
+    "focus_queue": [
+      {
+        "id": 1,
+        "title": "test 1",
+        "duration": 99,
+        "type": "Work",
+        "status": "pending",
+        "course": "test 1",
+        "uuid": "79ba4d7d034a47b8a506383da07d5492",
+        "modified_at": "2026-08-08T16:34:01.750463"
+      },
+      {
+        "id": 2,
+        "title": "test 1 > test 2",
+        "duration": 9,
+        "type": "Work",
+        "status": "pending",
+        "course": "test 1 > test 2",
+        "uuid": "4adb49bd4acb4653b702656b1b081f69",
+        "modified_at": "2026-08-08T16:34:04.651788"
+      }
+    ],
+    "notes": [
+      {
+        "id": 1,
+        "title": "Untitled Note",
+        "content": "test",
+        "timestamp": "2026-08-08T16:34:13.591985",
+        "course": "General",
+        "folder": "Uncategorized",
+        "color": "#3b82f6",
+        "uuid": "67c319485cd24b92b8fdf99b52a60bb0",
+        "modified_at": "2026-08-08T16:34:13.591974"
+      }
+    ],
     "health_profile": [],
     "health_logs": [],
     "custom_foods": [],
@@ -332,6 +390,14 @@
         "description": "Successfully synced with Git cluster. Master Overwrite completed successfully",
         "uuid": "86d9c9e45a6f47328676bd9b37ca39c3",
         "modified_at": "2026-08-08T16:32:24.006208"
+      },
+      {
+        "id": 28,
+        "timestamp": "2026-08-08T16:32:29.799136",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "uuid": "12f29381b3ed4da281410c246a419fc0",
+        "modified_at": "2026-08-08T16:32:29.799136"
       }
     ]
   }
