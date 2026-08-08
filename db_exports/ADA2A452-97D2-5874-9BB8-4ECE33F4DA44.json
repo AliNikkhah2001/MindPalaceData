@@ -1,6 +1,6 @@
 {
   "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-  "last_sync": "2026-08-08T16:47:11.802962",
+  "last_sync": "2026-08-08T16:54:40.726491",
   "settings": {
     "font_family": "Inter",
     "custom_font_path": "",
@@ -58,7 +58,7 @@
     "health_weight": 107,
     "git_status": "connected",
     "git_last_sync": "8/8/2026, 3:07:28 PM",
-    "last_sync_timestamp": "2026-08-08T16:44:14.193494",
+    "last_sync_timestamp": "2026-08-08T16:47:11.802962",
     "health_age": 24,
     "health_height": 190,
     "health_gender": "Male",
@@ -76,68 +76,103 @@
         "id": 1,
         "parent_id": null,
         "level": null,
-        "title": "test 1",
+        "title": "MASTER",
         "category": null,
-        "target_hours": 10.0,
+        "target_hours": 3.0,
         "logged_hours": 0.0,
-        "deadline": "2026-08-15 13:03",
-        "uuid": "9abcdb0e4f7e4c1f8d115b4b2235f376",
-        "modified_at": "2026-08-08T16:33:45.661942"
+        "deadline": "2026-08-15 13:23",
+        "uuid": "5e6271c56ee24ab1a6ef898a2c446b8c",
+        "modified_at": "2026-08-08T16:53:26.563956"
+      }
+    ],
+    "habits": [
+      {
+        "id": 1,
+        "name": "fdsfds",
+        "created_at": "2026-08-08T16:51:33.886227",
+        "type": "Positive",
+        "uuid": "0eb5800bf5d842db9d287f7c34ba93ad",
+        "modified_at": "2026-08-08T16:51:33.886218"
       },
       {
         "id": 2,
-        "parent_id": 1,
-        "level": null,
-        "title": "test 2",
-        "category": null,
-        "target_hours": 100.0,
-        "logged_hours": 0.0,
-        "deadline": "2026-08-15 13:03",
-        "uuid": "fcc9420c34a842779102597baa71d4c5",
-        "modified_at": "2026-08-08T16:33:52.331215"
+        "name": "MASTER",
+        "created_at": "2026-08-08T16:53:20.054170",
+        "type": "Positive",
+        "uuid": "1b07604fc7ec404da10fc940a436a76d",
+        "modified_at": "2026-08-08T16:53:20.054161"
       }
     ],
-    "habits": [],
     "habit_logs": [],
-    "flashcards": [],
-    "quizzes": [],
+    "flashcards": [
+      {
+        "id": 1,
+        "front": "MASTER",
+        "back": "MASTER",
+        "deck": "Main",
+        "next_review": null,
+        "course": "General",
+        "folder": "Uncategorized",
+        "color": "#3b82f6",
+        "uuid": "6369fc7eb8134a988cf5fbb4c3209b38",
+        "modified_at": "2026-08-08T16:54:25.959096"
+      }
+    ],
+    "quizzes": [
+      {
+        "id": 1,
+        "title": "MAATER",
+        "questions_json": "[\n  {\"q\": \"Difference between Process and Thread?\", \"opts\": [\"Memory Isolation\", \"No Difference\"], \"ans\": 0}\n]",
+        "course": "General",
+        "folder": "Uncategorized",
+        "color": "#3b82f6",
+        "uuid": "7ab0d51c33a042fa88f23b8e0dd19727",
+        "modified_at": "2026-08-08T16:54:15.742376"
+      }
+    ],
     "focus_queue": [
       {
         "id": 1,
-        "title": "test 1",
-        "duration": 99,
+        "title": "MASTER",
+        "duration": 25,
         "type": "Work",
         "status": "pending",
-        "course": "test 1",
-        "uuid": "79ba4d7d034a47b8a506383da07d5492",
-        "modified_at": "2026-08-08T16:34:01.750463"
-      },
-      {
-        "id": 2,
-        "title": "test 1 > test 2",
-        "duration": 9,
-        "type": "Work",
-        "status": "pending",
-        "course": "test 1 > test 2",
-        "uuid": "4adb49bd4acb4653b702656b1b081f69",
-        "modified_at": "2026-08-08T16:34:04.651788"
+        "course": "MASTER",
+        "uuid": "ff230dffac934df7b3be298b8c1ab6f2",
+        "modified_at": "2026-08-08T16:53:30.907161"
       }
     ],
     "notes": [
       {
         "id": 1,
         "title": "Untitled Note",
-        "content": "test",
-        "timestamp": "2026-08-08T16:34:13.591985",
+        "content": "MASTER",
+        "timestamp": "2026-08-08T16:54:30.814144",
         "course": "General",
         "folder": "Uncategorized",
         "color": "#3b82f6",
-        "uuid": "67c319485cd24b92b8fdf99b52a60bb0",
-        "modified_at": "2026-08-08T16:34:13.591974"
+        "uuid": "d01b75c433544e5db50ddbcb5bd8ab2a",
+        "modified_at": "2026-08-08T16:54:30.814136"
       }
     ],
-    "health_profile": [],
-    "health_logs": [],
+    "health_profile": [
+      {
+        "id": 1,
+        "data_json": "{\"weight\": 107, \"bmr\": 15.2}",
+        "uuid": "ae341b6ab5804a0c9b096a1efbf74a1c",
+        "modified_at": "2026-08-08T16:53:51.091277"
+      }
+    ],
+    "health_logs": [
+      {
+        "id": 1,
+        "log_type": "body_scan",
+        "date": "2026-08-08",
+        "data_json": "{\"weight\": 107, \"body_score\": 76, \"bmi\": 29.7, \"body_fat\": 28.4, \"muscle_mass\": 0.1, \"water\": 52, \"bmr\": 15.2, \"file_path\": \"/Users/alinikkhah/Downloads/OCR/Image PNG.jpg\"}",
+        "uuid": "cb6be39a3b464d6a9831b1d6c8bf13b9",
+        "modified_at": "2026-08-08T16:53:51.091693"
+      }
+    ],
     "custom_foods": [],
     "custom_activities": [],
     "health_plans": [],
@@ -470,6 +505,22 @@
         "description": "Successfully synced with Git cluster. Sync completed successfully",
         "uuid": "607f9638a97046949875167d12448aca",
         "modified_at": "2026-08-08T16:44:16.765305"
+      },
+      {
+        "id": 38,
+        "timestamp": "2026-08-08T16:47:13.860285",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Master Overwrite completed successfully",
+        "uuid": "d615b90488144bc29ea6902dbe2010dd",
+        "modified_at": "2026-08-08T16:47:13.860285"
+      },
+      {
+        "id": 39,
+        "timestamp": "2026-08-08T16:47:21.299834",
+        "module": "Sync Error",
+        "description": "Sync failed: No remote master data found on Git cluster.",
+        "uuid": "0a26341d36774f94854ca7c602bb495a",
+        "modified_at": "2026-08-08T16:47:21.299834"
       }
     ]
   }
