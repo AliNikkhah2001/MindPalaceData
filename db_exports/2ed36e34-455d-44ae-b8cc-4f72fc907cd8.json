@@ -1,0 +1,1140 @@
+{
+  "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+  "last_sync": "2026-08-08T17:37:31.823996",
+  "settings": {
+    "font_family": "Inter",
+    "custom_font_path": "",
+    "font_color": "#e2e8f0",
+    "font_size": 16,
+    "clock_style": "Analog Classic",
+    "clock_case_shape": "Round",
+    "clock_bezel": "Plain",
+    "clock_indices": "Baton",
+    "clock_ticks": "Standard",
+    "clock_hands": "Classic",
+    "clock_complication": "None",
+    "dist_delay": 3,
+    "vision_mode": "Strict (Face & Eyes)",
+    "bg_image_path": "img/bg.jpg",
+    "quotes_path": "",
+    "panel_opacity": 180,
+    "face_scale_factor": 1.2,
+    "face_min_neighbors": 8,
+    "face_min_size": 120,
+    "vision_sample_interval": 30,
+    "force_close_apps_mins": 5,
+    "sound_app_dist": "Ping",
+    "sound_cam_dist": "Basso",
+    "sound_cam_err": "Hero",
+    "beep_freq": 3,
+    "loop_1m": 2,
+    "loop_5m": 5,
+    "loop_15m": 10,
+    "loop_30m": 20,
+    "loop_60m": 30,
+    "speech_dist": "You have been distracted. Please return to work.",
+    "speech_comp": "Fantastic job! Your deep work session is complete.",
+    "mute_sounds": false,
+    "mute_speech": false,
+    "sync_enabled": true,
+    "sync_repo_url": "https://github.com/AliNikkhah2001/MindPalaceData.git",
+    "sync_interval": 3600,
+    "sync_local_paths": [
+      "C:\\Users\\10225/MindPalace_Library",
+      "C:/Users/10225/Documents/RAG System Design Diagrams",
+      "/Users/alinikkhah/MindPalace_Library"
+    ],
+    "quiet_mode": false,
+    "app_monitoring_enabled": false,
+    "allowed_apps": [],
+    "blocked_apps": [],
+    "auto_block": false,
+    "dashboard_layout": {},
+    "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+    "has_token": true,
+    "mapped_folders": [
+      "C:\\Users\\10225/MindPalace_Library"
+    ],
+    "git_status": "connected",
+    "git_last_sync": "8/2/2026, 10:57:28 AM",
+    "last_sync_timestamp": "2026-08-08T17:14:23.490407",
+    "health_weight": 107,
+    "health_age": 24,
+    "health_height": 190,
+    "health_gender": "Male",
+    "health_activity": 1.2,
+    "health_deficit": 1500,
+    "process_list": [],
+    "sync_msg": "Sync completed successfully",
+    "sync_progress_pct": 100
+  },
+  "tables": {
+    "courses": [],
+    "pomodoro_sessions": [
+      {
+        "id": 1,
+        "course": "General",
+        "duration": 25,
+        "actual_duration": 0,
+        "timestamp": "2026-08-01T21:49:57.578254",
+        "type": "Work",
+        "distractions": 1,
+        "timelapse_path": null,
+        "distraction_data": null,
+        "uuid": "014d66b18206459da9c5c6a418fa04f3",
+        "modified_at": "2026-08-01T21:49:57.578244",
+        "note": null
+      },
+      {
+        "id": 2,
+        "course": "General",
+        "duration": 25,
+        "actual_duration": 0,
+        "timestamp": "2026-08-01T21:50:09.723529",
+        "type": "Work",
+        "distractions": 0,
+        "timelapse_path": null,
+        "distraction_data": null,
+        "uuid": "291211a86d1d4edfb95af6d4090b01f3",
+        "modified_at": "2026-08-01T21:50:09.723518",
+        "note": null
+      },
+      {
+        "id": 3,
+        "course": "General",
+        "duration": 25,
+        "actual_duration": 5,
+        "timestamp": "2026-08-02T00:27:48.508094",
+        "type": "Work",
+        "distractions": 38,
+        "timelapse_path": null,
+        "distraction_data": null,
+        "uuid": "34a55a13edc04d7ebd41ef9155f7929c",
+        "modified_at": "2026-08-02T00:27:48.508084",
+        "note": null
+      },
+      {
+        "id": 4,
+        "course": "General",
+        "duration": 25,
+        "actual_duration": 0,
+        "timestamp": "2026-08-02T00:28:03.534594",
+        "type": "Work",
+        "distractions": 0,
+        "timelapse_path": null,
+        "distraction_data": null,
+        "uuid": "5e2159f82bdb437bb312fa536f1441b6",
+        "modified_at": "2026-08-02T00:28:03.534584",
+        "note": null
+      },
+      {
+        "id": 5,
+        "course": "General",
+        "duration": 25,
+        "actual_duration": 0,
+        "timestamp": "2026-07-29T16:00:11.317975",
+        "type": "Work",
+        "distractions": 0,
+        "timelapse_path": null,
+        "distraction_data": null,
+        "uuid": "2e6f183fa56946049bd4be0a43008f47",
+        "modified_at": "2026-07-29T16:00:11.317975",
+        "note": null
+      },
+      {
+        "id": 6,
+        "course": "General",
+        "duration": 25,
+        "actual_duration": 0,
+        "timestamp": "2026-07-30T01:16:02.612274",
+        "type": "Work",
+        "distractions": 2,
+        "timelapse_path": null,
+        "distraction_data": null,
+        "uuid": "33f71b44d4c64df9b717da70914b0d8e",
+        "modified_at": "2026-07-30T01:16:02.612264",
+        "note": null
+      },
+      {
+        "id": 7,
+        "course": "General",
+        "duration": 25,
+        "actual_duration": 0,
+        "timestamp": "2026-07-30T01:16:14.208684",
+        "type": "Work",
+        "distractions": 2,
+        "timelapse_path": null,
+        "distraction_data": null,
+        "uuid": "fa78482007634599bfb8b5cff8729735",
+        "modified_at": "2026-07-30T01:16:14.208663",
+        "note": null
+      },
+      {
+        "id": 8,
+        "course": "General",
+        "duration": 25,
+        "actual_duration": 0,
+        "timestamp": "2026-07-31T18:41:22.267004",
+        "type": "Work",
+        "distractions": 0,
+        "timelapse_path": null,
+        "distraction_data": null,
+        "uuid": "878321bf9cf8469ba0992b471002d657",
+        "modified_at": "2026-07-31T18:41:22.266995",
+        "note": null
+      },
+      {
+        "id": 9,
+        "course": "General",
+        "duration": 25,
+        "actual_duration": 0,
+        "timestamp": "2026-07-31T18:43:18.220816",
+        "type": "Work",
+        "distractions": 20,
+        "timelapse_path": null,
+        "distraction_data": null,
+        "uuid": "6a924f2ec1674d10b7a48f5ea9308297",
+        "modified_at": "2026-07-31T18:43:18.220800",
+        "note": null
+      },
+      {
+        "id": 10,
+        "course": "General",
+        "duration": 25,
+        "actual_duration": 0,
+        "timestamp": "2026-07-29T16:51:55.966760",
+        "type": "Work",
+        "distractions": 0,
+        "timelapse_path": null,
+        "distraction_data": null,
+        "uuid": "7304043e78b54532a146a50794c927e4",
+        "modified_at": "2026-07-29T16:51:55.966760",
+        "note": null
+      },
+      {
+        "id": 11,
+        "course": "General",
+        "duration": 25,
+        "actual_duration": 13,
+        "timestamp": "2026-07-29T17:44:07.753559",
+        "type": "Work",
+        "distractions": 0,
+        "timelapse_path": null,
+        "distraction_data": null,
+        "uuid": "1698181997e0477493729535ccb1cddc",
+        "modified_at": "2026-07-29T17:44:07.753559",
+        "note": null
+      },
+      {
+        "id": 12,
+        "course": "General",
+        "duration": 25,
+        "actual_duration": 0,
+        "timestamp": "2026-07-29T18:03:25.315532",
+        "type": "Work",
+        "distractions": 0,
+        "timelapse_path": null,
+        "distraction_data": null,
+        "uuid": "146ddf6cc7544e6eb0db0dd08867a6b0",
+        "modified_at": "2026-07-29T18:03:25.315532",
+        "note": null
+      }
+    ],
+    "cascading_goals": [
+      {
+        "id": 1,
+        "parent_id": null,
+        "level": null,
+        "title": "mac",
+        "category": null,
+        "target_hours": 6.0,
+        "logged_hours": 0.0,
+        "deadline": "2026-08-08 20:54",
+        "uuid": "0727660c27254279b1e28ff1ee35622b",
+        "modified_at": "2026-08-02T00:24:43.700603"
+      },
+      {
+        "id": 2,
+        "parent_id": 1,
+        "level": null,
+        "title": "os",
+        "category": null,
+        "target_hours": 8.0,
+        "logged_hours": 0.0,
+        "deadline": "2026-08-08 20:54",
+        "uuid": "2961897cb2924142906b96ffa5dd4f75",
+        "modified_at": "2026-08-02T00:24:52.495216"
+      },
+      {
+        "id": 3,
+        "parent_id": 1,
+        "level": null,
+        "title": "iphone",
+        "category": null,
+        "target_hours": 8.0,
+        "logged_hours": 0.0,
+        "deadline": "2026-08-08 20:54",
+        "uuid": "f01262ec68524e3889d37c336d2e4338",
+        "modified_at": "2026-08-02T00:24:59.984057"
+      },
+      {
+        "id": 4,
+        "parent_id": 3,
+        "level": null,
+        "title": "ubuntu",
+        "category": null,
+        "target_hours": 5.0,
+        "logged_hours": 0.0,
+        "deadline": "2026-08-08 20:54",
+        "uuid": "e10e0c3e71e244c8a94a38abd42fb223",
+        "modified_at": "2026-08-02T00:25:15.924057"
+      },
+      {
+        "id": 5,
+        "parent_id": null,
+        "level": null,
+        "title": "uoji",
+        "category": "Goal",
+        "target_hours": 9.0,
+        "logged_hours": 0.0,
+        "deadline": "2026-07-31 00:00",
+        "uuid": "c3cb88a223604e3695beba2de17bdb8a",
+        "modified_at": "2026-07-30T00:21:19.633502"
+      },
+      {
+        "id": 6,
+        "parent_id": null,
+        "level": null,
+        "title": "rewrew",
+        "category": null,
+        "target_hours": -1223.0,
+        "logged_hours": 0.0,
+        "deadline": "2026-08-08 13:05",
+        "uuid": "36f34b4a3e5a4c83ab04f9689e3f4879",
+        "modified_at": "2026-08-01T16:35:46.626683"
+      },
+      {
+        "id": 7,
+        "parent_id": null,
+        "level": null,
+        "title": "sample test syncing ",
+        "category": null,
+        "target_hours": 999.0,
+        "logged_hours": 0.0,
+        "deadline": "2026-09-09 14:12",
+        "uuid": "d77a99ecb5244498a2c29126c853c199",
+        "modified_at": "2026-08-02T17:42:28.353801"
+      },
+      {
+        "id": 8,
+        "parent_id": null,
+        "level": null,
+        "title": "MASTER",
+        "category": null,
+        "target_hours": 1.0,
+        "logged_hours": 0.0,
+        "deadline": "2026-08-15 13:31",
+        "uuid": "8b710cd00c8948fc9c560fd02a173e39",
+        "modified_at": "2026-08-08T17:01:20.766677"
+      },
+      {
+        "id": 9,
+        "parent_id": null,
+        "level": null,
+        "title": "MASTER Win",
+        "category": null,
+        "target_hours": 2.0,
+        "logged_hours": 0.0,
+        "deadline": "2026-08-15 14:06",
+        "uuid": "c352d444c64f45dd91ff84d27da6a2fd",
+        "modified_at": "2026-08-08T17:36:51.793268"
+      }
+    ],
+    "habits": [
+      {
+        "id": 1,
+        "name": "hello from windows",
+        "created_at": "2026-08-02T18:27:01.505024",
+        "type": "Positive",
+        "uuid": "17b85af9be824196a164de73b90019be",
+        "modified_at": "2026-08-02T18:27:01.505024"
+      },
+      {
+        "id": 2,
+        "name": "hoiii",
+        "created_at": "2026-08-02T18:27:09.609282",
+        "type": "Negative",
+        "uuid": "8e51d4ce6e2744c4bccc8933bb2021fb",
+        "modified_at": "2026-08-02T18:27:09.609282"
+      },
+      {
+        "id": 3,
+        "name": "anal",
+        "created_at": "2026-08-02T00:25:27.923731",
+        "type": "Positive",
+        "uuid": "2228f5861667444a8ce7f8494c6eb454",
+        "modified_at": "2026-08-02T00:25:27.923718"
+      },
+      {
+        "id": 4,
+        "name": "",
+        "created_at": "2026-07-29T15:24:07.942040",
+        "type": "Positive",
+        "uuid": "3bcaad08fa97468ebc1eda8b495929b0",
+        "modified_at": "2026-07-29T15:24:07.942040"
+      },
+      {
+        "id": 5,
+        "name": "jnkl",
+        "created_at": "2026-07-30T01:08:57.574940",
+        "type": "Positive",
+        "uuid": "e2909033aa604e7abbc09766d7703d3a",
+        "modified_at": "2026-07-30T01:08:57.574915"
+      },
+      {
+        "id": 6,
+        "name": "423423",
+        "created_at": "2026-08-01T16:35:52.562430",
+        "type": "Positive",
+        "uuid": "bd759723beb44107afd764b98eb7b088",
+        "modified_at": "2026-08-01T16:35:52.562419"
+      },
+      {
+        "id": 7,
+        "name": "htrfgbggf",
+        "created_at": "2026-07-29T15:24:07.083122",
+        "type": "Positive",
+        "uuid": "d3f9a94065a14cefbf1d8173f9c4b981",
+        "modified_at": "2026-07-29T15:34:43.066224"
+      },
+      {
+        "id": 8,
+        "name": "test new postiive",
+        "created_at": "2026-08-02T18:25:25.747465",
+        "type": "Positive",
+        "uuid": "5f8bf1acd20546549710df67efd35abd",
+        "modified_at": "2026-08-02T18:25:25.747448"
+      },
+      {
+        "id": 9,
+        "name": "eliot alderson",
+        "created_at": "2026-08-02T18:29:56.503106",
+        "type": "Positive",
+        "uuid": "50b96539458842f7b1eacdf58755cc86",
+        "modified_at": "2026-08-02T18:29:56.503089"
+      },
+      {
+        "id": 10,
+        "name": "MASTER",
+        "created_at": "2026-08-08T17:01:27.153316",
+        "type": "Positive",
+        "uuid": "4a62220841d74b5f8bdd9f725d46d1dc",
+        "modified_at": "2026-08-08T17:01:27.153310"
+      },
+      {
+        "id": 11,
+        "name": "MASTER Win",
+        "created_at": "2026-08-08T17:36:58.808936",
+        "type": "Positive",
+        "uuid": "3fc13e95b9fe4464b43b7250318ac70f",
+        "modified_at": "2026-08-08T17:36:58.808936"
+      }
+    ],
+    "habit_logs": [
+      {
+        "id": 1,
+        "habit_id": 1,
+        "date": "Sat, 8/1",
+        "status": 1,
+        "uuid": "4c10f4768f4a4686ab8236d1158df079",
+        "modified_at": "2026-08-02T18:27:02.985944"
+      },
+      {
+        "id": 2,
+        "habit_id": 1,
+        "date": "Fri, 7/31",
+        "status": 1,
+        "uuid": "0e4137ea0189423d900f6bbd974d0cc7",
+        "modified_at": "2026-08-02T18:27:03.619743"
+      },
+      {
+        "id": 3,
+        "habit_id": 1,
+        "date": "Thu, 7/30",
+        "status": 1,
+        "uuid": "4eb4756355f5484b831f885962205f44",
+        "modified_at": "2026-08-02T18:27:04.209920"
+      },
+      {
+        "id": 4,
+        "habit_id": 2,
+        "date": "Fri, 7/31",
+        "status": 1,
+        "uuid": "ffb3876c99f148779f91bb4d79f148a2",
+        "modified_at": "2026-08-01T16:19:41.227424"
+      },
+      {
+        "id": 5,
+        "habit_id": 3,
+        "date": "Fri, 7/31",
+        "status": 1,
+        "uuid": "48e773b9bd3f4e74b0dd008653ac29e6",
+        "modified_at": "2026-08-01T16:19:41.766817"
+      },
+      {
+        "id": 6,
+        "habit_id": 1,
+        "date": "Mon 1",
+        "status": 1,
+        "uuid": "604d2328c7c6446ab98f134714eb54f2",
+        "modified_at": "2026-07-29T15:34:44.682694"
+      },
+      {
+        "id": 7,
+        "habit_id": 1,
+        "date": "Tue 2",
+        "status": 1,
+        "uuid": "3e0c5b19f18e48ea8e332cdd844846f1",
+        "modified_at": "2026-07-29T16:31:05.158841"
+      },
+      {
+        "id": 8,
+        "habit_id": 1,
+        "date": "Wed 3",
+        "status": 1,
+        "uuid": "5b3a4784c6af44b5a35b734ff07b75ba",
+        "modified_at": "2026-07-29T16:30:59.871328"
+      },
+      {
+        "id": 9,
+        "habit_id": 6,
+        "date": "Mon, 7/27",
+        "status": 1,
+        "uuid": "f6d872a064434700b9d67eef4c6bea38",
+        "modified_at": "2026-08-02T18:25:28.117293"
+      },
+      {
+        "id": 10,
+        "habit_id": 6,
+        "date": "Tue, 7/28",
+        "status": 1,
+        "uuid": "aafbc2b96abb40f5a4af238d1faddb7e",
+        "modified_at": "2026-08-02T18:25:29.133419"
+      },
+      {
+        "id": 11,
+        "habit_id": 9,
+        "date": "Thu, 7/30",
+        "status": 1,
+        "uuid": "b39ae04a4e474531ba29206c237112a0",
+        "modified_at": "2026-08-02T18:29:58.594259"
+      },
+      {
+        "id": 12,
+        "habit_id": 9,
+        "date": "Wed, 7/29",
+        "status": 1,
+        "uuid": "a4f8bee47e39425f943f440b2eb43b7b",
+        "modified_at": "2026-08-02T18:29:59.311467"
+      },
+      {
+        "id": 13,
+        "habit_id": 1,
+        "date": "Sun, 8/2",
+        "status": 1,
+        "uuid": "462aff56a93e4da9a1eda43958f7fee1",
+        "modified_at": "2026-08-08T17:36:55.435568"
+      },
+      {
+        "id": 14,
+        "habit_id": 1,
+        "date": "Mon, 8/3",
+        "status": 1,
+        "uuid": "f80e9e3d02d64107b88cc28013d31d2f",
+        "modified_at": "2026-08-08T17:36:55.779189"
+      },
+      {
+        "id": 15,
+        "habit_id": 1,
+        "date": "Tue, 8/4",
+        "status": 1,
+        "uuid": "973c53332759443c8035137a62198951",
+        "modified_at": "2026-08-08T17:36:56.323810"
+      },
+      {
+        "id": 16,
+        "habit_id": 1,
+        "date": "Wed, 8/5",
+        "status": 1,
+        "uuid": "d959009ac20542afb22a31979f73ba3d",
+        "modified_at": "2026-08-08T17:36:56.821401"
+      },
+      {
+        "id": 17,
+        "habit_id": 11,
+        "date": "Sun, 8/2",
+        "status": 1,
+        "uuid": "b004709172ad402491de8c8f79ed2ecd",
+        "modified_at": "2026-08-08T17:37:01.914853"
+      },
+      {
+        "id": 18,
+        "habit_id": 10,
+        "date": "Sun, 8/2",
+        "status": 1,
+        "uuid": "20cc51e0ca3a4599b41bc3e2bb930df4",
+        "modified_at": "2026-08-08T17:37:02.292705"
+      },
+      {
+        "id": 19,
+        "habit_id": 9,
+        "date": "Sun, 8/2",
+        "status": 1,
+        "uuid": "cb9972776d53481189d2b636bb7e1b34",
+        "modified_at": "2026-08-08T17:37:02.762720"
+      }
+    ],
+    "flashcards": [
+      {
+        "id": 1,
+        "front": "sdfsdfs",
+        "back": "dfdsfsdfs",
+        "deck": "Main",
+        "next_review": null,
+        "course": "General",
+        "folder": "Uncategorized",
+        "color": "#3b82f6",
+        "uuid": "8dd57de6c05d41c2b2aef18b0fd49867",
+        "modified_at": "2026-07-29T16:31:18.564906"
+      },
+      {
+        "id": 2,
+        "front": "eqweqwewq",
+        "back": "eqweqw",
+        "deck": "Main",
+        "next_review": null,
+        "course": "General",
+        "folder": "Uncategorized",
+        "color": "#3b82f6",
+        "uuid": "065f5a7088874beb970b067cc3917c68",
+        "modified_at": "2026-08-01T16:36:14.302097"
+      },
+      {
+        "id": 3,
+        "front": "MASTER",
+        "back": "",
+        "deck": "Main",
+        "next_review": null,
+        "course": "General",
+        "folder": "Uncategorized",
+        "color": "#3b82f6",
+        "uuid": "edbf89189ac54f239ed46d2eddb2dcd7",
+        "modified_at": "2026-08-08T17:01:36.410193"
+      },
+      {
+        "id": 4,
+        "front": "MASTER Win",
+        "back": "MASTER Win",
+        "deck": "Main",
+        "next_review": null,
+        "course": "General",
+        "folder": "Uncategorized",
+        "color": "#3b82f6",
+        "uuid": "3bfbc4fda71042a4a3c33529f44e78b6",
+        "modified_at": "2026-08-08T17:37:17.369383"
+      }
+    ],
+    "quizzes": [
+      {
+        "id": 1,
+        "title": "New Quiz",
+        "questions_json": "[\n  {\"q\": \"Difference between Process and Thread?\", \"opts\": [\"Memory Isolation\", \"No Difference\"], \"ans\": 0}\n]",
+        "course": "General",
+        "folder": "Uncategorized",
+        "color": "#3b82f6",
+        "uuid": "5296759463574042a85507ae81c96f31",
+        "modified_at": "2026-08-01T16:04:07.838934"
+      },
+      {
+        "id": 2,
+        "title": "New Quiz",
+        "questions_json": "[\n  {\"q\": \"Difference between Process and Thread?\", \"opts\": [\"Memory Isolation\", \"No Difference\"], \"ans\": 0}\n]",
+        "course": "General",
+        "folder": "Uncategorized",
+        "color": "#3b82f6",
+        "uuid": "e637f2584e704712814e8a7227dc3fc7",
+        "modified_at": "2026-08-01T16:36:08.346137"
+      },
+      {
+        "id": 3,
+        "title": "MASTER Win",
+        "questions_json": "[\n  {\"q\": \"Difference between Process and Thread?\", \"opts\": [\"Memory Isolation\", \"No Difference\"], \"ans\": 0}\n]",
+        "course": "General",
+        "folder": "Uncategorized",
+        "color": "#3b82f6",
+        "uuid": "428a10eaa80e41bfb141f4afdd0347c7",
+        "modified_at": "2026-08-08T17:37:13.865643"
+      }
+    ],
+    "focus_queue": [
+      {
+        "id": 1,
+        "title": "General",
+        "duration": 25,
+        "type": "Work",
+        "status": "pending",
+        "course": "General",
+        "uuid": "e80715ab1ca74b36a08cde3f184679b1",
+        "modified_at": "2026-08-01T21:49:47.688034"
+      },
+      {
+        "id": 2,
+        "title": "General",
+        "duration": 25,
+        "type": "Work",
+        "status": "pending",
+        "course": "General",
+        "uuid": "d7e285d5fa654511a0b9a1b56bcddd72",
+        "modified_at": "2026-08-02T00:21:54.392915"
+      },
+      {
+        "id": 3,
+        "title": "General",
+        "duration": 25,
+        "type": "Work",
+        "status": "pending",
+        "course": "General",
+        "uuid": "79fa4c2c314a484091a78a2c2a0b2959",
+        "modified_at": "2026-07-30T00:19:43.456685"
+      },
+      {
+        "id": 4,
+        "title": "General",
+        "duration": 25,
+        "type": "Work",
+        "status": "pending",
+        "course": "General",
+        "uuid": "e101dbd4cc3f414296b17294971569e4",
+        "modified_at": "2026-07-29T15:24:01.468240"
+      },
+      {
+        "id": 5,
+        "title": "General",
+        "duration": 25,
+        "type": "Work",
+        "status": "pending",
+        "course": "General",
+        "uuid": "85b32fd8e8fa4e66907b99d2a3d88d0f",
+        "modified_at": "2026-07-29T15:34:25.058627"
+      }
+    ],
+    "notes": [
+      {
+        "id": 1,
+        "title": "Untitled Note",
+        "content": "knmk\n",
+        "timestamp": "2026-07-30T00:21:11.581912",
+        "course": "General",
+        "folder": "Uncategorized",
+        "color": "#3b82f6",
+        "uuid": "721db96945574ac1bdb330d7233a45f9",
+        "modified_at": "2026-07-30T00:21:11.581895"
+      },
+      {
+        "id": 2,
+        "title": "Untitled Note",
+        "content": "kjnn,mlnkmnp",
+        "timestamp": "2026-07-30T01:09:06.931668",
+        "course": "General",
+        "folder": "Uncategorized",
+        "color": "#3b82f6",
+        "uuid": "665b6d0cfd7d4192b7cdf61ed71540ac",
+        "modified_at": "2026-07-30T01:09:06.931643"
+      },
+      {
+        "id": 3,
+        "title": "Untitled Note",
+        "content": "aerfaefasdfdasnjjk",
+        "timestamp": "2026-07-29T16:31:14.230981",
+        "course": "General",
+        "folder": "Uncategorized",
+        "color": "#3b82f6",
+        "uuid": "c8c5a648d27b41e684a61a950e5f1313",
+        "modified_at": "2026-08-01T16:01:45.185770"
+      },
+      {
+        "id": 4,
+        "title": "Untitled Note",
+        "content": "\n<div style=\"background-color: rgba(245, 158, 11, 0.2); border-left: 4px solid #f59e0b; padding: 10px; margin: 10px 0; border-radius: 4px;\">\n\u26a0\ufe0f <b>Warning:</b> \n<div style=\"background-color: rgba(245, 158, 11, 0.2); border-left: 4px solid #f59e0b; padding: 10px; margin: 10px 0; border-radius: 4px;\">\n\u26a0\ufe0f <b>Warning:</b> \n</div>\n\n</div>\n\n\n\n<div style=\"background-color: rgba(59, 130, 246, 0.2); border-left: 4px solid #3b82f6; padding: 10px; margin: 10px 0; border-radius: 4px;\">\n\ud83d\udca1 <b>Info:</b> \n\n<span style=\"color: #f87171;\">jnkkjjnknjknkkn</span>\n</div>\n",
+        "timestamp": "2026-08-01T16:36:33.357279",
+        "course": "General",
+        "folder": "Uncategorized",
+        "color": "#3b82f6",
+        "uuid": "9ea597b2b988412dac02695f1663fb20",
+        "modified_at": "2026-08-01T16:36:33.357256"
+      },
+      {
+        "id": 5,
+        "title": "Bookmark: 2001.03447v2.pdf P6",
+        "content": "Bookmarked page 6 of 2001.03447v2.pdf",
+        "timestamp": "2026-08-02T17:13:24.072602",
+        "course": "General",
+        "folder": "Bookmarks",
+        "color": "#facc15",
+        "uuid": "605515b325de4d1b9f197ab3cf29db52",
+        "modified_at": "2026-08-08T17:03:03.845319"
+      },
+      {
+        "id": 6,
+        "title": "Bookmark: 2001.03447v2.pdf P6",
+        "content": "Bookmarked page 6 of 2001.03447v2.pdf",
+        "timestamp": "2026-08-02T17:13:24.072602",
+        "course": "General",
+        "folder": "Bookmarks",
+        "color": "#facc15",
+        "uuid": "3e8e4dbd9dac4344aceecda4181a92f4",
+        "modified_at": "2026-08-08T17:03:03.845319"
+      },
+      {
+        "id": 7,
+        "title": "Bookmark: 2001.03447v2.pdf P6",
+        "content": "Bookmarked page 6 of 2001.03447v2.pdf",
+        "timestamp": "2026-08-02T17:13:24.072602",
+        "course": "General",
+        "folder": "Bookmarks",
+        "color": "#facc15",
+        "uuid": "8b433050305342d291f4355339edfa4b",
+        "modified_at": "2026-08-08T17:03:03.845319"
+      },
+      {
+        "id": 8,
+        "title": "Bookmark: 2001.03447v2.pdf P6",
+        "content": "Bookmarked page 6 of 2001.03447v2.pdf",
+        "timestamp": "2026-08-02T17:13:24.072602",
+        "course": "General",
+        "folder": "Bookmarks",
+        "color": "#facc15",
+        "uuid": "d8f6596e8b3a4f4b9401092c9ea20a42",
+        "modified_at": "2026-08-08T17:03:03.845319"
+      },
+      {
+        "id": 9,
+        "title": "Bookmark: 2001.03447v2.pdf P6",
+        "content": "Bookmarked page 6 of 2001.03447v2.pdf",
+        "timestamp": "2026-08-02T17:13:24.072602",
+        "course": "General",
+        "folder": "Bookmarks",
+        "color": "#facc15",
+        "uuid": "5b62687c808d47bf8cf93d72c72e35a7",
+        "modified_at": "2026-08-08T17:03:03.845319"
+      },
+      {
+        "id": 10,
+        "title": "Bookmark: 2001.03447v2.pdf P6",
+        "content": "Bookmarked page 6 of 2001.03447v2.pdf",
+        "timestamp": "2026-08-02T17:13:24.072602",
+        "course": "General",
+        "folder": "Bookmarks",
+        "color": "#facc15",
+        "uuid": "1641dedcad094afa9ef4f897854ae073",
+        "modified_at": "2026-08-08T17:03:03.845319"
+      },
+      {
+        "id": 11,
+        "title": "Bookmark: 2001.03447v2.pdf P6",
+        "content": "Bookmarked page 6 of 2001.03447v2.pdf",
+        "timestamp": "2026-08-02T17:13:24.072602",
+        "course": "General",
+        "folder": "Bookmarks",
+        "color": "#facc15",
+        "uuid": "f3488186f85249f296b0bfb63ef49ee4",
+        "modified_at": "2026-08-08T17:03:03.845319"
+      },
+      {
+        "id": 12,
+        "title": "Bookmark: 2001.03447v2.pdf P6",
+        "content": "Bookmarked page 6 of 2001.03447v2.pdf",
+        "timestamp": "2026-08-02T17:13:24.072602",
+        "course": "General",
+        "folder": "Bookmarks",
+        "color": "#facc15",
+        "uuid": "3648eef5eda64007a035a3aaedb1d0ab",
+        "modified_at": "2026-08-08T17:03:03.845319"
+      },
+      {
+        "id": 13,
+        "title": "Bookmark: 2001.03447v2.pdf P6",
+        "content": "Bookmarked page 6 of 2001.03447v2.pdf",
+        "timestamp": "2026-08-02T17:13:24.072602",
+        "course": "General",
+        "folder": "Bookmarks",
+        "color": "#facc15",
+        "uuid": "17e17190073748e78216830117576f7f",
+        "modified_at": "2026-08-08T17:03:03.845319"
+      },
+      {
+        "id": 14,
+        "title": "Bookmark: 2001.03447v2.pdf P6",
+        "content": "Bookmarked page 6 of 2001.03447v2.pdf",
+        "timestamp": "2026-08-02T17:13:24.072602",
+        "course": "General",
+        "folder": "Bookmarks",
+        "color": "#facc15",
+        "uuid": "bda7d9f3c52844f98641bb07ac817712",
+        "modified_at": "2026-08-08T17:03:03.845319"
+      },
+      {
+        "id": 15,
+        "title": "Bookmark: 2001.03447v2.pdf P6",
+        "content": "Bookmarked page 6 of 2001.03447v2.pdf",
+        "timestamp": "2026-08-02T17:13:24.072602",
+        "course": "General",
+        "folder": "Bookmarks",
+        "color": "#facc15",
+        "uuid": "60dc29a51e654391ae6b4be608578374",
+        "modified_at": "2026-08-08T17:03:03.845319"
+      },
+      {
+        "id": 16,
+        "title": "Bookmark: 2001.03447v2.pdf P6",
+        "content": "Bookmarked page 6 of 2001.03447v2.pdf",
+        "timestamp": "2026-08-02T17:13:24.072602",
+        "course": "General",
+        "folder": "Bookmarks",
+        "color": "#facc15",
+        "uuid": "4df1be0069d346739c78a2f915dd4fa4",
+        "modified_at": "2026-08-08T17:03:03.845319"
+      },
+      {
+        "id": 17,
+        "title": "Bookmark: 2001.03447v2.pdf P6",
+        "content": "Bookmarked page 6 of 2001.03447v2.pdf",
+        "timestamp": "2026-08-02T17:13:24.072602",
+        "course": "General",
+        "folder": "Bookmarks",
+        "color": "#facc15",
+        "uuid": "b13c48e761144759b20bc72091a94101",
+        "modified_at": "2026-08-08T17:03:03.845319"
+      },
+      {
+        "id": 18,
+        "title": "MASTER",
+        "content": "",
+        "timestamp": "2026-08-08T17:01:43.328415",
+        "course": "General",
+        "folder": "Uncategorized",
+        "color": "#3b82f6",
+        "uuid": "c89e3537773a4912a87761c862e633b3",
+        "modified_at": "2026-08-08T17:01:43.328408"
+      },
+      {
+        "id": 19,
+        "title": "MASTER Win",
+        "content": "",
+        "timestamp": "2026-08-08T17:37:21.570150",
+        "course": "General",
+        "folder": "Uncategorized",
+        "color": "#3b82f6",
+        "uuid": "d9dc4872420a40308a429c13b946440b",
+        "modified_at": "2026-08-08T17:37:21.570150"
+      }
+    ],
+    "health_profile": [
+      {
+        "id": 1,
+        "data_json": "{\"weight\": 107, \"bmr\": 15.2}",
+        "uuid": "bf400476856841b7b1f53b07d44f86bc",
+        "modified_at": "2026-08-01T21:07:44.513260"
+      },
+      {
+        "id": 2,
+        "data_json": "{\"weight\": 107, \"bmr\": 15.2}",
+        "uuid": "cbd5ce7383d94a289cfec51f416efb37",
+        "modified_at": "2026-08-01T15:22:15.539262"
+      }
+    ],
+    "health_logs": [
+      {
+        "id": 1,
+        "log_type": "body_scan",
+        "date": "2026-08-01",
+        "data_json": "{\"weight\": 107, \"body_score\": 76, \"bmi\": 29.7, \"body_fat\": 28.4, \"muscle_mass\": 89, \"water\": 52, \"bmr\": 15.2, \"file_path\": \"/Users/alinikkhah/Downloads/OCR/Image PNG.jpg\"}",
+        "uuid": "2928a1fec7ee417b841c88eb87bff8fd",
+        "modified_at": "2026-08-01T21:07:44.514029"
+      },
+      {
+        "id": 2,
+        "log_type": "exercise",
+        "date": "2026-07-31",
+        "data_json": "{\"name\": \"\", \"duration\": \"\", \"kcal_burn\": \"\"}",
+        "uuid": "f26c0ec225e14859a7f5c0630b1b432c",
+        "modified_at": "2026-07-31T18:11:08.784271"
+      },
+      {
+        "id": 3,
+        "log_type": "food",
+        "date": "2026-07-31",
+        "data_json": "{\"name\": \"\", \"kcal\": \"\", \"protein\": \"\"}",
+        "uuid": "10c1de2a63e44b86bb38025a12d7d271",
+        "modified_at": "2026-07-31T18:11:11.519316"
+      },
+      {
+        "id": 4,
+        "log_type": "food",
+        "date": "2026-07-31",
+        "data_json": "{\"name\": \"fdfsd\", \"kcal\": 3232, \"protein\": 32}",
+        "uuid": "a39e230fa327470e8590767df1d2c829",
+        "modified_at": "2026-07-31T18:23:56.921245"
+      },
+      {
+        "id": 5,
+        "log_type": "body_scan",
+        "date": "2026-08-01",
+        "data_json": "{\"weight\": 1071, \"body_score\": 76, \"bmi\": 29.7, \"body_fat\": 28.4, \"muscle_mass\": null, \"water\": 52.7, \"bmr\": 15.2, \"file_path\": \"/Users/alinikkhah/Downloads/OCR/Image PNG.jpg\"}",
+        "uuid": "069351fef54049d1aa63976fd7a8b6d7",
+        "modified_at": "2026-08-01T14:20:55.070871"
+      },
+      {
+        "id": 6,
+        "log_type": "body_scan",
+        "date": "2026-08-01",
+        "data_json": "{\"weight\": 107, \"body_score\": 76, \"bmi\": 29.7, \"body_fat\": 28.4, \"muscle_mass\": null, \"water\": 52, \"bmr\": 15.2, \"file_path\": \"/Users/alinikkhah/Downloads/OCR/Image PNG.jpg\"}",
+        "uuid": "2f9f25fdb4cf460498f5ee4c947949b4",
+        "modified_at": "2026-08-01T14:25:50.574652"
+      },
+      {
+        "id": 7,
+        "log_type": "body_scan",
+        "date": "2026-08-01",
+        "data_json": "{\"weight\": 107, \"body_score\": 76, \"bmi\": 29.7, \"body_fat\": 28.4, \"muscle_mass\": 77, \"water\": 52, \"bmr\": 15.2, \"file_path\": \"/Users/alinikkhah/Downloads/OCR/Image PNG.jpg\"}",
+        "uuid": "725b9e3c416943a68343862cc36c4aa9",
+        "modified_at": "2026-08-01T15:22:15.539834"
+      }
+    ],
+    "custom_foods": [
+      {
+        "id": 1,
+        "name": "fdfsd",
+        "kcal": 3232.0,
+        "protein": 32.0,
+        "fat": 0.0,
+        "carbs": 0.0,
+        "category": "Meals",
+        "uuid": "145ba8f7364b4e598ce799d23b9b985a",
+        "modified_at": "2026-07-31T18:23:56.918664"
+      }
+    ],
+    "custom_activities": [],
+    "health_plans": [
+      {
+        "id": 1,
+        "type": "Exercise",
+        "title": "fdsfds",
+        "details": "sdfsdfds",
+        "uuid": "51026f24790247f9a9966d2ccab825eb",
+        "modified_at": "2026-07-31T18:24:16.414904"
+      }
+    ],
+    "ingredients": [],
+    "composite_foods": [],
+    "recipe_ingredients": [],
+    "activity_logs": [
+      {
+        "id": 1,
+        "timestamp": "2026-08-08T17:03:05.936776",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Master Overwrite completed successfully",
+        "uuid": "9afb40cec37c413780b6f9cdf05ec6b4",
+        "modified_at": "2026-08-08T17:03:05.936776"
+      },
+      {
+        "id": 2,
+        "timestamp": "2026-08-08T17:03:18.435501",
+        "module": "Sync Error",
+        "description": "Sync failed: 'NoneType' object is not subscriptable",
+        "uuid": "71b108a498844fffa14f3b277018c1a3",
+        "modified_at": "2026-08-08T17:03:18.435501"
+      },
+      {
+        "id": 3,
+        "timestamp": "2026-08-08T17:07:45.941937",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Master Overwrite completed successfully",
+        "uuid": "2daa125a5ce94ac7aad07292f984d0c6",
+        "modified_at": "2026-08-08T17:07:45.941937"
+      },
+      {
+        "id": 4,
+        "timestamp": "2026-08-08T17:07:54.894628",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. K-Peer Sync completed successfully",
+        "uuid": "5a4d3ee7ac054eed9362c1468d305e87",
+        "modified_at": "2026-08-08T17:07:54.894628"
+      },
+      {
+        "id": 5,
+        "timestamp": "2026-08-08T17:13:24.719768",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Master Overwrite completed successfully",
+        "uuid": "c461318a4f824d02a9bbee36425caffa",
+        "modified_at": "2026-08-08T17:13:24.719768"
+      },
+      {
+        "id": 6,
+        "timestamp": "2026-08-08T17:13:26.808481",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. K-Peer Sync completed successfully",
+        "uuid": "8702319b88bc4849903fa797ed38844a",
+        "modified_at": "2026-08-08T17:13:26.808481"
+      },
+      {
+        "id": 7,
+        "timestamp": "2026-08-08T17:13:30.617553",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Master Overwrite completed successfully",
+        "uuid": "220da777de3c48c4b1f8a5aaacc76ee7",
+        "modified_at": "2026-08-08T17:13:30.617553"
+      },
+      {
+        "id": 8,
+        "timestamp": "2026-08-08T17:13:34.489527",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Master Overwrite completed successfully",
+        "uuid": "481bd742c1754688bc09b3f7820e5fc2",
+        "modified_at": "2026-08-08T17:13:34.489527"
+      },
+      {
+        "id": 9,
+        "timestamp": "2026-08-08T17:13:36.747182",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. K-Peer Sync completed successfully",
+        "uuid": "a2fd17a023ba437c8646f930f530a81f",
+        "modified_at": "2026-08-08T17:13:36.747182"
+      },
+      {
+        "id": 10,
+        "timestamp": "2026-08-08T17:13:48.700876",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Master Overwrite completed successfully",
+        "uuid": "ea9bd7af376043b8af9e00636adba4d8",
+        "modified_at": "2026-08-08T17:13:48.700876"
+      },
+      {
+        "id": 11,
+        "timestamp": "2026-08-08T17:13:51.531357",
+        "module": "Sync Error",
+        "description": "Sync failed: 'NoneType' object is not subscriptable",
+        "uuid": "9ba8c6aee2844c5fb6bab22bf92def07",
+        "modified_at": "2026-08-08T17:13:51.531357"
+      },
+      {
+        "id": 12,
+        "timestamp": "2026-08-08T17:29:47.229780",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Successfully Cloned. Restart App.",
+        "uuid": "be65993bc93f434a92320a5f2d32164c",
+        "modified_at": "2026-08-08T17:29:47.229780"
+      }
+    ]
+  }
+}
