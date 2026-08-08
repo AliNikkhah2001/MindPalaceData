@@ -1,6 +1,6 @@
 {
   "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-  "last_sync": "2026-08-08T17:41:04.557790",
+  "last_sync": "2026-08-08T17:42:49.157949",
   "settings": {
     "font_family": "Inter",
     "custom_font_path": "",
@@ -57,7 +57,7 @@
     "health_weight": 107,
     "git_status": "connected",
     "git_last_sync": "8/2/2026, 10:57:28 AM",
-    "last_sync_timestamp": "2026-08-08T17:40:59.016996",
+    "last_sync_timestamp": "2026-08-08T17:41:04.557790",
     "health_age": 24,
     "health_height": 190,
     "health_gender": "Male",
@@ -437,6 +437,22 @@
         "type": "Positive",
         "uuid": "3fc13e95b9fe4464b43b7250318ac70f",
         "modified_at": "2026-08-08T17:36:58.808936"
+      },
+      {
+        "id": 12,
+        "name": "master mac",
+        "created_at": "2026-08-08T17:42:12.663710",
+        "type": "Positive",
+        "uuid": "f56da67da76c49388ccebaefdedb8046",
+        "modified_at": "2026-08-08T17:42:12.663704"
+      },
+      {
+        "id": 13,
+        "name": "maxcccccc",
+        "created_at": "2026-08-08T17:42:20.147833",
+        "type": "Positive",
+        "uuid": "d41d73c4e00244f4a1945ea221d9f274",
+        "modified_at": "2026-08-08T17:42:20.147827"
       }
     ],
     "habit_logs": [
@@ -540,17 +556,17 @@
         "id": 13,
         "habit_id": 1,
         "date": "Sun, 8/2",
-        "status": 1,
+        "status": 0,
         "uuid": "462aff56a93e4da9a1eda43958f7fee1",
-        "modified_at": "2026-08-08T17:36:55.435568"
+        "modified_at": "2026-08-08T17:42:26.844110"
       },
       {
         "id": 14,
         "habit_id": 1,
         "date": "Mon, 8/3",
-        "status": 1,
+        "status": 0,
         "uuid": "f80e9e3d02d64107b88cc28013d31d2f",
-        "modified_at": "2026-08-08T17:36:55.779189"
+        "modified_at": "2026-08-08T17:42:27.358312"
       },
       {
         "id": 15,
@@ -591,6 +607,46 @@
         "status": 1,
         "uuid": "cb9972776d53481189d2b636bb7e1b34",
         "modified_at": "2026-08-08T17:37:02.762720"
+      },
+      {
+        "id": 20,
+        "habit_id": 12,
+        "date": "Sun, 8/2",
+        "status": 1,
+        "uuid": "0139f3b146d7452397eaae07d2260ba8",
+        "modified_at": "2026-08-08T17:42:14.754999"
+      },
+      {
+        "id": 21,
+        "habit_id": 13,
+        "date": "Sun, 8/2",
+        "status": 1,
+        "uuid": "eab3ae0743ea4340ba7b802abf1a22bb",
+        "modified_at": "2026-08-08T17:42:21.869477"
+      },
+      {
+        "id": 22,
+        "habit_id": 13,
+        "date": "Mon, 8/3",
+        "status": 1,
+        "uuid": "322dccbf256e431bb2f9b013b026ce6e",
+        "modified_at": "2026-08-08T17:42:23.147950"
+      },
+      {
+        "id": 23,
+        "habit_id": 13,
+        "date": "Tue, 8/4",
+        "status": 1,
+        "uuid": "4ec8aac23b314c05a4c74791b9aea145",
+        "modified_at": "2026-08-08T17:42:24.187979"
+      },
+      {
+        "id": 24,
+        "habit_id": 13,
+        "date": "Wed, 8/5",
+        "status": 1,
+        "uuid": "9719b8ef1a714e3f912ccce02dc165a0",
+        "modified_at": "2026-08-08T17:42:25.159319"
       }
     ],
     "flashcards": [
@@ -1292,6 +1348,14 @@
         "description": "Successfully synced with Git cluster. K-Peer Sync completed successfully",
         "uuid": "b0cedf5ef96e47eebfcd18ffa8a6f999",
         "modified_at": "2026-08-08T17:41:01.218569"
+      },
+      {
+        "id": 15,
+        "timestamp": "2026-08-08T17:41:06.926500",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. K-Peer Sync completed successfully",
+        "uuid": "6dd0e065746649d58ae00eef3e7d7520",
+        "modified_at": "2026-08-08T17:41:06.926500"
       }
     ]
   }
