@@ -1,6 +1,6 @@
 {
   "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-  "last_sync": "2026-08-08T17:38:42.414900",
+  "last_sync": "2026-08-08T17:39:43.403167",
   "settings": {
     "font_family": "Inter",
     "custom_font_path": "",
@@ -58,7 +58,7 @@
     "health_weight": 107,
     "git_status": "connected",
     "git_last_sync": "8/2/2026, 10:57:28 AM",
-    "last_sync_timestamp": "2026-08-08T17:37:31.823996",
+    "last_sync_timestamp": "2026-08-08T17:38:42.414900",
     "health_age": 24,
     "health_height": 190,
     "health_gender": "Male",
@@ -642,6 +642,18 @@
         "color": "#3b82f6",
         "uuid": "3bfbc4fda71042a4a3c33529f44e78b6",
         "modified_at": "2026-08-08T17:37:17.369383"
+      },
+      {
+        "id": 5,
+        "front": "master mac ",
+        "back": "",
+        "deck": "Main",
+        "next_review": null,
+        "course": "General",
+        "folder": "Uncategorized",
+        "color": "#3b82f6",
+        "uuid": "7538cbd24b4847a88b296fddf77cae4e",
+        "modified_at": "2026-08-08T17:39:09.087341"
       }
     ],
     "quizzes": [
@@ -674,6 +686,16 @@
         "color": "#3b82f6",
         "uuid": "428a10eaa80e41bfb141f4afdd0347c7",
         "modified_at": "2026-08-08T17:37:13.865643"
+      },
+      {
+        "id": 4,
+        "title": "mac master",
+        "questions_json": "[\n  {\"q\": \"Difference between Process and Thread?\", \"opts\": [\"Memory Isolation\", \"No Difference\"], \"ans\": 0}\n]",
+        "course": "General",
+        "folder": "Uncategorized",
+        "color": "#3b82f6",
+        "uuid": "f5f2e27f375c47bd95f17dd7b72753d2",
+        "modified_at": "2026-08-08T17:39:21.344842"
       }
     ],
     "focus_queue": [
@@ -937,6 +959,17 @@
         "color": "#3b82f6",
         "uuid": "d9dc4872420a40308a429c13b946440b",
         "modified_at": "2026-08-08T17:37:21.570150"
+      },
+      {
+        "id": 20,
+        "title": "mac master ",
+        "content": "",
+        "timestamp": "2026-08-08T17:39:34.378791",
+        "course": "General",
+        "folder": "Uncategorized",
+        "color": "#3b82f6",
+        "uuid": "0142b9655dff4eb1866f3b7f6995e34f",
+        "modified_at": "2026-08-08T17:39:34.378782"
       }
     ],
     "health_profile": [
@@ -1142,6 +1175,14 @@
         "description": "Successfully synced with Git cluster. Successfully Cloned. Restart App.",
         "uuid": "be65993bc93f434a92320a5f2d32164c",
         "modified_at": "2026-08-08T17:29:47.229780"
+      },
+      {
+        "id": 14,
+        "timestamp": "2026-08-08T17:38:44.623798",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. K-Peer Sync completed successfully",
+        "uuid": "61d697cdac154cdc8136b2fb33b9aecd",
+        "modified_at": "2026-08-08T17:38:44.623798"
       }
     ]
   }
