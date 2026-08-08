@@ -1,0 +1,330 @@
+{
+  "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+  "last_sync": "2026-08-08T16:32:21.851055",
+  "settings": {
+    "font_family": "Inter",
+    "custom_font_path": "",
+    "font_color": "#ffffff",
+    "font_size": 16,
+    "clock_style": "Analog Classic",
+    "clock_case_shape": "Round",
+    "clock_bezel": "Fluted",
+    "clock_indices": "Baton",
+    "clock_ticks": "Crosshair",
+    "clock_hands": "Breguet",
+    "clock_complication": "Date Window",
+    "dist_delay": 5,
+    "vision_mode": "Visible (Face Only)",
+    "bg_image_path": "/Users/alinikkhah/Downloads/Ceiling_of_Tomb_of_Omar_Khayyam.jpg",
+    "quotes_path": "",
+    "panel_opacity": 231,
+    "face_scale_factor": 1.2,
+    "face_min_neighbors": 5,
+    "face_min_size": 120,
+    "vision_sample_interval": 5,
+    "force_close_apps_mins": 1,
+    "sound_app_dist": "Morse",
+    "sound_cam_dist": "Basso",
+    "sound_cam_err": "Hero",
+    "beep_freq": 3,
+    "loop_1m": 2,
+    "loop_5m": 5,
+    "loop_15m": 10,
+    "loop_30m": 20,
+    "loop_60m": 30,
+    "speech_dist": "You have been distracted. Please return to work.",
+    "speech_comp": "Fantastic job! Your deep work session is complete.",
+    "mute_sounds": false,
+    "mute_speech": false,
+    "sync_enabled": true,
+    "sync_repo_url": "https://github.com/AliNikkhah2001/MindPalaceData.git",
+    "sync_interval": 360,
+    "sync_local_paths": [
+      "/Users/alinikkhah/MindPalace_Library",
+      "/Users/alinikkhah/Documents/Research/Kolouri/"
+    ],
+    "quiet_mode": false,
+    "app_monitoring_enabled": true,
+    "allowed_apps": [],
+    "blocked_apps": [],
+    "auto_block": true,
+    "dashboard_layout": {},
+    "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+    "has_token": true,
+    "mapped_folders": [
+      "/Users/alinikkhah/MindPalace_Library",
+      "/Users/alinikkhah/Documents/Research/Kolouri/"
+    ],
+    "health_weight": 107,
+    "git_status": "connected",
+    "git_last_sync": "8/8/2026, 3:07:28 PM",
+    "last_sync_timestamp": "2026-08-08T16:30:52.171889",
+    "health_age": 24,
+    "health_height": 190,
+    "health_gender": "Male",
+    "health_activity": 1.2,
+    "health_deficit": 1500,
+    "process_list": [],
+    "sync_msg": "Sync completed successfully",
+    "sync_progress_pct": 100
+  },
+  "tables": {
+    "courses": [],
+    "pomodoro_sessions": [],
+    "cascading_goals": [],
+    "habits": [],
+    "habit_logs": [],
+    "flashcards": [],
+    "quizzes": [],
+    "focus_queue": [],
+    "notes": [],
+    "health_profile": [],
+    "health_logs": [],
+    "custom_foods": [],
+    "custom_activities": [],
+    "health_plans": [],
+    "ingredients": [
+      {
+        "id": 1,
+        "uuid": "3ce2cdb53d134e019573a0a4a7738a14",
+        "modified_at": "2026-08-05T00:35:18.679897",
+        "name": "jiono",
+        "kcal": 9.0,
+        "protein": 9.0,
+        "fat": 9.0,
+        "carbs": 9.0,
+        "image_path": "",
+        "is_iranian": 1
+      }
+    ],
+    "composite_foods": [
+      {
+        "id": 1,
+        "uuid": "9f19bea76c04465aa3496d4b699f722a",
+        "modified_at": "2026-08-05T00:35:50.317343",
+        "name": "ioj",
+        "image_path": ""
+      }
+    ],
+    "recipe_ingredients": [
+      {
+        "id": 1,
+        "uuid": "b4450a2e548342b2a8e0b40b9d004863",
+        "modified_at": "2026-08-05T00:35:50.318154",
+        "composite_food_id": 1,
+        "ingredient_id": 1,
+        "amount_grams": 100.0
+      }
+    ],
+    "activity_logs": [
+      {
+        "id": 1,
+        "timestamp": "2026-08-08T14:26:02.303061",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "uuid": "37b97ac55d924c1695cae2cc69349c7f",
+        "modified_at": "2026-08-08T14:26:02.303061"
+      },
+      {
+        "id": 2,
+        "timestamp": "2026-08-08T14:26:16.736768",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Master Overwrite completed successfully",
+        "uuid": "d71a71c804374ffaa9ae779f305791a2",
+        "modified_at": "2026-08-08T14:26:16.736768"
+      },
+      {
+        "id": 3,
+        "timestamp": "2026-08-08T14:31:13.638896",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "uuid": "636e72a44a6c466bb8f8456d236f3102",
+        "modified_at": "2026-08-08T14:31:13.638896"
+      },
+      {
+        "id": 4,
+        "timestamp": "2026-08-08T14:31:29.327301",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "uuid": "3023d7eb59d04dafb92926441386e9a3",
+        "modified_at": "2026-08-08T14:31:29.327301"
+      },
+      {
+        "id": 5,
+        "timestamp": "2026-08-08T14:37:29.344061",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "uuid": "6407f06ed24c4b70acb4279db17e32d8",
+        "modified_at": "2026-08-08T14:37:29.344061"
+      },
+      {
+        "id": 6,
+        "timestamp": "2026-08-08T14:43:29.566828",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "uuid": "46e68a236f224eabb8d78d69e1b5acd6",
+        "modified_at": "2026-08-08T14:43:29.566828"
+      },
+      {
+        "id": 7,
+        "timestamp": "2026-08-08T14:49:29.329983",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "uuid": "978ef8311856405dbab3cbeba995bb2b",
+        "modified_at": "2026-08-08T14:49:29.329983"
+      },
+      {
+        "id": 8,
+        "timestamp": "2026-08-08T14:55:32.710655",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "uuid": "0ea22117cfca4b189e03a34da1b0e058",
+        "modified_at": "2026-08-08T14:55:32.710655"
+      },
+      {
+        "id": 9,
+        "timestamp": "2026-08-08T15:01:29.231533",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "uuid": "09aee4474eb84403b3ffb94aea5dd0c8",
+        "modified_at": "2026-08-08T15:01:29.231533"
+      },
+      {
+        "id": 10,
+        "timestamp": "2026-08-08T15:07:28.964947",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "uuid": "69a8bf1dd089450ca3cddfd6c7c60bc2",
+        "modified_at": "2026-08-08T15:07:28.964947"
+      },
+      {
+        "id": 11,
+        "timestamp": "2026-08-08T15:09:27.141736",
+        "module": "Settings",
+        "description": "Updated application settings via UI.",
+        "uuid": "c9caa0ef28d943c78c65a6b1da42029b",
+        "modified_at": "2026-08-08T15:09:27.141736"
+      },
+      {
+        "id": 12,
+        "timestamp": "2026-08-08T15:09:27.688920",
+        "module": "Settings",
+        "description": "Updated application settings via UI.",
+        "uuid": "3961521e6f314fe5bb3add74563485c0",
+        "modified_at": "2026-08-08T15:09:27.688920"
+      },
+      {
+        "id": 13,
+        "timestamp": "2026-08-08T15:16:43.350634",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "uuid": "92b367f995544ddfb66d2f184ecce86e",
+        "modified_at": "2026-08-08T15:16:43.350634"
+      },
+      {
+        "id": 14,
+        "timestamp": "2026-08-08T15:22:43.307690",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "uuid": "9ba1f2daa65c4c0f8046f58a45dfe43a",
+        "modified_at": "2026-08-08T15:22:43.307690"
+      },
+      {
+        "id": 15,
+        "timestamp": "2026-08-08T15:32:47.591245",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "uuid": "60da91b3a75547cd95315a96b120ba25",
+        "modified_at": "2026-08-08T15:32:47.591245"
+      },
+      {
+        "id": 16,
+        "timestamp": "2026-08-08T15:35:16.699253",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Master Overwrite completed successfully",
+        "uuid": "3e698e7a954a42d5ab46d3415e9ae516",
+        "modified_at": "2026-08-08T15:35:16.699253"
+      },
+      {
+        "id": 17,
+        "timestamp": "2026-08-08T15:54:53.813104",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "uuid": "e0650a44bac44ce7ad1f94ecf9f9c5f5",
+        "modified_at": "2026-08-08T15:54:53.813104"
+      },
+      {
+        "id": 18,
+        "timestamp": "2026-08-08T16:00:55.349654",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "uuid": "d5f14659cd32411cbb3cb39e866f034e",
+        "modified_at": "2026-08-08T16:00:55.349654"
+      },
+      {
+        "id": 19,
+        "timestamp": "2026-08-08T16:06:50.336489",
+        "module": "Sync Error",
+        "description": "Sync failed: No remote master data found on Git cluster.",
+        "uuid": "aae56c2b05fa483b9e47105f548cfafb",
+        "modified_at": "2026-08-08T16:06:50.336489"
+      },
+      {
+        "id": 20,
+        "timestamp": "2026-08-08T16:06:53.107665",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "uuid": "2c2943493c114f87bd01a56150da1781",
+        "modified_at": "2026-08-08T16:06:53.107665"
+      },
+      {
+        "id": 21,
+        "timestamp": "2026-08-08T16:07:01.561421",
+        "module": "Sync Error",
+        "description": "Sync failed: No remote master data found on Git cluster.",
+        "uuid": "65b38b83c757432f9206109cb3b149d6",
+        "modified_at": "2026-08-08T16:07:01.561421"
+      },
+      {
+        "id": 22,
+        "timestamp": "2026-08-08T16:12:50.152151",
+        "module": "Sync Error",
+        "description": "Sync failed: Pull exception: Cmd('git') failed due to: exit code(1)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: unable to access 'https://github.com/AliNikkhah2001/MindPalaceData.git/': Could not resolve host: github.com'",
+        "uuid": "a5533213c00c4afaa8f5281cd2313088",
+        "modified_at": "2026-08-08T16:12:50.152151"
+      },
+      {
+        "id": 23,
+        "timestamp": "2026-08-08T16:15:15.138811",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "uuid": "0439cb8e3f2649b699026fffef376fbf",
+        "modified_at": "2026-08-08T16:15:15.138811"
+      },
+      {
+        "id": 24,
+        "timestamp": "2026-08-08T16:18:54.567683",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "uuid": "89ae57a5720e493cb0c8eb6270b08c08",
+        "modified_at": "2026-08-08T16:18:54.567683"
+      },
+      {
+        "id": 25,
+        "timestamp": "2026-08-08T16:24:54.575222",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "uuid": "fb8c339840c84a40bf3a08d05588507b",
+        "modified_at": "2026-08-08T16:24:54.575222"
+      },
+      {
+        "id": 26,
+        "timestamp": "2026-08-08T16:30:53.821244",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "uuid": "1dcde06ad1924dc69a5ba22ec74d4dc2",
+        "modified_at": "2026-08-08T16:30:53.821244"
+      }
+    ]
+  }
+}
