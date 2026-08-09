@@ -1,6 +1,6 @@
 {
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-08-09T16:08:04.708978",
+  "last_sync": "2026-08-09T16:22:15.123196",
   "settings": {
     "font_family": "Inter",
     "custom_font_path": "",
@@ -52,11 +52,12 @@
     "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
     "has_token": true,
     "mapped_folders": [
-      "C:\\Users\\10225/MindPalace_Library"
+      "C:\\Users\\10225/MindPalace_Library",
+      "C:/Users/10225/Documents/RAG System Design Diagrams"
     ],
     "git_status": "error",
     "git_last_sync": "8/2/2026, 10:57:28 AM",
-    "last_sync_timestamp": "2026-08-09T16:07:53.897039",
+    "last_sync_timestamp": "2026-08-09T16:08:04.708978",
     "health_weight": 107,
     "health_age": 24,
     "health_height": 190,
@@ -1384,6 +1385,54 @@
         "description": "Successfully synced with Git cluster. K-Peer Sync completed successfully",
         "uuid": "8c44d70ecda24ed9a3628f0cb1b9e8a2",
         "modified_at": "2026-08-09T16:07:57.339468"
+      },
+      {
+        "id": 27,
+        "timestamp": "2026-08-09T16:08:07.963526",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Master Overwrite completed successfully",
+        "uuid": "5c2ccb41164e4f2aa6539d27994b4974",
+        "modified_at": "2026-08-09T16:08:07.963526"
+      },
+      {
+        "id": 28,
+        "timestamp": "2026-08-09T16:08:13.882585",
+        "module": "Sync Error",
+        "description": "Sync failed: No remote data found to clone (no JSON files in sync directory)",
+        "uuid": "736bfb78c6e54677b4c8a49836bc7203",
+        "modified_at": "2026-08-09T16:08:13.882585"
+      },
+      {
+        "id": 29,
+        "timestamp": "2026-08-09T16:22:07.033819",
+        "module": "Settings",
+        "description": "Updated application settings via UI.",
+        "uuid": "abb6f222a836413d91f429520aa2bd45",
+        "modified_at": "2026-08-09T16:22:07.033819"
+      },
+      {
+        "id": 30,
+        "timestamp": "2026-08-09T16:22:08.235310",
+        "module": "Settings",
+        "description": "Updated application settings via UI.",
+        "uuid": "36d5e374fcd3406b986d79b1929295a1",
+        "modified_at": "2026-08-09T16:22:08.235310"
+      },
+      {
+        "id": 31,
+        "timestamp": "2026-08-09T16:22:08.626344",
+        "module": "Settings",
+        "description": "Updated application settings via UI.",
+        "uuid": "c4ebbaa894dc4a0f96d71f6b9f887c4e",
+        "modified_at": "2026-08-09T16:22:08.626344"
+      },
+      {
+        "id": 32,
+        "timestamp": "2026-08-09T16:22:09.022148",
+        "module": "Settings",
+        "description": "Updated application settings via UI.",
+        "uuid": "6f50390240704a41af607019d23c7271",
+        "modified_at": "2026-08-09T16:22:09.022148"
       }
     ],
     "deleted_uuids": []
