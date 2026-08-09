@@ -1,6 +1,6 @@
 {
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-08-09T13:43:31.732800",
+  "last_sync": "2026-08-09T16:07:53.897039",
   "settings": {
     "font_family": "Inter",
     "custom_font_path": "",
@@ -56,7 +56,7 @@
     ],
     "git_status": "error",
     "git_last_sync": "8/2/2026, 10:57:28 AM",
-    "last_sync_timestamp": "2026-08-09T13:43:04.943750",
+    "last_sync_timestamp": "2026-08-09T13:43:31.732800",
     "health_weight": 107,
     "health_age": 24,
     "health_height": 190,
@@ -240,66 +240,6 @@
       }
     ],
     "cascading_goals": [
-      {
-        "id": 1,
-        "parent_id": null,
-        "level": null,
-        "title": "mac",
-        "category": null,
-        "target_hours": 6.0,
-        "logged_hours": 0.0,
-        "deadline": "2026-08-08 20:54",
-        "uuid": "0727660c27254279b1e28ff1ee35622b",
-        "modified_at": "2026-08-02T00:24:43.700603"
-      },
-      {
-        "id": 2,
-        "parent_id": 1,
-        "level": null,
-        "title": "os",
-        "category": null,
-        "target_hours": 8.0,
-        "logged_hours": 0.0,
-        "deadline": "2026-08-08 20:54",
-        "uuid": "2961897cb2924142906b96ffa5dd4f75",
-        "modified_at": "2026-08-02T00:24:52.495216"
-      },
-      {
-        "id": 3,
-        "parent_id": 1,
-        "level": null,
-        "title": "iphone",
-        "category": null,
-        "target_hours": 8.0,
-        "logged_hours": 0.0,
-        "deadline": "2026-08-08 20:54",
-        "uuid": "f01262ec68524e3889d37c336d2e4338",
-        "modified_at": "2026-08-02T00:24:59.984057"
-      },
-      {
-        "id": 4,
-        "parent_id": 3,
-        "level": null,
-        "title": "ubuntu",
-        "category": null,
-        "target_hours": 5.0,
-        "logged_hours": 0.0,
-        "deadline": "2026-08-08 20:54",
-        "uuid": "e10e0c3e71e244c8a94a38abd42fb223",
-        "modified_at": "2026-08-02T00:25:15.924057"
-      },
-      {
-        "id": 5,
-        "parent_id": null,
-        "level": null,
-        "title": "uoji",
-        "category": "Goal",
-        "target_hours": 9.0,
-        "logged_hours": 0.0,
-        "deadline": "2026-07-31 00:00",
-        "uuid": "c3cb88a223604e3695beba2de17bdb8a",
-        "modified_at": "2026-07-30T00:21:19.633502"
-      },
       {
         "id": 6,
         "parent_id": null,
@@ -628,9 +568,9 @@
         "id": 22,
         "habit_id": 13,
         "date": "Mon, 8/3",
-        "status": 1,
+        "status": 0,
         "uuid": "322dccbf256e431bb2f9b013b026ce6e",
-        "modified_at": "2026-08-08T17:42:23.147950"
+        "modified_at": "2026-08-09T16:07:35.880041"
       },
       {
         "id": 23,
@@ -1420,14 +1360,77 @@
         "description": "Sync failed: 'NoneType' object is not subscriptable",
         "uuid": "e544f5996c434b5d83653b3066b95269",
         "modified_at": "2026-08-09T13:43:21.223979"
+      },
+      {
+        "id": 24,
+        "timestamp": "2026-08-09T13:43:36.574267",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Master Overwrite completed successfully",
+        "uuid": "54c1993582dc4cce9ce16d15a1f17d72",
+        "modified_at": "2026-08-09T13:43:36.574267"
+      },
+      {
+        "id": 25,
+        "timestamp": "2026-08-09T13:43:38.889016",
+        "module": "Sync Error",
+        "description": "Sync failed: 'NoneType' object is not subscriptable",
+        "uuid": "77aa86c42baf44c7938c1b37468e2309",
+        "modified_at": "2026-08-09T13:43:38.889016"
       }
     ],
-    "deleted_uuids": []
+    "deleted_uuids": [
+      {
+        "table_name": "cascading_goals",
+        "uuid": "0727660c27254279b1e28ff1ee35622b",
+        "deleted_at": "2026-08-09T16:07:42.690281"
+      },
+      {
+        "table_name": "cascading_goals",
+        "uuid": "2961897cb2924142906b96ffa5dd4f75",
+        "deleted_at": "2026-08-09T16:07:44.152923"
+      },
+      {
+        "table_name": "cascading_goals",
+        "uuid": "f01262ec68524e3889d37c336d2e4338",
+        "deleted_at": "2026-08-09T16:07:44.320987"
+      },
+      {
+        "table_name": "cascading_goals",
+        "uuid": "e10e0c3e71e244c8a94a38abd42fb223",
+        "deleted_at": "2026-08-09T16:07:44.486854"
+      },
+      {
+        "table_name": "cascading_goals",
+        "uuid": "c3cb88a223604e3695beba2de17bdb8a",
+        "deleted_at": "2026-08-09T16:07:44.963033"
+      }
+    ]
   },
   "deletions": {
     "courses": [],
     "pomodoro_sessions": [],
-    "cascading_goals": [],
+    "cascading_goals": [
+      {
+        "uuid": "0727660c27254279b1e28ff1ee35622b",
+        "deleted_at": "2026-08-09T16:07:42.690281"
+      },
+      {
+        "uuid": "2961897cb2924142906b96ffa5dd4f75",
+        "deleted_at": "2026-08-09T16:07:44.152923"
+      },
+      {
+        "uuid": "c3cb88a223604e3695beba2de17bdb8a",
+        "deleted_at": "2026-08-09T16:07:44.963033"
+      },
+      {
+        "uuid": "e10e0c3e71e244c8a94a38abd42fb223",
+        "deleted_at": "2026-08-09T16:07:44.486854"
+      },
+      {
+        "uuid": "f01262ec68524e3889d37c336d2e4338",
+        "deleted_at": "2026-08-09T16:07:44.320987"
+      }
+    ],
     "habits": [],
     "habit_logs": [],
     "flashcards": [],
