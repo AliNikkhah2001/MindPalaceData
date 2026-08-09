@@ -1,6 +1,6 @@
 {
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-08-09T13:25:21.377432",
+  "last_sync": "2026-08-09T13:43:04.943750",
   "settings": {
     "font_family": "Inter",
     "custom_font_path": "",
@@ -54,7 +54,7 @@
     "mapped_folders": [
       "C:\\Users\\10225/MindPalace_Library"
     ],
-    "git_status": "connected",
+    "git_status": "error",
     "git_last_sync": "8/2/2026, 10:57:28 AM",
     "last_sync_timestamp": "2026-08-08T17:42:49.157949",
     "health_weight": 107,
@@ -241,6 +241,54 @@
     ],
     "cascading_goals": [
       {
+        "id": 1,
+        "parent_id": null,
+        "level": null,
+        "title": "mac",
+        "category": null,
+        "target_hours": 6.0,
+        "logged_hours": 0.0,
+        "deadline": "2026-08-08 20:54",
+        "uuid": "0727660c27254279b1e28ff1ee35622b",
+        "modified_at": "2026-08-02T00:24:43.700603"
+      },
+      {
+        "id": 2,
+        "parent_id": 1,
+        "level": null,
+        "title": "os",
+        "category": null,
+        "target_hours": 8.0,
+        "logged_hours": 0.0,
+        "deadline": "2026-08-08 20:54",
+        "uuid": "2961897cb2924142906b96ffa5dd4f75",
+        "modified_at": "2026-08-02T00:24:52.495216"
+      },
+      {
+        "id": 3,
+        "parent_id": 1,
+        "level": null,
+        "title": "iphone",
+        "category": null,
+        "target_hours": 8.0,
+        "logged_hours": 0.0,
+        "deadline": "2026-08-08 20:54",
+        "uuid": "f01262ec68524e3889d37c336d2e4338",
+        "modified_at": "2026-08-02T00:24:59.984057"
+      },
+      {
+        "id": 4,
+        "parent_id": 3,
+        "level": null,
+        "title": "ubuntu",
+        "category": null,
+        "target_hours": 5.0,
+        "logged_hours": 0.0,
+        "deadline": "2026-08-08 20:54",
+        "uuid": "e10e0c3e71e244c8a94a38abd42fb223",
+        "modified_at": "2026-08-02T00:25:15.924057"
+      },
+      {
         "id": 5,
         "parent_id": null,
         "level": null,
@@ -299,54 +347,6 @@
         "deadline": "2026-08-15 14:06",
         "uuid": "c352d444c64f45dd91ff84d27da6a2fd",
         "modified_at": "2026-08-08T17:36:51.793268"
-      },
-      {
-        "id": 10,
-        "parent_id": null,
-        "level": null,
-        "title": "mac",
-        "category": null,
-        "target_hours": 6.0,
-        "logged_hours": 0.0,
-        "deadline": "2026-08-08 20:54",
-        "uuid": "0727660c27254279b1e28ff1ee35622b",
-        "modified_at": "2026-08-02T00:24:43.700603"
-      },
-      {
-        "id": 11,
-        "parent_id": 1,
-        "level": null,
-        "title": "os",
-        "category": null,
-        "target_hours": 8.0,
-        "logged_hours": 0.0,
-        "deadline": "2026-08-08 20:54",
-        "uuid": "2961897cb2924142906b96ffa5dd4f75",
-        "modified_at": "2026-08-02T00:24:52.495216"
-      },
-      {
-        "id": 12,
-        "parent_id": 1,
-        "level": null,
-        "title": "iphone",
-        "category": null,
-        "target_hours": 8.0,
-        "logged_hours": 0.0,
-        "deadline": "2026-08-08 20:54",
-        "uuid": "f01262ec68524e3889d37c336d2e4338",
-        "modified_at": "2026-08-02T00:24:59.984057"
-      },
-      {
-        "id": 13,
-        "parent_id": 3,
-        "level": null,
-        "title": "ubuntu",
-        "category": null,
-        "target_hours": 5.0,
-        "logged_hours": 0.0,
-        "deadline": "2026-08-08 20:54",
-        "uuid": "e10e0c3e71e244c8a94a38abd42fb223",
-        "modified_at": "2026-08-02T00:25:15.924057"
       }
     ],
     "habits": [
@@ -1359,73 +1359,51 @@
       },
       {
         "id": 16,
-        "timestamp": "2026-08-08T17:44:11.405609",
+        "timestamp": "2026-08-09T13:41:19.207233",
         "module": "Sync",
         "description": "Successfully synced with Git cluster. Successfully Cloned. Restart App.",
-        "uuid": "4d0b12019b474d6a9c76b4fd2b5e5d5c",
-        "modified_at": "2026-08-08T17:44:11.405609"
+        "uuid": "87f30c2238d24b0587f2b49488c6f9f8",
+        "modified_at": "2026-08-09T13:41:19.207233"
       },
       {
         "id": 17,
-        "timestamp": "2026-08-09T13:20:10.642448",
-        "module": "Settings",
-        "description": "Updated application settings via UI.",
-        "uuid": "91a977ae976346c7abd0190e3fa90f2b",
-        "modified_at": "2026-08-09T13:20:10.642448"
+        "timestamp": "2026-08-09T13:42:43.566322",
+        "module": "Sync Error",
+        "description": "Sync failed: [Errno 13] Permission denied: 'config.json'",
+        "uuid": "cf6d7ed98f134bc08a9b86e6e6544a6b",
+        "modified_at": "2026-08-09T13:42:43.566322"
       },
       {
         "id": 18,
-        "timestamp": "2026-08-09T13:24:54.861498",
-        "module": "Sync Error",
-        "description": "Sync failed: 'NoneType' object is not subscriptable",
-        "uuid": "8905a7543280410a8f54b895c22e678e",
-        "modified_at": "2026-08-09T13:24:54.861498"
+        "timestamp": "2026-08-09T13:42:43.962678",
+        "module": "Settings",
+        "description": "Updated application settings via UI.",
+        "uuid": "d4de52aca97248c8a3448062fb21be5c",
+        "modified_at": "2026-08-09T13:42:43.962678"
+      },
+      {
+        "id": 19,
+        "timestamp": "2026-08-09T13:42:46.653739",
+        "module": "Settings",
+        "description": "Updated application settings via UI.",
+        "uuid": "a4ed5c0ce0574b99884ead3795f41e90",
+        "modified_at": "2026-08-09T13:42:46.653739"
+      },
+      {
+        "id": 20,
+        "timestamp": "2026-08-09T13:42:47.274791",
+        "module": "Settings",
+        "description": "Updated application settings via UI.",
+        "uuid": "df7ef5b60b7443508686bba4d220827a",
+        "modified_at": "2026-08-09T13:42:47.274791"
       }
     ],
-    "deleted_uuids": [
-      {
-        "table_name": "cascading_goals",
-        "uuid": "0727660c27254279b1e28ff1ee35622b",
-        "deleted_at": "2026-08-09T13:20:36.898733"
-      },
-      {
-        "table_name": "cascading_goals",
-        "uuid": "2961897cb2924142906b96ffa5dd4f75",
-        "deleted_at": "2026-08-09T13:20:37.277748"
-      },
-      {
-        "table_name": "cascading_goals",
-        "uuid": "f01262ec68524e3889d37c336d2e4338",
-        "deleted_at": "2026-08-09T13:20:37.682151"
-      },
-      {
-        "table_name": "cascading_goals",
-        "uuid": "e10e0c3e71e244c8a94a38abd42fb223",
-        "deleted_at": "2026-08-09T13:20:37.986384"
-      }
-    ]
+    "deleted_uuids": []
   },
   "deletions": {
     "courses": [],
     "pomodoro_sessions": [],
-    "cascading_goals": [
-      {
-        "uuid": "0727660c27254279b1e28ff1ee35622b",
-        "deleted_at": "2026-08-09T13:20:36.898733"
-      },
-      {
-        "uuid": "2961897cb2924142906b96ffa5dd4f75",
-        "deleted_at": "2026-08-09T13:20:37.277748"
-      },
-      {
-        "uuid": "e10e0c3e71e244c8a94a38abd42fb223",
-        "deleted_at": "2026-08-09T13:20:37.986384"
-      },
-      {
-        "uuid": "f01262ec68524e3889d37c336d2e4338",
-        "deleted_at": "2026-08-09T13:20:37.682151"
-      }
-    ],
+    "cascading_goals": [],
     "habits": [],
     "habit_logs": [],
     "flashcards": [],
