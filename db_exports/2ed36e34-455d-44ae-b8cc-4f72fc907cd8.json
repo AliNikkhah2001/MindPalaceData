@@ -1,6 +1,6 @@
 {
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-08-08T17:43:30.766107",
+  "last_sync": "2026-08-09T13:25:21.377432",
   "settings": {
     "font_family": "Inter",
     "custom_font_path": "",
@@ -49,7 +49,7 @@
     "blocked_apps": [],
     "auto_block": false,
     "dashboard_layout": {},
-    "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+    "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
     "has_token": true,
     "mapped_folders": [
       "C:\\Users\\10225/MindPalace_Library"
@@ -241,54 +241,6 @@
     ],
     "cascading_goals": [
       {
-        "id": 1,
-        "parent_id": null,
-        "level": null,
-        "title": "mac",
-        "category": null,
-        "target_hours": 6.0,
-        "logged_hours": 0.0,
-        "deadline": "2026-08-08 20:54",
-        "uuid": "0727660c27254279b1e28ff1ee35622b",
-        "modified_at": "2026-08-02T00:24:43.700603"
-      },
-      {
-        "id": 2,
-        "parent_id": 1,
-        "level": null,
-        "title": "os",
-        "category": null,
-        "target_hours": 8.0,
-        "logged_hours": 0.0,
-        "deadline": "2026-08-08 20:54",
-        "uuid": "2961897cb2924142906b96ffa5dd4f75",
-        "modified_at": "2026-08-02T00:24:52.495216"
-      },
-      {
-        "id": 3,
-        "parent_id": 1,
-        "level": null,
-        "title": "iphone",
-        "category": null,
-        "target_hours": 8.0,
-        "logged_hours": 0.0,
-        "deadline": "2026-08-08 20:54",
-        "uuid": "f01262ec68524e3889d37c336d2e4338",
-        "modified_at": "2026-08-02T00:24:59.984057"
-      },
-      {
-        "id": 4,
-        "parent_id": 3,
-        "level": null,
-        "title": "ubuntu",
-        "category": null,
-        "target_hours": 5.0,
-        "logged_hours": 0.0,
-        "deadline": "2026-08-08 20:54",
-        "uuid": "e10e0c3e71e244c8a94a38abd42fb223",
-        "modified_at": "2026-08-02T00:25:15.924057"
-      },
-      {
         "id": 5,
         "parent_id": null,
         "level": null,
@@ -347,6 +299,54 @@
         "deadline": "2026-08-15 14:06",
         "uuid": "c352d444c64f45dd91ff84d27da6a2fd",
         "modified_at": "2026-08-08T17:36:51.793268"
+      },
+      {
+        "id": 10,
+        "parent_id": null,
+        "level": null,
+        "title": "mac",
+        "category": null,
+        "target_hours": 6.0,
+        "logged_hours": 0.0,
+        "deadline": "2026-08-08 20:54",
+        "uuid": "0727660c27254279b1e28ff1ee35622b",
+        "modified_at": "2026-08-02T00:24:43.700603"
+      },
+      {
+        "id": 11,
+        "parent_id": 1,
+        "level": null,
+        "title": "os",
+        "category": null,
+        "target_hours": 8.0,
+        "logged_hours": 0.0,
+        "deadline": "2026-08-08 20:54",
+        "uuid": "2961897cb2924142906b96ffa5dd4f75",
+        "modified_at": "2026-08-02T00:24:52.495216"
+      },
+      {
+        "id": 12,
+        "parent_id": 1,
+        "level": null,
+        "title": "iphone",
+        "category": null,
+        "target_hours": 8.0,
+        "logged_hours": 0.0,
+        "deadline": "2026-08-08 20:54",
+        "uuid": "f01262ec68524e3889d37c336d2e4338",
+        "modified_at": "2026-08-02T00:24:59.984057"
+      },
+      {
+        "id": 13,
+        "parent_id": 3,
+        "level": null,
+        "title": "ubuntu",
+        "category": null,
+        "target_hours": 5.0,
+        "logged_hours": 0.0,
+        "deadline": "2026-08-08 20:54",
+        "uuid": "e10e0c3e71e244c8a94a38abd42fb223",
+        "modified_at": "2026-08-02T00:25:15.924057"
       }
     ],
     "habits": [
@@ -836,176 +836,11 @@
         "course": "General",
         "folder": "Bookmarks",
         "color": "#facc15",
-        "uuid": "605515b325de4d1b9f197ab3cf29db52",
-        "modified_at": "2026-08-08T17:03:03.845319"
-      },
-      {
-        "id": 6,
-        "title": "Bookmark: 2001.03447v2.pdf P6",
-        "content": "Bookmarked page 6 of 2001.03447v2.pdf",
-        "timestamp": "2026-08-02T17:13:24.072602",
-        "course": "General",
-        "folder": "Bookmarks",
-        "color": "#facc15",
-        "uuid": "3e8e4dbd9dac4344aceecda4181a92f4",
-        "modified_at": "2026-08-08T17:03:03.845319"
-      },
-      {
-        "id": 7,
-        "title": "Bookmark: 2001.03447v2.pdf P6",
-        "content": "Bookmarked page 6 of 2001.03447v2.pdf",
-        "timestamp": "2026-08-02T17:13:24.072602",
-        "course": "General",
-        "folder": "Bookmarks",
-        "color": "#facc15",
-        "uuid": "8b433050305342d291f4355339edfa4b",
-        "modified_at": "2026-08-08T17:03:03.845319"
-      },
-      {
-        "id": 8,
-        "title": "Bookmark: 2001.03447v2.pdf P6",
-        "content": "Bookmarked page 6 of 2001.03447v2.pdf",
-        "timestamp": "2026-08-02T17:13:24.072602",
-        "course": "General",
-        "folder": "Bookmarks",
-        "color": "#facc15",
-        "uuid": "d8f6596e8b3a4f4b9401092c9ea20a42",
-        "modified_at": "2026-08-08T17:03:03.845319"
-      },
-      {
-        "id": 9,
-        "title": "Bookmark: 2001.03447v2.pdf P6",
-        "content": "Bookmarked page 6 of 2001.03447v2.pdf",
-        "timestamp": "2026-08-02T17:13:24.072602",
-        "course": "General",
-        "folder": "Bookmarks",
-        "color": "#facc15",
-        "uuid": "5b62687c808d47bf8cf93d72c72e35a7",
-        "modified_at": "2026-08-08T17:03:03.845319"
-      },
-      {
-        "id": 10,
-        "title": "Bookmark: 2001.03447v2.pdf P6",
-        "content": "Bookmarked page 6 of 2001.03447v2.pdf",
-        "timestamp": "2026-08-02T17:13:24.072602",
-        "course": "General",
-        "folder": "Bookmarks",
-        "color": "#facc15",
-        "uuid": "1641dedcad094afa9ef4f897854ae073",
-        "modified_at": "2026-08-08T17:03:03.845319"
-      },
-      {
-        "id": 11,
-        "title": "Bookmark: 2001.03447v2.pdf P6",
-        "content": "Bookmarked page 6 of 2001.03447v2.pdf",
-        "timestamp": "2026-08-02T17:13:24.072602",
-        "course": "General",
-        "folder": "Bookmarks",
-        "color": "#facc15",
-        "uuid": "f3488186f85249f296b0bfb63ef49ee4",
-        "modified_at": "2026-08-08T17:03:03.845319"
-      },
-      {
-        "id": 12,
-        "title": "Bookmark: 2001.03447v2.pdf P6",
-        "content": "Bookmarked page 6 of 2001.03447v2.pdf",
-        "timestamp": "2026-08-02T17:13:24.072602",
-        "course": "General",
-        "folder": "Bookmarks",
-        "color": "#facc15",
-        "uuid": "3648eef5eda64007a035a3aaedb1d0ab",
-        "modified_at": "2026-08-08T17:03:03.845319"
-      },
-      {
-        "id": 13,
-        "title": "Bookmark: 2001.03447v2.pdf P6",
-        "content": "Bookmarked page 6 of 2001.03447v2.pdf",
-        "timestamp": "2026-08-02T17:13:24.072602",
-        "course": "General",
-        "folder": "Bookmarks",
-        "color": "#facc15",
-        "uuid": "17e17190073748e78216830117576f7f",
-        "modified_at": "2026-08-08T17:03:03.845319"
-      },
-      {
-        "id": 14,
-        "title": "Bookmark: 2001.03447v2.pdf P6",
-        "content": "Bookmarked page 6 of 2001.03447v2.pdf",
-        "timestamp": "2026-08-02T17:13:24.072602",
-        "course": "General",
-        "folder": "Bookmarks",
-        "color": "#facc15",
-        "uuid": "bda7d9f3c52844f98641bb07ac817712",
-        "modified_at": "2026-08-08T17:03:03.845319"
-      },
-      {
-        "id": 15,
-        "title": "Bookmark: 2001.03447v2.pdf P6",
-        "content": "Bookmarked page 6 of 2001.03447v2.pdf",
-        "timestamp": "2026-08-02T17:13:24.072602",
-        "course": "General",
-        "folder": "Bookmarks",
-        "color": "#facc15",
-        "uuid": "60dc29a51e654391ae6b4be608578374",
-        "modified_at": "2026-08-08T17:03:03.845319"
-      },
-      {
-        "id": 16,
-        "title": "Bookmark: 2001.03447v2.pdf P6",
-        "content": "Bookmarked page 6 of 2001.03447v2.pdf",
-        "timestamp": "2026-08-02T17:13:24.072602",
-        "course": "General",
-        "folder": "Bookmarks",
-        "color": "#facc15",
-        "uuid": "4df1be0069d346739c78a2f915dd4fa4",
-        "modified_at": "2026-08-08T17:03:03.845319"
-      },
-      {
-        "id": 17,
-        "title": "Bookmark: 2001.03447v2.pdf P6",
-        "content": "Bookmarked page 6 of 2001.03447v2.pdf",
-        "timestamp": "2026-08-02T17:13:24.072602",
-        "course": "General",
-        "folder": "Bookmarks",
-        "color": "#facc15",
-        "uuid": "b13c48e761144759b20bc72091a94101",
-        "modified_at": "2026-08-08T17:03:03.845319"
-      },
-      {
-        "id": 18,
-        "title": "MASTER",
-        "content": "",
-        "timestamp": "2026-08-08T17:01:43.328415",
-        "course": "General",
-        "folder": "Uncategorized",
-        "color": "#3b82f6",
-        "uuid": "c89e3537773a4912a87761c862e633b3",
-        "modified_at": "2026-08-08T17:01:43.328408"
-      },
-      {
-        "id": 19,
-        "title": "MASTER Win",
-        "content": "",
-        "timestamp": "2026-08-08T17:37:21.570150",
-        "course": "General",
-        "folder": "Uncategorized",
-        "color": "#3b82f6",
-        "uuid": "d9dc4872420a40308a429c13b946440b",
-        "modified_at": "2026-08-08T17:37:21.570150"
-      },
-      {
-        "id": 20,
-        "title": "Bookmark: 2001.03447v2.pdf P6",
-        "content": "Bookmarked page 6 of 2001.03447v2.pdf",
-        "timestamp": "2026-08-02T17:13:24.072602",
-        "course": "General",
-        "folder": "Bookmarks",
-        "color": "#facc15",
         "uuid": "b0bf5e32caf2460aa620cc04469f6c35",
         "modified_at": "2026-08-08T17:40:59.013726"
       },
       {
-        "id": 21,
+        "id": 6,
         "title": "Bookmark: 2001.03447v2.pdf P6",
         "content": "Bookmarked page 6 of 2001.03447v2.pdf",
         "timestamp": "2026-08-02T17:13:24.072602",
@@ -1016,7 +851,7 @@
         "modified_at": "2026-08-08T17:40:59.013726"
       },
       {
-        "id": 22,
+        "id": 7,
         "title": "Bookmark: 2001.03447v2.pdf P6",
         "content": "Bookmarked page 6 of 2001.03447v2.pdf",
         "timestamp": "2026-08-02T17:13:24.072602",
@@ -1027,7 +862,7 @@
         "modified_at": "2026-08-08T17:40:59.013726"
       },
       {
-        "id": 23,
+        "id": 8,
         "title": "Bookmark: 2001.03447v2.pdf P6",
         "content": "Bookmarked page 6 of 2001.03447v2.pdf",
         "timestamp": "2026-08-02T17:13:24.072602",
@@ -1038,7 +873,7 @@
         "modified_at": "2026-08-08T17:40:59.013726"
       },
       {
-        "id": 24,
+        "id": 9,
         "title": "Bookmark: 2001.03447v2.pdf P6",
         "content": "Bookmarked page 6 of 2001.03447v2.pdf",
         "timestamp": "2026-08-02T17:13:24.072602",
@@ -1049,7 +884,7 @@
         "modified_at": "2026-08-08T17:40:59.013726"
       },
       {
-        "id": 25,
+        "id": 10,
         "title": "Bookmark: 2001.03447v2.pdf P6",
         "content": "Bookmarked page 6 of 2001.03447v2.pdf",
         "timestamp": "2026-08-02T17:13:24.072602",
@@ -1060,7 +895,7 @@
         "modified_at": "2026-08-08T17:40:59.013726"
       },
       {
-        "id": 26,
+        "id": 11,
         "title": "Bookmark: 2001.03447v2.pdf P6",
         "content": "Bookmarked page 6 of 2001.03447v2.pdf",
         "timestamp": "2026-08-02T17:13:24.072602",
@@ -1071,7 +906,7 @@
         "modified_at": "2026-08-08T17:40:59.013726"
       },
       {
-        "id": 27,
+        "id": 12,
         "title": "Bookmark: 2001.03447v2.pdf P6",
         "content": "Bookmarked page 6 of 2001.03447v2.pdf",
         "timestamp": "2026-08-02T17:13:24.072602",
@@ -1082,7 +917,7 @@
         "modified_at": "2026-08-08T17:40:59.013726"
       },
       {
-        "id": 28,
+        "id": 13,
         "title": "Bookmark: 2001.03447v2.pdf P6",
         "content": "Bookmarked page 6 of 2001.03447v2.pdf",
         "timestamp": "2026-08-02T17:13:24.072602",
@@ -1093,7 +928,7 @@
         "modified_at": "2026-08-08T17:40:59.013726"
       },
       {
-        "id": 29,
+        "id": 14,
         "title": "Bookmark: 2001.03447v2.pdf P6",
         "content": "Bookmarked page 6 of 2001.03447v2.pdf",
         "timestamp": "2026-08-02T17:13:24.072602",
@@ -1104,7 +939,7 @@
         "modified_at": "2026-08-08T17:40:59.013726"
       },
       {
-        "id": 30,
+        "id": 15,
         "title": "Bookmark: 2001.03447v2.pdf P6",
         "content": "Bookmarked page 6 of 2001.03447v2.pdf",
         "timestamp": "2026-08-02T17:13:24.072602",
@@ -1115,7 +950,7 @@
         "modified_at": "2026-08-08T17:40:59.013726"
       },
       {
-        "id": 31,
+        "id": 16,
         "title": "Bookmark: 2001.03447v2.pdf P6",
         "content": "Bookmarked page 6 of 2001.03447v2.pdf",
         "timestamp": "2026-08-02T17:13:24.072602",
@@ -1126,7 +961,7 @@
         "modified_at": "2026-08-08T17:40:59.013726"
       },
       {
-        "id": 32,
+        "id": 17,
         "title": "Bookmark: 2001.03447v2.pdf P6",
         "content": "Bookmarked page 6 of 2001.03447v2.pdf",
         "timestamp": "2026-08-02T17:13:24.072602",
@@ -1135,6 +970,171 @@
         "color": "#facc15",
         "uuid": "b6bd69b34f38464db8e79987aabd19b1",
         "modified_at": "2026-08-08T17:40:59.013726"
+      },
+      {
+        "id": 18,
+        "title": "Bookmark: 2001.03447v2.pdf P6",
+        "content": "Bookmarked page 6 of 2001.03447v2.pdf",
+        "timestamp": "2026-08-02T17:13:24.072602",
+        "course": "General",
+        "folder": "Bookmarks",
+        "color": "#facc15",
+        "uuid": "605515b325de4d1b9f197ab3cf29db52",
+        "modified_at": "2026-08-08T17:03:03.845319"
+      },
+      {
+        "id": 19,
+        "title": "Bookmark: 2001.03447v2.pdf P6",
+        "content": "Bookmarked page 6 of 2001.03447v2.pdf",
+        "timestamp": "2026-08-02T17:13:24.072602",
+        "course": "General",
+        "folder": "Bookmarks",
+        "color": "#facc15",
+        "uuid": "3e8e4dbd9dac4344aceecda4181a92f4",
+        "modified_at": "2026-08-08T17:03:03.845319"
+      },
+      {
+        "id": 20,
+        "title": "Bookmark: 2001.03447v2.pdf P6",
+        "content": "Bookmarked page 6 of 2001.03447v2.pdf",
+        "timestamp": "2026-08-02T17:13:24.072602",
+        "course": "General",
+        "folder": "Bookmarks",
+        "color": "#facc15",
+        "uuid": "8b433050305342d291f4355339edfa4b",
+        "modified_at": "2026-08-08T17:03:03.845319"
+      },
+      {
+        "id": 21,
+        "title": "Bookmark: 2001.03447v2.pdf P6",
+        "content": "Bookmarked page 6 of 2001.03447v2.pdf",
+        "timestamp": "2026-08-02T17:13:24.072602",
+        "course": "General",
+        "folder": "Bookmarks",
+        "color": "#facc15",
+        "uuid": "d8f6596e8b3a4f4b9401092c9ea20a42",
+        "modified_at": "2026-08-08T17:03:03.845319"
+      },
+      {
+        "id": 22,
+        "title": "Bookmark: 2001.03447v2.pdf P6",
+        "content": "Bookmarked page 6 of 2001.03447v2.pdf",
+        "timestamp": "2026-08-02T17:13:24.072602",
+        "course": "General",
+        "folder": "Bookmarks",
+        "color": "#facc15",
+        "uuid": "5b62687c808d47bf8cf93d72c72e35a7",
+        "modified_at": "2026-08-08T17:03:03.845319"
+      },
+      {
+        "id": 23,
+        "title": "Bookmark: 2001.03447v2.pdf P6",
+        "content": "Bookmarked page 6 of 2001.03447v2.pdf",
+        "timestamp": "2026-08-02T17:13:24.072602",
+        "course": "General",
+        "folder": "Bookmarks",
+        "color": "#facc15",
+        "uuid": "1641dedcad094afa9ef4f897854ae073",
+        "modified_at": "2026-08-08T17:03:03.845319"
+      },
+      {
+        "id": 24,
+        "title": "Bookmark: 2001.03447v2.pdf P6",
+        "content": "Bookmarked page 6 of 2001.03447v2.pdf",
+        "timestamp": "2026-08-02T17:13:24.072602",
+        "course": "General",
+        "folder": "Bookmarks",
+        "color": "#facc15",
+        "uuid": "f3488186f85249f296b0bfb63ef49ee4",
+        "modified_at": "2026-08-08T17:03:03.845319"
+      },
+      {
+        "id": 25,
+        "title": "Bookmark: 2001.03447v2.pdf P6",
+        "content": "Bookmarked page 6 of 2001.03447v2.pdf",
+        "timestamp": "2026-08-02T17:13:24.072602",
+        "course": "General",
+        "folder": "Bookmarks",
+        "color": "#facc15",
+        "uuid": "3648eef5eda64007a035a3aaedb1d0ab",
+        "modified_at": "2026-08-08T17:03:03.845319"
+      },
+      {
+        "id": 26,
+        "title": "Bookmark: 2001.03447v2.pdf P6",
+        "content": "Bookmarked page 6 of 2001.03447v2.pdf",
+        "timestamp": "2026-08-02T17:13:24.072602",
+        "course": "General",
+        "folder": "Bookmarks",
+        "color": "#facc15",
+        "uuid": "17e17190073748e78216830117576f7f",
+        "modified_at": "2026-08-08T17:03:03.845319"
+      },
+      {
+        "id": 27,
+        "title": "Bookmark: 2001.03447v2.pdf P6",
+        "content": "Bookmarked page 6 of 2001.03447v2.pdf",
+        "timestamp": "2026-08-02T17:13:24.072602",
+        "course": "General",
+        "folder": "Bookmarks",
+        "color": "#facc15",
+        "uuid": "bda7d9f3c52844f98641bb07ac817712",
+        "modified_at": "2026-08-08T17:03:03.845319"
+      },
+      {
+        "id": 28,
+        "title": "Bookmark: 2001.03447v2.pdf P6",
+        "content": "Bookmarked page 6 of 2001.03447v2.pdf",
+        "timestamp": "2026-08-02T17:13:24.072602",
+        "course": "General",
+        "folder": "Bookmarks",
+        "color": "#facc15",
+        "uuid": "60dc29a51e654391ae6b4be608578374",
+        "modified_at": "2026-08-08T17:03:03.845319"
+      },
+      {
+        "id": 29,
+        "title": "Bookmark: 2001.03447v2.pdf P6",
+        "content": "Bookmarked page 6 of 2001.03447v2.pdf",
+        "timestamp": "2026-08-02T17:13:24.072602",
+        "course": "General",
+        "folder": "Bookmarks",
+        "color": "#facc15",
+        "uuid": "4df1be0069d346739c78a2f915dd4fa4",
+        "modified_at": "2026-08-08T17:03:03.845319"
+      },
+      {
+        "id": 30,
+        "title": "Bookmark: 2001.03447v2.pdf P6",
+        "content": "Bookmarked page 6 of 2001.03447v2.pdf",
+        "timestamp": "2026-08-02T17:13:24.072602",
+        "course": "General",
+        "folder": "Bookmarks",
+        "color": "#facc15",
+        "uuid": "b13c48e761144759b20bc72091a94101",
+        "modified_at": "2026-08-08T17:03:03.845319"
+      },
+      {
+        "id": 31,
+        "title": "MASTER",
+        "content": "",
+        "timestamp": "2026-08-08T17:01:43.328415",
+        "course": "General",
+        "folder": "Uncategorized",
+        "color": "#3b82f6",
+        "uuid": "c89e3537773a4912a87761c862e633b3",
+        "modified_at": "2026-08-08T17:01:43.328408"
+      },
+      {
+        "id": 32,
+        "title": "MASTER Win",
+        "content": "",
+        "timestamp": "2026-08-08T17:37:21.570150",
+        "course": "General",
+        "folder": "Uncategorized",
+        "color": "#3b82f6",
+        "uuid": "d9dc4872420a40308a429c13b946440b",
+        "modified_at": "2026-08-08T17:37:21.570150"
       }
     ],
     "health_profile": [
@@ -1239,110 +1239,6 @@
     "activity_logs": [
       {
         "id": 1,
-        "timestamp": "2026-08-08T17:03:05.936776",
-        "module": "Sync",
-        "description": "Successfully synced with Git cluster. Master Overwrite completed successfully",
-        "uuid": "9afb40cec37c413780b6f9cdf05ec6b4",
-        "modified_at": "2026-08-08T17:03:05.936776"
-      },
-      {
-        "id": 2,
-        "timestamp": "2026-08-08T17:03:18.435501",
-        "module": "Sync Error",
-        "description": "Sync failed: 'NoneType' object is not subscriptable",
-        "uuid": "71b108a498844fffa14f3b277018c1a3",
-        "modified_at": "2026-08-08T17:03:18.435501"
-      },
-      {
-        "id": 3,
-        "timestamp": "2026-08-08T17:07:45.941937",
-        "module": "Sync",
-        "description": "Successfully synced with Git cluster. Master Overwrite completed successfully",
-        "uuid": "2daa125a5ce94ac7aad07292f984d0c6",
-        "modified_at": "2026-08-08T17:07:45.941937"
-      },
-      {
-        "id": 4,
-        "timestamp": "2026-08-08T17:07:54.894628",
-        "module": "Sync",
-        "description": "Successfully synced with Git cluster. K-Peer Sync completed successfully",
-        "uuid": "5a4d3ee7ac054eed9362c1468d305e87",
-        "modified_at": "2026-08-08T17:07:54.894628"
-      },
-      {
-        "id": 5,
-        "timestamp": "2026-08-08T17:13:24.719768",
-        "module": "Sync",
-        "description": "Successfully synced with Git cluster. Master Overwrite completed successfully",
-        "uuid": "c461318a4f824d02a9bbee36425caffa",
-        "modified_at": "2026-08-08T17:13:24.719768"
-      },
-      {
-        "id": 6,
-        "timestamp": "2026-08-08T17:13:26.808481",
-        "module": "Sync",
-        "description": "Successfully synced with Git cluster. K-Peer Sync completed successfully",
-        "uuid": "8702319b88bc4849903fa797ed38844a",
-        "modified_at": "2026-08-08T17:13:26.808481"
-      },
-      {
-        "id": 7,
-        "timestamp": "2026-08-08T17:13:30.617553",
-        "module": "Sync",
-        "description": "Successfully synced with Git cluster. Master Overwrite completed successfully",
-        "uuid": "220da777de3c48c4b1f8a5aaacc76ee7",
-        "modified_at": "2026-08-08T17:13:30.617553"
-      },
-      {
-        "id": 8,
-        "timestamp": "2026-08-08T17:13:34.489527",
-        "module": "Sync",
-        "description": "Successfully synced with Git cluster. Master Overwrite completed successfully",
-        "uuid": "481bd742c1754688bc09b3f7820e5fc2",
-        "modified_at": "2026-08-08T17:13:34.489527"
-      },
-      {
-        "id": 9,
-        "timestamp": "2026-08-08T17:13:36.747182",
-        "module": "Sync",
-        "description": "Successfully synced with Git cluster. K-Peer Sync completed successfully",
-        "uuid": "a2fd17a023ba437c8646f930f530a81f",
-        "modified_at": "2026-08-08T17:13:36.747182"
-      },
-      {
-        "id": 10,
-        "timestamp": "2026-08-08T17:13:48.700876",
-        "module": "Sync",
-        "description": "Successfully synced with Git cluster. Master Overwrite completed successfully",
-        "uuid": "ea9bd7af376043b8af9e00636adba4d8",
-        "modified_at": "2026-08-08T17:13:48.700876"
-      },
-      {
-        "id": 11,
-        "timestamp": "2026-08-08T17:13:51.531357",
-        "module": "Sync Error",
-        "description": "Sync failed: 'NoneType' object is not subscriptable",
-        "uuid": "9ba8c6aee2844c5fb6bab22bf92def07",
-        "modified_at": "2026-08-08T17:13:51.531357"
-      },
-      {
-        "id": 12,
-        "timestamp": "2026-08-08T17:29:47.229780",
-        "module": "Sync",
-        "description": "Successfully synced with Git cluster. Successfully Cloned. Restart App.",
-        "uuid": "be65993bc93f434a92320a5f2d32164c",
-        "modified_at": "2026-08-08T17:29:47.229780"
-      },
-      {
-        "id": 13,
-        "timestamp": "2026-08-08T17:37:35.313824",
-        "module": "Sync",
-        "description": "Successfully synced with Git cluster. K-Peer Sync completed successfully",
-        "uuid": "f0012928cced4f1cb9380f1249ca3ee8",
-        "modified_at": "2026-08-08T17:37:35.313824"
-      },
-      {
-        "id": 14,
         "timestamp": "2026-08-08T17:40:35.926164",
         "module": "Sync",
         "description": "Successfully synced with Git cluster. Successfully Cloned. Restart App.",
@@ -1350,7 +1246,103 @@
         "modified_at": "2026-08-08T17:40:35.926164"
       },
       {
-        "id": 15,
+        "id": 2,
+        "timestamp": "2026-08-08T17:03:05.936776",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Master Overwrite completed successfully",
+        "uuid": "9afb40cec37c413780b6f9cdf05ec6b4",
+        "modified_at": "2026-08-08T17:03:05.936776"
+      },
+      {
+        "id": 3,
+        "timestamp": "2026-08-08T17:03:18.435501",
+        "module": "Sync Error",
+        "description": "Sync failed: 'NoneType' object is not subscriptable",
+        "uuid": "71b108a498844fffa14f3b277018c1a3",
+        "modified_at": "2026-08-08T17:03:18.435501"
+      },
+      {
+        "id": 4,
+        "timestamp": "2026-08-08T17:07:45.941937",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Master Overwrite completed successfully",
+        "uuid": "2daa125a5ce94ac7aad07292f984d0c6",
+        "modified_at": "2026-08-08T17:07:45.941937"
+      },
+      {
+        "id": 5,
+        "timestamp": "2026-08-08T17:07:54.894628",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. K-Peer Sync completed successfully",
+        "uuid": "5a4d3ee7ac054eed9362c1468d305e87",
+        "modified_at": "2026-08-08T17:07:54.894628"
+      },
+      {
+        "id": 6,
+        "timestamp": "2026-08-08T17:13:24.719768",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Master Overwrite completed successfully",
+        "uuid": "c461318a4f824d02a9bbee36425caffa",
+        "modified_at": "2026-08-08T17:13:24.719768"
+      },
+      {
+        "id": 7,
+        "timestamp": "2026-08-08T17:13:26.808481",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. K-Peer Sync completed successfully",
+        "uuid": "8702319b88bc4849903fa797ed38844a",
+        "modified_at": "2026-08-08T17:13:26.808481"
+      },
+      {
+        "id": 8,
+        "timestamp": "2026-08-08T17:13:30.617553",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Master Overwrite completed successfully",
+        "uuid": "220da777de3c48c4b1f8a5aaacc76ee7",
+        "modified_at": "2026-08-08T17:13:30.617553"
+      },
+      {
+        "id": 9,
+        "timestamp": "2026-08-08T17:13:34.489527",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Master Overwrite completed successfully",
+        "uuid": "481bd742c1754688bc09b3f7820e5fc2",
+        "modified_at": "2026-08-08T17:13:34.489527"
+      },
+      {
+        "id": 10,
+        "timestamp": "2026-08-08T17:13:36.747182",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. K-Peer Sync completed successfully",
+        "uuid": "a2fd17a023ba437c8646f930f530a81f",
+        "modified_at": "2026-08-08T17:13:36.747182"
+      },
+      {
+        "id": 11,
+        "timestamp": "2026-08-08T17:13:48.700876",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Master Overwrite completed successfully",
+        "uuid": "ea9bd7af376043b8af9e00636adba4d8",
+        "modified_at": "2026-08-08T17:13:48.700876"
+      },
+      {
+        "id": 12,
+        "timestamp": "2026-08-08T17:13:51.531357",
+        "module": "Sync Error",
+        "description": "Sync failed: 'NoneType' object is not subscriptable",
+        "uuid": "9ba8c6aee2844c5fb6bab22bf92def07",
+        "modified_at": "2026-08-08T17:13:51.531357"
+      },
+      {
+        "id": 13,
+        "timestamp": "2026-08-08T17:29:47.229780",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Successfully Cloned. Restart App.",
+        "uuid": "be65993bc93f434a92320a5f2d32164c",
+        "modified_at": "2026-08-08T17:29:47.229780"
+      },
+      {
+        "id": 14,
         "timestamp": "2026-08-08T17:41:01.218569",
         "module": "Sync",
         "description": "Successfully synced with Git cluster. K-Peer Sync completed successfully",
@@ -1358,13 +1350,97 @@
         "modified_at": "2026-08-08T17:41:01.218569"
       },
       {
-        "id": 16,
+        "id": 15,
         "timestamp": "2026-08-08T17:41:06.926500",
         "module": "Sync",
         "description": "Successfully synced with Git cluster. K-Peer Sync completed successfully",
         "uuid": "6dd0e065746649d58ae00eef3e7d7520",
         "modified_at": "2026-08-08T17:41:06.926500"
+      },
+      {
+        "id": 16,
+        "timestamp": "2026-08-08T17:44:11.405609",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Successfully Cloned. Restart App.",
+        "uuid": "4d0b12019b474d6a9c76b4fd2b5e5d5c",
+        "modified_at": "2026-08-08T17:44:11.405609"
+      },
+      {
+        "id": 17,
+        "timestamp": "2026-08-09T13:20:10.642448",
+        "module": "Settings",
+        "description": "Updated application settings via UI.",
+        "uuid": "91a977ae976346c7abd0190e3fa90f2b",
+        "modified_at": "2026-08-09T13:20:10.642448"
+      },
+      {
+        "id": 18,
+        "timestamp": "2026-08-09T13:24:54.861498",
+        "module": "Sync Error",
+        "description": "Sync failed: 'NoneType' object is not subscriptable",
+        "uuid": "8905a7543280410a8f54b895c22e678e",
+        "modified_at": "2026-08-09T13:24:54.861498"
+      }
+    ],
+    "deleted_uuids": [
+      {
+        "table_name": "cascading_goals",
+        "uuid": "0727660c27254279b1e28ff1ee35622b",
+        "deleted_at": "2026-08-09T13:20:36.898733"
+      },
+      {
+        "table_name": "cascading_goals",
+        "uuid": "2961897cb2924142906b96ffa5dd4f75",
+        "deleted_at": "2026-08-09T13:20:37.277748"
+      },
+      {
+        "table_name": "cascading_goals",
+        "uuid": "f01262ec68524e3889d37c336d2e4338",
+        "deleted_at": "2026-08-09T13:20:37.682151"
+      },
+      {
+        "table_name": "cascading_goals",
+        "uuid": "e10e0c3e71e244c8a94a38abd42fb223",
+        "deleted_at": "2026-08-09T13:20:37.986384"
       }
     ]
+  },
+  "deletions": {
+    "courses": [],
+    "pomodoro_sessions": [],
+    "cascading_goals": [
+      {
+        "uuid": "0727660c27254279b1e28ff1ee35622b",
+        "deleted_at": "2026-08-09T13:20:36.898733"
+      },
+      {
+        "uuid": "2961897cb2924142906b96ffa5dd4f75",
+        "deleted_at": "2026-08-09T13:20:37.277748"
+      },
+      {
+        "uuid": "e10e0c3e71e244c8a94a38abd42fb223",
+        "deleted_at": "2026-08-09T13:20:37.986384"
+      },
+      {
+        "uuid": "f01262ec68524e3889d37c336d2e4338",
+        "deleted_at": "2026-08-09T13:20:37.682151"
+      }
+    ],
+    "habits": [],
+    "habit_logs": [],
+    "flashcards": [],
+    "quizzes": [],
+    "focus_queue": [],
+    "notes": [],
+    "health_profile": [],
+    "health_logs": [],
+    "custom_foods": [],
+    "custom_activities": [],
+    "health_plans": [],
+    "ingredients": [],
+    "composite_foods": [],
+    "recipe_ingredients": [],
+    "activity_logs": [],
+    "deleted_uuids": []
   }
 }
