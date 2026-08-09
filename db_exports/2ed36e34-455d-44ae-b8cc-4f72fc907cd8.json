@@ -1,6 +1,6 @@
 {
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-08-09T13:43:04.943750",
+  "last_sync": "2026-08-09T13:43:31.732800",
   "settings": {
     "font_family": "Inter",
     "custom_font_path": "",
@@ -56,7 +56,7 @@
     ],
     "git_status": "error",
     "git_last_sync": "8/2/2026, 10:57:28 AM",
-    "last_sync_timestamp": "2026-08-08T17:42:49.157949",
+    "last_sync_timestamp": "2026-08-09T13:43:04.943750",
     "health_weight": 107,
     "health_age": 24,
     "health_height": 190,
@@ -1396,6 +1396,30 @@
         "description": "Updated application settings via UI.",
         "uuid": "df7ef5b60b7443508686bba4d220827a",
         "modified_at": "2026-08-09T13:42:47.274791"
+      },
+      {
+        "id": 21,
+        "timestamp": "2026-08-09T13:43:10.110077",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. K-Peer Sync completed successfully",
+        "uuid": "fae6ee5fa7fe4a158dc7ab7ec053d9c8",
+        "modified_at": "2026-08-09T13:43:10.110077"
+      },
+      {
+        "id": 22,
+        "timestamp": "2026-08-09T13:43:19.061993",
+        "module": "Sync Error",
+        "description": "Sync failed: 'NoneType' object is not subscriptable",
+        "uuid": "c768a9ddbcd44dae98416b76628546b9",
+        "modified_at": "2026-08-09T13:43:19.061993"
+      },
+      {
+        "id": 23,
+        "timestamp": "2026-08-09T13:43:21.223979",
+        "module": "Sync Error",
+        "description": "Sync failed: 'NoneType' object is not subscriptable",
+        "uuid": "e544f5996c434b5d83653b3066b95269",
+        "modified_at": "2026-08-09T13:43:21.223979"
       }
     ],
     "deleted_uuids": []
