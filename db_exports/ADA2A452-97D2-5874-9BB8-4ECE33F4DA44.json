@@ -1,6 +1,6 @@
 {
   "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-  "last_sync": "2026-08-10T20:29:57.412988",
+  "last_sync": "2026-08-11T01:52:23.795710",
   "settings": {
     "font_family": "Inter",
     "custom_font_path": "",
@@ -40,7 +40,8 @@
     "sync_repo_url": "https://github.com/AliNikkhah2001/MindPalaceData.git",
     "sync_interval": 3600,
     "sync_local_paths": [
-      "C:\\Users\\10225/MindPalace_Library"
+      "C:\\Users\\10225/MindPalace_Library",
+      "/Users/alinikkhah/MindPalace_Library"
     ],
     "quiet_mode": false,
     "app_monitoring_enabled": false,
@@ -51,12 +52,13 @@
     "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
     "has_token": true,
     "mapped_folders": [
-      "C:\\Users\\10225/MindPalace_Library"
+      "C:\\Users\\10225/MindPalace_Library",
+      "/Users/alinikkhah/MindPalace_Library"
     ],
     "health_weight": 107,
-    "git_status": "error",
-    "git_last_sync": "2026-08-10T13:10:43.133181",
-    "last_sync_timestamp": "2026-08-10T17:10:41.474546",
+    "git_status": "connected",
+    "git_last_sync": "2026-08-10T20:29:59.864860",
+    "last_sync_timestamp": "2026-08-10T20:29:57.412988",
     "health_age": 24,
     "health_height": 190,
     "health_gender": "Male",
@@ -65,7 +67,10 @@
     "process_list": [],
     "sync_msg": "",
     "sync_progress_pct": 0,
-    "dummy": "dummy"
+    "dummy": "dummy",
+    "timeline_start_hour": 0,
+    "timeline_end_hour": 24,
+    "timeline_pixel_per_hour": 120
   },
   "tables": {
     "courses": [],
@@ -82,22 +87,635 @@
         "deadline": "2026-08-16 17:27",
         "uuid": "ab1d511ad1f0433fada91cd256e82087",
         "modified_at": "2026-08-09T20:57:37.582833"
+      },
+      {
+        "id": 3,
+        "parent_id": 1,
+        "level": null,
+        "title": "dfdfsdfs",
+        "category": null,
+        "target_hours": 32.0,
+        "logged_hours": 0.0,
+        "deadline": "2026-08-17 22:20",
+        "uuid": "5f80153b8ce34115809b5aef43465213",
+        "modified_at": "2026-08-11T01:50:53.577049"
       }
     ],
-    "habits": [],
-    "habit_logs": [],
-    "flashcards": [],
-    "quizzes": [],
+    "habits": [
+      {
+        "id": 1,
+        "name": "fsdfdsfdser",
+        "created_at": "2026-08-11T01:51:04.324450",
+        "type": "Positive",
+        "uuid": "37c808c9db9e4a40b8b4f768342a9e56",
+        "modified_at": "2026-08-11T01:51:11.670515"
+      }
+    ],
+    "habit_logs": [
+      {
+        "id": 1,
+        "habit_id": 1,
+        "date": "Wed, 8/5",
+        "status": 1,
+        "uuid": "9696ff4c67f345de8a97de33903617c3",
+        "modified_at": "2026-08-11T01:51:05.578876"
+      },
+      {
+        "id": 2,
+        "habit_id": 1,
+        "date": "Tue, 8/11",
+        "status": 1,
+        "uuid": "90799456449b4e3d82f4fb27ea141017",
+        "modified_at": "2026-08-11T01:51:07.147237"
+      },
+      {
+        "id": 3,
+        "habit_id": 1,
+        "date": "Mon, 8/10",
+        "status": 1,
+        "uuid": "f37ea73932c24b158aa0b95f2e7b9aa3",
+        "modified_at": "2026-08-11T01:51:08.180219"
+      }
+    ],
+    "flashcards": [
+      {
+        "id": 1,
+        "front": "fsdfds",
+        "back": "fsdfsd",
+        "deck": "Main",
+        "next_review": null,
+        "course": "General",
+        "folder": "Uncategorized",
+        "color": "#3b82f6",
+        "uuid": "614f02d39b3240518a76672b8269024c",
+        "modified_at": "2026-08-11T01:51:50.506901"
+      }
+    ],
+    "quizzes": [
+      {
+        "id": 1,
+        "title": "fsdfds",
+        "questions_json": "[\n  {\"q\": \"Difference between Process and Thread?\", \"opts\": [\"Memory Isolation\", \"No Difference\"], \"ans\": 0}\n]",
+        "course": "master macbook",
+        "folder": "Uncategorized",
+        "color": "#3c4b0d",
+        "uuid": "eadf115034d7482aa7244d37e1d82267",
+        "modified_at": "2026-08-11T01:51:44.811730"
+      }
+    ],
     "focus_queue": [],
-    "notes": [],
-    "health_profile": [],
-    "health_logs": [],
+    "notes": [
+      {
+        "id": 1,
+        "title": "fadsdsafdfd",
+        "content": "fsdfsdfsdfsd",
+        "timestamp": "2026-08-11T01:52:07.087245",
+        "course": "master macbook > dfdfsdfs",
+        "folder": "addsadasdsa",
+        "color": "#641314",
+        "uuid": "ed587aa9b6e44e5ba846d574a4f21c8b",
+        "modified_at": "2026-08-11T01:52:07.087236"
+      }
+    ],
+    "health_profile": [
+      {
+        "id": 1,
+        "data_json": "{\"weight\": 107, \"bmr\": 15.2}",
+        "uuid": "9a4fd7e241154a2b80bddd86ad4ce6db",
+        "modified_at": "2026-08-11T00:33:07.816877"
+      }
+    ],
+    "health_logs": [
+      {
+        "id": 1,
+        "log_type": "body_scan",
+        "date": "2026-08-11",
+        "data_json": "{\"weight\": 107, \"body_score\": 76, \"bmi\": 29.7, \"body_fat\": 28.4, \"muscle_mass\": null, \"water\": 52, \"bmr\": 15.2, \"file_path\": \"/Users/alinikkhah/Downloads/OCR/Image PNG.jpg\"}",
+        "uuid": "ad4230e8a5344c5ea60417d671cc4b91",
+        "modified_at": "2026-08-11T00:33:07.817884"
+      },
+      {
+        "id": 2,
+        "log_type": "exercise",
+        "date": "2026-08-10",
+        "data_json": "{\"name\": \"jkj\", \"duration\": \"8\", \"kcal_burn\": 88}",
+        "uuid": "d376aeab2d8c482fa1f65828ad0ae973",
+        "modified_at": "2026-08-11T01:49:39.294156"
+      },
+      {
+        "id": 3,
+        "log_type": "food",
+        "date": "2026-08-10",
+        "data_json": "{\"name\": \"\\u0628\\u0627\\u0642\\u0644 \\u067e\\u0644\\u0648\", \"amount_grams\": 100, \"kcal\": 175, \"protein\": 6}",
+        "uuid": "99d3f561e42a424a80acbf490bb9a05f",
+        "modified_at": "2026-08-11T01:49:43.838449"
+      }
+    ],
     "custom_foods": [],
-    "custom_activities": [],
-    "health_plans": [],
-    "ingredients": [],
-    "composite_foods": [],
-    "recipe_ingredients": [],
+    "custom_activities": [
+      {
+        "id": 1,
+        "name": "jkj",
+        "met": 5.0,
+        "category": "Cardio",
+        "uuid": "2d72565c0cfe4e7ea51ad7ce4349d314",
+        "modified_at": "2026-08-11T01:49:39.289641"
+      }
+    ],
+    "health_plans": [
+      {
+        "id": 1,
+        "type": "Exercise",
+        "title": "98b",
+        "details": "yuh9hu",
+        "uuid": "8df6eb927e6d4007ac12217e87437d33",
+        "modified_at": "2026-08-11T01:50:29.009412"
+      },
+      {
+        "id": 3,
+        "type": "Exercise",
+        "title": "ffew",
+        "details": "huii",
+        "uuid": "0f8db4a38d3c40f49c7b3d606ad89b79",
+        "modified_at": "2026-08-11T01:50:33.991999"
+      },
+      {
+        "id": 4,
+        "type": "Exercise",
+        "title": "",
+        "details": "",
+        "uuid": "87b3609ae49b414ba5b3a1a0c657e3cd",
+        "modified_at": "2026-08-11T01:50:34.486857"
+      }
+    ],
+    "ingredients": [
+      {
+        "id": 1,
+        "uuid": "b3f75cb6ad994114a4b70407f4ace8ff",
+        "modified_at": "2026-08-10T23:29:44.612212",
+        "name": "\u0628\u0631\u0646\u062c \u067e\u062e\u062a\u0647 (\u0686\u0644\u0648)",
+        "kcal": 130.0,
+        "protein": 2.7,
+        "fat": 0.3,
+        "carbs": 28.0,
+        "image_path": "",
+        "is_iranian": 1,
+        "serving_size": 100.0,
+        "serving_unit": "g",
+        "category": "Grains"
+      },
+      {
+        "id": 2,
+        "uuid": "6131d365d27f4235b96807ad1a111d5e",
+        "modified_at": "2026-08-10T23:29:44.613479",
+        "name": "\u0628\u0631\u0646\u062c \u0628\u0631\u0634\u062a (\u06a9\u062a\u0647)",
+        "kcal": 150.0,
+        "protein": 3.0,
+        "fat": 1.5,
+        "carbs": 32.0,
+        "image_path": "",
+        "is_iranian": 1,
+        "serving_size": 100.0,
+        "serving_unit": "g",
+        "category": "Grains"
+      },
+      {
+        "id": 3,
+        "uuid": "315b15f1e3fe424ebc3ded4567d8843d",
+        "modified_at": "2026-08-10T23:29:44.613500",
+        "name": "\u0646\u0627\u0646 \u0628\u0631\u0628\u0631\u06cc",
+        "kcal": 265.0,
+        "protein": 8.5,
+        "fat": 1.2,
+        "carbs": 53.0,
+        "image_path": "",
+        "is_iranian": 1,
+        "serving_size": 100.0,
+        "serving_unit": "g",
+        "category": "Grains"
+      },
+      {
+        "id": 4,
+        "uuid": "b67ad5f3c95a49e38734265919f8285d",
+        "modified_at": "2026-08-10T23:29:44.613524",
+        "name": "\u0646\u0627\u0646 \u0633\u0646\u06af\u06a9",
+        "kcal": 255.0,
+        "protein": 9.0,
+        "fat": 1.0,
+        "carbs": 52.0,
+        "image_path": "",
+        "is_iranian": 1,
+        "serving_size": 100.0,
+        "serving_unit": "g",
+        "category": "Grains"
+      },
+      {
+        "id": 5,
+        "uuid": "c81f21a9970347b39636951047d42c1f",
+        "modified_at": "2026-08-10T23:29:44.613538",
+        "name": "\u0646\u0627\u0646 \u0644ava\u015f",
+        "kcal": 250.0,
+        "protein": 8.0,
+        "fat": 1.0,
+        "carbs": 52.0,
+        "image_path": "",
+        "is_iranian": 1,
+        "serving_size": 100.0,
+        "serving_unit": "g",
+        "category": "Grains"
+      },
+      {
+        "id": 6,
+        "uuid": "2ffdffc690c3439b96e79299acdd9c88",
+        "modified_at": "2026-08-10T23:29:44.613550",
+        "name": "\u0645\u0627\u0633\u062a \u06a9\u06cc\u0631",
+        "kcal": 60.0,
+        "protein": 3.5,
+        "fat": 3.3,
+        "carbs": 4.0,
+        "image_path": "",
+        "is_iranian": 1,
+        "serving_size": 100.0,
+        "serving_unit": "g",
+        "category": "Dairy"
+      },
+      {
+        "id": 7,
+        "uuid": "dc7471dac79a4ca5b2920715c1c6f0c2",
+        "modified_at": "2026-08-10T23:29:44.613562",
+        "name": "\u0645\u0627\u0633\u062a \u067e\u0631\u0686\u0631\u0628",
+        "kcal": 95.0,
+        "protein": 3.3,
+        "fat": 5.0,
+        "carbs": 4.5,
+        "image_path": "",
+        "is_iranian": 1,
+        "serving_size": 100.0,
+        "serving_unit": "g",
+        "category": "Dairy"
+      },
+      {
+        "id": 8,
+        "uuid": "9487709237404edb924227b5253a70e6",
+        "modified_at": "2026-08-10T23:29:44.613587",
+        "name": "\u067e\u0646\u06cc\u0631 \u0644\u0627\u06cc\u0642",
+        "kcal": 265.0,
+        "protein": 18.0,
+        "fat": 21.0,
+        "carbs": 1.5,
+        "image_path": "",
+        "is_iranian": 1,
+        "serving_size": 100.0,
+        "serving_unit": "g",
+        "category": "Dairy"
+      },
+      {
+        "id": 9,
+        "uuid": "b6742e6af54d4a6ea4e7f8e631b13171",
+        "modified_at": "2026-08-10T23:29:44.613602",
+        "name": "\u0642\u0648\u0631\u0645\u0647 \u0633\u0628\u0632\u06cc",
+        "kcal": 145.0,
+        "protein": 8.5,
+        "fat": 9.0,
+        "carbs": 7.5,
+        "image_path": "",
+        "is_iranian": 1,
+        "serving_size": 100.0,
+        "serving_unit": "g",
+        "category": "Prepared"
+      },
+      {
+        "id": 10,
+        "uuid": "80f95ea8de77421c9c0c7299bf644988",
+        "modified_at": "2026-08-10T23:29:44.613614",
+        "name": "\u0642\u06cc\u0645\u0647",
+        "kcal": 155.0,
+        "protein": 9.0,
+        "fat": 8.5,
+        "carbs": 10.0,
+        "image_path": "",
+        "is_iranian": 1,
+        "serving_size": 100.0,
+        "serving_unit": "g",
+        "category": "Prepared"
+      },
+      {
+        "id": 11,
+        "uuid": "62a5ecfd63e44125830af855a19604b0",
+        "modified_at": "2026-08-10T23:29:44.613626",
+        "name": "\u0642\u0631\u0645\u0647 \u0633\u0628\u0632\u06cc \u0628\u0627 \u0628\u0631\u0646\u062c",
+        "kcal": 180.0,
+        "protein": 7.5,
+        "fat": 8.0,
+        "carbs": 20.0,
+        "image_path": "",
+        "is_iranian": 1,
+        "serving_size": 100.0,
+        "serving_unit": "g",
+        "category": "Prepared"
+      },
+      {
+        "id": 12,
+        "uuid": "a914a047b29346519e7a2ebd6978443c",
+        "modified_at": "2026-08-10T23:29:44.613637",
+        "name": "\u06afh\u00e9ymeh \u0628\u0627 \u0628\u0631\u0646\u062c",
+        "kcal": 190.0,
+        "protein": 8.0,
+        "fat": 7.5,
+        "carbs": 22.0,
+        "image_path": "",
+        "is_iranian": 1,
+        "serving_size": 100.0,
+        "serving_unit": "g",
+        "category": "Prepared"
+      },
+      {
+        "id": 13,
+        "uuid": "ea2fab4abf524ad384d532abbcd26511",
+        "modified_at": "2026-08-10T23:29:44.613648",
+        "name": "\u067e\u0644\u0648 \u0633\u0628\u0632\u06cc",
+        "kcal": 165.0,
+        "protein": 5.5,
+        "fat": 4.0,
+        "carbs": 28.0,
+        "image_path": "",
+        "is_iranian": 1,
+        "serving_size": 100.0,
+        "serving_unit": "g",
+        "category": "Prepared"
+      },
+      {
+        "id": 14,
+        "uuid": "c89f00adf043401c879f0b11ff4d7d50",
+        "modified_at": "2026-08-10T23:29:44.613659",
+        "name": "\u0628\u0627\u0642\u0644 \u067e\u0644\u0648",
+        "kcal": 175.0,
+        "protein": 6.0,
+        "fat": 4.5,
+        "carbs": 29.0,
+        "image_path": "",
+        "is_iranian": 1,
+        "serving_size": 100.0,
+        "serving_unit": "g",
+        "category": "Prepared"
+      },
+      {
+        "id": 15,
+        "uuid": "bd458947c5f440f485c1ea347d155880",
+        "modified_at": "2026-08-10T23:29:44.613670",
+        "name": "\u0632\u0631\u0634\u06a9 \u067e\u0644\u0648 \u0628\u0627 \u0645\u0631\u063a",
+        "kcal": 195.0,
+        "protein": 12.0,
+        "fat": 6.0,
+        "carbs": 24.0,
+        "image_path": "",
+        "is_iranian": 1,
+        "serving_size": 100.0,
+        "serving_unit": "g",
+        "category": "Prepared"
+      },
+      {
+        "id": 16,
+        "uuid": "c1be52a721fa42768292051e40634a2c",
+        "modified_at": "2026-08-10T23:29:44.613680",
+        "name": "\u06a9\u0628\u0627\u0628 \u06a9\u0648\u06a9\u0648\u0628",
+        "kcal": 220.0,
+        "protein": 18.0,
+        "fat": 16.0,
+        "carbs": 1.0,
+        "image_path": "",
+        "is_iranian": 1,
+        "serving_size": 100.0,
+        "serving_unit": "g",
+        "category": "Meat"
+      },
+      {
+        "id": 17,
+        "uuid": "e7db63546d9b46be9e39cf2787eab090",
+        "modified_at": "2026-08-10T23:29:44.613691",
+        "name": "\u062c\u0648\u062c\u0647 \u06a9\u0628\u0627\u0628",
+        "kcal": 180.0,
+        "protein": 22.0,
+        "fat": 10.0,
+        "carbs": 1.5,
+        "image_path": "",
+        "is_iranian": 1,
+        "serving_size": 100.0,
+        "serving_unit": "g",
+        "category": "Poultry"
+      },
+      {
+        "id": 18,
+        "uuid": "f69aa82fcc574b4f9579208fcf75c165",
+        "modified_at": "2026-08-10T23:29:44.613702",
+        "name": "\u0633\u06cc\u0628 \u0632\u0645\u06cc\u0646\u06cc \u0633\u0631\u062e\u200c\u06a9\u0631\u062f\u0647",
+        "kcal": 312.0,
+        "protein": 3.4,
+        "fat": 15.0,
+        "carbs": 41.0,
+        "image_path": "",
+        "is_iranian": 1,
+        "serving_size": 100.0,
+        "serving_unit": "g",
+        "category": "Vegetables"
+      },
+      {
+        "id": 19,
+        "uuid": "259235d839114b5d8f3696558e9d9671",
+        "modified_at": "2026-08-10T23:29:44.613744",
+        "name": "\u0627\u062f\u0645\u0647",
+        "kcal": 65.0,
+        "protein": 4.5,
+        "fat": 0.2,
+        "carbs": 11.0,
+        "image_path": "",
+        "is_iranian": 1,
+        "serving_size": 100.0,
+        "serving_unit": "g",
+        "category": "Legumes"
+      },
+      {
+        "id": 20,
+        "uuid": "21bc30a4ea1942daaa01b5b28bd2ec49",
+        "modified_at": "2026-08-10T23:29:44.613755",
+        "name": "\u0646\u062e\u0648\u062f",
+        "kcal": 164.0,
+        "protein": 8.9,
+        "fat": 2.6,
+        "carbs": 27.0,
+        "image_path": "",
+        "is_iranian": 1,
+        "serving_size": 100.0,
+        "serving_unit": "g",
+        "category": "Legumes"
+      },
+      {
+        "id": 21,
+        "uuid": "e37bc418074a44a7bacc5fe16cf09390",
+        "modified_at": "2026-08-10T23:29:44.613766",
+        "name": "\u0639\u062f\u0633",
+        "kcal": 116.0,
+        "protein": 9.0,
+        "fat": 0.4,
+        "carbs": 20.0,
+        "image_path": "",
+        "is_iranian": 1,
+        "serving_size": 100.0,
+        "serving_unit": "g",
+        "category": "Legumes"
+      },
+      {
+        "id": 22,
+        "uuid": "e68c61e9b23c47b088331f3dd23dd6f9",
+        "modified_at": "2026-08-10T23:29:44.613777",
+        "name": "\u0644\u0648\u0628\u06cc\u0627",
+        "kcal": 127.0,
+        "protein": 8.7,
+        "fat": 0.5,
+        "carbs": 23.0,
+        "image_path": "",
+        "is_iranian": 1,
+        "serving_size": 100.0,
+        "serving_unit": "g",
+        "category": "Legumes"
+      },
+      {
+        "id": 23,
+        "uuid": "a09b330566474b8992f9d69c5b6aa869",
+        "modified_at": "2026-08-10T23:29:44.613787",
+        "name": "\u067e\u0646\u06cc\u0631 \u062a\u0631\u0634\u06cc\u062f\u0647",
+        "kcal": 110.0,
+        "protein": 11.0,
+        "fat": 7.0,
+        "carbs": 1.0,
+        "image_path": "",
+        "is_iranian": 1,
+        "serving_size": 100.0,
+        "serving_unit": "g",
+        "category": "Dairy"
+      },
+      {
+        "id": 24,
+        "uuid": "24710ac498894778b1ab7046a99f13dd",
+        "modified_at": "2026-08-10T23:29:44.613798",
+        "name": "\u06a9\u0631\u0647",
+        "kcal": 717.0,
+        "protein": 0.9,
+        "fat": 81.0,
+        "carbs": 0.1,
+        "image_path": "",
+        "is_iranian": 1,
+        "serving_size": 100.0,
+        "serving_unit": "g",
+        "category": "Oils"
+      },
+      {
+        "id": 25,
+        "uuid": "a842ce5e45d2483fa916c16f5510cb84",
+        "modified_at": "2026-08-10T23:29:44.613809",
+        "name": "\u0645\u0627\u0633\u062a \u0648 \u062e\u06cc\u0627\u0631",
+        "kcal": 55.0,
+        "protein": 2.5,
+        "fat": 3.0,
+        "carbs": 3.5,
+        "image_path": "",
+        "is_iranian": 1,
+        "serving_size": 100.0,
+        "serving_unit": "g",
+        "category": "Prepared"
+      },
+      {
+        "id": 26,
+        "uuid": "e773906c88b544a490e5c74313a8a490",
+        "modified_at": "2026-08-10T23:29:44.613819",
+        "name": "\u0634\u0644\u0647 \u0632\u0631\u062f",
+        "kcal": 210.0,
+        "protein": 2.5,
+        "fat": 6.0,
+        "carbs": 37.0,
+        "image_path": "",
+        "is_iranian": 1,
+        "serving_size": 100.0,
+        "serving_unit": "g",
+        "category": "Sweets"
+      },
+      {
+        "id": 27,
+        "uuid": "7e5be5ced9544ef8a6785742f818ffa8",
+        "modified_at": "2026-08-10T23:29:44.613830",
+        "name": "\u062d\u0644\u0648\u0627",
+        "kcal": 320.0,
+        "protein": 4.0,
+        "fat": 15.0,
+        "carbs": 45.0,
+        "image_path": "",
+        "is_iranian": 1,
+        "serving_size": 100.0,
+        "serving_unit": "g",
+        "category": "Sweets"
+      },
+      {
+        "id": 28,
+        "uuid": "c286f1015cf1410f9975e4fab3dada0d",
+        "modified_at": "2026-08-10T23:29:44.613840",
+        "name": "\u0632\u0648\u0644\u0628\u06cc\u0627 \u0648 \u0628\u0627\u0645\u06cc\u0647",
+        "kcal": 380.0,
+        "protein": 3.5,
+        "fat": 18.0,
+        "carbs": 52.0,
+        "image_path": "",
+        "is_iranian": 1,
+        "serving_size": 100.0,
+        "serving_unit": "g",
+        "category": "Sweets"
+      },
+      {
+        "id": 29,
+        "uuid": "bc59b57aa1f64f94a0ffa60f03213110",
+        "modified_at": "2026-08-11T01:49:52.702978",
+        "name": "dsadas",
+        "kcal": 3.0,
+        "protein": 8.0,
+        "fat": -1.0,
+        "carbs": 3.0,
+        "image_path": "",
+        "is_iranian": 1,
+        "serving_size": 100.0,
+        "serving_unit": "g",
+        "category": "General"
+      }
+    ],
+    "composite_foods": [
+      {
+        "id": 1,
+        "uuid": "d7800fa0c4474b34bd5af23a3d120aaa",
+        "modified_at": "2026-08-11T01:50:16.513597",
+        "name": "uiiubu",
+        "image_path": "",
+        "instructions": "ffsefe",
+        "prep_time_min": 13210,
+        "cook_time_min": 23,
+        "servings": 1123
+      }
+    ],
+    "recipe_ingredients": [
+      {
+        "id": 1,
+        "uuid": "6edeb439e27e4458a7e39198a37f7fbc",
+        "modified_at": "2026-08-11T01:50:16.514547",
+        "composite_food_id": 1,
+        "ingredient_id": 8,
+        "amount_grams": 100.0
+      },
+      {
+        "id": 2,
+        "uuid": "2833820d62f64944a8ca4df86289fefc",
+        "modified_at": "2026-08-11T01:50:16.514637",
+        "composite_food_id": 1,
+        "ingredient_id": 20,
+        "amount_grams": 100.0
+      }
+    ],
     "activity_logs": [
       {
         "id": 1,
@@ -154,14 +772,43 @@
         "description": "Updated application settings via UI.",
         "uuid": "61da3d5c36c14e44afc57aaac92f7f87",
         "modified_at": "2026-08-10T17:10:19.365794"
+      },
+      {
+        "id": 8,
+        "timestamp": "2026-08-10T20:29:59.865029",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. K-Peer Sync completed successfully",
+        "uuid": "d7e47d5ad0d84a088be1bf285e6a0bd0",
+        "modified_at": "2026-08-10T20:29:59.865029"
+      },
+      {
+        "id": 9,
+        "timestamp": "2026-08-11T01:52:17.522432",
+        "module": "Settings",
+        "description": "Updated application settings via UI.",
+        "uuid": "e047c574f95c420b9481c2b8ccbb3aae",
+        "modified_at": "2026-08-11T01:52:17.522432"
       }
     ],
-    "deleted_uuids": []
+    "deleted_uuids": [
+      {
+        "table_name": "cascading_goals",
+        "uuid": "628be0c0a6e049fd805557b1041cb789",
+        "deleted_at": "2026-08-11T01:50:59.446407"
+      }
+    ],
+    "food_logs": [],
+    "daily_metrics": []
   },
   "deletions": {
     "courses": [],
     "pomodoro_sessions": [],
-    "cascading_goals": [],
+    "cascading_goals": [
+      {
+        "uuid": "628be0c0a6e049fd805557b1041cb789",
+        "deleted_at": "2026-08-11T01:50:59.446407"
+      }
+    ],
     "habits": [],
     "habit_logs": [],
     "flashcards": [],
@@ -177,6 +824,8 @@
     "composite_foods": [],
     "recipe_ingredients": [],
     "activity_logs": [],
-    "deleted_uuids": []
+    "deleted_uuids": [],
+    "food_logs": [],
+    "daily_metrics": []
   }
 }
