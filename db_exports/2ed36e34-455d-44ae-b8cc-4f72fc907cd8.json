@@ -1,6 +1,6 @@
 {
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-08-10T13:43:46.869186",
+  "last_sync": "2026-08-10T17:10:41.474546",
   "settings": {
     "font_family": "Inter",
     "custom_font_path": "",
@@ -15,7 +15,7 @@
     "clock_complication": "None",
     "dist_delay": 3,
     "vision_mode": "Strict (Face & Eyes)",
-    "bg_image_path": "img/bg.jpg",
+    "bg_image_path": "C:/Users/10225/Downloads/wp3694329-the-imitation-game-wallpapers.jpg",
     "quotes_path": "",
     "panel_opacity": 180,
     "face_scale_factor": 1.2,
@@ -64,7 +64,8 @@
     "health_activity": 1.2,
     "health_deficit": 1500,
     "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-    "last_sync_timestamp": "2026-08-10T13:10:35.081891"
+    "last_sync_timestamp": "2026-08-10T13:43:46.869186",
+    "dummy": "dummy"
   },
   "tables": {
     "courses": [],
@@ -134,6 +135,14 @@
         "description": "Successfully synced with Git cluster. K-Peer Sync completed successfully",
         "uuid": "33aecbf6c23e41f6bdd58e9226c35f9c",
         "modified_at": "2026-08-10T13:10:43.141434"
+      },
+      {
+        "id": 6,
+        "timestamp": "2026-08-10T17:10:19.365794",
+        "module": "Settings",
+        "description": "Updated application settings via UI.",
+        "uuid": "61da3d5c36c14e44afc57aaac92f7f87",
+        "modified_at": "2026-08-10T17:10:19.365794"
       }
     ],
     "deleted_uuids": [],
