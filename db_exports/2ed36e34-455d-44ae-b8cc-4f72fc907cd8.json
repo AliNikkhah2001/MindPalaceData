@@ -1,6 +1,6 @@
 {
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-08-10T12:50:40.069986",
+  "last_sync": "2026-08-10T13:10:35.081891",
   "settings": {
     "font_family": "Inter",
     "custom_font_path": "",
@@ -43,13 +43,13 @@
       "C:\\Users\\10225/MindPalace_Library"
     ],
     "quiet_mode": false,
-    "app_monitoring_enabled": true,
+    "app_monitoring_enabled": false,
     "allowed_apps": [],
     "blocked_apps": [],
-    "auto_block": true,
+    "auto_block": false,
     "dashboard_layout": {},
     "git_status": "connected",
-    "git_last_sync": "2026-08-10T11:31:02.749417",
+    "git_last_sync": "2026-08-09T20:57:47.570787",
     "sync_msg": "",
     "sync_progress_pct": 0,
     "process_list": [],
@@ -64,7 +64,7 @@
     "health_activity": 1.2,
     "health_deficit": 1500,
     "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-    "last_sync_timestamp": "2026-08-10T12:29:25.485979"
+    "last_sync_timestamp": "2026-08-09T20:57:54.907473"
   },
   "tables": {
     "courses": [],
@@ -89,14 +89,7 @@
     "quizzes": [],
     "focus_queue": [],
     "notes": [],
-    "health_profile": [
-      {
-        "id": 1,
-        "data_json": "{\"age\": 24, \"height\": 190, \"weight\": 110, \"gender\": \"Male\", \"activity\": 1.2, \"deficit_goal\": 1000}",
-        "uuid": "a42697caaca74e9c8a806c01a781d0af",
-        "modified_at": "2026-08-10T12:43:59.607542"
-      }
-    ],
+    "health_profile": [],
     "health_logs": [],
     "custom_foods": [],
     "custom_activities": [],
@@ -128,20 +121,14 @@
       },
       {
         "id": 4,
-        "timestamp": "2026-08-10T11:31:02.759975",
+        "timestamp": "2026-08-10T13:10:15.578391",
         "module": "Sync",
         "description": "Successfully synced with Git cluster. Successfully cloned from ADA2A452-97D2-5874-9BB8-4ECE33F4DA44.json. Restart App.",
-        "uuid": "2585a46b0aee4577a75726290d191c50",
-        "modified_at": "2026-08-10T11:31:02.759975"
+        "uuid": "af867655816c4604ba2f0eb98d597d91",
+        "modified_at": "2026-08-10T13:10:15.578391"
       }
     ],
-    "deleted_uuids": [
-      {
-        "table_name": "cascading_goals",
-        "uuid": "ab1d511ad1f0433fada91cd256e82087",
-        "deleted_at": "2026-08-10T12:43:43.147773"
-      }
-    ],
+    "deleted_uuids": [],
     "ingredients": [],
     "composite_foods": [],
     "recipe_ingredients": []
@@ -149,12 +136,7 @@
   "deletions": {
     "courses": [],
     "pomodoro_sessions": [],
-    "cascading_goals": [
-      {
-        "uuid": "ab1d511ad1f0433fada91cd256e82087",
-        "deleted_at": "2026-08-10T12:43:43.147773"
-      }
-    ],
+    "cascading_goals": [],
     "habits": [],
     "habit_logs": [],
     "flashcards": [],
