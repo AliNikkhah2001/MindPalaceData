@@ -1,21 +1,21 @@
 {
   "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-  "last_sync": "2026-08-11T01:52:23.795710",
+  "last_sync": "2026-08-11T01:53:57.683940",
   "settings": {
     "font_family": "Inter",
     "custom_font_path": "",
     "font_color": "#e2e8f0",
-    "font_size": 16,
+    "font_size": 14,
     "clock_style": "Analog Classic",
     "clock_case_shape": "Round",
-    "clock_bezel": "Plain",
-    "clock_indices": "Baton",
-    "clock_ticks": "Standard",
-    "clock_hands": "Classic",
-    "clock_complication": "None",
+    "clock_bezel": "GMT (Pepsi)",
+    "clock_indices": "Arabic",
+    "clock_ticks": "Crosshair",
+    "clock_hands": "Dauphine",
+    "clock_complication": "Date Window",
     "dist_delay": 3,
     "vision_mode": "Strict (Face & Eyes)",
-    "bg_image_path": "C:/Users/10225/Downloads/wp3694329-the-imitation-game-wallpapers.jpg",
+    "bg_image_path": "/Users/alinikkhah/Downloads/Ceiling_of_Tomb_of_Omar_Khayyam.jpg",
     "quotes_path": "",
     "panel_opacity": 180,
     "face_scale_factor": 1.2,
@@ -53,11 +53,12 @@
     "has_token": true,
     "mapped_folders": [
       "C:\\Users\\10225/MindPalace_Library",
-      "/Users/alinikkhah/MindPalace_Library"
+      "/Users/alinikkhah/MindPalace_Library",
+      "/Users/alinikkhah/Documents/Personal Projects/Shadow_Git/Personal_Shadow/deprecated/"
     ],
     "health_weight": 107,
     "git_status": "connected",
-    "git_last_sync": "2026-08-10T20:29:59.864860",
+    "git_last_sync": "8/11/2026, 1:52:25 AM",
     "last_sync_timestamp": "2026-08-10T20:29:57.412988",
     "health_age": 24,
     "health_height": 190,
@@ -65,8 +66,8 @@
     "health_activity": 1.2,
     "health_deficit": 1500,
     "process_list": [],
-    "sync_msg": "",
-    "sync_progress_pct": 0,
+    "sync_msg": "K-Peer Sync completed successfully",
+    "sync_progress_pct": 100,
     "dummy": "dummy",
     "timeline_start_hour": 0,
     "timeline_end_hour": 24,
@@ -788,6 +789,22 @@
         "description": "Updated application settings via UI.",
         "uuid": "e047c574f95c420b9481c2b8ccbb3aae",
         "modified_at": "2026-08-11T01:52:17.522432"
+      },
+      {
+        "id": 10,
+        "timestamp": "2026-08-11T01:52:25.974092",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. K-Peer Sync completed successfully",
+        "uuid": "5d1ba2ab26dd4f1995cb550ec3312516",
+        "modified_at": "2026-08-11T01:52:25.974092"
+      },
+      {
+        "id": 11,
+        "timestamp": "2026-08-11T01:53:49.461494",
+        "module": "Settings",
+        "description": "Updated application settings via UI.",
+        "uuid": "38e7a83305ea44118fce95f8d87985a9",
+        "modified_at": "2026-08-11T01:53:49.461494"
       }
     ],
     "deleted_uuids": [
