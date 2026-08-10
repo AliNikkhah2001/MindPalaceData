@@ -1,6 +1,6 @@
 {
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-08-10T12:29:25.485979",
+  "last_sync": "2026-08-10T12:50:40.069986",
   "settings": {
     "font_family": "Inter",
     "custom_font_path": "",
@@ -43,10 +43,10 @@
       "C:\\Users\\10225/MindPalace_Library"
     ],
     "quiet_mode": false,
-    "app_monitoring_enabled": false,
+    "app_monitoring_enabled": true,
     "allowed_apps": [],
     "blocked_apps": [],
-    "auto_block": false,
+    "auto_block": true,
     "dashboard_layout": {},
     "git_status": "connected",
     "git_last_sync": "2026-08-10T11:31:02.749417",
@@ -64,7 +64,7 @@
     "health_activity": 1.2,
     "health_deficit": 1500,
     "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-    "last_sync_timestamp": "2026-08-09T20:57:45.437595"
+    "last_sync_timestamp": "2026-08-10T12:29:25.485979"
   },
   "tables": {
     "courses": [],
@@ -89,7 +89,14 @@
     "quizzes": [],
     "focus_queue": [],
     "notes": [],
-    "health_profile": [],
+    "health_profile": [
+      {
+        "id": 1,
+        "data_json": "{\"age\": 24, \"height\": 190, \"weight\": 110, \"gender\": \"Male\", \"activity\": 1.2, \"deficit_goal\": 1000}",
+        "uuid": "a42697caaca74e9c8a806c01a781d0af",
+        "modified_at": "2026-08-10T12:43:59.607542"
+      }
+    ],
     "health_logs": [],
     "custom_foods": [],
     "custom_activities": [],
@@ -128,7 +135,13 @@
         "modified_at": "2026-08-10T11:31:02.759975"
       }
     ],
-    "deleted_uuids": [],
+    "deleted_uuids": [
+      {
+        "table_name": "cascading_goals",
+        "uuid": "ab1d511ad1f0433fada91cd256e82087",
+        "deleted_at": "2026-08-10T12:43:43.147773"
+      }
+    ],
     "ingredients": [],
     "composite_foods": [],
     "recipe_ingredients": []
@@ -136,7 +149,12 @@
   "deletions": {
     "courses": [],
     "pomodoro_sessions": [],
-    "cascading_goals": [],
+    "cascading_goals": [
+      {
+        "uuid": "ab1d511ad1f0433fada91cd256e82087",
+        "deleted_at": "2026-08-10T12:43:43.147773"
+      }
+    ],
     "habits": [],
     "habit_logs": [],
     "flashcards": [],
