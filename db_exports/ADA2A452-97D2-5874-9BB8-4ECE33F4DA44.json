@@ -1,6 +1,6 @@
 {
   "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-  "last_sync": "2026-08-09T20:57:54.907473",
+  "last_sync": "2026-08-10T20:29:57.412988",
   "settings": {
     "font_family": "Inter",
     "custom_font_path": "",
@@ -15,7 +15,7 @@
     "clock_complication": "None",
     "dist_delay": 3,
     "vision_mode": "Strict (Face & Eyes)",
-    "bg_image_path": "img/bg.jpg",
+    "bg_image_path": "C:/Users/10225/Downloads/wp3694329-the-imitation-game-wallpapers.jpg",
     "quotes_path": "",
     "panel_opacity": 180,
     "face_scale_factor": 1.2,
@@ -54,9 +54,9 @@
       "C:\\Users\\10225/MindPalace_Library"
     ],
     "health_weight": 107,
-    "git_status": "connected",
-    "git_last_sync": "2026-08-09T20:57:47.570787",
-    "last_sync_timestamp": "2026-08-09T20:57:45.437595",
+    "git_status": "error",
+    "git_last_sync": "2026-08-10T13:10:43.133181",
+    "last_sync_timestamp": "2026-08-10T17:10:41.474546",
     "health_age": 24,
     "health_height": 190,
     "health_gender": "Male",
@@ -64,7 +64,8 @@
     "health_deficit": 1500,
     "process_list": [],
     "sync_msg": "",
-    "sync_progress_pct": 0
+    "sync_progress_pct": 0,
+    "dummy": "dummy"
   },
   "tables": {
     "courses": [],
@@ -121,6 +122,38 @@
         "description": "Successfully synced with Git cluster. K-Peer Sync completed successfully",
         "uuid": "719af69fb1b84d4ebe84c04e0a10b364",
         "modified_at": "2026-08-09T20:57:47.571073"
+      },
+      {
+        "id": 4,
+        "timestamp": "2026-08-09T20:57:56.892397",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Master Overwrite completed successfully",
+        "uuid": "1b24630fd9a24a26ac1b4384f76edb36",
+        "modified_at": "2026-08-09T20:57:56.892397"
+      },
+      {
+        "id": 5,
+        "timestamp": "2026-08-10T13:10:15.578391",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Successfully cloned from ADA2A452-97D2-5874-9BB8-4ECE33F4DA44.json. Restart App.",
+        "uuid": "af867655816c4604ba2f0eb98d597d91",
+        "modified_at": "2026-08-10T13:10:15.578391"
+      },
+      {
+        "id": 6,
+        "timestamp": "2026-08-10T13:10:43.141434",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. K-Peer Sync completed successfully",
+        "uuid": "33aecbf6c23e41f6bdd58e9226c35f9c",
+        "modified_at": "2026-08-10T13:10:43.141434"
+      },
+      {
+        "id": 7,
+        "timestamp": "2026-08-10T17:10:19.365794",
+        "module": "Settings",
+        "description": "Updated application settings via UI.",
+        "uuid": "61da3d5c36c14e44afc57aaac92f7f87",
+        "modified_at": "2026-08-10T17:10:19.365794"
       }
     ],
     "deleted_uuids": []
