@@ -1,6 +1,6 @@
 {
   "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-  "last_sync": "2026-08-15T23:09:37.524754",
+  "last_sync": "2026-08-15T23:14:57.265249",
   "settings": {
     "font_family": "Inter",
     "custom_font_path": "",
@@ -58,7 +58,7 @@
     "health_weight": 107,
     "git_status": "connected",
     "git_last_sync": "2026-08-15T23:09:31.554446",
-    "last_sync_timestamp": "2026-08-15T23:09:28.280438",
+    "last_sync_timestamp": "2026-08-15T23:09:37.524754",
     "health_age": 24,
     "health_height": 190,
     "health_gender": "Male",
@@ -258,6 +258,14 @@
         "type": "Positive",
         "uuid": "feaaefca5f5f41f6b665c7112a11fc6f",
         "modified_at": "2026-08-15T16:02:08.880435"
+      },
+      {
+        "id": 14,
+        "name": "fsdfdsfdser",
+        "created_at": "2026-08-11T01:51:04.324450",
+        "type": "Positive",
+        "uuid": "37c808c9db9e4a40b8b4f768342a9e56",
+        "modified_at": "2026-08-11T01:51:11.670515"
       }
     ],
     "habit_logs": [
