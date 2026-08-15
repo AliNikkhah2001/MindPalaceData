@@ -1,6 +1,6 @@
 {
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-08-15T18:08:06.153232",
+  "last_sync": "2026-08-15T23:04:13.612173",
   "settings": {
     "font_family": "Inter",
     "custom_font_path": "",
@@ -152,6 +152,18 @@
         "deadline": "2026-08-16 11:03",
         "uuid": "8c94fbfa4696484ea653bdd02c4dc120",
         "modified_at": "2026-08-15T14:35:14.331407"
+      },
+      {
+        "id": 999,
+        "uuid": "new-windows-goal-uuid-1234",
+        "parent_id": 0,
+        "level": "Life",
+        "title": "Life Architecture: New Goal from Windows",
+        "category": "Life Architecture",
+        "target_hours": 100,
+        "logged_hours": 0,
+        "deadline": "2026-12-31",
+        "modified_at": "2026-08-15T23:04:13.612159"
       }
     ],
     "habits": [
