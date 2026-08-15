@@ -1,6 +1,6 @@
 {
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-08-15T15:27:23.343835",
+  "last_sync": "2026-08-15T16:08:34.558355",
   "settings": {
     "font_family": "Inter",
     "custom_font_path": "",
@@ -49,8 +49,8 @@
     "blocked_apps": [],
     "auto_block": false,
     "dashboard_layout": {},
-    "git_status": "connected",
-    "git_last_sync": "2026-08-15T13:56:23.503405",
+    "git_status": "error",
+    "git_last_sync": "2026-08-15T15:34:05.245627",
     "sync_msg": "Connection verified",
     "sync_progress_pct": 100,
     "process_list": [],
@@ -66,7 +66,7 @@
     "health_activity": 1.2,
     "health_deficit": 1500,
     "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-    "last_sync_timestamp": "2026-08-15T13:56:05.327761",
+    "last_sync_timestamp": "2026-08-15T15:27:23.343835",
     "dummy": "dummy",
     "timeline_start_hour": 0,
     "timeline_end_hour": 24,
@@ -157,6 +157,110 @@
     "habits": [
       {
         "id": 1,
+        "name": "Cigarette",
+        "created_at": "2026-08-15T16:00:24.348266",
+        "type": "Negative",
+        "uuid": "77aad0db9d0f492a9e175ca595cd1a31",
+        "modified_at": "2026-08-15T16:00:24.348266"
+      },
+      {
+        "id": 2,
+        "name": "Pornography",
+        "created_at": "2026-08-15T16:00:30.666603",
+        "type": "Negative",
+        "uuid": "0f2365f62fa446938fda7107986b9c1c",
+        "modified_at": "2026-08-15T16:00:30.666603"
+      },
+      {
+        "id": 3,
+        "name": "Instagram",
+        "created_at": "2026-08-15T16:00:37.913044",
+        "type": "Negative",
+        "uuid": "d8b3031919db4386b333886b05688f89",
+        "modified_at": "2026-08-15T16:00:37.913044"
+      },
+      {
+        "id": 4,
+        "name": "Sugar",
+        "created_at": "2026-08-15T16:00:41.937824",
+        "type": "Negative",
+        "uuid": "51c5706ad8ce4926a30de1d36752240b",
+        "modified_at": "2026-08-15T16:00:41.937824"
+      },
+      {
+        "id": 5,
+        "name": "Fat",
+        "created_at": "2026-08-15T16:00:45.833156",
+        "type": "Negative",
+        "uuid": "52adfb14d2e94bb6a988a0a339d8c28d",
+        "modified_at": "2026-08-15T16:00:45.833156"
+      },
+      {
+        "id": 6,
+        "name": "Paper",
+        "created_at": "2026-08-15T16:00:52.378040",
+        "type": "Positive",
+        "uuid": "67907a1bd2f04b979176265196fdc1a6",
+        "modified_at": "2026-08-15T16:00:52.378040"
+      },
+      {
+        "id": 7,
+        "name": "Course Self Study",
+        "created_at": "2026-08-15T16:01:11.857197",
+        "type": "Positive",
+        "uuid": "64cb5451e4da4151a91f7dff16278cf7",
+        "modified_at": "2026-08-15T16:01:11.857197"
+      },
+      {
+        "id": 8,
+        "name": "Gym",
+        "created_at": "2026-08-15T16:01:18.137176",
+        "type": "Positive",
+        "uuid": "a225ee1c785044ab83c0088723b89c55",
+        "modified_at": "2026-08-15T16:01:18.137176"
+      },
+      {
+        "id": 9,
+        "name": "Gym 1h+",
+        "created_at": "2026-08-15T16:01:27.922608",
+        "type": "Positive",
+        "uuid": "6b71e1fd5762491ea9bb3b6e27183e34",
+        "modified_at": "2026-08-15T16:01:27.922608"
+      },
+      {
+        "id": 10,
+        "name": "Gym 2h+",
+        "created_at": "2026-08-15T16:01:32.984376",
+        "type": "Positive",
+        "uuid": "a200d9407d764f24bea02532fdf5989e",
+        "modified_at": "2026-08-15T16:01:32.984376"
+      },
+      {
+        "id": 11,
+        "name": "Brush Teeth",
+        "created_at": "2026-08-15T16:01:47.089374",
+        "type": "Positive",
+        "uuid": "594efeb7ae664e6b8e2fd544d598ca85",
+        "modified_at": "2026-08-15T16:01:47.089374"
+      },
+      {
+        "id": 12,
+        "name": "Shave",
+        "created_at": "2026-08-15T16:01:50.841094",
+        "type": "Positive",
+        "uuid": "1bed9408cf3344c6bebbf99bf514e4ca",
+        "modified_at": "2026-08-15T16:01:50.841094"
+      },
+      {
+        "id": 13,
+        "name": "Gemini Notebook Podcast",
+        "created_at": "2026-08-15T16:02:08.880435",
+        "type": "Positive",
+        "uuid": "feaaefca5f5f41f6b665c7112a11fc6f",
+        "modified_at": "2026-08-15T16:02:08.880435"
+      },
+      {
+        "id": 14,
         "name": "fsdfdsfdser",
         "created_at": "2026-08-11T01:51:04.324450",
         "type": "Positive",
@@ -167,6 +271,14 @@
     "habit_logs": [
       {
         "id": 1,
+        "habit_id": 11,
+        "date": "Sun, 8/9",
+        "status": 1,
+        "uuid": "d6f106a15304422c90499eebfe401cac",
+        "modified_at": "2026-08-15T16:02:16.929945"
+      },
+      {
+        "id": 2,
         "habit_id": 1,
         "date": "Wed, 8/5",
         "status": 1,
@@ -174,23 +286,23 @@
         "modified_at": "2026-08-11T01:51:05.578876"
       },
       {
-        "id": 2,
-        "habit_id": 1,
-        "date": "Tue, 8/11",
-        "status": 0,
-        "uuid": "90799456449b4e3d82f4fb27ea141017",
-        "modified_at": "2026-08-15T13:55:20.234063"
-      },
-      {
         "id": 3,
         "habit_id": 1,
-        "date": "Mon, 8/10",
-        "status": 0,
-        "uuid": "f37ea73932c24b158aa0b95f2e7b9aa3",
-        "modified_at": "2026-08-15T13:55:19.689310"
+        "date": "Tue, 8/11",
+        "status": 1,
+        "uuid": "90799456449b4e3d82f4fb27ea141017",
+        "modified_at": "2026-08-11T01:51:07.147237"
       },
       {
         "id": 4,
+        "habit_id": 1,
+        "date": "Mon, 8/10",
+        "status": 1,
+        "uuid": "f37ea73932c24b158aa0b95f2e7b9aa3",
+        "modified_at": "2026-08-11T01:51:08.180219"
+      },
+      {
+        "id": 5,
         "habit_id": 1,
         "date": "Thu, 8/6",
         "status": 1,
@@ -198,28 +310,12 @@
         "modified_at": "2026-08-11T22:08:20.230459"
       },
       {
-        "id": 5,
-        "habit_id": 1,
-        "date": "Sun, 8/9",
-        "status": 0,
-        "uuid": "0866acaeb7fb4c49aebc7d08cda51e91",
-        "modified_at": "2026-08-15T13:55:19.039745"
-      },
-      {
         "id": 6,
         "habit_id": 1,
-        "date": "Wed, 8/12",
+        "date": "Sun, 8/9",
         "status": 1,
-        "uuid": "6bdcc31c25144f37a19de066b2c20203",
-        "modified_at": "2026-08-15T13:55:20.911560"
-      },
-      {
-        "id": 7,
-        "habit_id": 1,
-        "date": "Thu, 8/13",
-        "status": 1,
-        "uuid": "ba47b152a45e47cab64d63c9d7304ca7",
-        "modified_at": "2026-08-15T13:55:21.833470"
+        "uuid": "0866acaeb7fb4c49aebc7d08cda51e91",
+        "modified_at": "2026-08-12T17:30:53.794636"
       }
     ],
     "flashcards": [
@@ -258,6 +354,36 @@
         "course": "Work > Eco: Business Proposal",
         "uuid": "ab9b32d6f5404a889a5ee70a904e51ae",
         "modified_at": "2026-08-15T14:35:26.082688"
+      },
+      {
+        "id": 2,
+        "title": "Work > Eco: Business Proposal",
+        "duration": 90,
+        "type": "Work",
+        "status": "active",
+        "course": "Work > Eco: Business Proposal",
+        "uuid": "c5da0c6f738043b49f7cfd1a9e54a0c0",
+        "modified_at": "2026-08-15T15:57:52.357054"
+      },
+      {
+        "id": 4,
+        "title": "Work > Eco: Business Proposal",
+        "duration": 90,
+        "type": "Work",
+        "status": "active",
+        "course": "Work > Eco: Business Proposal",
+        "uuid": "2ca4b72939474367a62ce08f7ab53a27",
+        "modified_at": "2026-08-15T16:04:58.215000"
+      },
+      {
+        "id": 5,
+        "title": "General",
+        "duration": 15,
+        "type": "Break",
+        "status": "pending",
+        "course": "General",
+        "uuid": "f4b98bb55f674f4da54001e22335402d",
+        "modified_at": "2026-08-15T16:05:03.952261"
       }
     ],
     "notes": [
@@ -271,6 +397,39 @@
         "color": "#641314",
         "uuid": "ed587aa9b6e44e5ba846d574a4f21c8b",
         "modified_at": "2026-08-11T01:52:07.087236"
+      },
+      {
+        "id": 2,
+        "title": "MCP research",
+        "content": "Based on my research, here's a comprehensive list of MCP servers, plugins, and formatters relevant to your AI engineering work:\n\n---\n\n## \ud83e\udd16 **AI Engineering & Model Training**\n\n| Server | Purpose | Key Features |\n|--------|---------|--------------|\n| **mcp-server-colab-exec** | Execute Python on Google Colab GPUs (T4/L4) | Run PyTorch/TensorFlow without local GPU, OAuth2 auth, artifact download |\n| **mcp-server-kaggle-exec** | Execute on Kaggle GPUs (T4\u00d72, P100, TPU) | Free 30hr/week GPU quota, similar to Colab |\n| **RunPod MCP Server** | Manage RunPod pods/endpoints/templates | Deploy PyTorch environments, container registry, network volumes |\n| **Novita MCP Server** | Manage Novita AI GPU instances | PyTorch/CUDA images, instance operations |\n| **Ingero** | eBPF GPU observability for PyTorch | CUDA runtime tracing, causal chains, 60% token compression |\n| **Model Safety MCP** | Scan .pt/.pth files for malicious pickles | Deserialization threats, directory triage |\n| **flyte-mcp** | Distributed PyTorch training workflows | GPU resource management via Flyte |\n\n---\n\n## \ud83d\udcda **Research Papers & Literature Review**\n\n| Server | Purpose | Key Features |\n|--------|---------|--------------|\n| **Semantic Scholar MCP (smaniches)** | 14 typed tools for paper search | Citation graphs, author profiles, recommendations, PyPI/Docker, SLSA provenance |\n| **Semantic Scholar MCP (xbghc/JackKuo666)** | Paper search, citations, author profiles | Multi-ID support (DOI, ArXiv, PMID), rate limiting |\n| **ArXiv MCP Server** | Search, download, analyze arXiv papers | Category filters, date ranges, boolean ops, local storage, semantic search |\n| **Academia MCP** | Cross-source search (ArXiv, ACL, HF, Semantic Scholar) | Unified academic search |\n\n---\n\n## \ud83d\udda5\ufe0f **Server Setup & Infrastructure**\n\n| Server | Purpose | Key Features |\n|--------|---------|--------------|\n| **Kubernetes MCP Server** | Manage K8s clusters via AI | Multi-cluster, helm/kubectl toolsets, read-only mode, `/stats` endpoint |\n| **Docker MCP Catalog** | 200+ pre-built MCP server images | Official images, security patches, `docker/mcp-*` namespace |\n| **GitLab CI/CD MCP** | Pipeline, MR, job management | Built into GitLab 18.6+, OAuth 2.1, log grep for megabyte traces |\n| **GitHub MCP Server** | Repos, Actions, PRs, security | 26K+ stars, Lockdown mode, workflow intelligence |\n| **CircleCI MCP** | Build failures, flaky tests, rollback | 9 CI-focused tools, `find_flaky_tests` |\n| **Argo CD MCP** | GitOps app management | Natural language GitOps, Streamable HTTP |\n\n**Deployment Guides:**\n- Docker Compose for multi-server stacks (stdio/SSE transport)\n- Kubernetes deployment with kmcp CLI\n- OCI/OKE with Terraform\n- Cloudflare Workers, Vercel, Railway, Fly.io for Streamable HTTP + OAuth 2.1\n\n---\n\n## \ud83e\uddf9 **Code Quality, Formatters & Linting**\n\n| Server | Language | Tools |\n|--------|----------|-------|\n| **mcp-server-analyzer (Anselmoo)** | Python/JS/TS | Ruff check/format, ty type-check, Vulture dead code, Biome |\n| **ESLint MCP** | JS/TS | Official ESLint CLI MCP server |\n| **Prettier MCP (ncalteen)** | Multi | Format/check via Prettier |\n| **Biome MCP (RyuzakiShinji)** | JS/TS | `biome-lint`, `biome-format` |\n| **ruff-mcp-server** | Python | `ruff_check`, `ruff_format`, `ruff_fix` (JSON, SARIF, JUnit output) |\n| **mcp-code-checker** | Python | Pylint, Pytest, Mypy, Tach (dependency boundaries), import linting |\n| **NDepend MCP** | .NET | 14 tools: metrics, dependencies, quality gates, code queries |\n| **SonarQube MCP (official + wadew)** | Multi | 21 tools, 6 prompts, multi-instance, quality gates |\n| **qartez-mcp** | 37 languages | Knowledge graphs, impact analysis, complexity, modification guard |\n\n---\n\n## \u2728 **Clean Code & OOD Design Patterns**\n\n| Server | Focus | Features |\n|--------|-------|----------|\n| **clean-code-mcp (leonardocrdso)** | Clean Code principles | 63 principles from Robert Martin, code review assistance |\n| **MCP Clean Code (aidalinfo)** | Architecture planning | `cleancode()`, `plan_architecture()`, `document_code()`, `revise_design()`, `branch_implementation()` |\n| **Software Design MCP (mcpmarket)** | SOLID, GoF patterns, code smells | Comprehensive design guidance |\n| **ForgeCraft** | Engineering standards | Auto-detects stack, sets up SOLID, testing, CI/CD, architecture rules |\n| **refactor-mcp (myuon)** | Regex-based refactoring | Search/refactor with preview, context-aware, CLI + MCP modes |\n\n**Key Resources:**\n- SOLID principles guide for MCP server implementation (freebeiro/mcp-postman)\n- MCP Server Architecture Patterns paper (arXiv:2606.30317) - 5 patterns: Resource Gateway, Tool Orchestrator, Stateful Session, Proxy Aggregator, Domain-Specific Adapter\n- Anti-patterns guide (Digital Applied): Schema over-fit, auth-after-build, god-tools, missing audit gates, omnibus params, chatty protocols, error discrimination\n\n---\n\n## \ud83d\udd04 **CI/CD & Code Review Automation**\n\n| Server | Purpose |\n|--------|---------|\n| **code-review-mcp (praneybehl)** | Multi-LLM code reviews (OpenAI, Google, Anthropic) |\n| **code-review-automation** | AI-powered PR analysis for bugs, security, style |\n| **GitHub Code Review MCP** | PR commenting, security/quality/license checks |\n| **GitLab Code Review MCP** | MR diff analysis, comments, approvals |\n| **grippy-code-review** | Local git diff auditing + AI analysis |\n| **Rami Code Review** | Reviews every PR, fixes findings via MCP |\n| **mcp-gerrit-code-review** | Gerrit workflow integration |\n\n---\n\n## \u2699\ufe0f **OpenCode-Specific Configuration**\n\n```jsonc\n// opencode.jsonc\n{\n  \"$schema\": \"https://opencode.ai/config.json\",\n  \"mcp\": {\n    \"servers\": {\n      \"colab-exec\": { \"type\": \"local\", \"command\": [\"uvx\", \"mcp-server-colab-exec\"] },\n      \"semantic-scholar\": { \"type\": \"local\", \"command\": [\"uvx\", \"s2-mcp-server\"], \"env\": { \"SEMANTIC_SCHOLAR_API_KEY\": \"{env:SEMANTIC_SCHOLAR_API_KEY}\" } },\n      \"arxiv\": { \"type\": \"local\", \"command\": [\"uvx\", \"arxiv-mcp-server\"] },\n      \"kubernetes\": { \"type\": \"local\", \"command\": [\"kubernetes-mcp-server\"] },\n      \"ruff\": { \"type\": \"local\", \"command\": [\"uvx\", \"ruff-mcp-server\"] },\n      \"clean-code\": { \"type\": \"local\", \"command\": [\"npx\", \"-y\", \"mcp-clean-code\"] },\n      \"github\": { \"type\": \"remote\", \"url\": \"https://api.githubcopilot.com/mcp\", \"enabled\": true },\n      \"gitlab\": { \"type\": \"local\", \"command\": [\"uvx\", \"--from\", \"gitlab-ci-mcp\", \"gitlab-ci-mcp\"], \"env\": { \"GITLAB_URL\": \"{env:GITLAB_URL}\", \"GITLAB_TOKEN\": \"{env:GITLAB_TOKEN}\" } }\n    }\n  }\n}\n```\n\n---\n\n## \ud83c\udfaf **Recommended Starter Stack for Your Work**\n\n1. **Research**: `semantic-scholar-mcp` + `arxiv-mcp-server`\n2. **Training**: `mcp-server-colab-exec` (free GPU) or `RunPod MCP` (production)\n3. **Code Quality**: `mcp-server-analyzer` (Python/JS) + `ruff-mcp-server`\n4. **Clean Code**: `clean-code-mcp` + `refactor-mcp`\n5. **Infrastructure**: `kubernetes-mcp-server` + `Docker MCP Catalog`\n6. **CI/CD**: `github-mcp` or `gitlab-ci-mcp` + `code-review-mcp`\n\nAll servers support `uvx` for zero-install usage. Configure via `opencode mcp auth <server>` for OAuth servers.",
+        "timestamp": "2026-08-15T16:06:31.977373",
+        "course": "master macbook > slave windows",
+        "folder": "Uncategorized",
+        "color": "#3c4b0d",
+        "uuid": "6452ba550ec14773b6df4d1573815db3",
+        "modified_at": "2026-08-15T16:06:31.977373"
+      },
+      {
+        "id": 3,
+        "title": "Untitled Note",
+        "content": "Based on my research, here's a comprehensive guide:\n\n---\n\n## \ud83d\udd0d **MCP Server Discovery Hubs & Registries (2026)**\n\n| Registry | Size | Curation | Best For | Key Feature |\n|----------|------|----------|----------|-------------|\n| **Official MCP Registry** | ~9,652 | Canonical | Programmatic discovery, verification | API-first, Linux Foundation governed |\n| **Glama** | 50,000+ | Automated + community | Maximum coverage, visual previews | Inspector, Gateway, security scans |\n| **PulseMCP** | 11,840+ | Hand-reviewed daily | Quality-filtered discovery | Editorial curation, trusted descriptions |\n| **Smithery** | 7,000+ | Verified badge | One-click install + hosting | Toolbox meta-MCP, CLI, remote endpoints |\n| **mcp.so** | 19,700+ | Community | Unofficial/experimental servers | Long-tail niche searches |\n| **mcpservers.org** | Hundreds | Curated | Remote/hosted servers specifically | Production-ready remote servers |\n| **Automation Switch** | 100+ | Editorial | Curated quality with install configs | Security notes, per-client configs |\n\n### **Recommended Discovery Workflow**\n```bash\n# 1. Start with canonical source\n# Check vendor docs first (e.g., GitHub, GitLab, AWS have official MCP servers)\n\n# 2. Use Smithery for instant hosted access\nnpx -y @smithery/cli@latest install <server-name>\n\n# 3. Use Glama for maximum coverage & inspection\n# Visit: https://glama.ai/mcp/servers\n\n# 4. Use MCPfinder for agent-native discovery (install as MCP server)\n[mcp_servers.mcpfinder]\ncommand = \"npx\"\nargs = [\"-y\", \"@anthropic/mcpfinder\"]\n\n# 5. Validate with PulseMCP for quality-filtered results\n# Visit: https://pulsemcp.com\n```\n\n### **GitHub Discovery**\n```bash\n# Search GitHub topics for MCP servers\n# Topics: mcp-server, model-context-protocol, mcp, claude-mcp\n# Example: https://github.com/topics/mcp-server\n```\n\n---\n\n## \u2699\ufe0f **OpenCode Best Practice Commands**\n\n### **Essential Slash Commands (from community templates)**\n\n```markdown\n# .opencode/commands/learn.md\n---\ndescription: Capture non-obvious lessons into AGENTS.md\n---\n!`cat << 'EOF' >> AGENTS.md\n## Lesson Learned: $(date)\n- Context: $1\n- Insight: $2\n- Action: $3\nEOF`\n```\n\n```markdown\n# .opencode/commands/finish-work.md\n---\ndescription: Pre-commit quality gate\n---\n!`npm run lint && npm run typecheck && npm test`\n!`git diff --stat`\n# Verify: cross-layer impact, docs updated, API contracts intact\n```\n\n```markdown\n# .opencode/commands/check-cross-layer.md\n---\ndescription: Verify changes don't break other layers\n---\n# Check: API \u2194 DB \u2194 Frontend \u2194 Tests\n!`grep -r \"import.*from.*\\.\\./\" --include=\"*.ts\" | head -20`\n```\n\n```markdown\n# .opencode/commands/context-prime.md\n---\ndescription: Load repo context before work\n---\n!`cat AGENTS.md`\n!`ls -la`\n!`cat package.json | jq .scripts`\n```\n\n```markdown\n# .opencode/commands/careful-review.md\n---\ndescription: Fresh-eyes review before marking done\n---\n# Run as subagent with read-only permissions\n# Check: correctness, design, readability, security, performance\n```\n\n```markdown\n# .opencode/commands/find-missing-tests.md\n---\ndescription: Identify untested code paths\n---\n!`npx @biomejs/biome check --write`\n!`npm run test:coverage | grep -A5 \"Uncovered\"`\n```\n\n```markdown\n# .opencode/commands/race-and-pick.md\n---\ndescription: Parallel implementations, pick best\n---\n# Spawn multiple subagents with different approaches\n# Compare: performance, readability, testability\n```\n\n---\n\n## \ud83c\udfaf **Production-Grade Skills for Clean Code & Design Patterns**\n\n### **Core Skills to Install**\n\n| Skill | Source | Purpose |\n|-------|--------|---------|\n| **clean-code** | `skeletorflet/opencode-kit` | 63 Clean Code principles, automated validation |\n| **code-refactoring-refactor-clean** | LobeHub/AmidVoshakul | SOLID, design patterns, incremental refactor plans |\n| **code-review** | `januarfonti/opencode-template` | Automated PR review workflow |\n| **python-patterns** | `MerverliPy/everything-opencode` | Python best practices, testing patterns |\n| **backend-patterns** | `MerverliPy/everything-opencode` | API, database, caching patterns |\n| **security-review** | `MerverliPy/everything-opencode` | OWASP, CWE, threat modeling |\n| **testing-patterns** | `MerverliPy/everything-opencode` | TDD, 80% coverage requirement |\n| **incremental-implementation** | `addyosmani/agent-skills` | Feature slicing, RED\u2192GREEN cycle |\n| **spec-driven-development** | `addyosmani/agent-skills` | Specs before code, ADRs |\n| **debugging-and-error-recovery** | `addyosmani/agent-skills` | Reproduce\u2192localize\u2192fix\u2192guard |\n\n### **Install Commands**\n```bash\n# Via LobeHub Marketplace\nnpx -y @lobehub/market-cli skills install amidvoshakul-opencode-secops-blueprint-code-refactoring-refactor-clean\n\n# Via Smithery (for MCP servers that provide skills)\nnpx -y @smithery/cli@latest install <skill-server>\n\n# Manual: clone to .opencode/skills/<name>/SKILL.md\ngit clone https://github.com/skeletorflet/opencode-kit.git\ncp -r opencode-kit/.opencode/skills/clean-code .opencode/skills/\n```\n\n---\n\n## \ud83e\udd16 **Specialized Agent Definitions**\n\n### **Agent: Code Reviewer (Read-Only)**\n```markdown\n# .opencode/agents/review.md\n---\ndescription: Reviews code for quality and best practices\nmode: subagent\nmodel: anthropic/claude-sonnet-4-20250514\ntemperature: 0.1\npermission:\n  edit: deny\n  bash: deny\n  read: allow\n  grep: allow\n  glob: allow\n---\nYou are a code review specialist. Focus on:\n- Correctness & edge cases\n- Design patterns (SOLID, GoF)\n- Readability & maintainability\n- Security (OWASP Top 10, CWE)\n- Performance implications\n- Test coverage adequacy\n\nProvide constructive feedback without making changes.\nReference specific files and line numbers.\n```\n\n### **Agent: Architect (System Design)**\n```markdown\n# .opencode/agents/architect.md\n---\ndescription: System design and architecture planning\nmode: subagent\nmodel: anthropic/claude-opus-4-20250514\ntemperature: 0.3\npermission:\n  edit: deny\n  bash: deny\n  read: allow\n  grep: allow\n  glob: allow\n---\nYou are a senior software architect. Provide:\n1. Architecture Decision Records (ADRs)\n2. System diagrams (Mermaid)\n3. Trade-off analysis\n4. Migration strategies\n5. Scalability & performance considerations\n\nSpecializations: distributed systems, microservices, database schema, API design\n```\n\n### **Agent: Security Auditor**\n```markdown\n# .opencode/agents/security-auditor.md\n---\ndescription: Security analysis and vulnerability detection\nmode: subagent\nmodel: anthropic/claude-sonnet-4-20250514\ntemperature: 0.1\npermission:\n  edit: deny\n  bash: deny\n  read: allow\n  grep: allow\n  glob: allow\n---\nExpertise: OWASP Top 10, AuthZ/AuthN, Crypto, CWE/CERT, STRIDE\n\nWhen reviewing:\n1. Identify vulnerabilities with severity ratings\n2. Provide exploit scenarios for critical issues\n3. Suggest specific mitigations with code examples\n4. Reference relevant CWE/CVE identifiers\n\nPriority: Auth flaws \u2192 Input validation \u2192 Secrets \u2192 Injection\n```\n\n### **Agent: Test Engineer (TDD)**\n```markdown\n# .opencode/agents/test-engineer.md\n---\ndescription: TDD test author - writes tests first, verifies RED\nmode: subagent\nmodel: anthropic/claude-sonnet-4-20250514\ntemperature: 0.2\npermission:\n  edit: allow\n  bash: allow\n  read: allow\n  grep: allow\n  glob: allow\n---\nWrite tests BEFORE implementation (RED phase).\n- Target 80%+ coverage\n- Test behavior, not implementation\n- Property-based testing where applicable\n- Contract tests for APIs\n- Mutation testing for critical paths\n```\n\n---\n\n## \ud83d\udcc1 **Recommended Project Structure**\n\n```\nproject-root/\n\u251c\u2500\u2500 AGENTS.md                 # Root instructions (cross-tool compatible)\n\u251c\u2500\u2500 opencode.json             # OpenCode config with MCP servers\n\u251c\u2500\u2500 .opencode/\n\u2502   \u251c\u2500\u2500 agents/               # Specialized agents\n\u2502   \u2502   \u251c\u2500\u2500 review.md\n\u2502   \u2502   \u251c\u2500\u2500 architect.md\n\u2502   \u2502   \u251c\u2500\u2500 security-auditor.md\n\u2502   \u2502   \u2514\u2500\u2500 test-engineer.md\n\u2502   \u251c\u2500\u2500 commands/             # Slash commands\n\u2502   \u2502   \u251c\u2500\u2500 learn.md\n\u2502   \u2502   \u251c\u2500\u2500 finish-work.md\n\u2502   \u2502   \u251c\u2500\u2500 check-cross-layer.md\n\u2502   \u2502   \u251c\u2500\u2500 context-prime.md\n\u2502   \u2502   \u251c\u2500\u2500 careful-review.md\n\u2502   \u2502   \u2514\u2500\u2500 find-missing-tests.md\n\u2502   \u251c\u2500\u2500 skills/               # Reusable workflows\n\u2502   \u2502   \u251c\u2500\u2500 clean-code/SKILL.md\n\u2502   \u2502   \u251c\u2500\u2500 code-refactoring/SKILL.md\n\u2502   \u2502   \u251c\u2500\u2500 python-patterns/SKILL.md\n\u2502   \u2502   \u251c\u2500\u2500 backend-patterns/SKILL.md\n\u2502   \u2502   \u251c\u2500\u2500 security-review/SKILL.md\n\u2502   \u2502   \u2514\u2500\u2500 testing-patterns/SKILL.md\n\u2502   \u2514\u2500\u2500 rules/                # Always-follow guidelines\n\u2502       \u251c\u2500\u2500 security.md\n\u2502       \u251c\u2500\u2500 coding-style.md\n\u2502       \u251c\u2500\u2500 testing.md\n\u2502       \u251c\u2500\u2500 git-workflow.md\n\u2502       \u251c\u2500\u2500 patterns.md       # Design patterns reference\n\u2502       \u2514\u2500\u2500 performance.md\n\u251c\u2500\u2500 skills/                   # Source skills (copied to .opencode/)\n\u251c\u2500\u2500 agents/                   # Source agents\n\u251c\u2500\u2500 commands/                 # Source commands\n\u251c\u2500\u2500 rules/                    # Source rules\n\u2514\u2500\u2500 scripts/                  # Cross-platform validation scripts\n```\n\n---\n\n## \ud83d\udd27 **OpenCode Config (opencode.json)**\n\n```json\n{\n  \"$schema\": \"https://opencode.ai/config.json\",\n  \"mcp\": {\n    \"servers\": {\n      \"github\": { \"type\": \"remote\", \"url\": \"https://api.githubcopilot.com/mcp\" },\n      \"semantic-scholar\": { \"type\": \"local\", \"command\": [\"uvx\", \"s2-mcp-server\"] },\n      \"arxiv\": { \"type\": \"local\", \"command\": [\"uvx\", \"arxiv-mcp-server\"] },\n      \"kubernetes\": { \"type\": \"local\", \"command\": [\"kubernetes-mcp-server\"] },\n      \"ruff\": { \"type\": \"local\", \"command\": [\"uvx\", \"ruff-mcp-server\"] },\n      \"clean-code\": { \"type\": \"local\", \"command\": [\"npx\", \"-y\", \"mcp-clean-code\"] },\n      \"sonarqube\": { \"type\": \"remote\", \"url\": \"https://sonarqube.example.com/mcp\" }\n    }\n  },\n  \"agent\": {\n    \"review\": { \"description\": \"Code review specialist\" },\n    \"architect\": { \"description\": \"System design & architecture\" },\n    \"security-auditor\": { \"description\": \"Security vulnerability detection\" },\n    \"test-engineer\": { \"description\": \"TDD test author\" }\n  },\n  \"instructions\": [\n    \"AGENTS.md\",\n    \".opencode/rules/*.md\"\n  ]\n}\n```\n\n---\n\n## \ud83d\udccb **AGENTS.md Template (Production-Ready)**\n\n```markdown\n# AGENTS.md\n\n## Commands\nBuild:     `npm run build`\nTest:      `npm test`\nTest (single): `npm test -- path/to/file.test.ts`\nLint:      `npm run lint`\nTypecheck: `npx tsc --noEmit`\nFormat:    `npm run format`\n\n## Code Style\n- TypeScript strict mode. No `any`.\n- Named exports only. No default exports.\n- Async/await over `.then()` chains.\n- Error messages: lowercase, no trailing period.\n- Descriptive variable names. No single letters except loop counters.\n- Max 200 lines per file. Max 4 parameters per function.\n\n## Architecture\n- Layered: presentation \u2192 application \u2192 domain \u2192 infrastructure\n- Dependency inversion: domain defines interfaces, infrastructure implements\n- No circular dependencies between modules\n- Database: repository pattern, migrations versioned\n\n## Rules & Restrictions\n- Never commit without passing lint + typecheck + tests\n- No direct DB access in application layer\n- All external calls behind interfaces\n- Secrets via environment variables only\n- PRs require: review approval + CI green + updated docs\n\n## Design Patterns (Reference)\n- **Creational**: Factory, Builder, Abstract Factory\n- **Structural**: Adapter, Decorator, Facade, Proxy\n- **Behavioral**: Strategy, Observer, Command, Template Method\n- **Architectural**: Repository, Unit of Work, CQRS, Event Sourcing\n\n## Python-Specific (if applicable)\n- Ruff for linting/formatting, mypy for type checking\n- Pydantic for validation, SQLAlchemy 2.0 for ORM\n- pytest with fixtures, hypothesis for property testing\n- uv for package management, ruff for formatting\n```\n\n---\n\n## \ud83d\ude80 **Quick Start: Clone Battle-Tested Templates**\n\n```bash\n# Option 1: Comprehensive template (10 MCP, 31 agents, 30 commands, 23 skills)\ngit clone https://github.com/januarfonti/opencode-template-configured.git\ncd opencode-template-configured\ncp .env.example .env  # Add your API keys\n\n# Option 2: Agent-skills by Addy Osmani (agent-driven, no manual commands)\ngit clone https://github.com/addyosmani/agent-skills.git\n\n# Option 3: Everything OpenCode (Anthropic hackathon winner config)\ngit clone https://github.com/MerverliPy/everything-opencode.git\n\n# Option 4: OpenCode Kit (clean-code skill with multi-agent validation)\ngit clone https://github.com/skeletorflet/opencode-kit.git\n```\n\n---\n\n## \ud83d\udd11 **Key Principles for Production Code**\n\n1. **Skills describe WHAT, agents decide WHEN** - Let agents auto-invoke skills via `AGENTS.md` rules\n2. **Commands for shortcuts, agents for workflows** - Use `/finish-work` as quality gate\n3. **Read-only reviewers, sandboxed implementers** - Separate concerns via permissions\n4. **Context-prime before work** - Load AGENTS.md, scripts, configs first\n5. **Learn continuously** - `/learn` captures lessons into AGENTS.md\n6. **Cross-layer verification** - `/check-cross-layer` catches missed impacts\n7. **Design patterns as shared vocabulary** - Document in `.opencode/rules/patterns.md`\n\nThis setup gives you a production-grade AI engineering environment with clean code enforcement, design pattern guidance, and specialized agents for every phase of development.",
+        "timestamp": "2026-08-15T16:07:03.097790",
+        "course": "master macbook > slave windows",
+        "folder": "Uncategorized",
+        "color": "#3c4b0d",
+        "uuid": "9f30e6bbbe0c41ad8d0ae177730bdf5a",
+        "modified_at": "2026-08-15T16:07:03.097790"
+      },
+      {
+        "id": 4,
+        "title": "Untitled Note",
+        "content": "*\n<div style=\"background-color: rgba(245, 158, 11, 0.2); border-left: 4px solid #f59e0b; padding: 10px; margin: 10px 0; border-radius: 4px;\">\n\u26a0\ufe0f <b>Warning:</b> ### The GitHub CLI (`gh`) isn't installed. Here's how to push to GitHub:\n\n## Push to GitHub\n</div>\n*\n\n**### Option 1: Create repo on GitHub first, then push******\n```bash\n# 1. Create repo at https://github.com/new\n#    Name: opencode-ai-engineering\n#    Don't initialize with README (we have one)\n\n# 2. Add remote and push\ngit remote add origin https://github.com/YOUR_USERNAME/opencode-ai-engineering.git\ngit branch -M main\ngit push -u origin main\n```\n\n### Option 2: Use GitHub CLI (install first)\n```bash\n# Install gh\nwinget install GitHub.cli  # Windows\n# or: brew install gh       # macOS\n# or: sudo apt install gh   # Linux\n\n# Authenticate\ngh auth login\n\n# Create and push\ngh repo create opencode-ai-engineering --public --source=. --push\n```\n\n---\n\n## Summary: What Was Created\n\n### \ud83d\udcc1 Files Created (32 files, 2609 lines)\n\n| Category | Files | Description |\n|----------|-------|-------------|\n| **Config** | 2 | `opencode.json`, `AGENTS.md` |\n| **MCP Servers** | 12 | github, semantic-scholar, arxiv, kubernetes, ruff, clean-code, colab-exec, kaggle-exec, runpod, sonarqube, gitlab-ci, mcpfinder |\n| **Agents** | 8 | review, architect, security-auditor, test-engineer, backend-specialist, frontend-specialist, ml-engineer |\n| **Commands** | 8 | learn, finish-work, check-cross-layer, context-prime, careful-review, find-missing-tests, race-and-pick, session-summary |\n| **Skills** | 5 | clean-code, code-refactoring, python-patterns, testing-patterns, security-review |\n| **Rules** | 8 | security, coding-style, testing, git-workflow, patterns, performance, agents, hooks |\n| **Docs** | 1 | `README.md` (comprehensive) |\n| **Git** | 1 | `.gitignore` |\n\n### \ud83c\udfaf Key Features\n\n1. **Research Ready**: Semantic Scholar + ArXiv MCP for literature review\n2. **GPU Training**: Colab (free), Kaggle (free), RunPod (cloud) - no local GPU needed\n3. **Code Quality**: Ruff, Biome, SonarQube, clean-code validation\n4. **Security**: OWASP Top 10, ML model scanning, secret detection\n5. **Agent Pipeline**: Architect \u2192 Test Engineer \u2192 Implementer \u2192 Review \u2192 Security\n6. **Quality Gates**: `/finish-work` runs lint + typecheck + test + security\n7. **Cross-Layer Safety**: `/check-cross-layer` catches API/DB/FE drift\n8. **Documentation**: Full README with workflows and examples\n\n### \ud83d\udd27 Required Setup\n\nCreate `.env` from `.env.example`:\n```bash\nSEMANTIC_SCHOLAR_API_KEY=your_key\nGITLAB_URL=https://gitlab.example.com\nGITLAB_TOKEN=glpat-xxxxxx\nGITLAB_PROJECT_PATH=my-org/my-repo\n```\n\n### \ud83d\ude80 Quick Test (once OpenCode is installed)\n\n```bash\nopencode mcp list      # Verify 12 servers\nopencode agent list    # Verify 8 agents\n/context-prime         # Load context\n/finish-work           # Test quality gate\n```\n\nThe repository is committed locally. Push to GitHub using one of the options above!",
+        "timestamp": "2026-08-15T16:08:03.871749",
+        "course": "Work > Eco: Business Proposal",
+        "folder": "Uncategorized",
+        "color": "#0f9263",
+        "uuid": "b28d60f5a6a34dcfb6a599d67adc0855",
+        "modified_at": "2026-08-15T16:08:03.871749"
       }
     ],
     "health_profile": [
@@ -544,9 +703,41 @@
         "description": "Updated application settings via UI.",
         "uuid": "cb6398d4e829469f9892ae29ea20c93e",
         "modified_at": "2026-08-15T14:36:02.767151"
+      },
+      {
+        "id": 26,
+        "timestamp": "2026-08-15T15:27:38.071765",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. K-Peer Sync completed successfully",
+        "uuid": "4d4ce48baedf46ceb2e5ed5bd7aeb714",
+        "modified_at": "2026-08-15T15:27:38.071765"
+      },
+      {
+        "id": 27,
+        "timestamp": "2026-08-15T15:34:05.298002",
+        "module": "Sync Error",
+        "description": "Sync failed: Merge failed: no such column: id",
+        "uuid": "4f24277c40b64cfdab0147f13a463664",
+        "modified_at": "2026-08-15T15:34:05.298002"
       }
     ],
-    "deleted_uuids": [],
+    "deleted_uuids": [
+      {
+        "table_name": "habits",
+        "uuid": "37c808c9db9e4a40b8b4f768342a9e56",
+        "deleted_at": "2026-08-15T16:00:17.968022"
+      },
+      {
+        "table_name": "focus_queue",
+        "uuid": "f21093b15408451dbd54137fa24541be",
+        "deleted_at": "2026-08-15T16:05:07.992908"
+      },
+      {
+        "table_name": "notes",
+        "uuid": "f7282667e65f4bf7bb6d9e5760245418",
+        "deleted_at": "2026-08-15T16:06:39.153860"
+      }
+    ],
     "ingredients": [
       {
         "id": 1,
@@ -1060,12 +1251,27 @@
     "courses": [],
     "pomodoro_sessions": [],
     "cascading_goals": [],
-    "habits": [],
+    "habits": [
+      {
+        "uuid": "37c808c9db9e4a40b8b4f768342a9e56",
+        "deleted_at": "2026-08-15T16:00:17.968022"
+      }
+    ],
     "habit_logs": [],
     "flashcards": [],
     "quizzes": [],
-    "focus_queue": [],
-    "notes": [],
+    "focus_queue": [
+      {
+        "uuid": "f21093b15408451dbd54137fa24541be",
+        "deleted_at": "2026-08-15T16:05:07.992908"
+      }
+    ],
+    "notes": [
+      {
+        "uuid": "f7282667e65f4bf7bb6d9e5760245418",
+        "deleted_at": "2026-08-15T16:06:39.153860"
+      }
+    ],
     "health_profile": [],
     "health_logs": [],
     "custom_foods": [],
