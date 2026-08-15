@@ -1,6 +1,6 @@
 {
   "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-  "last_sync": "2026-08-15T21:33:05.210727",
+  "last_sync": "2026-08-15T22:33:52.121119",
   "settings": {
     "font_family": "Inter",
     "custom_font_path": "",
@@ -57,7 +57,7 @@
     ],
     "health_weight": 107,
     "git_status": "connected",
-    "git_last_sync": "2026-08-15T21:28:59.765151",
+    "git_last_sync": "2026-08-15T21:33:37.707729",
     "last_sync_timestamp": "2026-08-15T21:28:55.818644",
     "health_age": 24,
     "health_height": 190,
@@ -257,14 +257,6 @@
         "type": "Positive",
         "uuid": "feaaefca5f5f41f6b665c7112a11fc6f",
         "modified_at": "2026-08-15T16:02:08.880435"
-      },
-      {
-        "id": 14,
-        "name": "fsdfdsfdser",
-        "created_at": "2026-08-11T01:51:04.324450",
-        "type": "Positive",
-        "uuid": "37c808c9db9e4a40b8b4f768342a9e56",
-        "modified_at": "2026-08-11T01:51:11.670515"
       }
     ],
     "habit_logs": [
@@ -1236,25 +1228,17 @@
         "description": "Successfully synced with Git cluster. Sync completed successfully",
         "uuid": "f506d02fb3024ec6831cd6bfefe76af0",
         "modified_at": "2026-08-15T21:28:59.808710"
-      }
-    ],
-    "deleted_uuids": [
-      {
-        "table_name": "cascading_goals",
-        "uuid": "628be0c0a6e049fd805557b1041cb789",
-        "deleted_at": "2026-08-11T01:50:59.446407"
       },
       {
-        "table_name": "focus_queue",
-        "uuid": "0b3128d6ec1e45e5be17af37b9939a41",
-        "deleted_at": "2026-08-11T22:05:25.568366"
-      },
-      {
-        "table_name": "focus_queue",
-        "uuid": "184af662cfe741dfb9f2244704becce1",
-        "deleted_at": "2026-08-11T22:05:26.142023"
+        "id": 33,
+        "timestamp": "2026-08-15T21:33:37.722731",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Successfully cloned from ADA2A452-97D2-5874-9BB8-4ECE33F4DA44.json. Restart App.",
+        "uuid": "24b434d9dad5479695846bab3893e759",
+        "modified_at": "2026-08-15T21:33:37.722731"
       }
     ],
+    "deleted_uuids": [],
     "food_logs": [],
     "daily_metrics": [
       {
@@ -1322,26 +1306,12 @@
   "deletions": {
     "courses": [],
     "pomodoro_sessions": [],
-    "cascading_goals": [
-      {
-        "uuid": "628be0c0a6e049fd805557b1041cb789",
-        "deleted_at": "2026-08-11T01:50:59.446407"
-      }
-    ],
+    "cascading_goals": [],
     "habits": [],
     "habit_logs": [],
     "flashcards": [],
     "quizzes": [],
-    "focus_queue": [
-      {
-        "uuid": "0b3128d6ec1e45e5be17af37b9939a41",
-        "deleted_at": "2026-08-11T22:05:25.568366"
-      },
-      {
-        "uuid": "184af662cfe741dfb9f2244704becce1",
-        "deleted_at": "2026-08-11T22:05:26.142023"
-      }
-    ],
+    "focus_queue": [],
     "notes": [],
     "health_profile": [],
     "health_logs": [],
