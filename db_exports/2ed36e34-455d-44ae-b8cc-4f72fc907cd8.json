@@ -1,6 +1,6 @@
 {
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-08-15T17:04:56.136995",
+  "last_sync": "2026-08-15T18:08:06.153232",
   "settings": {
     "font_family": "Inter",
     "custom_font_path": "",
@@ -50,7 +50,7 @@
     "auto_block": false,
     "dashboard_layout": {},
     "git_status": "connected",
-    "git_last_sync": "2026-08-15T16:08:45.925549",
+    "git_last_sync": "2026-08-15T17:05:10.826667",
     "sync_msg": "Connection verified",
     "sync_progress_pct": 100,
     "process_list": [],
@@ -66,7 +66,7 @@
     "health_activity": 1.2,
     "health_deficit": 1500,
     "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-    "last_sync_timestamp": "2026-08-15T16:08:34.558355",
+    "last_sync_timestamp": "2026-08-15T17:04:56.136995",
     "dummy": "dummy",
     "timeline_start_hour": 0,
     "timeline_end_hour": 24,
@@ -377,13 +377,13 @@
       },
       {
         "id": 5,
-        "title": "General",
-        "duration": 15,
-        "type": "Break",
-        "status": "pending",
-        "course": "General",
-        "uuid": "f4b98bb55f674f4da54001e22335402d",
-        "modified_at": "2026-08-15T16:05:03.952261"
+        "title": "master macbook > dfdfsdfs",
+        "duration": 90,
+        "type": "Work",
+        "status": "active",
+        "course": "master macbook > dfdfsdfs",
+        "uuid": "1e538f68930f4e48a7a97423374fed23",
+        "modified_at": "2026-08-15T18:04:36.075978"
       }
     ],
     "notes": [
@@ -727,6 +727,14 @@
         "description": "Successfully synced with Git cluster. K-Peer Sync completed successfully",
         "uuid": "2b343d2fe8e64383afe713d86ab52215",
         "modified_at": "2026-08-15T16:08:45.969468"
+      },
+      {
+        "id": 29,
+        "timestamp": "2026-08-15T17:05:10.841749",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "uuid": "1dae7c73066d45a7bbcc3d41e79ddd3c",
+        "modified_at": "2026-08-15T17:05:10.841749"
       }
     ],
     "deleted_uuids": [
@@ -744,6 +752,11 @@
         "table_name": "notes",
         "uuid": "f7282667e65f4bf7bb6d9e5760245418",
         "deleted_at": "2026-08-15T16:06:39.153860"
+      },
+      {
+        "table_name": "focus_queue",
+        "uuid": "f4b98bb55f674f4da54001e22335402d",
+        "deleted_at": "2026-08-15T18:04:26.497976"
       }
     ],
     "ingredients": [
@@ -1283,6 +1296,10 @@
       {
         "uuid": "f21093b15408451dbd54137fa24541be",
         "deleted_at": "2026-08-15T16:05:07.992908"
+      },
+      {
+        "uuid": "f4b98bb55f674f4da54001e22335402d",
+        "deleted_at": "2026-08-15T18:04:26.497976"
       }
     ],
     "notes": [
