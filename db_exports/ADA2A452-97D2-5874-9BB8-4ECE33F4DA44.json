@@ -1,6 +1,6 @@
 {
   "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-  "last_sync": "2026-08-15T23:00:54.389518",
+  "last_sync": "2026-08-15T23:08:56.193615",
   "settings": {
     "font_family": "Inter",
     "custom_font_path": "",
@@ -58,7 +58,7 @@
     "health_weight": 107,
     "git_status": "connected",
     "git_last_sync": "2026-08-15T22:33:56.773615",
-    "last_sync_timestamp": "2026-08-15T22:57:52.323619",
+    "last_sync_timestamp": "2026-08-15T23:00:54.389518",
     "health_age": 24,
     "health_height": 190,
     "health_gender": "Male",
