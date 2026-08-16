@@ -1,6 +1,6 @@
 {
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-08-16T16:43:14.044999",
+  "last_sync": "2026-08-16T16:53:41.107034",
   "settings": {
     "font_family": "Inter",
     "custom_font_path": "",
@@ -50,13 +50,14 @@
     "auto_block": false,
     "dashboard_layout": {},
     "git_status": "connected",
-    "git_last_sync": "2026-08-16T10:59:04.387986",
-    "sync_msg": "Connection verified",
+    "git_last_sync": "8/16/2026, 4:43:22 PM",
+    "sync_msg": "K-Peer Sync completed successfully",
     "sync_progress_pct": 100,
     "process_list": [],
     "mapped_folders": [
       "C:\\Users\\10225/MindPalace_Library",
-      "/Users/alinikkhah/MindPalace_Library"
+      "/Users/alinikkhah/MindPalace_Library",
+      "C:/Users/10225/MindPalace_Library - Copy"
     ],
     "has_token": true,
     "health_age": 24,
@@ -873,6 +874,22 @@
         "description": "Successfully synced with Git cluster. Sync completed successfully",
         "uuid": "106b6a4189494fe6b6c1a872bad52323",
         "modified_at": "2026-08-16T10:34:43.281520"
+      },
+      {
+        "id": 37,
+        "timestamp": "2026-08-16T16:43:22.441628",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. K-Peer Sync completed successfully",
+        "uuid": "d2ac7897e70948a8ad8bb5a24378020d",
+        "modified_at": "2026-08-16T16:43:22.441628"
+      },
+      {
+        "id": 38,
+        "timestamp": "2026-08-16T16:53:09.544692",
+        "module": "Settings",
+        "description": "Updated application settings via UI.",
+        "uuid": "bc22a03010974958b1c0cb2a7a5c0438",
+        "modified_at": "2026-08-16T16:53:09.544692"
       }
     ],
     "deleted_uuids": [
