@@ -1,6 +1,6 @@
 {
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-08-16T16:58:04.232678",
+  "last_sync": "2026-08-16T20:19:42.789556",
   "settings": {
     "font_family": "Inter",
     "custom_font_path": "",
@@ -50,7 +50,7 @@
     "auto_block": false,
     "dashboard_layout": {},
     "git_status": "connected",
-    "git_last_sync": "2026-08-16T16:53:48.341065",
+    "git_last_sync": "2026-08-16T16:58:12.125045",
     "sync_msg": "K-Peer Sync completed successfully",
     "sync_progress_pct": 100,
     "process_list": [],
@@ -67,7 +67,7 @@
     "health_activity": 1.2,
     "health_deficit": 1500,
     "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-    "last_sync_timestamp": "2026-08-16T16:53:41.107034",
+    "last_sync_timestamp": "2026-08-16T16:58:04.232678",
     "dummy": "dummy",
     "timeline_start_hour": 0,
     "timeline_end_hour": 24,
@@ -132,6 +132,62 @@
         "distraction_data": "[]",
         "uuid": "28cc2ea0273a47aa90b24498aab98c5b",
         "modified_at": "2026-08-16T15:18:43.991800",
+        "note": null
+      },
+      {
+        "id": 5,
+        "course": "General",
+        "duration": 0,
+        "actual_duration": 0,
+        "timestamp": "2026-08-16T18:35:37.977805",
+        "type": "Work",
+        "distractions": 0,
+        "timelapse_path": "",
+        "distraction_data": "[]",
+        "uuid": "e2e9bf7ef41c4acda45af48432de816a",
+        "modified_at": "2026-08-16T18:35:57.568806",
+        "note": null
+      },
+      {
+        "id": 6,
+        "course": "General",
+        "duration": 0,
+        "actual_duration": 0,
+        "timestamp": "2026-08-16T18:36:16.131897",
+        "type": "Work",
+        "distractions": 0,
+        "timelapse_path": "",
+        "distraction_data": "[]",
+        "uuid": "4285b05877034139980f592e847c1a02",
+        "modified_at": "2026-08-16T18:38:33.179615",
+        "note": null
+      },
+      {
+        "id": 7,
+        "course": "General",
+        "duration": 0,
+        "actual_duration": 0,
+        "timestamp": "2026-08-16T18:39:10.674758",
+        "type": "Work",
+        "distractions": 0,
+        "timelapse_path": "",
+        "distraction_data": "[]",
+        "uuid": "2ea979aa2431498eb8eaf9e7dee1a8c9",
+        "modified_at": "2026-08-16T18:40:31.556176",
+        "note": null
+      },
+      {
+        "id": 8,
+        "course": "General",
+        "duration": 0,
+        "actual_duration": 0,
+        "timestamp": "2026-08-16T18:40:49.307661",
+        "type": "Work",
+        "distractions": 0,
+        "timelapse_path": "",
+        "distraction_data": "[]",
+        "uuid": "3c133fae1c0045299f75dd3a3edb2120",
+        "modified_at": "2026-08-16T18:41:06.615417",
         "note": null
       }
     ],
@@ -909,6 +965,14 @@
         "description": "Successfully synced with Git cluster. K-Peer Sync completed successfully",
         "uuid": "c85a92f65f884de49dd231b7f85e23d9",
         "modified_at": "2026-08-16T16:53:48.406623"
+      },
+      {
+        "id": 40,
+        "timestamp": "2026-08-16T16:58:12.172493",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. K-Peer Sync completed successfully",
+        "uuid": "da05d495b3674e2093998fe68871b6d1",
+        "modified_at": "2026-08-16T16:58:12.172493"
       }
     ],
     "deleted_uuids": [
