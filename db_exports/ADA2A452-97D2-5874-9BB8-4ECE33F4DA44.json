@@ -1,6 +1,6 @@
 {
   "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-  "last_sync": "2026-08-16T11:34:39.916848",
+  "last_sync": "2026-08-16T21:12:40.734161",
   "settings": {
     "font_family": "Inter",
     "custom_font_path": "",
@@ -56,9 +56,9 @@
       "/Users/alinikkhah/MindPalace_Library"
     ],
     "health_weight": 107,
-    "git_status": "connected",
-    "git_last_sync": "2026-08-16T10:34:43.273376",
-    "last_sync_timestamp": "2026-08-16T10:34:39.654049",
+    "git_status": "error",
+    "git_last_sync": "2026-08-16T20:37:08.078861",
+    "last_sync_timestamp": "2026-08-16T11:34:39.916848",
     "health_age": 24,
     "health_height": 190,
     "health_gender": "Male",
@@ -90,6 +90,48 @@
         "uuid": "4f0054a9e2ed410c828c0601e7765425",
         "modified_at": "2026-08-15T15:21:45.432837",
         "note": "## what did I accomplish? \nmy first work session logged, been searching ai models online"
+      },
+      {
+        "id": 2,
+        "course": "General",
+        "duration": 0,
+        "actual_duration": 0,
+        "timestamp": "2026-08-16T14:10:35.188346",
+        "type": "Work",
+        "distractions": 0,
+        "timelapse_path": "",
+        "distraction_data": "[]",
+        "uuid": "e85df4e8850e4f2cb5074ffe96a563a8",
+        "modified_at": "2026-08-16T14:11:54.813483",
+        "note": null
+      },
+      {
+        "id": 3,
+        "course": "General",
+        "duration": 0,
+        "actual_duration": 0,
+        "timestamp": "2026-08-16T14:23:12.465099",
+        "type": "Work",
+        "distractions": 0,
+        "timelapse_path": "",
+        "distraction_data": "[]",
+        "uuid": "6e5da2a0e3b14fe3966417f8c60e36b1",
+        "modified_at": "2026-08-16T14:23:39.794129",
+        "note": null
+      },
+      {
+        "id": 4,
+        "course": "General",
+        "duration": 0,
+        "actual_duration": 0,
+        "timestamp": "2026-08-16T15:03:26.257297",
+        "type": "Work",
+        "distractions": 0,
+        "timelapse_path": "",
+        "distraction_data": "[]",
+        "uuid": "28cc2ea0273a47aa90b24498aab98c5b",
+        "modified_at": "2026-08-16T15:18:43.991800",
+        "note": null
       }
     ],
     "cascading_goals": [
@@ -258,14 +300,6 @@
         "type": "Positive",
         "uuid": "feaaefca5f5f41f6b665c7112a11fc6f",
         "modified_at": "2026-08-15T16:02:08.880435"
-      },
-      {
-        "id": 14,
-        "name": "fsdfdsfdser",
-        "created_at": "2026-08-11T01:51:04.324450",
-        "type": "Positive",
-        "uuid": "37c808c9db9e4a40b8b4f768342a9e56",
-        "modified_at": "2026-08-11T01:51:11.670515"
       }
     ],
     "habit_logs": [
@@ -289,17 +323,17 @@
         "id": 3,
         "habit_id": 1,
         "date": "Tue, 8/11",
-        "status": 1,
+        "status": 0,
         "uuid": "90799456449b4e3d82f4fb27ea141017",
-        "modified_at": "2026-08-11T01:51:07.147237"
+        "modified_at": "2026-08-16T13:48:44.823695"
       },
       {
         "id": 4,
         "habit_id": 1,
         "date": "Mon, 8/10",
-        "status": 1,
+        "status": 0,
         "uuid": "f37ea73932c24b158aa0b95f2e7b9aa3",
-        "modified_at": "2026-08-11T01:51:08.180219"
+        "modified_at": "2026-08-16T13:48:46.111786"
       },
       {
         "id": 5,
@@ -316,6 +350,46 @@
         "status": 1,
         "uuid": "0866acaeb7fb4c49aebc7d08cda51e91",
         "modified_at": "2026-08-12T17:30:53.794636"
+      },
+      {
+        "id": 7,
+        "habit_id": 1,
+        "date": "Sun, 8/16",
+        "status": 0,
+        "uuid": "5987ea06d35f486685eb97dd13952f29",
+        "modified_at": "2026-08-16T11:57:57.280567"
+      },
+      {
+        "id": 8,
+        "habit_id": 1,
+        "date": "Sat, 8/15",
+        "status": 0,
+        "uuid": "a54ee8658c0043fa80bf47de5490f07d",
+        "modified_at": "2026-08-16T13:49:03.431085"
+      },
+      {
+        "id": 9,
+        "habit_id": 1,
+        "date": "Fri, 8/14",
+        "status": 1,
+        "uuid": "dcae4352f69d4593a772c9fe4c5b8ce4",
+        "modified_at": "2026-08-16T13:49:00.726980"
+      },
+      {
+        "id": 10,
+        "habit_id": 3,
+        "date": "Thu, 8/13",
+        "status": 1,
+        "uuid": "bd05438964ea442b818b726649ca04dc",
+        "modified_at": "2026-08-16T14:30:37.347296"
+      },
+      {
+        "id": 11,
+        "habit_id": 4,
+        "date": "Thu, 8/13",
+        "status": 1,
+        "uuid": "45e645f1c8d14387904dac7206d45445",
+        "modified_at": "2026-08-16T14:30:38.259357"
       }
     ],
     "flashcards": [
@@ -430,6 +504,17 @@
         "color": "#0f9263",
         "uuid": "b28d60f5a6a34dcfb6a599d67adc0855",
         "modified_at": "2026-08-15T16:08:03.871749"
+      },
+      {
+        "id": 5,
+        "title": "privacyctl",
+        "content": "help me crate a full security and privacy script and workstation, i am monitored on differnet aspects on keyboard files browsing password and history and there are so many different monitoring apps running right now on my system. i need to clean all of the personal data my login informaion and history on firefox personal files and all of them and encrypt the reaminining with key and high security encription method, the data should look like normal file formats, like image dlls, ... on normal file system folders but after encryption it should work as expected i want all personal files history autosaved password all of them to be encrypted and be able to decrpyted and take place on my firefox so i can use, remove all of the environment variables with access to my token  github other accounts of mine and create process and app inspections that track monitoring apps and show and alert me of my data spy. i wrote a repo code we can use as starter but it is basic and not satisfy our requirements do research on github and find soruces of knowledge and code that can be used here the final point is that i want my browsing history personal data all to be hidden encrypted in format invisible or common known normal foramts of filesystem so doesn't attract attentionn test functionality in detail make sure encryption is unbreakable it can have cli with symbolic words and work with combination of them like crypto keys",
+        "timestamp": "2026-08-16T16:57:42.749875",
+        "course": "General",
+        "folder": "Uncategorized",
+        "color": "#3b82f6",
+        "uuid": "249c9fee8c9e4c8d9649a1ef8bdd825d",
+        "modified_at": "2026-08-16T16:57:42.749875"
       }
     ],
     "health_profile": [
@@ -1251,6 +1336,118 @@
         "description": "Successfully synced with Git cluster. Sync completed successfully",
         "uuid": "106b6a4189494fe6b6c1a872bad52323",
         "modified_at": "2026-08-16T10:34:43.281520"
+      },
+      {
+        "id": 36,
+        "timestamp": "2026-08-16T11:34:42.941447",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "uuid": "40eed1e39960478b881517f2794c81a7",
+        "modified_at": "2026-08-16T11:34:42.941447"
+      },
+      {
+        "id": 37,
+        "timestamp": "2026-08-16T12:38:31.362475",
+        "module": "Sync Error",
+        "description": "Sync failed: Pull exception: Cmd('git') failed due to: exit code(1)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: unable to access 'https://github.com/AliNikkhah2001/MindPalaceData.git/': Failed to connect to github.com port 443 after 75026 ms: Couldn't connect to server'",
+        "uuid": "b50abc45a1e44b108b1b564d67be1ec3",
+        "modified_at": "2026-08-16T12:38:31.362475"
+      },
+      {
+        "id": 38,
+        "timestamp": "2026-08-16T13:37:08.092151",
+        "module": "Sync Error",
+        "description": "Sync failed: Pull exception: Cmd('git') failed due to: exit code(1)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: unable to access 'https://github.com/AliNikkhah2001/MindPalaceData.git/': Failed to connect to github.com port 443 after 75032 ms: Couldn't connect to server'",
+        "uuid": "76792d38619d48efb17592bea8a61fe1",
+        "modified_at": "2026-08-16T13:37:08.092151"
+      },
+      {
+        "id": 39,
+        "timestamp": "2026-08-16T14:37:08.125125",
+        "module": "Sync Error",
+        "description": "Sync failed: Pull exception: Cmd('git') failed due to: exit code(1)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: unable to access 'https://github.com/AliNikkhah2001/MindPalaceData.git/': Failed to connect to github.com port 443 after 75031 ms: Couldn't connect to server'",
+        "uuid": "4bced1db9e134ca18e4cdc57daec615c",
+        "modified_at": "2026-08-16T14:37:08.125125"
+      },
+      {
+        "id": 40,
+        "timestamp": "2026-08-16T15:39:32.912266",
+        "module": "Sync Error",
+        "description": "Sync failed: Pull exception: Cmd('git') failed due to: exit code(1)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: unable to access 'https://github.com/AliNikkhah2001/MindPalaceData.git/': Failed to connect to github.com port 443 after 75011 ms: Couldn't connect to server'",
+        "uuid": "783f986870df4e68bd6426a842bc880c",
+        "modified_at": "2026-08-16T15:39:32.912266"
+      },
+      {
+        "id": 41,
+        "timestamp": "2026-08-16T16:37:08.094010",
+        "module": "Sync Error",
+        "description": "Sync failed: Pull exception: Cmd('git') failed due to: exit code(1)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: unable to access 'https://github.com/AliNikkhah2001/MindPalaceData.git/': Failed to connect to github.com port 443 after 75014 ms: Couldn't connect to server'",
+        "uuid": "1ce7940bab0a47b08b51b693bc5312e6",
+        "modified_at": "2026-08-16T16:37:08.094010"
+      },
+      {
+        "id": 42,
+        "timestamp": "2026-08-16T17:37:08.386672",
+        "module": "Sync Error",
+        "description": "Sync failed: Pull exception: Cmd('git') failed due to: exit code(1)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: unable to access 'https://github.com/AliNikkhah2001/MindPalaceData.git/': Failed to connect to github.com port 443 after 75014 ms: Couldn't connect to server'",
+        "uuid": "25c3b1ace0914e18b6929542f2005cc7",
+        "modified_at": "2026-08-16T17:37:08.386672"
+      },
+      {
+        "id": 43,
+        "timestamp": "2026-08-16T18:37:08.076442",
+        "module": "Sync Error",
+        "description": "Sync failed: Pull exception: Cmd('git') failed due to: exit code(1)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: unable to access 'https://github.com/AliNikkhah2001/MindPalaceData.git/': Failed to connect to github.com port 443 after 75014 ms: Couldn't connect to server'",
+        "uuid": "52d57ad269ef41898ba5f7b3cd3a2d9a",
+        "modified_at": "2026-08-16T18:37:08.076442"
+      },
+      {
+        "id": 44,
+        "timestamp": "2026-08-16T19:37:09.113366",
+        "module": "Sync Error",
+        "description": "Sync failed: Pull exception: Cmd('git') failed due to: exit code(1)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: unable to access 'https://github.com/AliNikkhah2001/MindPalaceData.git/': Failed to connect to github.com port 443 after 75024 ms: Couldn't connect to server'",
+        "uuid": "eaad4bf1404a4647bb282525e8120849",
+        "modified_at": "2026-08-16T19:37:09.113366"
+      },
+      {
+        "id": 45,
+        "timestamp": "2026-08-16T20:37:08.087528",
+        "module": "Sync Error",
+        "description": "Sync failed: Pull exception: Cmd('git') failed due to: exit code(1)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: unable to access 'https://github.com/AliNikkhah2001/MindPalaceData.git/': Failed to connect to github.com port 443 after 75017 ms: Couldn't connect to server'",
+        "uuid": "a8e5396770d340ecbcdaa0b717f49934",
+        "modified_at": "2026-08-16T20:37:08.087528"
+      },
+      {
+        "id": 46,
+        "timestamp": "2026-08-16T10:59:04.432271",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. K-Peer Sync completed successfully",
+        "uuid": "292bf5ed7eb74c1ea656fbaff97eb5c9",
+        "modified_at": "2026-08-16T10:59:04.432271"
+      },
+      {
+        "id": 47,
+        "timestamp": "2026-08-16T16:43:22.441628",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. K-Peer Sync completed successfully",
+        "uuid": "d2ac7897e70948a8ad8bb5a24378020d",
+        "modified_at": "2026-08-16T16:43:22.441628"
+      },
+      {
+        "id": 48,
+        "timestamp": "2026-08-16T16:53:09.544692",
+        "module": "Settings",
+        "description": "Updated application settings via UI.",
+        "uuid": "bc22a03010974958b1c0cb2a7a5c0438",
+        "modified_at": "2026-08-16T16:53:09.544692"
+      },
+      {
+        "id": 49,
+        "timestamp": "2026-08-16T16:53:48.406623",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. K-Peer Sync completed successfully",
+        "uuid": "c85a92f65f884de49dd231b7f85e23d9",
+        "modified_at": "2026-08-16T16:53:48.406623"
       }
     ],
     "deleted_uuids": [],
