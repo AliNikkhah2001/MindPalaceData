@@ -1,6 +1,6 @@
 {
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-08-16T10:58:48.874604",
+  "last_sync": "2026-08-16T16:43:14.044999",
   "settings": {
     "font_family": "Inter",
     "custom_font_path": "",
@@ -50,7 +50,7 @@
     "auto_block": false,
     "dashboard_layout": {},
     "git_status": "connected",
-    "git_last_sync": "2026-08-16T03:09:55.155414",
+    "git_last_sync": "2026-08-16T10:59:04.387986",
     "sync_msg": "Connection verified",
     "sync_progress_pct": 100,
     "process_list": [],
@@ -66,7 +66,7 @@
     "health_activity": 1.2,
     "health_deficit": 1500,
     "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-    "last_sync_timestamp": "2026-08-16T10:34:39.654049",
+    "last_sync_timestamp": "2026-08-16T12:35:11.923257",
     "dummy": "dummy",
     "timeline_start_hour": 0,
     "timeline_end_hour": 24,
@@ -90,6 +90,48 @@
         "uuid": "4f0054a9e2ed410c828c0601e7765425",
         "modified_at": "2026-08-15T15:21:45.432837",
         "note": "## what did I accomplish? \nmy first work session logged, been searching ai models online"
+      },
+      {
+        "id": 2,
+        "course": "General",
+        "duration": 0,
+        "actual_duration": 0,
+        "timestamp": "2026-08-16T14:10:35.188346",
+        "type": "Work",
+        "distractions": 0,
+        "timelapse_path": "",
+        "distraction_data": "[]",
+        "uuid": "e85df4e8850e4f2cb5074ffe96a563a8",
+        "modified_at": "2026-08-16T14:11:54.813483",
+        "note": null
+      },
+      {
+        "id": 3,
+        "course": "General",
+        "duration": 0,
+        "actual_duration": 0,
+        "timestamp": "2026-08-16T14:23:12.465099",
+        "type": "Work",
+        "distractions": 0,
+        "timelapse_path": "",
+        "distraction_data": "[]",
+        "uuid": "6e5da2a0e3b14fe3966417f8c60e36b1",
+        "modified_at": "2026-08-16T14:23:39.794129",
+        "note": null
+      },
+      {
+        "id": 4,
+        "course": "General",
+        "duration": 0,
+        "actual_duration": 0,
+        "timestamp": "2026-08-16T15:03:26.257297",
+        "type": "Work",
+        "distractions": 0,
+        "timelapse_path": "",
+        "distraction_data": "[]",
+        "uuid": "28cc2ea0273a47aa90b24498aab98c5b",
+        "modified_at": "2026-08-16T15:18:43.991800",
+        "note": null
       }
     ],
     "cascading_goals": [
@@ -289,17 +331,17 @@
         "id": 3,
         "habit_id": 1,
         "date": "Tue, 8/11",
-        "status": 1,
+        "status": 0,
         "uuid": "90799456449b4e3d82f4fb27ea141017",
-        "modified_at": "2026-08-11T01:51:07.147237"
+        "modified_at": "2026-08-16T13:48:44.823695"
       },
       {
         "id": 4,
         "habit_id": 1,
         "date": "Mon, 8/10",
-        "status": 1,
+        "status": 0,
         "uuid": "f37ea73932c24b158aa0b95f2e7b9aa3",
-        "modified_at": "2026-08-11T01:51:08.180219"
+        "modified_at": "2026-08-16T13:48:46.111786"
       },
       {
         "id": 5,
@@ -316,6 +358,46 @@
         "status": 1,
         "uuid": "0866acaeb7fb4c49aebc7d08cda51e91",
         "modified_at": "2026-08-12T17:30:53.794636"
+      },
+      {
+        "id": 7,
+        "habit_id": 1,
+        "date": "Sun, 8/16",
+        "status": 0,
+        "uuid": "5987ea06d35f486685eb97dd13952f29",
+        "modified_at": "2026-08-16T11:57:57.280567"
+      },
+      {
+        "id": 8,
+        "habit_id": 1,
+        "date": "Sat, 8/15",
+        "status": 0,
+        "uuid": "a54ee8658c0043fa80bf47de5490f07d",
+        "modified_at": "2026-08-16T13:49:03.431085"
+      },
+      {
+        "id": 9,
+        "habit_id": 1,
+        "date": "Fri, 8/14",
+        "status": 1,
+        "uuid": "dcae4352f69d4593a772c9fe4c5b8ce4",
+        "modified_at": "2026-08-16T13:49:00.726980"
+      },
+      {
+        "id": 10,
+        "habit_id": 3,
+        "date": "Thu, 8/13",
+        "status": 1,
+        "uuid": "bd05438964ea442b818b726649ca04dc",
+        "modified_at": "2026-08-16T14:30:37.347296"
+      },
+      {
+        "id": 11,
+        "habit_id": 4,
+        "date": "Thu, 8/13",
+        "status": 1,
+        "uuid": "45e645f1c8d14387904dac7206d45445",
+        "modified_at": "2026-08-16T14:30:38.259357"
       }
     ],
     "flashcards": [
@@ -775,6 +857,22 @@
         "description": "Successfully synced with Git cluster. Sync completed successfully",
         "uuid": "a139567f971948b89d7b59d206ad3123",
         "modified_at": "2026-08-16T03:09:55.159075"
+      },
+      {
+        "id": 35,
+        "timestamp": "2026-08-16T10:59:04.432271",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. K-Peer Sync completed successfully",
+        "uuid": "292bf5ed7eb74c1ea656fbaff97eb5c9",
+        "modified_at": "2026-08-16T10:59:04.432271"
+      },
+      {
+        "id": 36,
+        "timestamp": "2026-08-16T10:34:43.281520",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "uuid": "106b6a4189494fe6b6c1a872bad52323",
+        "modified_at": "2026-08-16T10:34:43.281520"
       }
     ],
     "deleted_uuids": [
