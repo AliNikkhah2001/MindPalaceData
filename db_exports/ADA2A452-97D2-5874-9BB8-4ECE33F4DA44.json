@@ -1,6 +1,6 @@
 {
   "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-  "last_sync": "2026-08-16T21:13:34.128162",
+  "last_sync": "2026-08-16T22:12:45.998788",
   "settings": {
     "font_family": "Inter",
     "custom_font_path": "",
@@ -8,10 +8,10 @@
     "font_size": 14,
     "clock_style": "Analog Classic",
     "clock_case_shape": "Round",
-    "clock_bezel": "Fluted",
-    "clock_indices": "Baton",
-    "clock_ticks": "Crosshair",
-    "clock_hands": "Sword",
+    "clock_bezel": "Coin-Edge",
+    "clock_indices": "California",
+    "clock_ticks": "Railroad",
+    "clock_hands": "Serpentine",
     "clock_complication": "Date Window",
     "dist_delay": 3,
     "vision_mode": "Strict (Face & Eyes)",
@@ -23,7 +23,7 @@
     "face_min_size": 120,
     "vision_sample_interval": 30,
     "force_close_apps_mins": 5,
-    "sound_app_dist": "Ping",
+    "sound_app_dist": "Frog",
     "sound_cam_dist": "Basso",
     "sound_cam_err": "Hero",
     "beep_freq": 3,
@@ -56,9 +56,9 @@
       "/Users/alinikkhah/MindPalace_Library"
     ],
     "health_weight": 107,
-    "git_status": "error",
-    "git_last_sync": "2026-08-16T20:37:08.078861",
-    "last_sync_timestamp": "2026-08-16T21:12:40.734161",
+    "git_status": "connected",
+    "git_last_sync": "2026-08-16T21:13:39.962693",
+    "last_sync_timestamp": "2026-08-16T21:13:34.128162",
     "health_age": 24,
     "health_height": 190,
     "health_gender": "Male",
@@ -194,6 +194,18 @@
         "deadline": "2026-08-16 11:03",
         "uuid": "8c94fbfa4696484ea653bdd02c4dc120",
         "modified_at": "2026-08-15T14:35:14.331407"
+      },
+      {
+        "id": 7,
+        "parent_id": null,
+        "level": null,
+        "title": "Gym",
+        "category": null,
+        "target_hours": 50.0,
+        "logged_hours": 0.0,
+        "deadline": "2026-09-23 17:43",
+        "uuid": "2538b274fedb413599db7173bedf0e54",
+        "modified_at": "2026-08-16T21:14:02.582430"
       }
     ],
     "habits": [
@@ -300,14 +312,6 @@
         "type": "Positive",
         "uuid": "feaaefca5f5f41f6b665c7112a11fc6f",
         "modified_at": "2026-08-15T16:02:08.880435"
-      },
-      {
-        "id": 14,
-        "name": "fsdfdsfdser",
-        "created_at": "2026-08-11T01:51:04.324450",
-        "type": "Positive",
-        "uuid": "37c808c9db9e4a40b8b4f768342a9e56",
-        "modified_at": "2026-08-11T01:51:11.670515"
       }
     ],
     "habit_logs": [
@@ -398,6 +402,22 @@
         "status": 1,
         "uuid": "45e645f1c8d14387904dac7206d45445",
         "modified_at": "2026-08-16T14:30:38.259357"
+      },
+      {
+        "id": 12,
+        "habit_id": 8,
+        "date": "2026-08-16",
+        "status": 1,
+        "uuid": "fc2d9d017140426f8203b758f411a585",
+        "modified_at": "2026-08-16T21:14:14.519665"
+      },
+      {
+        "id": 13,
+        "habit_id": 9,
+        "date": "2026-08-16",
+        "status": 1,
+        "uuid": "e7624c94d92e4f859f6276aeb5d1aff5",
+        "modified_at": "2026-08-16T21:14:15.780302"
       }
     ],
     "flashcards": [
@@ -466,6 +486,16 @@
         "course": "master macbook > dfdfsdfs",
         "uuid": "1e538f68930f4e48a7a97423374fed23",
         "modified_at": "2026-08-15T18:04:36.075978"
+      },
+      {
+        "id": 6,
+        "title": "Gym",
+        "duration": 120,
+        "type": "Work",
+        "status": "active",
+        "course": "Gym",
+        "uuid": "b775bdbfda9d476097f353371eec4f41",
+        "modified_at": "2026-08-16T21:15:12.924543"
       }
     ],
     "notes": [
@@ -1456,6 +1486,22 @@
         "description": "Successfully synced with Git cluster. K-Peer Sync completed successfully",
         "uuid": "c85a92f65f884de49dd231b7f85e23d9",
         "modified_at": "2026-08-16T16:53:48.406623"
+      },
+      {
+        "id": 50,
+        "timestamp": "2026-08-16T21:13:39.965347",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. K-Peer Sync completed successfully",
+        "uuid": "a2006fd92833453db7c40a0a55093970",
+        "modified_at": "2026-08-16T21:13:39.965347"
+      },
+      {
+        "id": 51,
+        "timestamp": "2026-08-16T21:14:57.278938",
+        "module": "Settings",
+        "description": "Updated application settings via UI.",
+        "uuid": "3ff6ab83312f4271b5a4cbdf5d3f0305",
+        "modified_at": "2026-08-16T21:14:57.278938"
       }
     ],
     "deleted_uuids": [],
