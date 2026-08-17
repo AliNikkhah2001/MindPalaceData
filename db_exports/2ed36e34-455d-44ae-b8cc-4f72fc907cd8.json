@@ -1,6 +1,6 @@
 {
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-08-17T12:24:48.390657",
+  "last_sync": "2026-08-17T15:51:42.197602",
   "settings": {
     "font_family": "Inter",
     "custom_font_path": "",
@@ -132,62 +132,6 @@
         "uuid": "28cc2ea0273a47aa90b24498aab98c5b",
         "modified_at": "2026-08-16T15:18:43.991800",
         "note": null
-      },
-      {
-        "id": 5,
-        "course": "General",
-        "duration": 0,
-        "actual_duration": 0,
-        "timestamp": "2026-08-16T18:35:37.977805",
-        "type": "Work",
-        "distractions": 0,
-        "timelapse_path": "",
-        "distraction_data": "[]",
-        "uuid": "e2e9bf7ef41c4acda45af48432de816a",
-        "modified_at": "2026-08-16T18:35:57.568806",
-        "note": null
-      },
-      {
-        "id": 6,
-        "course": "General",
-        "duration": 0,
-        "actual_duration": 0,
-        "timestamp": "2026-08-16T18:36:16.131897",
-        "type": "Work",
-        "distractions": 0,
-        "timelapse_path": "",
-        "distraction_data": "[]",
-        "uuid": "4285b05877034139980f592e847c1a02",
-        "modified_at": "2026-08-16T18:38:33.179615",
-        "note": null
-      },
-      {
-        "id": 7,
-        "course": "General",
-        "duration": 0,
-        "actual_duration": 0,
-        "timestamp": "2026-08-16T18:39:10.674758",
-        "type": "Work",
-        "distractions": 0,
-        "timelapse_path": "",
-        "distraction_data": "[]",
-        "uuid": "2ea979aa2431498eb8eaf9e7dee1a8c9",
-        "modified_at": "2026-08-16T18:40:31.556176",
-        "note": null
-      },
-      {
-        "id": 8,
-        "course": "General",
-        "duration": 0,
-        "actual_duration": 0,
-        "timestamp": "2026-08-16T18:40:49.307661",
-        "type": "Work",
-        "distractions": 0,
-        "timelapse_path": "",
-        "distraction_data": "[]",
-        "uuid": "3c133fae1c0045299f75dd3a3edb2120",
-        "modified_at": "2026-08-16T18:41:06.615417",
-        "note": null
       }
     ],
     "cascading_goals": [
@@ -204,7 +148,7 @@
         "modified_at": "2026-08-09T20:57:37.582833"
       },
       {
-        "id": 3,
+        "id": 2,
         "parent_id": 1,
         "level": null,
         "title": "dfdfsdfs",
@@ -216,7 +160,7 @@
         "modified_at": "2026-08-11T01:50:53.577049"
       },
       {
-        "id": 4,
+        "id": 3,
         "parent_id": 1,
         "level": null,
         "title": "slave windows",
@@ -228,7 +172,7 @@
         "modified_at": "2026-08-15T13:55:37.023853"
       },
       {
-        "id": 5,
+        "id": 4,
         "parent_id": null,
         "level": null,
         "title": "Work",
@@ -240,8 +184,8 @@
         "modified_at": "2026-08-15T14:34:30.882035"
       },
       {
-        "id": 6,
-        "parent_id": 5,
+        "id": 5,
+        "parent_id": 4,
         "level": null,
         "title": "Eco: Business Proposal",
         "category": null,
@@ -504,7 +448,7 @@
         "modified_at": "2026-08-15T15:57:52.357054"
       },
       {
-        "id": 4,
+        "id": 3,
         "title": "Work > Eco: Business Proposal",
         "duration": 90,
         "type": "Work",
@@ -514,7 +458,7 @@
         "modified_at": "2026-08-15T16:04:58.215000"
       },
       {
-        "id": 5,
+        "id": 4,
         "title": "master macbook > dfdfsdfs",
         "duration": 90,
         "type": "Work",
@@ -636,7 +580,7 @@
         "modified_at": "2026-08-11T01:50:29.009412"
       },
       {
-        "id": 3,
+        "id": 2,
         "type": "Exercise",
         "title": "ffew",
         "details": "huii",
@@ -644,7 +588,7 @@
         "modified_at": "2026-08-11T01:50:33.991999"
       },
       {
-        "id": 4,
+        "id": 3,
         "type": "Exercise",
         "title": "",
         "details": "",
@@ -967,59 +911,30 @@
       },
       {
         "id": 40,
-        "timestamp": "2026-08-16T16:58:12.172493",
-        "module": "Sync",
-        "description": "Successfully synced with Git cluster. K-Peer Sync completed successfully",
-        "uuid": "da05d495b3674e2093998fe68871b6d1",
-        "modified_at": "2026-08-16T16:58:12.172493"
-      },
-      {
-        "id": 41,
-        "timestamp": "2026-08-16T20:19:55.106733",
-        "module": "Sync Error",
-        "description": "Sync failed: Hook('C:\\Users\\10225\\.mindpalace_sync_repo\\.git\\hooks\\post-commit') failed due to: exit code(1)\n  cmdline: C:\\Users\\10225\\.mindpalace_sync_repo\\.git\\hooks\\post-commit\n  stderr: '<3>WSL (10 - Relay) ERROR: CreateProcessCommon:800: execvpe(/bin/bash) failed: No such file or directory\n'",
-        "uuid": "dc80a571e35a46cc865aa98f06edae6c",
-        "modified_at": "2026-08-16T20:19:55.106733"
-      },
-      {
-        "id": 42,
-        "timestamp": "2026-08-17T10:49:20.804981",
-        "module": "Sync Error",
-        "description": "Sync failed: Cmd('git') failed due to: exit code(1)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: 'C:/Users/10225/AppData/Local/Temp/fileshare_test_5gf7ikjz/remote_repo' does not appear to be a git repository\nfatal: Could not read from remote repository.'",
-        "uuid": "0b2b78f6970041e9bcfb50503cd6467c",
-        "modified_at": "2026-08-17T10:49:20.804981"
-      },
-      {
-        "id": 43,
         "timestamp": "2026-08-17T02:00:02.783705",
         "module": "Sync",
         "description": "Successfully synced with Git cluster. K-Peer Sync completed successfully",
         "uuid": "1b7688a0d37841be9ee47326fb0ee89e",
         "modified_at": "2026-08-17T02:00:02.783705"
+      },
+      {
+        "id": 41,
+        "timestamp": "2026-08-17T12:24:55.940543",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Successfully cloned from ADA2A452-97D2-5874-9BB8-4ECE33F4DA44.json. Restart App.",
+        "uuid": "ac15358d524a48658082c8002467598f",
+        "modified_at": "2026-08-17T12:24:55.940543"
+      },
+      {
+        "id": 42,
+        "timestamp": "2026-08-17T12:24:57.337575",
+        "module": "Sync Error",
+        "description": "Sync failed: Hook('C:\\Users\\10225\\.mindpalace_sync_repo\\.git\\hooks\\post-commit') failed due to: exit code(1)\n  cmdline: C:\\Users\\10225\\.mindpalace_sync_repo\\.git\\hooks\\post-commit\n  stderr: '<3>WSL (10 - Relay) ERROR: CreateProcessCommon:800: execvpe(/bin/bash) failed: No such file or directory\n'",
+        "uuid": "f8fb729129874350b6681f441faaec3f",
+        "modified_at": "2026-08-17T12:24:57.337575"
       }
     ],
-    "deleted_uuids": [
-      {
-        "table_name": "habits",
-        "uuid": "37c808c9db9e4a40b8b4f768342a9e56",
-        "deleted_at": "2026-08-15T16:00:17.968022"
-      },
-      {
-        "table_name": "focus_queue",
-        "uuid": "f21093b15408451dbd54137fa24541be",
-        "deleted_at": "2026-08-15T16:05:07.992908"
-      },
-      {
-        "table_name": "notes",
-        "uuid": "f7282667e65f4bf7bb6d9e5760245418",
-        "deleted_at": "2026-08-15T16:06:39.153860"
-      },
-      {
-        "table_name": "focus_queue",
-        "uuid": "f4b98bb55f674f4da54001e22335402d",
-        "deleted_at": "2026-08-15T18:04:26.497976"
-      }
-    ],
+    "deleted_uuids": [],
     "ingredients": [
       {
         "id": 1,
@@ -1556,31 +1471,12 @@
     "courses": [],
     "pomodoro_sessions": [],
     "cascading_goals": [],
-    "habits": [
-      {
-        "uuid": "37c808c9db9e4a40b8b4f768342a9e56",
-        "deleted_at": "2026-08-15T16:00:17.968022"
-      }
-    ],
+    "habits": [],
     "habit_logs": [],
     "flashcards": [],
     "quizzes": [],
-    "focus_queue": [
-      {
-        "uuid": "f21093b15408451dbd54137fa24541be",
-        "deleted_at": "2026-08-15T16:05:07.992908"
-      },
-      {
-        "uuid": "f4b98bb55f674f4da54001e22335402d",
-        "deleted_at": "2026-08-15T18:04:26.497976"
-      }
-    ],
-    "notes": [
-      {
-        "uuid": "f7282667e65f4bf7bb6d9e5760245418",
-        "deleted_at": "2026-08-15T16:06:39.153860"
-      }
-    ],
+    "focus_queue": [],
+    "notes": [],
     "health_profile": [],
     "health_logs": [],
     "custom_foods": [],
