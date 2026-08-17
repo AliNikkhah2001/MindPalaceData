@@ -1,6 +1,6 @@
 {
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-08-16T20:19:42.789556",
+  "last_sync": "2026-08-17T12:24:48.390657",
   "settings": {
     "font_family": "Inter",
     "custom_font_path": "",
@@ -8,10 +8,10 @@
     "font_size": 14,
     "clock_style": "Analog Classic",
     "clock_case_shape": "Round",
-    "clock_bezel": "Fluted",
-    "clock_indices": "Baton",
-    "clock_ticks": "Crosshair",
-    "clock_hands": "Sword",
+    "clock_bezel": "Coin-Edge",
+    "clock_indices": "California",
+    "clock_ticks": "Railroad",
+    "clock_hands": "Serpentine",
     "clock_complication": "Date Window",
     "dist_delay": 3,
     "vision_mode": "Strict (Face & Eyes)",
@@ -23,7 +23,7 @@
     "face_min_size": 120,
     "vision_sample_interval": 30,
     "force_close_apps_mins": 5,
-    "sound_app_dist": "Ping",
+    "sound_app_dist": "Frog",
     "sound_cam_dist": "Basso",
     "sound_cam_err": "Hero",
     "beep_freq": 3,
@@ -49,15 +49,14 @@
     "blocked_apps": [],
     "auto_block": false,
     "dashboard_layout": {},
-    "git_status": "connected",
-    "git_last_sync": "2026-08-16T16:58:12.125045",
-    "sync_msg": "K-Peer Sync completed successfully",
+    "git_status": "error",
+    "git_last_sync": "2026-08-17T02:00:02.781896",
+    "sync_msg": "Connection verified",
     "sync_progress_pct": 100,
     "process_list": [],
     "mapped_folders": [
       "C:\\Users\\10225/MindPalace_Library",
-      "/Users/alinikkhah/MindPalace_Library",
-      "C:/Users/10225/MindPalace_Library - Copy"
+      "/Users/alinikkhah/MindPalace_Library"
     ],
     "has_token": true,
     "health_age": 24,
@@ -67,7 +66,7 @@
     "health_activity": 1.2,
     "health_deficit": 1500,
     "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-    "last_sync_timestamp": "2026-08-16T16:58:04.232678",
+    "last_sync_timestamp": "2026-08-17T02:05:18.042834",
     "dummy": "dummy",
     "timeline_start_hour": 0,
     "timeline_end_hour": 24,
@@ -973,6 +972,30 @@
         "description": "Successfully synced with Git cluster. K-Peer Sync completed successfully",
         "uuid": "da05d495b3674e2093998fe68871b6d1",
         "modified_at": "2026-08-16T16:58:12.172493"
+      },
+      {
+        "id": 41,
+        "timestamp": "2026-08-16T20:19:55.106733",
+        "module": "Sync Error",
+        "description": "Sync failed: Hook('C:\\Users\\10225\\.mindpalace_sync_repo\\.git\\hooks\\post-commit') failed due to: exit code(1)\n  cmdline: C:\\Users\\10225\\.mindpalace_sync_repo\\.git\\hooks\\post-commit\n  stderr: '<3>WSL (10 - Relay) ERROR: CreateProcessCommon:800: execvpe(/bin/bash) failed: No such file or directory\n'",
+        "uuid": "dc80a571e35a46cc865aa98f06edae6c",
+        "modified_at": "2026-08-16T20:19:55.106733"
+      },
+      {
+        "id": 42,
+        "timestamp": "2026-08-17T10:49:20.804981",
+        "module": "Sync Error",
+        "description": "Sync failed: Cmd('git') failed due to: exit code(1)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: 'C:/Users/10225/AppData/Local/Temp/fileshare_test_5gf7ikjz/remote_repo' does not appear to be a git repository\nfatal: Could not read from remote repository.'",
+        "uuid": "0b2b78f6970041e9bcfb50503cd6467c",
+        "modified_at": "2026-08-17T10:49:20.804981"
+      },
+      {
+        "id": 43,
+        "timestamp": "2026-08-17T02:00:02.783705",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. K-Peer Sync completed successfully",
+        "uuid": "1b7688a0d37841be9ee47326fb0ee89e",
+        "modified_at": "2026-08-17T02:00:02.783705"
       }
     ],
     "deleted_uuids": [
