@@ -1,6 +1,6 @@
 {
   "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-  "last_sync": "2026-08-17T02:05:18.042834",
+  "last_sync": "2026-08-17T19:43:03.264748",
   "settings": {
     "font_family": "Inter",
     "custom_font_path": "",
@@ -58,7 +58,7 @@
     "health_weight": 107,
     "git_status": "connected",
     "git_last_sync": "2026-08-17T02:00:02.781896",
-    "last_sync_timestamp": "2026-08-17T02:03:21.687220",
+    "last_sync_timestamp": "2026-08-17T02:05:18.042834",
     "health_age": 24,
     "health_height": 190,
     "health_gender": "Male",
@@ -300,14 +300,6 @@
         "type": "Positive",
         "uuid": "feaaefca5f5f41f6b665c7112a11fc6f",
         "modified_at": "2026-08-15T16:02:08.880435"
-      },
-      {
-        "id": 14,
-        "name": "fsdfdsfdser",
-        "created_at": "2026-08-11T01:51:04.324450",
-        "type": "Positive",
-        "uuid": "37c808c9db9e4a40b8b4f768342a9e56",
-        "modified_at": "2026-08-11T01:51:11.670515"
       }
     ],
     "habit_logs": [
@@ -398,6 +390,54 @@
         "status": 1,
         "uuid": "45e645f1c8d14387904dac7206d45445",
         "modified_at": "2026-08-16T14:30:38.259357"
+      },
+      {
+        "id": 12,
+        "habit_id": 3,
+        "date": "Sat, 8/15",
+        "status": 0,
+        "uuid": "18f2784a89d94fd59010e2e40c20b27b",
+        "modified_at": "2026-08-17T15:52:19.050442"
+      },
+      {
+        "id": 13,
+        "habit_id": 3,
+        "date": "Fri, 8/14",
+        "status": 0,
+        "uuid": "a1404761be3c443db5034d5d50c25981",
+        "modified_at": "2026-08-17T15:52:06.524787"
+      },
+      {
+        "id": 14,
+        "habit_id": 3,
+        "date": "Sun, 8/16",
+        "status": 0,
+        "uuid": "e66928cfa97d436dab44b67c158f8b66",
+        "modified_at": "2026-08-17T15:52:18.204911"
+      },
+      {
+        "id": 15,
+        "habit_id": 3,
+        "date": "Mon, 8/17",
+        "status": 0,
+        "uuid": "d3c1f9d1c9944705834edaa262771390",
+        "modified_at": "2026-08-17T15:52:17.325077"
+      },
+      {
+        "id": 16,
+        "habit_id": 3,
+        "date": "Wed, 8/12",
+        "status": 0,
+        "uuid": "3b00aeacab6546c19dfe2f9e04081760",
+        "modified_at": "2026-08-17T15:52:05.757462"
+      },
+      {
+        "id": 17,
+        "habit_id": 3,
+        "date": "Tue, 8/11",
+        "status": 0,
+        "uuid": "1d6738f2e9a943e8885d8bb94b72028d",
+        "modified_at": "2026-08-17T15:52:00.099859"
       }
     ],
     "flashcards": [
@@ -916,6 +956,46 @@
         "description": "Successfully synced with Git cluster. K-Peer Sync completed successfully",
         "uuid": "1b7688a0d37841be9ee47326fb0ee89e",
         "modified_at": "2026-08-17T02:00:02.783705"
+      },
+      {
+        "id": 41,
+        "timestamp": "2026-08-17T12:24:55.940543",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Successfully cloned from ADA2A452-97D2-5874-9BB8-4ECE33F4DA44.json. Restart App.",
+        "uuid": "ac15358d524a48658082c8002467598f",
+        "modified_at": "2026-08-17T12:24:55.940543"
+      },
+      {
+        "id": 42,
+        "timestamp": "2026-08-17T12:24:57.337575",
+        "module": "Sync Error",
+        "description": "Sync failed: Hook('C:\\Users\\10225\\.mindpalace_sync_repo\\.git\\hooks\\post-commit') failed due to: exit code(1)\n  cmdline: C:\\Users\\10225\\.mindpalace_sync_repo\\.git\\hooks\\post-commit\n  stderr: '<3>WSL (10 - Relay) ERROR: CreateProcessCommon:800: execvpe(/bin/bash) failed: No such file or directory\n'",
+        "uuid": "f8fb729129874350b6681f441faaec3f",
+        "modified_at": "2026-08-17T12:24:57.337575"
+      },
+      {
+        "id": 43,
+        "timestamp": "2026-08-17T15:51:51.258493",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. K-Peer Sync completed successfully",
+        "uuid": "ab7a1f57d8cb400e9d5d41ca721f475f",
+        "modified_at": "2026-08-17T15:51:51.258493"
+      },
+      {
+        "id": 44,
+        "timestamp": "2026-08-17T15:53:12.395728",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. K-Peer Sync completed successfully",
+        "uuid": "f3776695f3b94b8cb4c2bb2f7b9cf020",
+        "modified_at": "2026-08-17T15:53:12.395728"
+      },
+      {
+        "id": 45,
+        "timestamp": "2026-08-17T16:31:01.117658",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "uuid": "4efdf35f781c48a584df3a15db3911a0",
+        "modified_at": "2026-08-17T16:31:01.117658"
       }
     ],
     "deleted_uuids": [],
