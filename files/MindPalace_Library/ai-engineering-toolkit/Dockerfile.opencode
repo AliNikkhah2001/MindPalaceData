@@ -1,0 +1,45 @@
+FROM node:20-alpine
+
+# Install system dependencies
+RUN apk add --no-cache \
+    python3 \
+    py3-pip \
+    git \
+    bash \
+    curl \
+    build-base \
+    linux-headers
+
+# Install OpenCode
+RUN npm install -g @opencode/opencode
+
+# Install Python tools
+RUN pip install --no-cache-dir \
+    uv \
+    ruff \
+    mypy \
+    pytest \
+    hypothesis
+
+# Install OpenCode MCP servers
+RUN npm install -g \
+    @anthropic/mcpfinder \
+    s2-mcp-server \
+    arxiv-mcp-server \
+    kubernetes-mcp-server \
+    ruff-mcp-server \
+    mcp-server-colab-exec \
+    mcp-server-kaggle-exec \
+    runpod-mcp-server \
+    gitlab-ci-mcp
+
+# Create workspace
+WORKDIR /workspace
+
+# Copy configuration
+COPY opencode.json /workspace/
+COPY AGENTS.md /workspace/
+COPY .opencode /workspace/.opencode
+
+# Default command
+CMD ["opencode"]
