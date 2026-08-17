@@ -1,6 +1,6 @@
 {
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-08-17T15:53:03.226239",
+  "last_sync": "2026-08-17T16:30:47.663653",
   "settings": {
     "font_family": "Inter",
     "custom_font_path": "",
@@ -50,7 +50,7 @@
     "auto_block": false,
     "dashboard_layout": {},
     "git_status": "connected",
-    "git_last_sync": "2026-08-17T15:51:51.216475",
+    "git_last_sync": "2026-08-17T15:53:12.360482",
     "sync_msg": "Connection verified",
     "sync_progress_pct": 100,
     "process_list": [],
@@ -66,7 +66,7 @@
     "health_activity": 1.2,
     "health_deficit": 1500,
     "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-    "last_sync_timestamp": "2026-08-17T15:51:42.197602",
+    "last_sync_timestamp": "2026-08-17T15:53:03.226239",
     "dummy": "dummy",
     "timeline_start_hour": 0,
     "timeline_end_hour": 24,
@@ -185,7 +185,7 @@
       },
       {
         "id": 5,
-        "parent_id": 4,
+        "parent_id": 5,
         "level": null,
         "title": "Eco: Business Proposal",
         "category": null,
@@ -333,7 +333,7 @@
         "date": "Tue, 8/11",
         "status": 0,
         "uuid": "90799456449b4e3d82f4fb27ea141017",
-        "modified_at": "2026-08-17T15:51:51.482928"
+        "modified_at": "2026-08-16T13:48:44.823695"
       },
       {
         "id": 4,
@@ -373,7 +373,7 @@
         "date": "Sat, 8/15",
         "status": 0,
         "uuid": "a54ee8658c0043fa80bf47de5490f07d",
-        "modified_at": "2026-08-17T15:51:53.080452"
+        "modified_at": "2026-08-16T13:49:03.431085"
       },
       {
         "id": 9,
@@ -387,9 +387,9 @@
         "id": 10,
         "habit_id": 3,
         "date": "Thu, 8/13",
-        "status": 0,
+        "status": 1,
         "uuid": "bd05438964ea442b818b726649ca04dc",
-        "modified_at": "2026-08-17T15:52:01.588330"
+        "modified_at": "2026-08-16T14:30:37.347296"
       },
       {
         "id": 11,
@@ -988,6 +988,14 @@
         "description": "Successfully synced with Git cluster. K-Peer Sync completed successfully",
         "uuid": "ab7a1f57d8cb400e9d5d41ca721f475f",
         "modified_at": "2026-08-17T15:51:51.258493"
+      },
+      {
+        "id": 44,
+        "timestamp": "2026-08-17T15:53:12.395728",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. K-Peer Sync completed successfully",
+        "uuid": "f3776695f3b94b8cb4c2bb2f7b9cf020",
+        "modified_at": "2026-08-17T15:53:12.395728"
       }
     ],
     "deleted_uuids": [
