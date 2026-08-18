@@ -1,6 +1,6 @@
 {
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-08-18T22:28:14.140160",
+  "last_sync": "2026-08-18T22:38:14.488718",
   "settings": {
     "font_family": "Inter",
     "custom_font_path": "",
@@ -50,7 +50,7 @@
     "auto_block": false,
     "dashboard_layout": {},
     "git_status": "connected",
-    "git_last_sync": "2026-08-18T22:18:28.687794",
+    "git_last_sync": "2026-08-18T22:28:27.911179",
     "sync_msg": "Pulling cluster state...",
     "sync_progress_pct": 50,
     "process_list": [],
@@ -66,7 +66,7 @@
     "health_activity": 1.2,
     "health_deficit": 1500,
     "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-    "last_sync_timestamp": "2026-08-18T22:18:14.027356",
+    "last_sync_timestamp": "2026-08-18T22:28:14.140160",
     "dummy": "dummy",
     "timeline_start_hour": 0,
     "timeline_end_hour": 24,
@@ -488,6 +488,46 @@
         "status": 0,
         "uuid": "1d6738f2e9a943e8885d8bb94b72028d",
         "modified_at": "2026-08-17T15:52:00.099859"
+      },
+      {
+        "id": 18,
+        "habit_id": 13,
+        "date": "Wed, 8/12",
+        "status": 1,
+        "uuid": "752ff3eb55e34634a45fb41b6be8bf05",
+        "modified_at": "2026-08-18T22:31:19.630855"
+      },
+      {
+        "id": 19,
+        "habit_id": 13,
+        "date": "Thu, 8/13",
+        "status": 1,
+        "uuid": "89668dbb56384128b6f343ccf04da859",
+        "modified_at": "2026-08-18T22:31:20.729525"
+      },
+      {
+        "id": 20,
+        "habit_id": 13,
+        "date": "Fri, 8/14",
+        "status": 1,
+        "uuid": "729581f064984d76839895229080dfe2",
+        "modified_at": "2026-08-18T22:31:23.178218"
+      },
+      {
+        "id": 21,
+        "habit_id": 13,
+        "date": "Sat, 8/15",
+        "status": 1,
+        "uuid": "c8e79804842849a399b82cca9ca3fab2",
+        "modified_at": "2026-08-18T22:31:24.054534"
+      },
+      {
+        "id": 22,
+        "habit_id": 13,
+        "date": "Sun, 8/16",
+        "status": 1,
+        "uuid": "20db34f907194e3ca378600cdaef5a43",
+        "modified_at": "2026-08-18T22:31:24.594811"
       }
     ],
     "flashcards": [
@@ -1593,6 +1633,30 @@
         "description": "Successfully synced with Git cluster. K-Peer Sync completed successfully",
         "uuid": "65180991ca0f448986bb33e9bc1e528b",
         "modified_at": "2026-08-18T22:19:42.129515"
+      },
+      {
+        "id": 104,
+        "timestamp": "2026-08-18T22:28:27.962497",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "uuid": "7f2ddff8f8934f5b9970e8f7077d93da",
+        "modified_at": "2026-08-18T22:28:27.962497"
+      },
+      {
+        "id": 105,
+        "timestamp": "2026-08-18T22:26:07.315995",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "uuid": "b8aa8614d454413490bd8a50a511e48e",
+        "modified_at": "2026-08-18T22:26:07.315995"
+      },
+      {
+        "id": 106,
+        "timestamp": "2026-08-18T22:30:19.378059",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. K-Peer Sync completed successfully",
+        "uuid": "7e6ef02004c944c5bffe725394447866",
+        "modified_at": "2026-08-18T22:30:19.378059"
       }
     ],
     "deleted_uuids": [
