@@ -1,6 +1,6 @@
 {
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-08-18T12:26:57.666061",
+  "last_sync": "2026-08-18T13:27:02.837797",
   "settings": {
     "font_family": "Inter",
     "custom_font_path": "",
@@ -49,8 +49,8 @@
     "blocked_apps": [],
     "auto_block": false,
     "dashboard_layout": {},
-    "git_status": "connected",
-    "git_last_sync": "2026-08-17T17:31:07.376178",
+    "git_status": "error",
+    "git_last_sync": "2026-08-18T12:27:07.724709",
     "sync_msg": "Connection verified",
     "sync_progress_pct": 100,
     "process_list": [],
@@ -66,7 +66,7 @@
     "health_activity": 1.2,
     "health_deficit": 1500,
     "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-    "last_sync_timestamp": "2026-08-17T17:30:51.052716",
+    "last_sync_timestamp": "2026-08-18T12:26:57.666061",
     "dummy": "dummy",
     "timeline_start_hour": 0,
     "timeline_end_hour": 24,
@@ -132,6 +132,20 @@
         "uuid": "28cc2ea0273a47aa90b24498aab98c5b",
         "modified_at": "2026-08-16T15:18:43.991800",
         "note": null
+      },
+      {
+        "id": 5,
+        "course": "master macbook > slave windows",
+        "duration": 50,
+        "actual_duration": 50,
+        "timestamp": "2026-08-18T13:06:19.359848",
+        "type": "Work",
+        "distractions": 0,
+        "timelapse_path": "",
+        "distraction_data": "[]",
+        "uuid": "c97f2b96cd4a4adc958b9ba21ff36cec",
+        "modified_at": "2026-08-18T13:27:02.710960",
+        "note": "distracted many times in the middle\n**fuckfuck**"
       }
     ],
     "cascading_goals": [
@@ -520,10 +534,20 @@
         "title": "master macbook > slave windows",
         "duration": 50,
         "type": "Work",
-        "status": "active",
+        "status": "completed",
         "course": "master macbook > slave windows",
         "uuid": "5f1eb14a9d024dbfb5ae08457c8c2eba",
         "modified_at": "2026-08-18T12:05:07.500940"
+      },
+      {
+        "id": 6,
+        "title": "Eco: Business Proposal > Eco: Business Proposal",
+        "duration": 50,
+        "type": "Work",
+        "status": "active",
+        "course": "Eco: Business Proposal > Eco: Business Proposal",
+        "uuid": "a43dadf8a30842c280d26c18369cd930",
+        "modified_at": "2026-08-18T13:20:00.679310"
       }
     ],
     "notes": [
@@ -1222,6 +1246,14 @@
         "description": "Successfully synced with Git cluster. Successfully cloned from ADA2A452-97D2-5874-9BB8-4ECE33F4DA44.json. Restart App.",
         "uuid": "b186dc337d7d456195da783ae99bfa35",
         "modified_at": "2026-08-18T00:57:23.608238"
+      },
+      {
+        "id": 72,
+        "timestamp": "2026-08-18T12:27:07.764669",
+        "module": "Sync Error",
+        "description": "Sync failed: Push failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git push --porcelain --progress -- origin\n  stderr: 'fatal: unable to access 'https://github.com/AliNikkhah2001/MindPalaceData.git/': Send failure: Connection was aborted'",
+        "uuid": "cc1ca4b0d1d141d486f9166b96ff8339",
+        "modified_at": "2026-08-18T12:27:07.764669"
       }
     ],
     "deleted_uuids": [
