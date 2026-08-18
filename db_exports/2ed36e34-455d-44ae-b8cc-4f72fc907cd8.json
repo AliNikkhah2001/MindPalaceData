@@ -1,6 +1,6 @@
 {
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-08-18T13:27:02.837797",
+  "last_sync": "2026-08-18T16:54:32.548004",
   "settings": {
     "font_family": "Inter",
     "custom_font_path": "",
@@ -38,7 +38,7 @@
     "mute_speech": true,
     "sync_enabled": true,
     "sync_repo_url": "https://github.com/AliNikkhah2001/MindPalaceData.git",
-    "sync_interval": 3600,
+    "sync_interval": 600,
     "sync_local_paths": [
       "C:\\Users\\10225/MindPalace_Library",
       "/Users/alinikkhah/MindPalace_Library"
@@ -49,10 +49,10 @@
     "blocked_apps": [],
     "auto_block": false,
     "dashboard_layout": {},
-    "git_status": "error",
-    "git_last_sync": "2026-08-18T12:27:07.724709",
-    "sync_msg": "Connection verified",
-    "sync_progress_pct": 100,
+    "git_status": "syncing",
+    "git_last_sync": "8/18/2026, 4:54:12 PM",
+    "sync_msg": "Pulling cluster state...",
+    "sync_progress_pct": 50,
     "process_list": [],
     "mapped_folders": [
       "C:\\Users\\10225/MindPalace_Library",
@@ -66,7 +66,7 @@
     "health_activity": 1.2,
     "health_deficit": 1500,
     "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-    "last_sync_timestamp": "2026-08-18T12:26:57.666061",
+    "last_sync_timestamp": "2026-08-18T13:27:02.837797",
     "dummy": "dummy",
     "timeline_start_hour": 0,
     "timeline_end_hour": 24,
@@ -146,6 +146,20 @@
         "uuid": "c97f2b96cd4a4adc958b9ba21ff36cec",
         "modified_at": "2026-08-18T13:27:02.710960",
         "note": "distracted many times in the middle\n**fuckfuck**"
+      },
+      {
+        "id": 6,
+        "course": "Eco: Business Proposal > Eco: Business Proposal",
+        "duration": 50,
+        "actual_duration": 50,
+        "timestamp": "2026-08-18T14:10:14.433602",
+        "type": "Work",
+        "distractions": 0,
+        "timelapse_path": "",
+        "distraction_data": "[]",
+        "uuid": "61ea69b81bd6457f941387772599fea7",
+        "modified_at": "2026-08-18T14:17:05.285168",
+        "note": null
       }
     ],
     "cascading_goals": [
@@ -544,7 +558,7 @@
         "title": "Eco: Business Proposal > Eco: Business Proposal",
         "duration": 50,
         "type": "Work",
-        "status": "active",
+        "status": "completed",
         "course": "Eco: Business Proposal > Eco: Business Proposal",
         "uuid": "a43dadf8a30842c280d26c18369cd930",
         "modified_at": "2026-08-18T13:20:00.679310"
@@ -1254,6 +1268,22 @@
         "description": "Sync failed: Push failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git push --porcelain --progress -- origin\n  stderr: 'fatal: unable to access 'https://github.com/AliNikkhah2001/MindPalaceData.git/': Send failure: Connection was aborted'",
         "uuid": "cc1ca4b0d1d141d486f9166b96ff8339",
         "modified_at": "2026-08-18T12:27:07.764669"
+      },
+      {
+        "id": 73,
+        "timestamp": "2026-08-18T13:27:23.991554",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "uuid": "23c22f9d37564b4f9e19cee290c7dc21",
+        "modified_at": "2026-08-18T13:27:23.991554"
+      },
+      {
+        "id": 74,
+        "timestamp": "2026-08-18T16:54:32.374764",
+        "module": "Settings",
+        "description": "Updated application settings via UI.",
+        "uuid": "0b4a71776e14448c8de47094aa38cc72",
+        "modified_at": "2026-08-18T16:54:32.374764"
       }
     ],
     "deleted_uuids": [
