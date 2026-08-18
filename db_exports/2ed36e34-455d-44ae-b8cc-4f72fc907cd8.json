@@ -1,6 +1,6 @@
 {
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-08-18T16:54:32.548004",
+  "last_sync": "2026-08-18T17:54:14.473342",
   "settings": {
     "font_family": "Inter",
     "custom_font_path": "",
@@ -49,8 +49,8 @@
     "blocked_apps": [],
     "auto_block": false,
     "dashboard_layout": {},
-    "git_status": "syncing",
-    "git_last_sync": "8/18/2026, 4:54:12 PM",
+    "git_status": "connected",
+    "git_last_sync": "2026-08-18T16:54:45.587932",
     "sync_msg": "Pulling cluster state...",
     "sync_progress_pct": 50,
     "process_list": [],
@@ -66,7 +66,7 @@
     "health_activity": 1.2,
     "health_deficit": 1500,
     "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-    "last_sync_timestamp": "2026-08-18T13:27:02.837797",
+    "last_sync_timestamp": "2026-08-18T16:54:32.548004",
     "dummy": "dummy",
     "timeline_start_hour": 0,
     "timeline_end_hour": 24,
@@ -562,6 +562,16 @@
         "course": "Eco: Business Proposal > Eco: Business Proposal",
         "uuid": "a43dadf8a30842c280d26c18369cd930",
         "modified_at": "2026-08-18T13:20:00.679310"
+      },
+      {
+        "id": 7,
+        "title": "master macbook > dfdfsdfs",
+        "duration": 90,
+        "type": "Work",
+        "status": "active",
+        "course": "master macbook > dfdfsdfs",
+        "uuid": "8d1a596606634763859882c73a9d6f0d",
+        "modified_at": "2026-08-18T17:32:35.837079"
       }
     ],
     "notes": [
@@ -1284,6 +1294,14 @@
         "description": "Updated application settings via UI.",
         "uuid": "0b4a71776e14448c8de47094aa38cc72",
         "modified_at": "2026-08-18T16:54:32.374764"
+      },
+      {
+        "id": 75,
+        "timestamp": "2026-08-18T16:54:45.644781",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. K-Peer Sync completed successfully",
+        "uuid": "576c6653fe2043ff953793008e943310",
+        "modified_at": "2026-08-18T16:54:45.644781"
       }
     ],
     "deleted_uuids": [
