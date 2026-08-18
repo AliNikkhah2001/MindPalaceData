@@ -1,6 +1,6 @@
 {
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-08-18T21:58:14.063507",
+  "last_sync": "2026-08-18T22:08:21.003215",
   "settings": {
     "font_family": "Inter",
     "custom_font_path": "",
@@ -50,7 +50,7 @@
     "auto_block": false,
     "dashboard_layout": {},
     "git_status": "connected",
-    "git_last_sync": "2026-08-18T21:48:25.482205",
+    "git_last_sync": "2026-08-18T21:58:29.299822",
     "sync_msg": "Pulling cluster state...",
     "sync_progress_pct": 50,
     "process_list": [],
@@ -66,7 +66,7 @@
     "health_activity": 1.2,
     "health_deficit": 1500,
     "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-    "last_sync_timestamp": "2026-08-18T21:48:11.947724",
+    "last_sync_timestamp": "2026-08-18T21:58:14.063507",
     "dummy": "dummy",
     "timeline_start_hour": 0,
     "timeline_end_hour": 24,
@@ -576,6 +576,36 @@
         "course": "Eco: Business Proposal > Eco: Business Proposal",
         "uuid": "ae83d83d18c34a8fa1bee72196ec4595",
         "modified_at": "2026-08-18T19:24:48.534896"
+      },
+      {
+        "id": 10,
+        "title": "Work > Eco: Business Proposal",
+        "duration": 90,
+        "type": "Work",
+        "status": "active",
+        "course": "Work > Eco: Business Proposal",
+        "uuid": "c5da0c6f738043b49f7cfd1a9e54a0c0",
+        "modified_at": "2026-08-15T15:57:52.357054"
+      },
+      {
+        "id": 11,
+        "title": "Work > Eco: Business Proposal",
+        "duration": 90,
+        "type": "Work",
+        "status": "active",
+        "course": "Work > Eco: Business Proposal",
+        "uuid": "2ca4b72939474367a62ce08f7ab53a27",
+        "modified_at": "2026-08-15T16:04:58.215000"
+      },
+      {
+        "id": 12,
+        "title": "master macbook > dfdfsdfs",
+        "duration": 90,
+        "type": "Work",
+        "status": "active",
+        "course": "master macbook > dfdfsdfs",
+        "uuid": "1e538f68930f4e48a7a97423374fed23",
+        "modified_at": "2026-08-15T18:04:36.075978"
       }
     ],
     "notes": [
@@ -1507,6 +1537,22 @@
         "description": "Successfully synced with Git cluster. Successfully cloned from ADA2A452-97D2-5874-9BB8-4ECE33F4DA44.json. Restart App.",
         "uuid": "b7de0b23773647f2b1a5926ced22add7",
         "modified_at": "2026-08-18T00:59:47.769024"
+      },
+      {
+        "id": 97,
+        "timestamp": "2026-08-18T21:58:29.355546",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "uuid": "37a8efbc2a2d4746bdd28e23ff63a9fb",
+        "modified_at": "2026-08-18T21:58:29.355546"
+      },
+      {
+        "id": 98,
+        "timestamp": "2026-08-18T21:55:54.411892",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Successfully cloned from ADA2A452-97D2-5874-9BB8-4ECE33F4DA44.json. Restart App.",
+        "uuid": "6bab13f9a1e047e9b774fb01b99e40ed",
+        "modified_at": "2026-08-18T21:55:54.411892"
       }
     ],
     "deleted_uuids": [
