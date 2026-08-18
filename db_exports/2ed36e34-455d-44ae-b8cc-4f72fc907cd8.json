@@ -1,6 +1,6 @@
 {
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-08-17T17:30:51.052716",
+  "last_sync": "2026-08-18T12:26:57.666061",
   "settings": {
     "font_family": "Inter",
     "custom_font_path": "",
@@ -50,7 +50,7 @@
     "auto_block": false,
     "dashboard_layout": {},
     "git_status": "connected",
-    "git_last_sync": "2026-08-17T16:31:01.062305",
+    "git_last_sync": "2026-08-17T17:31:07.376178",
     "sync_msg": "Connection verified",
     "sync_progress_pct": 100,
     "process_list": [],
@@ -66,7 +66,7 @@
     "health_activity": 1.2,
     "health_deficit": 1500,
     "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-    "last_sync_timestamp": "2026-08-17T16:30:47.663653",
+    "last_sync_timestamp": "2026-08-17T17:30:51.052716",
     "dummy": "dummy",
     "timeline_start_hour": 0,
     "timeline_end_hour": 24,
@@ -514,6 +514,16 @@
         "course": "master macbook > dfdfsdfs",
         "uuid": "1e538f68930f4e48a7a97423374fed23",
         "modified_at": "2026-08-15T18:04:36.075978"
+      },
+      {
+        "id": 5,
+        "title": "master macbook > slave windows",
+        "duration": 50,
+        "type": "Work",
+        "status": "active",
+        "course": "master macbook > slave windows",
+        "uuid": "5f1eb14a9d024dbfb5ae08457c8c2eba",
+        "modified_at": "2026-08-18T12:05:07.500940"
       }
     ],
     "notes": [
@@ -1004,6 +1014,214 @@
         "description": "Successfully synced with Git cluster. Sync completed successfully",
         "uuid": "4efdf35f781c48a584df3a15db3911a0",
         "modified_at": "2026-08-17T16:31:01.117658"
+      },
+      {
+        "id": 46,
+        "timestamp": "2026-08-17T17:31:07.437565",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "uuid": "1db7bb47527c4922a6b0890297d293e9",
+        "modified_at": "2026-08-17T17:31:07.437565"
+      },
+      {
+        "id": 47,
+        "timestamp": "2026-08-18T00:49:20.408632",
+        "module": "Sync Error",
+        "description": "Sync failed: No repository URL configured",
+        "uuid": "6c67eec3b6e14c4f9a94d8b64a25c51c",
+        "modified_at": "2026-08-18T00:49:20.408632"
+      },
+      {
+        "id": 48,
+        "timestamp": "2026-08-18T00:53:23.645699",
+        "module": "Sync Error",
+        "description": "Sync failed: No repository URL configured",
+        "uuid": "dec04519f597425ea9b0a0f72e3d346d",
+        "modified_at": "2026-08-18T00:53:23.645699"
+      },
+      {
+        "id": 49,
+        "timestamp": "2026-08-18T00:53:25.195197",
+        "module": "Sync Error",
+        "description": "Sync failed: No repository URL configured",
+        "uuid": "0776f917e0e443bdaf49bf26668fd8d5",
+        "modified_at": "2026-08-18T00:53:25.195197"
+      },
+      {
+        "id": 50,
+        "timestamp": "2026-08-18T00:54:18.943231",
+        "module": "Settings",
+        "description": "Updated application settings via UI.",
+        "uuid": "c42b674d88314eaea4a5587d1ee5fbe8",
+        "modified_at": "2026-08-18T00:54:18.943231"
+      },
+      {
+        "id": 51,
+        "timestamp": "2026-08-18T00:54:19.984846",
+        "module": "Settings",
+        "description": "Updated application settings via UI.",
+        "uuid": "df09f7595f2040fda749e74b1035c1e2",
+        "modified_at": "2026-08-18T00:54:19.984846"
+      },
+      {
+        "id": 52,
+        "timestamp": "2026-08-18T00:54:20.167767",
+        "module": "Settings",
+        "description": "Updated application settings via UI.",
+        "uuid": "b3e912a52fb84a4da22550607b105f6c",
+        "modified_at": "2026-08-18T00:54:20.167767"
+      },
+      {
+        "id": 53,
+        "timestamp": "2026-08-18T00:54:20.387132",
+        "module": "Settings",
+        "description": "Updated application settings via UI.",
+        "uuid": "b7e9d45843e6463ba9d04b929d8e4dbf",
+        "modified_at": "2026-08-18T00:54:20.387132"
+      },
+      {
+        "id": 54,
+        "timestamp": "2026-08-18T00:54:24.311344",
+        "module": "Sync Error",
+        "description": "Sync failed: No repository URL configured",
+        "uuid": "796933c13e3e4e3baabec603d2b67033",
+        "modified_at": "2026-08-18T00:54:24.311344"
+      },
+      {
+        "id": 55,
+        "timestamp": "2026-08-18T00:54:25.394442",
+        "module": "Sync Error",
+        "description": "Sync failed: No repository URL configured",
+        "uuid": "c2379b8d1aa74d8e97e9ec8dd9a56f99",
+        "modified_at": "2026-08-18T00:54:25.394442"
+      },
+      {
+        "id": 56,
+        "timestamp": "2026-08-18T00:54:25.865508",
+        "module": "Sync Error",
+        "description": "Sync failed: No repository URL configured",
+        "uuid": "306e6485201d4756bebd0da2ed9bba1e",
+        "modified_at": "2026-08-18T00:54:25.865508"
+      },
+      {
+        "id": 57,
+        "timestamp": "2026-08-18T00:54:26.243699",
+        "module": "Sync Error",
+        "description": "Sync failed: No repository URL configured",
+        "uuid": "08420348b1074ab28830f3874c1494be",
+        "modified_at": "2026-08-18T00:54:26.243699"
+      },
+      {
+        "id": 58,
+        "timestamp": "2026-08-18T00:54:26.902226",
+        "module": "Sync Error",
+        "description": "Sync failed: No repository URL configured",
+        "uuid": "180747764eba4efe8db0bf7c5da4d493",
+        "modified_at": "2026-08-18T00:54:26.902226"
+      },
+      {
+        "id": 59,
+        "timestamp": "2026-08-18T00:54:27.872381",
+        "module": "Settings",
+        "description": "Updated application settings via UI.",
+        "uuid": "3b790e1a986940f29922e3a584c66708",
+        "modified_at": "2026-08-18T00:54:27.872381"
+      },
+      {
+        "id": 60,
+        "timestamp": "2026-08-18T00:54:28.612417",
+        "module": "Settings",
+        "description": "Updated application settings via UI.",
+        "uuid": "6877e96bb2fa4aec9eb9d6236b918aea",
+        "modified_at": "2026-08-18T00:54:28.612417"
+      },
+      {
+        "id": 61,
+        "timestamp": "2026-08-18T00:54:28.946452",
+        "module": "Settings",
+        "description": "Updated application settings via UI.",
+        "uuid": "1ccd6fdca57f42c891d25e5fcb3a18d7",
+        "modified_at": "2026-08-18T00:54:28.946452"
+      },
+      {
+        "id": 62,
+        "timestamp": "2026-08-18T00:54:29.133393",
+        "module": "Settings",
+        "description": "Updated application settings via UI.",
+        "uuid": "1f3ef6c17f4743ee86957fcd62d2a520",
+        "modified_at": "2026-08-18T00:54:29.133393"
+      },
+      {
+        "id": 63,
+        "timestamp": "2026-08-18T00:54:35.311085",
+        "module": "Settings",
+        "description": "Updated application settings via UI.",
+        "uuid": "e3177a1e7f7b4b359ec0fa79f06e65b0",
+        "modified_at": "2026-08-18T00:54:35.311085"
+      },
+      {
+        "id": 64,
+        "timestamp": "2026-08-18T00:54:35.574539",
+        "module": "Settings",
+        "description": "Updated application settings via UI.",
+        "uuid": "4e0d2b5f45454111947b8e0570565574",
+        "modified_at": "2026-08-18T00:54:35.574539"
+      },
+      {
+        "id": 65,
+        "timestamp": "2026-08-18T00:54:36.000800",
+        "module": "Settings",
+        "description": "Updated application settings via UI.",
+        "uuid": "709999c3f16a4f248d6700a5d57ce8e7",
+        "modified_at": "2026-08-18T00:54:36.000800"
+      },
+      {
+        "id": 66,
+        "timestamp": "2026-08-18T00:54:36.316754",
+        "module": "Settings",
+        "description": "Updated application settings via UI.",
+        "uuid": "5406e222789a49108a2b8455dd018111",
+        "modified_at": "2026-08-18T00:54:36.316754"
+      },
+      {
+        "id": 67,
+        "timestamp": "2026-08-18T00:54:38.554107",
+        "module": "Sync Error",
+        "description": "Sync failed: No repository URL configured",
+        "uuid": "ead8a2b3e956496ea358f8b901989cb6",
+        "modified_at": "2026-08-18T00:54:38.554107"
+      },
+      {
+        "id": 68,
+        "timestamp": "2026-08-18T00:54:42.576352",
+        "module": "Sync Error",
+        "description": "Sync failed: No repository URL configured",
+        "uuid": "cb683c81e0234df28e22ccfaa3621fe7",
+        "modified_at": "2026-08-18T00:54:42.576352"
+      },
+      {
+        "id": 69,
+        "timestamp": "2026-08-18T00:54:46.792490",
+        "module": "Settings",
+        "description": "Updated application settings via UI.",
+        "uuid": "f02ef8b8b62d4b16ab8f7685444ce253",
+        "modified_at": "2026-08-18T00:54:46.792490"
+      },
+      {
+        "id": 70,
+        "timestamp": "2026-08-18T00:56:55.270293",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. K-Peer Sync completed successfully",
+        "uuid": "9683ee6ce9614a9496fc3f8417f162c5",
+        "modified_at": "2026-08-18T00:56:55.270293"
+      },
+      {
+        "id": 71,
+        "timestamp": "2026-08-18T00:57:23.608238",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Successfully cloned from ADA2A452-97D2-5874-9BB8-4ECE33F4DA44.json. Restart App.",
+        "uuid": "b186dc337d7d456195da783ae99bfa35",
+        "modified_at": "2026-08-18T00:57:23.608238"
       }
     ],
     "deleted_uuids": [
