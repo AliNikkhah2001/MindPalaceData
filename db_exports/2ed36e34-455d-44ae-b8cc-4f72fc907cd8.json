@@ -1,6 +1,6 @@
 {
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-08-18T20:20:30.105097",
+  "last_sync": "2026-08-18T20:23:19.032629",
   "settings": {
     "font_family": "Inter",
     "custom_font_path": "",
@@ -50,7 +50,7 @@
     "auto_block": false,
     "dashboard_layout": {},
     "git_status": "connected",
-    "git_last_sync": "2026-08-18T20:15:01.663599",
+    "git_last_sync": "2026-08-18T20:20:48.259773",
     "sync_msg": "Pulling cluster state...",
     "sync_progress_pct": 50,
     "process_list": [],
@@ -66,7 +66,7 @@
     "health_activity": 1.2,
     "health_deficit": 1500,
     "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-    "last_sync_timestamp": "2026-08-18T20:14:48.245123",
+    "last_sync_timestamp": "2026-08-18T20:20:30.105097",
     "dummy": "dummy",
     "timeline_start_hour": 0,
     "timeline_end_hour": 24,
@@ -1441,6 +1441,14 @@
         "description": "Successfully synced with Git cluster. Sync completed successfully",
         "uuid": "2f728d641bf34b6388277c054d81aeea",
         "modified_at": "2026-08-18T20:15:01.694237"
+      },
+      {
+        "id": 85,
+        "timestamp": "2026-08-18T20:20:48.411310",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. K-Peer Sync completed successfully",
+        "uuid": "1b95d888c2e74b2183d20815a0c09c16",
+        "modified_at": "2026-08-18T20:20:48.411310"
       }
     ],
     "deleted_uuids": [
