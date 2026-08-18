@@ -1,6 +1,6 @@
 {
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-08-18T21:08:11.772629",
+  "last_sync": "2026-08-18T21:18:15.305492",
   "settings": {
     "font_family": "Inter",
     "custom_font_path": "",
@@ -49,8 +49,8 @@
     "blocked_apps": [],
     "auto_block": false,
     "dashboard_layout": {},
-    "git_status": "error",
-    "git_last_sync": "2026-08-18T20:58:21.585929",
+    "git_status": "connected",
+    "git_last_sync": "2026-08-18T21:08:25.719003",
     "sync_msg": "Pulling cluster state...",
     "sync_progress_pct": 50,
     "process_list": [],
@@ -66,7 +66,7 @@
     "health_activity": 1.2,
     "health_deficit": 1500,
     "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-    "last_sync_timestamp": "2026-08-18T20:58:11.846832",
+    "last_sync_timestamp": "2026-08-18T21:08:11.772629",
     "dummy": "dummy",
     "timeline_start_hour": 0,
     "timeline_end_hour": 24,
@@ -1489,6 +1489,14 @@
         "description": "Sync failed: Push failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git push --porcelain --progress -- origin\n  stderr: 'fatal: unable to access 'https://github.com/AliNikkhah2001/MindPalaceData.git/': CONNECT tunnel failed, response 500'",
         "uuid": "c89ce30506bb4928aafca11b16f229ff",
         "modified_at": "2026-08-18T20:58:21.637462"
+      },
+      {
+        "id": 91,
+        "timestamp": "2026-08-18T21:08:25.766808",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "uuid": "2c7cd23603394b77a5431279a80c8c05",
+        "modified_at": "2026-08-18T21:08:25.766808"
       }
     ],
     "deleted_uuids": [
