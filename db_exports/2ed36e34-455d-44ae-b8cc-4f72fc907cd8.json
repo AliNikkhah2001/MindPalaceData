@@ -1,6 +1,6 @@
 {
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-08-18T18:20:21.647822",
+  "last_sync": "2026-08-18T19:03:22.661660",
   "settings": {
     "font_family": "Inter",
     "custom_font_path": "",
@@ -50,7 +50,7 @@
     "auto_block": false,
     "dashboard_layout": {},
     "git_status": "connected",
-    "git_last_sync": "2026-08-18T18:15:28.062809",
+    "git_last_sync": "2026-08-18T18:20:33.841376",
     "sync_msg": "Pulling cluster state...",
     "sync_progress_pct": 50,
     "process_list": [],
@@ -66,7 +66,7 @@
     "health_activity": 1.2,
     "health_deficit": 1500,
     "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-    "last_sync_timestamp": "2026-08-18T18:15:14.287115",
+    "last_sync_timestamp": "2026-08-18T18:20:21.647822",
     "dummy": "dummy",
     "timeline_start_hour": 0,
     "timeline_end_hour": 24,
@@ -159,6 +159,20 @@
         "distraction_data": "[]",
         "uuid": "61ea69b81bd6457f941387772599fea7",
         "modified_at": "2026-08-18T14:17:05.285168",
+        "note": null
+      },
+      {
+        "id": 7,
+        "course": "General",
+        "duration": 0,
+        "actual_duration": 0,
+        "timestamp": "2026-08-18T18:54:05.197288",
+        "type": "Work",
+        "distractions": 0,
+        "timelapse_path": "",
+        "distraction_data": "[]",
+        "uuid": "0c3c34c239c84089b9dad4a2cfcea6a8",
+        "modified_at": "2026-08-18T19:03:22.611382",
         "note": null
       }
     ],
@@ -572,6 +586,16 @@
         "course": "master macbook > dfdfsdfs",
         "uuid": "8d1a596606634763859882c73a9d6f0d",
         "modified_at": "2026-08-18T17:32:35.837079"
+      },
+      {
+        "id": 8,
+        "title": "master macbook > dfdfsdfs",
+        "duration": 90,
+        "type": "Work",
+        "status": "active",
+        "course": "master macbook > dfdfsdfs",
+        "uuid": "5ed74759265647f89951c0a87e5c1745",
+        "modified_at": "2026-08-18T18:54:09.149812"
       }
     ],
     "notes": [
