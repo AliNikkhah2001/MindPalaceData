@@ -1,6 +1,6 @@
 {
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-08-19T14:17:44.993622",
+  "last_sync": "2026-08-19T14:27:59.459946",
   "settings": {
     "font_family": "Inter",
     "custom_font_path": "",
@@ -49,8 +49,8 @@
     "blocked_apps": [],
     "auto_block": false,
     "dashboard_layout": {},
-    "git_status": "error",
-    "git_last_sync": "2026-08-19T14:07:44.092167",
+    "git_status": "connected",
+    "git_last_sync": "2026-08-19T14:18:03.059120",
     "sync_msg": "Pulling cluster state...",
     "sync_progress_pct": 50,
     "process_list": [],
@@ -66,7 +66,7 @@
     "health_activity": 1.2,
     "health_deficit": 1500,
     "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-    "last_sync_timestamp": "2026-08-19T14:07:43.906268",
+    "last_sync_timestamp": "2026-08-19T14:17:44.993622",
     "dummy": "dummy",
     "timeline_start_hour": 0,
     "timeline_end_hour": 24,
@@ -1905,6 +1905,14 @@
         "description": "Sync failed: Export failed: Recursive use of cursors not allowed.",
         "uuid": "c0307e53a1b0445792cc74c307fc4941",
         "modified_at": "2026-08-19T14:07:44.157273"
+      },
+      {
+        "id": 145,
+        "timestamp": "2026-08-19T14:18:03.103488",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "uuid": "0eeeb18d523d4fa4b63fd5c5a65426da",
+        "modified_at": "2026-08-19T14:18:03.103488"
       }
     ],
     "deleted_uuids": [
