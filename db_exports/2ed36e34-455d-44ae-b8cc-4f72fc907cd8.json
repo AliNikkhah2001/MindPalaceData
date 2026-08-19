@@ -1,6 +1,6 @@
 {
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-08-19T14:47:50.116656",
+  "last_sync": "2026-08-19T17:51:48.258177",
   "settings": {
     "font_family": "Inter",
     "custom_font_path": "",
@@ -50,7 +50,7 @@
     "auto_block": false,
     "dashboard_layout": {},
     "git_status": "connected",
-    "git_last_sync": "2026-08-19T14:38:08.246744",
+    "git_last_sync": "2026-08-19T14:48:05.832416",
     "sync_msg": "Pulling cluster state...",
     "sync_progress_pct": 50,
     "process_list": [],
@@ -66,7 +66,7 @@
     "health_activity": 1.2,
     "health_deficit": 1500,
     "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-    "last_sync_timestamp": "2026-08-19T14:37:48.249138",
+    "last_sync_timestamp": "2026-08-19T14:47:50.116656",
     "dummy": "dummy",
     "timeline_start_hour": 0,
     "timeline_end_hour": 24,
@@ -173,6 +173,20 @@
         "distraction_data": "[]",
         "uuid": "0c3c34c239c84089b9dad4a2cfcea6a8",
         "modified_at": "2026-08-18T19:03:22.611382",
+        "note": null
+      },
+      {
+        "id": 8,
+        "course": "General",
+        "duration": 0,
+        "actual_duration": 0,
+        "timestamp": "2026-08-19T17:02:18.451550",
+        "type": "Work",
+        "distractions": 0,
+        "timelapse_path": "",
+        "distraction_data": "[]",
+        "uuid": "8133a3c8a24d4818a2198fb7dfaf51bd",
+        "modified_at": "2026-08-19T17:18:28.283970",
         "note": null
       }
     ],
@@ -590,6 +604,16 @@
         "course": "Work > Agentic > Tmux, Setup, Benchmark, Retrieval",
         "uuid": "2539e79cf7ff45f59ab6ea2e5fe1593a",
         "modified_at": "2026-08-19T13:53:24.675751"
+      },
+      {
+        "id": 2,
+        "title": "General",
+        "duration": 25,
+        "type": "Work",
+        "status": "active",
+        "course": "General",
+        "uuid": "767e9863392147a68e23a778f752111b",
+        "modified_at": "2026-08-19T17:02:21.338566"
       }
     ],
     "notes": [
@@ -1929,6 +1953,14 @@
         "description": "Successfully synced with Git cluster. Sync completed successfully",
         "uuid": "e7ff567da3644ac9a9ea4ef0788ddb2c",
         "modified_at": "2026-08-19T14:38:08.282821"
+      },
+      {
+        "id": 148,
+        "timestamp": "2026-08-19T14:48:05.869238",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "uuid": "575b8afad82f43ccb6132403316dce38",
+        "modified_at": "2026-08-19T14:48:05.869238"
       }
     ],
     "deleted_uuids": [
