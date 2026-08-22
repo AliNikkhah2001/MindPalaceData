@@ -1,6 +1,6 @@
 {
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-08-19T18:56:14.343854",
+  "last_sync": "2026-08-22T13:59:37.585121",
   "settings": {
     "font_family": "Inter",
     "custom_font_path": "",
@@ -50,7 +50,7 @@
     "auto_block": false,
     "dashboard_layout": {},
     "git_status": "connected",
-    "git_last_sync": "2026-08-19T17:52:13.448853",
+    "git_last_sync": "2026-08-19T18:56:35.552839",
     "sync_msg": "Pulling cluster state...",
     "sync_progress_pct": 50,
     "process_list": [],
@@ -66,7 +66,7 @@
     "health_activity": 1.2,
     "health_deficit": 1500,
     "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-    "last_sync_timestamp": "2026-08-19T17:51:48.258177",
+    "last_sync_timestamp": "2026-08-19T18:56:14.343854",
     "dummy": "dummy",
     "timeline_start_hour": 0,
     "timeline_end_hour": 24,
@@ -274,6 +274,18 @@
         "deadline": "2026-08-30 10:22",
         "uuid": "7ca825bb373f4a1e8e9eddd54c75e393",
         "modified_at": "2026-08-19T13:53:16.596420"
+      },
+      {
+        "id": 8,
+        "parent_id": null,
+        "level": null,
+        "title": "damavand",
+        "category": null,
+        "target_hours": 1.0,
+        "logged_hours": 0.0,
+        "deadline": "2026-08-28 12:52",
+        "uuid": "0e8e4d4cbf2d45acac27b17392dc2510",
+        "modified_at": "2026-08-21T16:22:10.865907"
       }
     ],
     "habits": [
@@ -388,6 +400,14 @@
         "type": "Positive",
         "uuid": "37c808c9db9e4a40b8b4f768342a9e56",
         "modified_at": "2026-08-11T01:51:11.670515"
+      },
+      {
+        "id": 15,
+        "name": "damavand",
+        "created_at": "2026-08-21T16:22:14.822748",
+        "type": "Positive",
+        "uuid": "65e42014b83e437ea878be6412b3d7a9",
+        "modified_at": "2026-08-21T16:22:14.822739"
       }
     ],
     "habit_logs": [
@@ -1969,6 +1989,30 @@
         "description": "Successfully synced with Git cluster. Sync completed successfully",
         "uuid": "e9751f60c6544ce7946ae6a07a61ec24",
         "modified_at": "2026-08-19T17:52:13.499890"
+      },
+      {
+        "id": 150,
+        "timestamp": "2026-08-19T18:56:35.594402",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "uuid": "6ca2990da278460cbb22daaeb499bdf0",
+        "modified_at": "2026-08-19T18:56:35.594402"
+      },
+      {
+        "id": 151,
+        "timestamp": "2026-08-21T16:16:36.903236",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. K-Peer Sync completed successfully",
+        "uuid": "6e71c60a6d21449a9842cd161a8fe38f",
+        "modified_at": "2026-08-21T16:16:36.903236"
+      },
+      {
+        "id": 152,
+        "timestamp": "2026-08-21T17:16:39.271019",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "uuid": "87ff9bddc62a4c6bb4b0bd5f72b1907b",
+        "modified_at": "2026-08-21T17:16:39.271019"
       }
     ],
     "deleted_uuids": [
