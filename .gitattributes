@@ -1,1 +1,11 @@
 # Git LFS tracking
+MindPalace_Library\31Tir1405.zip filter=lfs diff=lfs merge=lfs -text
+MindPalace_Library\Data Science Series Liquet Benoit Moka Sarat Nazarathy Yoni Mathematical Engineering of Deep Learning CRC Press 2024.pdf filter=lfs diff=lfs merge=lfs -text
+MindPalace_Library\DeepLearningInterviews.pdf filter=lfs diff=lfs merge=lfs -text
+MindPalace_Library\mml-book.pdf filter=lfs diff=lfs merge=lfs -text
+MindPalace_Library\node-v24.19.0-x64.msi filter=lfs diff=lfs merge=lfs -text
+MindPalace_Library\OpenCode Desktop Installer.exe filter=lfs diff=lfs merge=lfs -text
+MindPalace_Library\Speech and Language Processing.pdf filter=lfs diff=lfs merge=lfs -text
+MindPalace_Library\KB\31Tir1405(1).zip filter=lfs diff=lfs merge=lfs -text
+MindPalace_Library\KB\kb-manager\data\kb_test.db filter=lfs diff=lfs merge=lfs -text
+MindPalace_Library\RAG_Forks\Sources_AI_RAG_agentic-rag-for-dummies\.git\objects\pack\pack-b73acf6806755e3b016173fc86427289f1c56b04.pack filter=lfs diff=lfs merge=lfs -text
