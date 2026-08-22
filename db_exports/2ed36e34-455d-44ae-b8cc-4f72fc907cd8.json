@@ -1,6 +1,6 @@
 {
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-08-22T14:19:30.723454",
+  "last_sync": "2026-08-22T18:31:55.270867",
   "settings": {
     "font_family": "Inter",
     "custom_font_path": "",
@@ -49,8 +49,8 @@
     "blocked_apps": [],
     "auto_block": false,
     "dashboard_layout": {},
-    "git_status": "connected",
-    "git_last_sync": "2026-08-22T14:09:51.972818",
+    "git_status": "error",
+    "git_last_sync": "2026-08-22T18:16:39.700542",
     "sync_msg": "Pulling cluster state...",
     "sync_progress_pct": 50,
     "process_list": [],
@@ -66,7 +66,7 @@
     "health_activity": 1.2,
     "health_deficit": 1500,
     "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-    "last_sync_timestamp": "2026-08-22T14:09:35.189191",
+    "last_sync_timestamp": "2026-08-22T18:16:38.084500",
     "dummy": "dummy",
     "timeline_start_hour": 0,
     "timeline_end_hour": 24,
@@ -192,54 +192,6 @@
     ],
     "cascading_goals": [
       {
-        "id": 1,
-        "parent_id": null,
-        "level": null,
-        "title": "master macbook",
-        "category": null,
-        "target_hours": 1.0,
-        "logged_hours": 0.0,
-        "deadline": "2026-08-16 17:27",
-        "uuid": "ab1d511ad1f0433fada91cd256e82087",
-        "modified_at": "2026-08-09T20:57:37.582833"
-      },
-      {
-        "id": 2,
-        "parent_id": 1,
-        "level": null,
-        "title": "dfdfsdfs",
-        "category": null,
-        "target_hours": 32.0,
-        "logged_hours": 0.0,
-        "deadline": "2026-08-17 22:20",
-        "uuid": "5f80153b8ce34115809b5aef43465213",
-        "modified_at": "2026-08-11T01:50:53.577049"
-      },
-      {
-        "id": 3,
-        "parent_id": 1,
-        "level": null,
-        "title": "slave windows",
-        "category": null,
-        "target_hours": 1.0,
-        "logged_hours": 0.0,
-        "deadline": "2026-08-22 10:25",
-        "uuid": "a977d9ffeb7b4906bbe4a0cccb50638d",
-        "modified_at": "2026-08-15T13:55:37.023853"
-      },
-      {
-        "id": 4,
-        "parent_id": null,
-        "level": null,
-        "title": "Work",
-        "category": null,
-        "target_hours": 120.0,
-        "logged_hours": 0.0,
-        "deadline": "2026-09-22 11:03",
-        "uuid": "0170e65c33c1473fa8cae2b722d5a5b8",
-        "modified_at": "2026-08-15T14:34:30.882035"
-      },
-      {
         "id": 5,
         "parent_id": 5,
         "level": null,
@@ -253,6 +205,54 @@
       },
       {
         "id": 6,
+        "parent_id": null,
+        "level": null,
+        "title": "master macbook",
+        "category": null,
+        "target_hours": 1.0,
+        "logged_hours": 0.0,
+        "deadline": "2026-08-16 17:27",
+        "uuid": "ab1d511ad1f0433fada91cd256e82087",
+        "modified_at": "2026-08-09T20:57:37.582833"
+      },
+      {
+        "id": 7,
+        "parent_id": 1,
+        "level": null,
+        "title": "dfdfsdfs",
+        "category": null,
+        "target_hours": 32.0,
+        "logged_hours": 0.0,
+        "deadline": "2026-08-17 22:20",
+        "uuid": "5f80153b8ce34115809b5aef43465213",
+        "modified_at": "2026-08-11T01:50:53.577049"
+      },
+      {
+        "id": 8,
+        "parent_id": 1,
+        "level": null,
+        "title": "slave windows",
+        "category": null,
+        "target_hours": 1.0,
+        "logged_hours": 0.0,
+        "deadline": "2026-08-22 10:25",
+        "uuid": "a977d9ffeb7b4906bbe4a0cccb50638d",
+        "modified_at": "2026-08-15T13:55:37.023853"
+      },
+      {
+        "id": 9,
+        "parent_id": null,
+        "level": null,
+        "title": "Work",
+        "category": null,
+        "target_hours": 120.0,
+        "logged_hours": 0.0,
+        "deadline": "2026-09-22 11:03",
+        "uuid": "0170e65c33c1473fa8cae2b722d5a5b8",
+        "modified_at": "2026-08-15T14:34:30.882035"
+      },
+      {
+        "id": 10,
         "parent_id": 4,
         "level": null,
         "title": "Agentic",
@@ -264,7 +264,7 @@
         "modified_at": "2026-08-19T13:52:36.446362"
       },
       {
-        "id": 7,
+        "id": 11,
         "parent_id": 6,
         "level": null,
         "title": "Tmux, Setup, Benchmark, Retrieval",
@@ -276,7 +276,7 @@
         "modified_at": "2026-08-19T13:53:16.596420"
       },
       {
-        "id": 8,
+        "id": 12,
         "parent_id": null,
         "level": null,
         "title": "damavand",
@@ -617,6 +617,16 @@
     "focus_queue": [
       {
         "id": 1,
+        "title": "General",
+        "duration": 90,
+        "type": "Work",
+        "status": "active",
+        "course": "General",
+        "uuid": "582e7dbf889f4fff93e695ff597dfa7d",
+        "modified_at": "2026-08-22T18:09:08.009973"
+      },
+      {
+        "id": 2,
         "title": "Work > Agentic > Tmux, Setup, Benchmark, Retrieval",
         "duration": 90,
         "type": "Work",
@@ -626,7 +636,7 @@
         "modified_at": "2026-08-19T13:53:24.675751"
       },
       {
-        "id": 2,
+        "id": 3,
         "title": "General",
         "duration": 25,
         "type": "Work",
@@ -2029,6 +2039,86 @@
         "description": "Successfully synced with Git cluster. Sync completed successfully",
         "uuid": "2dd92c454c43443195dae6f7d5b324c0",
         "modified_at": "2026-08-22T14:09:52.029384"
+      },
+      {
+        "id": 155,
+        "timestamp": "2026-08-22T14:19:45.334167",
+        "module": "Sync",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "uuid": "487f9850cd0347b3a540b782fe809daa",
+        "modified_at": "2026-08-22T14:19:45.334167"
+      },
+      {
+        "id": 156,
+        "timestamp": "2026-08-22T15:36:17.532973",
+        "module": "Sync Error",
+        "description": "Sync failed: Push failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git add --all\n  stderr: 'fatal: 'files/MindPalace_Library/downloads mirror/KB/.git' not recognized as a git repository'",
+        "uuid": "e561d582daf649e0ae79ca05ee11cf87",
+        "modified_at": "2026-08-22T15:36:17.532973"
+      },
+      {
+        "id": 157,
+        "timestamp": "2026-08-22T17:27:23.917167",
+        "module": "Sync Error",
+        "description": "Sync failed: Push failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git add --all\n  stderr: 'fatal: 'files/MindPalace_Library/Agentic Coding/.git' not recognized as a git repository'",
+        "uuid": "2b1d0666c2e848dd9caa7c6d64fd896d",
+        "modified_at": "2026-08-22T17:27:23.917167"
+      },
+      {
+        "id": 158,
+        "timestamp": "2026-08-22T17:36:40.071174",
+        "module": "Sync Error",
+        "description": "Sync failed: Push failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git add --all\n  stderr: 'fatal: 'files/MindPalace_Library/Agentic Coding/.git' not recognized as a git repository'",
+        "uuid": "9dd2025a28874846852a87ddd736cd03",
+        "modified_at": "2026-08-22T17:36:40.071174"
+      },
+      {
+        "id": 159,
+        "timestamp": "2026-08-22T17:46:39.890652",
+        "module": "Sync Error",
+        "description": "Sync failed: Push failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git add --all\n  stderr: 'fatal: 'files/MindPalace_Library/Agentic Coding/.git' not recognized as a git repository'",
+        "uuid": "3b27afe1e4764712a24c517bab5954a9",
+        "modified_at": "2026-08-22T17:46:39.890652"
+      },
+      {
+        "id": 160,
+        "timestamp": "2026-08-22T17:56:39.759274",
+        "module": "Sync Error",
+        "description": "Sync failed: Push failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git add --all\n  stderr: 'fatal: 'files/MindPalace_Library/Agentic Coding/.git' not recognized as a git repository'",
+        "uuid": "84e52e129c7f41a9a813c1647de930fc",
+        "modified_at": "2026-08-22T17:56:39.759274"
+      },
+      {
+        "id": 161,
+        "timestamp": "2026-08-22T18:06:41.745928",
+        "module": "Sync Error",
+        "description": "Sync failed: Push failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git add --all\n  stderr: 'fatal: 'files/MindPalace_Library/Agentic Coding/.git' not recognized as a git repository'",
+        "uuid": "bce725757cdd489bb92970997bd71bca",
+        "modified_at": "2026-08-22T18:06:41.745928"
+      },
+      {
+        "id": 162,
+        "timestamp": "2026-08-22T18:10:27.808235",
+        "module": "Sync Error",
+        "description": "Sync failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git add --all\n  stderr: 'fatal: 'files/MindPalace_Library/Agentic Coding/.git' not recognized as a git repository'",
+        "uuid": "e55adb1aece44103a4103df48d94bf31",
+        "modified_at": "2026-08-22T18:10:27.808235"
+      },
+      {
+        "id": 163,
+        "timestamp": "2026-08-22T18:12:31.687346",
+        "module": "Sync Error",
+        "description": "Sync failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git add --all\n  stderr: 'fatal: 'files/MindPalace_Library/Agentic Coding/.git' not recognized as a git repository'",
+        "uuid": "e7e0ca0ceb2b4c79adb242be1e3cfe50",
+        "modified_at": "2026-08-22T18:12:31.687346"
+      },
+      {
+        "id": 164,
+        "timestamp": "2026-08-22T18:16:39.741916",
+        "module": "Sync Error",
+        "description": "Sync failed: Push failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git add --all\n  stderr: 'fatal: 'files/MindPalace_Library/Agentic Coding/.git' not recognized as a git repository'",
+        "uuid": "d4b48b55b5964b969eee0c89f7c66578",
+        "modified_at": "2026-08-22T18:16:39.741916"
       }
     ],
     "deleted_uuids": [
@@ -2081,6 +2171,51 @@
         "table_name": "focus_queue",
         "uuid": "ab9b32d6f5404a889a5ee70a904e51ae",
         "deleted_at": "2026-08-19T13:51:51.800570"
+      },
+      {
+        "table_name": "focus_queue",
+        "uuid": "2539e79cf7ff45f59ab6ea2e5fe1593a",
+        "deleted_at": "2026-08-22T18:07:59.270465"
+      },
+      {
+        "table_name": "focus_queue",
+        "uuid": "767e9863392147a68e23a778f752111b",
+        "deleted_at": "2026-08-22T18:08:00.234103"
+      },
+      {
+        "table_name": "cascading_goals",
+        "uuid": "ab1d511ad1f0433fada91cd256e82087",
+        "deleted_at": "2026-08-22T18:08:03.924873"
+      },
+      {
+        "table_name": "cascading_goals",
+        "uuid": "5f80153b8ce34115809b5aef43465213",
+        "deleted_at": "2026-08-22T18:08:04.217403"
+      },
+      {
+        "table_name": "cascading_goals",
+        "uuid": "a977d9ffeb7b4906bbe4a0cccb50638d",
+        "deleted_at": "2026-08-22T18:08:04.394951"
+      },
+      {
+        "table_name": "cascading_goals",
+        "uuid": "0170e65c33c1473fa8cae2b722d5a5b8",
+        "deleted_at": "2026-08-22T18:08:04.561836"
+      },
+      {
+        "table_name": "cascading_goals",
+        "uuid": "f27973b6379a44cfa6c64a3445336d76",
+        "deleted_at": "2026-08-22T18:08:04.729712"
+      },
+      {
+        "table_name": "cascading_goals",
+        "uuid": "7ca825bb373f4a1e8e9eddd54c75e393",
+        "deleted_at": "2026-08-22T18:08:04.897493"
+      },
+      {
+        "table_name": "cascading_goals",
+        "uuid": "0e8e4d4cbf2d45acac27b17392dc2510",
+        "deleted_at": "2026-08-22T18:08:05.049908"
       }
     ],
     "ingredients": [
@@ -2618,7 +2753,36 @@
   "deletions": {
     "courses": [],
     "pomodoro_sessions": [],
-    "cascading_goals": [],
+    "cascading_goals": [
+      {
+        "uuid": "0170e65c33c1473fa8cae2b722d5a5b8",
+        "deleted_at": "2026-08-22T18:08:04.561836"
+      },
+      {
+        "uuid": "0e8e4d4cbf2d45acac27b17392dc2510",
+        "deleted_at": "2026-08-22T18:08:05.049908"
+      },
+      {
+        "uuid": "5f80153b8ce34115809b5aef43465213",
+        "deleted_at": "2026-08-22T18:08:04.217403"
+      },
+      {
+        "uuid": "7ca825bb373f4a1e8e9eddd54c75e393",
+        "deleted_at": "2026-08-22T18:08:04.897493"
+      },
+      {
+        "uuid": "a977d9ffeb7b4906bbe4a0cccb50638d",
+        "deleted_at": "2026-08-22T18:08:04.394951"
+      },
+      {
+        "uuid": "ab1d511ad1f0433fada91cd256e82087",
+        "deleted_at": "2026-08-22T18:08:03.924873"
+      },
+      {
+        "uuid": "f27973b6379a44cfa6c64a3445336d76",
+        "deleted_at": "2026-08-22T18:08:04.729712"
+      }
+    ],
     "habits": [
       {
         "uuid": "37c808c9db9e4a40b8b4f768342a9e56",
@@ -2634,6 +2798,10 @@
         "deleted_at": "2026-08-19T13:51:50.152155"
       },
       {
+        "uuid": "2539e79cf7ff45f59ab6ea2e5fe1593a",
+        "deleted_at": "2026-08-22T18:07:59.270465"
+      },
+      {
         "uuid": "2ca4b72939474367a62ce08f7ab53a27",
         "deleted_at": "2026-08-19T13:51:49.991246"
       },
@@ -2644,6 +2812,10 @@
       {
         "uuid": "5f1eb14a9d024dbfb5ae08457c8c2eba",
         "deleted_at": "2026-08-19T13:51:51.800350"
+      },
+      {
+        "uuid": "767e9863392147a68e23a778f752111b",
+        "deleted_at": "2026-08-22T18:08:00.234103"
       },
       {
         "uuid": "8d1a596606634763859882c73a9d6f0d",
