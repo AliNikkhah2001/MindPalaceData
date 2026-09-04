@@ -69,7 +69,7 @@
     "wallpapers": []
   },
   "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-  "last_sync": "2026-09-04T10:49:22.947633Z",
+  "last_sync": "2026-09-04T11:11:17.232845Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -1771,6 +1771,15 @@
         "module": "Sync Error",
         "timestamp": "2026-09-04T13:09:20.297329",
         "uuid": "230deb6104314df4b504b75dd459895b"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 183,
+        "modified_at": "2026-09-04T14:19:41.030351",
+        "module": "Sync",
+        "timestamp": "2026-09-04T14:19:41.030351",
+        "uuid": "7cee7f82668a42708c5def8de595a46e"
       }
     ],
     "cascading_goals": [
