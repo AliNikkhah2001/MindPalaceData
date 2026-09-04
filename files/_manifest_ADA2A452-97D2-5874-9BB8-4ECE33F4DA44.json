@@ -1,1 +1,50 @@
-{"MindPalace_Library/ACFrOgAHiLRTknCmZfMM1cvXAZm4j55lS547lIeMHqVcr3iNiHicn-xtVJS7MIIZx-cA34QrkesORWHvnTEFjYCjgWCcb6SWWw4znvq7kmiQvzdDVN_4tOf5s1ggjKWivNXGVucG9dofx_lqtQQ-.pdf": {"size": 701812, "mtime": 1785679932.1209846}, "MindPalace_Library/1602.04938v3.pdf": {"size": 4301729, "mtime": 1785654972.1745617}, "MindPalace_Library/2001.03447v2.pdf": {"size": 891938, "mtime": 1785103185.903508}, "MindPalace_Library/1770443833075.pdf": {"size": 381255, "mtime": 1786983179.197279}, "MindPalace_Library/mml-book.pdf": {"size": 17567487, "mtime": 1785606498.191604}, "MindPalace_Library/Data Science Series Liquet Benoit Moka Sarat Nazarathy Yoni Mathematical Engineering of Deep Learning CRC Press 2024.pdf": {"size": 31733379, "mtime": 1786983179.479731}, "MindPalace_Library/SHAP.pdf": {"size": 1014198, "mtime": 1785102690.973085}, "MindPalace_Library/SHAP and LIME- Foundations, Mathematical Principles, and Local Model Interpretability.pdf": {"size": 698853, "mtime": 1785104228.2823424}}
+{
+  "MindPalace_Library/1602.04938v3.pdf": {
+    "mtime_ns": 1785654972174561768,
+    "schema": 2,
+    "sha256": "d0547f713f8bc4540f17925d12b4e4a87b5574d58e62bf7374eb5d750ce9618c",
+    "size": 4301729
+  },
+  "MindPalace_Library/1770443833075.pdf": {
+    "mtime_ns": 1786983179197279092,
+    "schema": 2,
+    "sha256": "949e650aafb94c31b20439347f6857664eeca9fe85b5194a55827a8990f70f24",
+    "size": 381255
+  },
+  "MindPalace_Library/2001.03447v2.pdf": {
+    "mtime_ns": 1785103185903507972,
+    "schema": 2,
+    "sha256": "b3711ca0b337fb57cbcf77a5599262760db0653a8dd945bb037b4db5e9d2719e",
+    "size": 891938
+  },
+  "MindPalace_Library/ACFrOgAHiLRTknCmZfMM1cvXAZm4j55lS547lIeMHqVcr3iNiHicn-xtVJS7MIIZx-cA34QrkesORWHvnTEFjYCjgWCcb6SWWw4znvq7kmiQvzdDVN_4tOf5s1ggjKWivNXGVucG9dofx_lqtQQ-.pdf": {
+    "mtime_ns": 1785679932120984449,
+    "schema": 2,
+    "sha256": "849739974f2c5b3fc7af371e5578b9c99e7023f88ef2ea8c68122f62a0b57d29",
+    "size": 701812
+  },
+  "MindPalace_Library/Data Science Series Liquet Benoit Moka Sarat Nazarathy Yoni Mathematical Engineering of Deep Learning CRC Press 2024.pdf": {
+    "mtime_ns": 1786983179479730998,
+    "schema": 2,
+    "sha256": "312b8f9f0e03f80837dc6ae1648adda14639eb0dfdfff940af969e3d84524cba",
+    "size": 31733379
+  },
+  "MindPalace_Library/SHAP and LIME- Foundations, Mathematical Principles, and Local Model Interpretability.pdf": {
+    "mtime_ns": 1785104228282342422,
+    "schema": 2,
+    "sha256": "39dfff31341d5f0bfd4470098bbb6825f09479e1ddc31208d555dfc45ccb384d",
+    "size": 698853
+  },
+  "MindPalace_Library/SHAP.pdf": {
+    "mtime_ns": 1785102690973084954,
+    "schema": 2,
+    "sha256": "01c7aa8f7d9edcf0cd185bf02e82363f743e441fcaf05b99e6054bfb470bf8ae",
+    "size": 1014198
+  },
+  "MindPalace_Library/mml-book.pdf": {
+    "mtime_ns": 1785606498191603925,
+    "schema": 2,
+    "sha256": "767379a2d4a2488e2348d984db4ade1870f1c35d1ce38ac5106a93552f6cf878",
+    "size": 17567487
+  }
+}
