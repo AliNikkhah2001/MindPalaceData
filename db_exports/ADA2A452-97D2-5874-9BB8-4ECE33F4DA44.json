@@ -69,7 +69,7 @@
     "wallpapers": []
   },
   "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-  "last_sync": "2026-09-04T13:49:10.972980Z",
+  "last_sync": "2026-09-06T20:21:46.320692Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -1816,6 +1816,492 @@
         "module": "Sync",
         "timestamp": "2026-09-04T16:19:16.753833",
         "uuid": "f52cf1a27de442bcbcba6a771a970145"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 188,
+        "modified_at": "2026-09-04T17:19:16.820603",
+        "module": "Sync",
+        "timestamp": "2026-09-04T17:19:16.820603",
+        "uuid": "9bb1a26d310e4ad3bdde6a6f60a69904"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 189,
+        "modified_at": "2026-09-04T18:30:50.103472",
+        "module": "Sync Error",
+        "timestamp": "2026-09-04T18:30:50.103472",
+        "uuid": "2411bcb3be944206a0e8c11db4f65e2b"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 190,
+        "modified_at": "2026-09-04T19:28:30.484185",
+        "module": "Sync Error",
+        "timestamp": "2026-09-04T19:28:30.484185",
+        "uuid": "21b5328ea09446b183eb42a34181fd02"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 191,
+        "modified_at": "2026-09-04T20:28:59.729430",
+        "module": "Sync Error",
+        "timestamp": "2026-09-04T20:28:59.729430",
+        "uuid": "7af49f3002734771b9f7bda83a83af29"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 192,
+        "modified_at": "2026-09-04T21:30:12.759235",
+        "module": "Sync Error",
+        "timestamp": "2026-09-04T21:30:12.759235",
+        "uuid": "a5b0f43d71404b6ab9df2195fae79b1b"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 193,
+        "modified_at": "2026-09-04T22:33:34.740636",
+        "module": "Sync Error",
+        "timestamp": "2026-09-04T22:33:34.740636",
+        "uuid": "91a355f5ef56496dabc8e890d2c867b7"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 194,
+        "modified_at": "2026-09-04T23:31:05.028887",
+        "module": "Sync Error",
+        "timestamp": "2026-09-04T23:31:05.028887",
+        "uuid": "53e270a16041431394bb46657a9d8299"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 195,
+        "modified_at": "2026-09-05T00:31:30.593412",
+        "module": "Sync Error",
+        "timestamp": "2026-09-05T00:31:30.593412",
+        "uuid": "f45fc6304bee42a39b4831275b99a4f0"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 196,
+        "modified_at": "2026-09-05T01:27:33.953278",
+        "module": "Sync Error",
+        "timestamp": "2026-09-05T01:27:33.953278",
+        "uuid": "b02c2df58c404f758af3de352d5e14ed"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 197,
+        "modified_at": "2026-09-05T02:32:58.857411",
+        "module": "Sync Error",
+        "timestamp": "2026-09-05T02:32:58.857411",
+        "uuid": "59e8d97438cd44c88547452b5ca06e15"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 198,
+        "modified_at": "2026-09-05T03:33:48.967371",
+        "module": "Sync Error",
+        "timestamp": "2026-09-05T03:33:48.967371",
+        "uuid": "57bd95d0d616452185cb59fe7961cf14"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 199,
+        "modified_at": "2026-09-05T04:34:13.014162",
+        "module": "Sync Error",
+        "timestamp": "2026-09-05T04:34:13.014162",
+        "uuid": "858b9040a58f4c8a959498e9943012d5"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 200,
+        "modified_at": "2026-09-05T05:19:22.084745",
+        "module": "Sync Error",
+        "timestamp": "2026-09-05T05:19:22.084745",
+        "uuid": "9a9d1704e1564daca4b00d90123444fe"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 201,
+        "modified_at": "2026-09-05T06:20:22.293415",
+        "module": "Sync Error",
+        "timestamp": "2026-09-05T06:20:22.293415",
+        "uuid": "0f95c067c3e740b0b7e10b5f129d530e"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 202,
+        "modified_at": "2026-09-05T07:21:23.444569",
+        "module": "Sync Error",
+        "timestamp": "2026-09-05T07:21:23.444569",
+        "uuid": "c3f1e060360c41f69628ccd9f7f7caeb"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 203,
+        "modified_at": "2026-09-05T08:22:24.503660",
+        "module": "Sync Error",
+        "timestamp": "2026-09-05T08:22:24.503660",
+        "uuid": "b30042d70a334ea9982945ba4cda48c0"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 204,
+        "modified_at": "2026-09-05T09:23:25.631363",
+        "module": "Sync Error",
+        "timestamp": "2026-09-05T09:23:25.631363",
+        "uuid": "e028facd54c648fcb32bce2fdd11ca7e"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 205,
+        "modified_at": "2026-09-05T10:24:26.729693",
+        "module": "Sync Error",
+        "timestamp": "2026-09-05T10:24:26.729693",
+        "uuid": "f240afed4b584b0ea2f27747464585ac"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 206,
+        "modified_at": "2026-09-05T11:21:09.798917",
+        "module": "Sync Error",
+        "timestamp": "2026-09-05T11:21:09.798917",
+        "uuid": "23ea7ba160b841d884cb1434ff89b53b"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 207,
+        "modified_at": "2026-09-05T12:26:29.002869",
+        "module": "Sync Error",
+        "timestamp": "2026-09-05T12:26:29.002869",
+        "uuid": "8e2badcf05664af6b2394c74366b192b"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 208,
+        "modified_at": "2026-09-05T13:27:29.958427",
+        "module": "Sync Error",
+        "timestamp": "2026-09-05T13:27:29.958427",
+        "uuid": "5397c355aec04d289902b8296e7858cc"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 209,
+        "modified_at": "2026-09-05T14:28:31.204179",
+        "module": "Sync Error",
+        "timestamp": "2026-09-05T14:28:31.204179",
+        "uuid": "9230e7019c794c18b53b98d7b0d3c089"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 210,
+        "modified_at": "2026-09-05T15:29:32.329010",
+        "module": "Sync Error",
+        "timestamp": "2026-09-05T15:29:32.329010",
+        "uuid": "a7faf5239b29473c9ca654f2675acc72"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 211,
+        "modified_at": "2026-09-05T16:19:55.184847",
+        "module": "Sync Error",
+        "timestamp": "2026-09-05T16:19:55.184847",
+        "uuid": "5da3f7d056e044309a1fad3e71652656"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 212,
+        "modified_at": "2026-09-05T17:21:05.445552",
+        "module": "Sync Error",
+        "timestamp": "2026-09-05T17:21:05.445552",
+        "uuid": "391ec7763feb4330add9c9c44a073365"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 213,
+        "modified_at": "2026-09-05T18:21:46.553709",
+        "module": "Sync Error",
+        "timestamp": "2026-09-05T18:21:46.553709",
+        "uuid": "92058cbc2d264fae817a7d51c972f290"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 214,
+        "modified_at": "2026-09-05T19:24:02.573052",
+        "module": "Sync Error",
+        "timestamp": "2026-09-05T19:24:02.573052",
+        "uuid": "d3fafb7820e748ba9c7febd6857286a0"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 215,
+        "modified_at": "2026-09-05T20:22:01.740892",
+        "module": "Sync Error",
+        "timestamp": "2026-09-05T20:22:01.740892",
+        "uuid": "c682176e07dd4b31b2022f99c349fda6"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 216,
+        "modified_at": "2026-09-05T21:19:11.389025",
+        "module": "Sync Error",
+        "timestamp": "2026-09-05T21:19:11.389025",
+        "uuid": "6de337403741409fb13034be5298403d"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 217,
+        "modified_at": "2026-09-05T22:28:30.985386",
+        "module": "Sync Error",
+        "timestamp": "2026-09-05T22:28:30.985386",
+        "uuid": "8655ea3fced349bcbc3bcba8c289e114"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 218,
+        "modified_at": "2026-09-05T23:25:21.089470",
+        "module": "Sync Error",
+        "timestamp": "2026-09-05T23:25:21.089470",
+        "uuid": "e7733cabc4304379aa113c73c8ea479b"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 219,
+        "modified_at": "2026-09-06T00:27:39.213379",
+        "module": "Sync Error",
+        "timestamp": "2026-09-06T00:27:39.213379",
+        "uuid": "9f62e764ff834d259de90ab0452e45dd"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 220,
+        "modified_at": "2026-09-06T01:27:37.304636",
+        "module": "Sync Error",
+        "timestamp": "2026-09-06T01:27:37.304636",
+        "uuid": "b13e49b8620746c7a01ba5f1f60b9de7"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 221,
+        "modified_at": "2026-09-06T02:29:04.317978",
+        "module": "Sync Error",
+        "timestamp": "2026-09-06T02:29:04.317978",
+        "uuid": "d10950717a4c41878a5763cf90ee9f77"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 222,
+        "modified_at": "2026-09-06T03:21:18.510380",
+        "module": "Sync Error",
+        "timestamp": "2026-09-06T03:21:18.510380",
+        "uuid": "57acb859815e4824aad11652e6b725d4"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 223,
+        "modified_at": "2026-09-06T04:27:06.645626",
+        "module": "Sync Error",
+        "timestamp": "2026-09-06T04:27:06.645626",
+        "uuid": "33297afad59345b6b5b8cae2d3db8556"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 224,
+        "modified_at": "2026-09-06T05:29:24.768280",
+        "module": "Sync Error",
+        "timestamp": "2026-09-06T05:29:24.768280",
+        "uuid": "d18df9a70ed74506907ca980c419fa42"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 225,
+        "modified_at": "2026-09-06T06:30:22.992601",
+        "module": "Sync Error",
+        "timestamp": "2026-09-06T06:30:22.992601",
+        "uuid": "2dbfec9dc73b4847849af34d60b4124e"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 226,
+        "modified_at": "2026-09-06T07:30:27.964789",
+        "module": "Sync Error",
+        "timestamp": "2026-09-06T07:30:27.964789",
+        "uuid": "ce1e3eebf25a4f0f93c8036bbc04f438"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 227,
+        "modified_at": "2026-09-06T08:19:19.057246",
+        "module": "Sync Error",
+        "timestamp": "2026-09-06T08:19:19.057246",
+        "uuid": "c627662cd8a84951b57c4663877ef5fe"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 228,
+        "modified_at": "2026-09-06T09:32:34.344553",
+        "module": "Sync Error",
+        "timestamp": "2026-09-06T09:32:34.344553",
+        "uuid": "0865963a0cdb4f04936165ea4f35031c"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 229,
+        "modified_at": "2026-09-06T10:23:29.265419",
+        "module": "Sync Error",
+        "timestamp": "2026-09-06T10:23:29.265419",
+        "uuid": "72d0aa1ab32746e7ae5ffdb23c463cdc"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 230,
+        "modified_at": "2026-09-06T11:19:20.901270",
+        "module": "Sync Error",
+        "timestamp": "2026-09-06T11:19:20.901270",
+        "uuid": "1da7c7d4c6b549048bb985f68b0d63cc"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 231,
+        "modified_at": "2026-09-06T12:21:00.490514",
+        "module": "Sync Error",
+        "timestamp": "2026-09-06T12:21:00.490514",
+        "uuid": "1ea7cace4e3b4ebdacbc45ddd5acd783"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 232,
+        "modified_at": "2026-09-06T13:26:57.605070",
+        "module": "Sync Error",
+        "timestamp": "2026-09-06T13:26:57.605070",
+        "uuid": "9b16e19272624de990073770a1b3fae4"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 233,
+        "modified_at": "2026-09-06T14:24:55.816741",
+        "module": "Sync Error",
+        "timestamp": "2026-09-06T14:24:55.816741",
+        "uuid": "9528a80d32ed4b1484f5d3f81dbb151c"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 234,
+        "modified_at": "2026-09-06T15:27:54.716423",
+        "module": "Sync Error",
+        "timestamp": "2026-09-06T15:27:54.716423",
+        "uuid": "8a3ed986cf4d4e3a86ca65b3c841f166"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 235,
+        "modified_at": "2026-09-06T16:34:17.934471",
+        "module": "Sync Error",
+        "timestamp": "2026-09-06T16:34:17.934471",
+        "uuid": "bfb3929b743d414eaa39f6d02e0cd853"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 236,
+        "modified_at": "2026-09-06T17:29:35.902205",
+        "module": "Sync Error",
+        "timestamp": "2026-09-06T17:29:35.902205",
+        "uuid": "75103190ce4444c9865aa98ea2ee6a8a"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 237,
+        "modified_at": "2026-09-06T18:32:25.157692",
+        "module": "Sync Error",
+        "timestamp": "2026-09-06T18:32:25.157692",
+        "uuid": "438f7a6888d243a6ba8a353824b9bb0c"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 238,
+        "modified_at": "2026-09-06T19:32:09.377722",
+        "module": "Sync Error",
+        "timestamp": "2026-09-06T19:32:09.377722",
+        "uuid": "5bbb3622cae94f2a8c043c587da05a86"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 239,
+        "modified_at": "2026-09-06T20:33:28.366014",
+        "module": "Sync Error",
+        "timestamp": "2026-09-06T20:33:28.366014",
+        "uuid": "c04802f104644a13b0c2e09c5acc6f7c"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 240,
+        "modified_at": "2026-09-06T21:33:47.611132",
+        "module": "Sync Error",
+        "timestamp": "2026-09-06T21:33:47.611132",
+        "uuid": "70245583fdde482fb797ecb07ddc7e99"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 241,
+        "modified_at": "2026-09-06T22:22:18.874803",
+        "module": "Sync Error",
+        "timestamp": "2026-09-06T22:22:18.874803",
+        "uuid": "50eb6d38bb3a4b91a12fbafbb58a8ba2"
       }
     ],
     "cascading_goals": [
