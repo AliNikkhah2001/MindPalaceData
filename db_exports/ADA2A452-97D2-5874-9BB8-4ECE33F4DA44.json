@@ -69,7 +69,7 @@
     "wallpapers": []
   },
   "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-  "last_sync": "2026-09-06T20:25:49.444142Z",
+  "last_sync": "2026-09-06T20:50:45.552459Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -89,6 +89,7 @@
     "dashboard_layout": {},
     "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
     "dist_delay": 3,
+    "dummy": "dummy",
     "face_min_neighbors": 8,
     "face_min_size": 120,
     "face_scale_factor": 1.2,
@@ -2311,6 +2312,15 @@
         "module": "Sync",
         "timestamp": "2026-09-06T23:51:50.800830",
         "uuid": "a05d0f83dd0b4e0db8b2c61051cdd00e"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 243,
+        "modified_at": "2026-09-06T23:55:53.640585",
+        "module": "Sync",
+        "timestamp": "2026-09-06T23:55:53.640585",
+        "uuid": "daa839a35c9747ea81f93621ca8caea5"
       }
     ],
     "cascading_goals": [
@@ -3527,6 +3537,21 @@
         "timestamp": "2026-08-16T14:10:35.188346",
         "type": "Work",
         "uuid": "e85df4e8850e4f2cb5074ffe96a563a8"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "actual_duration": 0,
+        "course": "General",
+        "distraction_data": "[]",
+        "distractions": 0,
+        "duration": 0,
+        "id": 9,
+        "modified_at": "2026-09-07T00:15:44.826274",
+        "note": null,
+        "timelapse_path": "/Users/alinikkhah/Documents/Personal Projects/Shadow_Git/Personal_Shadow/IMPERIUM/data/timelapses/Work_General_20260906_235608.avi",
+        "timestamp": "2026-09-06T23:56:09.912205",
+        "type": "Work",
+        "uuid": "8fb7b30c39ac4b65911367bd04053829"
       }
     ],
     "quizzes": [
