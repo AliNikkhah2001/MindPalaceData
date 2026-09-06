@@ -1,50 +1,854 @@
 {
-  "MindPalace_Library/1602.04938v3.pdf": {
-    "mtime_ns": 1788702847680214800,
+  "Downloads/01 - Tintin au pays des Soviets - iranfrench.ir.pdf": {
+    "mtime_ns": 1788700090896550600,
     "schema": 2,
-    "sha256": "d0547f713f8bc4540f17925d12b4e4a87b5574d58e62bf7374eb5d750ce9618c",
-    "size": 4301729
+    "sha256": "9b0faa53753f2067889b7b6bec1f529dab26867921074784b10ac3d100b74fee",
+    "size": 12404451
   },
-  "MindPalace_Library/1770443833075.pdf": {
-    "mtime_ns": 1788702847842576300,
+  "Downloads/Grammaire_Progressive_Avance www.iranFrench.ir.pdf": {
+    "mtime_ns": 1788698330636502200,
     "schema": 2,
-    "sha256": "949e650aafb94c31b20439347f6857664eeca9fe85b5194a55827a8990f70f24",
-    "size": 381255
+    "sha256": "ddb632efed15ada23549e8aa9d1ed7f266f2d0be1f15eb81613a371477d465c8",
+    "size": 41523056
   },
-  "MindPalace_Library/2001.03447v2.pdf": {
-    "mtime_ns": 1788702847858648300,
+  "Downloads/Grammaire_Progressive_Debutant (+corriges) www.iranFrench.ir.pdf": {
+    "mtime_ns": 1788698359423637400,
     "schema": 2,
-    "sha256": "b3711ca0b337fb57cbcf77a5599262760db0653a8dd945bb037b4db5e9d2719e",
-    "size": 891938
+    "sha256": "77216531d6775af2b81aeba812ef2f6a1c830cc793f1fb4a62a7137e6d8a2746",
+    "size": 7205915
   },
-  "MindPalace_Library/ACFrOgAHiLRTknCmZfMM1cvXAZm4j55lS547lIeMHqVcr3iNiHicn-xtVJS7MIIZx-cA34QrkesORWHvnTEFjYCjgWCcb6SWWw4znvq7kmiQvzdDVN_4tOf5s1ggjKWivNXGVucG9dofx_lqtQQ-.pdf": {
-    "mtime_ns": 1788702847890812400,
+  "Downloads/Grammaire_Progressive_Intermediare + Corrig\u00e9s www.iranFrench.ir.pdf": {
+    "mtime_ns": 1788698322109454900,
     "schema": 2,
-    "sha256": "849739974f2c5b3fc7af371e5578b9c99e7023f88ef2ea8c68122f62a0b57d29",
-    "size": 701812
+    "sha256": "24b8d89e3a7007d245e43ff6637563ab1ed8ff4a63fbf9b7843a97e64963c068",
+    "size": 10892640
   },
-  "MindPalace_Library/Data Science Series Liquet Benoit Moka Sarat Nazarathy Yoni Mathematical Engineering of Deep Learning CRC Press 2024.pdf": {
-    "mtime_ns": 1788702854200582700,
+  "Downloads/albert camus www.iranfrench.ir.rar": {
+    "mtime_ns": 1788698584924228700,
     "schema": 2,
-    "sha256": "312b8f9f0e03f80837dc6ae1648adda14639eb0dfdfff940af969e3d84524cba",
-    "size": 31733379
+    "sha256": "5e345521b261f0fcc17a4e4806b4c38328e641876fd75bc0cdbe0399a50e0716",
+    "size": 15260639
   },
-  "MindPalace_Library/SHAP and LIME- Foundations, Mathematical Principles, and Local Model Interpretability.pdf": {
-    "mtime_ns": 1788702854221622100,
+  "Downloads/albert camus www.iranfrench.ir/Actuelles I. Chroniques 1944-1948 (3528)/Actuelles I. Chroniques 1944-1948 - Albert Camus.epub": {
+    "mtime_ns": 1373671884000000000,
     "schema": 2,
-    "sha256": "39dfff31341d5f0bfd4470098bbb6825f09479e1ddc31208d555dfc45ccb384d",
-    "size": 698853
+    "sha256": "78a5d114c4124295adbdac0a9bc6c3bf6462d45aebc14705ebe441eb43bea37f",
+    "size": 560938
   },
-  "MindPalace_Library/SHAP.pdf": {
-    "mtime_ns": 1788702854262052500,
+  "Downloads/albert camus www.iranfrench.ir/Actuelles I. Chroniques 1944-1948 (3528)/Actuelles I. Chroniques 1944-1948 - Albert Camus.zip": {
+    "mtime_ns": 1373670051000000000,
     "schema": 2,
-    "sha256": "01c7aa8f7d9edcf0cd185bf02e82363f743e441fcaf05b99e6054bfb470bf8ae",
-    "size": 1014198
+    "sha256": "891bdf1c5bfd31653eaea3f97669436c3a365fea832dfcc3ff6260dfc74647b4",
+    "size": 147834
   },
-  "MindPalace_Library/mml-book.pdf": {
-    "mtime_ns": 1788702854277335500,
+  "Downloads/albert camus www.iranfrench.ir/Actuelles I. Chroniques 1944-1948 (3528)/cover.jpg": {
+    "mtime_ns": 1373671574000000000,
     "schema": 2,
-    "sha256": "03743cafb084ced93358d1de9dc9935465a2562df18aa32f5cf4e6e702ddab1c",
-    "size": 133
+    "sha256": "a5754710ca9275a7e37b2c227e6731f73185c7f6dc28fc1bbe130c3c91f867cb",
+    "size": 16497
+  },
+  "Downloads/albert camus www.iranfrench.ir/Actuelles I. Chroniques 1944-1948 (3528)/metadata.opf": {
+    "mtime_ns": 1373667124000000000,
+    "schema": 2,
+    "sha256": "142a23f57aa89eda73db2cd83ef2aac5de2f624ec3bb466277d492644f7f2c99",
+    "size": 1061
+  },
+  "Downloads/albert camus www.iranfrench.ir/Actuelles II. Chroniques 1948-1953 (3527)/Actuelles II. Chroniques 1948-1953 - Albert Camus.epub": {
+    "mtime_ns": 1373670361000000000,
+    "schema": 2,
+    "sha256": "d3147674840a7c8744a4e8b20dc1a4b33de550a12ae44f05060c186abebc144f",
+    "size": 181686
+  },
+  "Downloads/albert camus www.iranfrench.ir/Actuelles II. Chroniques 1948-1953 (3527)/Actuelles II. Chroniques 1948-1953 - Albert Camus.zip": {
+    "mtime_ns": 1373671907000000000,
+    "schema": 2,
+    "sha256": "e389075820eebc7776a461c43e247b8e9e71a2e5073cd01f3168a3de02a5dfb3",
+    "size": 107784
+  },
+  "Downloads/albert camus www.iranfrench.ir/Actuelles II. Chroniques 1948-1953 (3527)/cover.jpg": {
+    "mtime_ns": 1373672060000000000,
+    "schema": 2,
+    "sha256": "64e4b4c4412a2ef94649b4625927bd1ad1ab0509e9fe738e00c5845dc9aa9acc",
+    "size": 19379
+  },
+  "Downloads/albert camus www.iranfrench.ir/Actuelles II. Chroniques 1948-1953 (3527)/metadata.opf": {
+    "mtime_ns": 1373667124000000000,
+    "schema": 2,
+    "sha256": "1f0e283eba8702fd57134861f17a3596b586259b1ff01829da9e62626bb10d95",
+    "size": 1063
+  },
+  "Downloads/albert camus www.iranfrench.ir/Actuelles III. Chroniques algeriennes, 1 (3530)/ACTUELLES III. Chroniques algeriennes, 1 - Albert Camus.zip": {
+    "mtime_ns": 1373671555000000000,
+    "schema": 2,
+    "sha256": "e618b4cedbf95df2cf5669ab800c7736e9432de3ce2e80e5395102ffe9e28f0d",
+    "size": 121921
+  },
+  "Downloads/albert camus www.iranfrench.ir/Actuelles III. Chroniques algeriennes, 1 (3530)/Actuelles III. Chroniques algeriennes, 1 - Albert Camus.epub": {
+    "mtime_ns": 1373671785000000000,
+    "schema": 2,
+    "sha256": "c3dd3b183a2c3dd81fcc642f56622487f51b385008195019a69f40a6268c3166",
+    "size": 204124
+  },
+  "Downloads/albert camus www.iranfrench.ir/Actuelles III. Chroniques algeriennes, 1 (3530)/cover.jpg": {
+    "mtime_ns": 1373668170000000000,
+    "schema": 2,
+    "sha256": "2d9dcafd0d8769fc4289c7508130d70bb16c126d56e10eeea79c141de3fcb364",
+    "size": 15674
+  },
+  "Downloads/albert camus www.iranfrench.ir/Actuelles III. Chroniques algeriennes, 1 (3530)/metadata.opf": {
+    "mtime_ns": 1373667124000000000,
+    "schema": 2,
+    "sha256": "820a3e04957b281ed78b8864276cfc427bad79d7f0c92728fa1fb44fa56a8caa",
+    "size": 1093
+  },
+  "Downloads/albert camus www.iranfrench.ir/Albert Camus _ Analyse de sa pensee (3529)/Albert Camus _ Analyse de sa pensee - Marcel J. Melancon.epub": {
+    "mtime_ns": 1373672065000000000,
+    "schema": 2,
+    "sha256": "92d8aa84501d5fc20acd92d9a64b3b1854af7dfcdab4088fea58f79453c1ae31",
+    "size": 931914
+  },
+  "Downloads/albert camus www.iranfrench.ir/Albert Camus _ Analyse de sa pensee (3529)/Albert Camus _ Analyse de sa pensee - Marcel J. Melancon.zip": {
+    "mtime_ns": 1373671726000000000,
+    "schema": 2,
+    "sha256": "cadbe50830aa642d041433b7013c878d64c175aacfaf49b685465f397e11926f",
+    "size": 377647
+  },
+  "Downloads/albert camus www.iranfrench.ir/Albert Camus _ Analyse de sa pensee (3529)/cover.jpg": {
+    "mtime_ns": 1373671410000000000,
+    "schema": 2,
+    "sha256": "eddb93e9e3703cf7871b98554543e7237ea56a8603e05fcd543cdce272259a9d",
+    "size": 9419
+  },
+  "Downloads/albert camus www.iranfrench.ir/Albert Camus _ Analyse de sa pensee (3529)/metadata.opf": {
+    "mtime_ns": 1373667124000000000,
+    "schema": 2,
+    "sha256": "214b85ef63b97d740df52e90d48f8d8468e63366f44793c48c5cbd6d74cde2d3",
+    "size": 1083
+  },
+  "Downloads/albert camus www.iranfrench.ir/Albert Camus_ An Analysis of his Thought (3512)/Albert Camus_ An Analysis of his Thought.epub": {
+    "mtime_ns": 1373671974000000000,
+    "schema": 2,
+    "sha256": "cb4533b37123e91dadf101516542ce078705022d34e59db2867e09f550c495bc",
+    "size": 858884
+  },
+  "Downloads/albert camus www.iranfrench.ir/Albert Camus_ An Analysis of his Thought (3512)/cover.jpg": {
+    "mtime_ns": 1373671317000000000,
+    "schema": 2,
+    "sha256": "0b2c508113db0299452074c316e9220311df838805ae82afacdaf32eed8ee751",
+    "size": 6217
+  },
+  "Downloads/albert camus www.iranfrench.ir/Albert Camus_ An Analysis of his Thought (3512)/metadata.opf": {
+    "mtime_ns": 1373667124000000000,
+    "schema": 2,
+    "sha256": "47591780011a6ec485d71bcd075afaf3d4e01d4fc03d1d4bc2a89bd094088cc5",
+    "size": 1268
+  },
+  "Downloads/albert camus www.iranfrench.ir/Caligula (3531)/Caligula - Albert Camus.epub": {
+    "mtime_ns": 1373672061000000000,
+    "schema": 2,
+    "sha256": "e9e3c55e3abf4cb64f9161c4abe8d652bd0312330f1afd497b1f9c7d9e6e14d0",
+    "size": 963972
+  },
+  "Downloads/albert camus www.iranfrench.ir/Caligula (3531)/Caligula - Albert Camus.zip": {
+    "mtime_ns": 1373670380000000000,
+    "schema": 2,
+    "sha256": "14f0990f9863766f8b66c15d98858e36b284dff99f748655902f78595f976188",
+    "size": 98305
+  },
+  "Downloads/albert camus www.iranfrench.ir/Caligula (3531)/cover.jpg": {
+    "mtime_ns": 1373668197000000000,
+    "schema": 2,
+    "sha256": "ecb0cf17b92360e2329f18a4a824320aa15a5d7aa71a697bf042cf28c4fc656d",
+    "size": 15914
+  },
+  "Downloads/albert camus www.iranfrench.ir/Caligula (3531)/metadata.opf": {
+    "mtime_ns": 1373667107000000000,
+    "schema": 2,
+    "sha256": "6d84813d580c7c47eb723056ffc454d53e46294d1d815d8ff90ecfe91537dcd8",
+    "size": 1011
+  },
+  "Downloads/albert camus www.iranfrench.ir/Carnets II. Janvier 1942 - Mars 1951 (3524)/Carnets II. Janvier 1942 - Mars 1951 - Albert Camus.epub": {
+    "mtime_ns": 1373672076000000000,
+    "schema": 2,
+    "sha256": "1245689effb3cc7b5851e5bc3509f01393e4435bd61ebcf98a480b932a1fccf3",
+    "size": 478826
+  },
+  "Downloads/albert camus www.iranfrench.ir/Carnets II. Janvier 1942 - Mars 1951 (3524)/Carnets II. Janvier 1942 - Mars 1951 - Albert Camus.zip": {
+    "mtime_ns": 1373672032000000000,
+    "schema": 2,
+    "sha256": "2c698dc8bebf07cb0455a320c213ca8cb3bac5f79f38fc2e3dc5b9eb32485151",
+    "size": 214125
+  },
+  "Downloads/albert camus www.iranfrench.ir/Carnets II. Janvier 1942 - Mars 1951 (3524)/cover.jpg": {
+    "mtime_ns": 1373672061000000000,
+    "schema": 2,
+    "sha256": "e580773700afb8de64d7257ed2eb261c49f2f53340be8f5b39e667cda2cbe3d0",
+    "size": 18615
+  },
+  "Downloads/albert camus www.iranfrench.ir/Carnets II. Janvier 1942 - Mars 1951 (3524)/metadata.opf": {
+    "mtime_ns": 1373667124000000000,
+    "schema": 2,
+    "sha256": "315b89660ccb3c1d41e85a97349fa43d1c17d102f93e05b9fa344a5e6dc9c4f8",
+    "size": 1067
+  },
+  "Downloads/albert camus www.iranfrench.ir/Carnets III. Mars 1951 - Decembre 1959 (3523)/Carnets III. Mars 1951 - Decembre 1959 - Albert Camus.epub": {
+    "mtime_ns": 1373672064000000000,
+    "schema": 2,
+    "sha256": "0e87ffd31555b2e78c2b93e59bd1a0ae10be28e0ae0d984d114ba0f623b8e803",
+    "size": 573366
+  },
+  "Downloads/albert camus www.iranfrench.ir/Carnets III. Mars 1951 - Decembre 1959 (3523)/Carnets III. Mars 1951 - Decembre 1959 - Albert Camus.zip": {
+    "mtime_ns": 1373671303000000000,
+    "schema": 2,
+    "sha256": "819927b5553f5a0acdf6ca6d496e8c44b409a5cf1df6d21915f4df90233ed61b",
+    "size": 246332
+  },
+  "Downloads/albert camus www.iranfrench.ir/Carnets III. Mars 1951 - Decembre 1959 (3523)/cover.jpg": {
+    "mtime_ns": 1373671930000000000,
+    "schema": 2,
+    "sha256": "d1c12aaee0adb3ebad9b14b3bb75465b4681d45f49e0a75e032840efe0d9bb4c",
+    "size": 13033
+  },
+  "Downloads/albert camus www.iranfrench.ir/Carnets III. Mars 1951 - Decembre 1959 (3523)/metadata.opf": {
+    "mtime_ns": 1373667124000000000,
+    "schema": 2,
+    "sha256": "60e247a821c6bea6e640154d0c2c8e6bcf6da7b2e871569d6bda37b34e9b1c6c",
+    "size": 1073
+  },
+  "Downloads/albert camus www.iranfrench.ir/Discours de suede (3514)/Discours de suede - Albert Camus.epub": {
+    "mtime_ns": 1373671050000000000,
+    "schema": 2,
+    "sha256": "46f317695888d4ab4d1053c5cfc7264fe1104583676b24301ee4e82f5afeaeb2",
+    "size": 104375
+  },
+  "Downloads/albert camus www.iranfrench.ir/Discours de suede (3514)/Discours de suede - Albert Camus.zip": {
+    "mtime_ns": 1373670706000000000,
+    "schema": 2,
+    "sha256": "7723e68fbc9a7b602acb665cd41266e78be972dc7ab9a5b495c7e05968e64604",
+    "size": 53382
+  },
+  "Downloads/albert camus www.iranfrench.ir/Discours de suede (3514)/cover.jpg": {
+    "mtime_ns": 1373667815000000000,
+    "schema": 2,
+    "sha256": "0d927916f314ca08b650c899c571409ddc6bc4b619f4211b7a5dab96d4fdad4e",
+    "size": 20852
+  },
+  "Downloads/albert camus www.iranfrench.ir/Discours de suede (3514)/metadata.opf": {
+    "mtime_ns": 1373667107000000000,
+    "schema": 2,
+    "sha256": "f5345de1b954bb882fc35bcd34eb2b526931d2dc93b013300f4edc46488d6c20",
+    "size": 1031
+  },
+  "Downloads/albert camus www.iranfrench.ir/Jonas ou l'artiste au travail (3518)/Jonas ou l'artiste au travail - Albert Camus.epub": {
+    "mtime_ns": 1373671536000000000,
+    "schema": 2,
+    "sha256": "c0b6c98f5023ce3c40b50accba731db2fd2956b4473e31a057d727e3d21945a0",
+    "size": 133100
+  },
+  "Downloads/albert camus www.iranfrench.ir/Jonas ou l'artiste au travail (3518)/Jonas ou l'artiste au travail - Albert Camus.zip": {
+    "mtime_ns": 1373671730000000000,
+    "schema": 2,
+    "sha256": "b7b3e0612cc88d48826c38db6c696485bcb9e02eca3ce814d145cd28b01ec14f",
+    "size": 86364
+  },
+  "Downloads/albert camus www.iranfrench.ir/Jonas ou l'artiste au travail (3518)/cover.jpg": {
+    "mtime_ns": 1373667991000000000,
+    "schema": 2,
+    "sha256": "4d6ca70ac1224bbb5fac0e6c2501b1bbe90f1f8b12164066f76a69fb4e7dc982",
+    "size": 18608
+  },
+  "Downloads/albert camus www.iranfrench.ir/Jonas ou l'artiste au travail (3518)/metadata.opf": {
+    "mtime_ns": 1373667124000000000,
+    "schema": 2,
+    "sha256": "19b0b8d5f0ab1bb6aaf070aca85a841a9ebad3857a58397b2a62cf603c2373e8",
+    "size": 1053
+  },
+  "Downloads/albert camus www.iranfrench.ir/L'Etat de siege (3532)/L'Etat de siege - Albert Camus.epub": {
+    "mtime_ns": 1373672066000000000,
+    "schema": 2,
+    "sha256": "1bc7c991fedff35ddf913883d9b5cbe7f24eb5920bbd5a0f3bc265058650fbbf",
+    "size": 1062652
+  },
+  "Downloads/albert camus www.iranfrench.ir/L'Etat de siege (3532)/L'Etat de siege - Albert Camus.zip": {
+    "mtime_ns": 1373671557000000000,
+    "schema": 2,
+    "sha256": "c3fcc8228773047a1969e268271d7529fa230ed3e96ad63966d405d42c1b11c6",
+    "size": 108196
+  },
+  "Downloads/albert camus www.iranfrench.ir/L'Etat de siege (3532)/cover.jpg": {
+    "mtime_ns": 1373665273000000000,
+    "schema": 2,
+    "sha256": "e39013d441e114a9d913553e9697003e0bd8a6b8db8afc4410f385077694ed77",
+    "size": 20207
+  },
+  "Downloads/albert camus www.iranfrench.ir/L'Etat de siege (3532)/metadata.opf": {
+    "mtime_ns": 1373667107000000000,
+    "schema": 2,
+    "sha256": "b4836e271da473c22aeed744c5fe66d9d7cf75c9374783b2d866c7e701122125",
+    "size": 1029
+  },
+  "Downloads/albert camus www.iranfrench.ir/L'envers et l'endroit (3522)/L'envers et l'endroit - Albert Camus.epub": {
+    "mtime_ns": 1373671566000000000,
+    "schema": 2,
+    "sha256": "4e219523df3fbd1de279a869fc8d4568dfc47d0f7722c3dead3bde8ac46f945c",
+    "size": 189962
+  },
+  "Downloads/albert camus www.iranfrench.ir/L'envers et l'endroit (3522)/L'envers et l'endroit - Albert Camus.zip": {
+    "mtime_ns": 1373670620000000000,
+    "schema": 2,
+    "sha256": "ae13e70d86b2d58e269732ecaf28de56df917143d41393f59ceb3792e9f8171f",
+    "size": 145092
+  },
+  "Downloads/albert camus www.iranfrench.ir/L'envers et l'endroit (3522)/cover.jpg": {
+    "mtime_ns": 1373671574000000000,
+    "schema": 2,
+    "sha256": "79bbbe47c5a92dc91c0cb8ddd5ba6bfb15ac985aa27f3dfab1f63e27fae580a9",
+    "size": 16948
+  },
+  "Downloads/albert camus www.iranfrench.ir/L'envers et l'endroit (3522)/metadata.opf": {
+    "mtime_ns": 1373667107000000000,
+    "schema": 2,
+    "sha256": "33570d8d9075394aafbe9ffb54d062ce73ab7b149274c95f7ea05c064164c85e",
+    "size": 1037
+  },
+  "Downloads/albert camus www.iranfrench.ir/L'ete (3521)/L'ete - Albert Camus.epub": {
+    "mtime_ns": 1373671719000000000,
+    "schema": 2,
+    "sha256": "0c699f68365bc876180b338eaae5cbcc374ab03ff601198ae3b325f48154e36f",
+    "size": 162785
+  },
+  "Downloads/albert camus www.iranfrench.ir/L'ete (3521)/L'ete - Albert Camus.zip": {
+    "mtime_ns": 1373671179000000000,
+    "schema": 2,
+    "sha256": "75553d948555370a11fe39ea466a91912894f3332775dc3ec0a0abff4c14f16f",
+    "size": 86017
+  },
+  "Downloads/albert camus www.iranfrench.ir/L'ete (3521)/cover.jpg": {
+    "mtime_ns": 1373670048000000000,
+    "schema": 2,
+    "sha256": "eded7d1f5107e5c7fcde9f1573d30778b31c46d72a4035daad295d4997f5eb3a",
+    "size": 26054
+  },
+  "Downloads/albert camus www.iranfrench.ir/L'ete (3521)/metadata.opf": {
+    "mtime_ns": 1373671205000000000,
+    "schema": 2,
+    "sha256": "ffcb1b69783f29c50aad628c43b35f5d1739ff13036acdcf3c07a938b235d5c8",
+    "size": 1009
+  },
+  "Downloads/albert camus www.iranfrench.ir/L'etranger (3520)/L'etranger - Albert Camus.epub": {
+    "mtime_ns": 1373671690000000000,
+    "schema": 2,
+    "sha256": "5d769b988112a2b47c0c49ce4197d5fa743a02c05fa8623704d9b5b3f927528f",
+    "size": 215572
+  },
+  "Downloads/albert camus www.iranfrench.ir/L'etranger (3520)/L'etranger - Albert Camus/META-INF/container.xml": {
+    "mtime_ns": 1296827860000000000,
+    "schema": 2,
+    "sha256": "2ffba6b75d46c551e80e800704238fdf0b303bab480f23b1d6c9d860fc9f27ba",
+    "size": 244
+  },
+  "Downloads/albert camus www.iranfrench.ir/L'etranger (3520)/L'etranger - Albert Camus/camus_etranger.htm": {
+    "mtime_ns": 1296827860000000000,
+    "schema": 2,
+    "sha256": "a9757d8e2ddf0144eb014c5c5c2f434d770c98f971360e2e9c57fc9c2dbae15a",
+    "size": 279631
+  },
+  "Downloads/albert camus www.iranfrench.ir/L'etranger (3520)/L'etranger - Albert Camus/content.opf": {
+    "mtime_ns": 1296827860000000000,
+    "schema": 2,
+    "sha256": "2686b930dcea1ebe7fb2061eff4668c0540bc1c8d470b8b5886100152cb0fa78",
+    "size": 1174
+  },
+  "Downloads/albert camus www.iranfrench.ir/L'etranger (3520)/L'etranger - Albert Camus/image001.png": {
+    "mtime_ns": 1296827860000000000,
+    "schema": 2,
+    "sha256": "4e7537b20a54e9247d532fb89d3a3b9e37b483b1ab0be62b9890cc1ad7f0ce01",
+    "size": 855
+  },
+  "Downloads/albert camus www.iranfrench.ir/L'etranger (3520)/L'etranger - Albert Camus/image002.jpg": {
+    "mtime_ns": 1296827860000000000,
+    "schema": 2,
+    "sha256": "db0b71087f59353a0855f4e81b5bca5d10c506d04d9523c879ef0706f75ff878",
+    "size": 2334
+  },
+  "Downloads/albert camus www.iranfrench.ir/L'etranger (3520)/L'etranger - Albert Camus/image003.jpg": {
+    "mtime_ns": 1296827860000000000,
+    "schema": 2,
+    "sha256": "537880062d57f4edaaf3465194f6c1be55c4ace47b5904e964ecc5cab30fd7bd",
+    "size": 26630
+  },
+  "Downloads/albert camus www.iranfrench.ir/L'etranger (3520)/L'etranger - Albert Camus/mimetype": {
+    "mtime_ns": 1296827860000000000,
+    "schema": 2,
+    "sha256": "e468e350d1143eb648f60c7b0bd6031101ec0544a361ca74ecef256ac901f48b",
+    "size": 20
+  },
+  "Downloads/albert camus www.iranfrench.ir/L'etranger (3520)/cover.jpg": {
+    "mtime_ns": 1373670741000000000,
+    "schema": 2,
+    "sha256": "a0e7103dc3fb2dbe9fdc2a2d456f4fc387098e67f2264be2b42c788ea7ee94ca",
+    "size": 44654
+  },
+  "Downloads/albert camus www.iranfrench.ir/L'etranger (3520)/metadata.opf": {
+    "mtime_ns": 1373667107000000000,
+    "schema": 2,
+    "sha256": "7ece6edd17fab960711e0791249815433d189c136a9d277e39f9434ab2f2de42",
+    "size": 1017
+  },
+  "Downloads/albert camus www.iranfrench.ir/L'exil et le royaume (3536)/L'EXIL ET LE ROYAUME - Albert Camus.zip": {
+    "mtime_ns": 1373671395000000000,
+    "schema": 2,
+    "sha256": "8648ba1f16e29574615408f21558baa12296cbbfc6009bd70eb254a9e50eda70",
+    "size": 142560
+  },
+  "Downloads/albert camus www.iranfrench.ir/L'exil et le royaume (3536)/L'exil et le royaume - Albert Camus.epub": {
+    "mtime_ns": 1373672098000000000,
+    "schema": 2,
+    "sha256": "8466c05f01d0cc13c7dcc2ee3b060468f3c985f4cd312825e1a904d75720602e",
+    "size": 189337
+  },
+  "Downloads/albert camus www.iranfrench.ir/L'exil et le royaume (3536)/cover.jpg": {
+    "mtime_ns": 1373671930000000000,
+    "schema": 2,
+    "sha256": "e465fbdebc1f5a8b2f72e4fdb0e3c7a9828183930cdbbb3c3a0f8a1e2b378522",
+    "size": 14054
+  },
+  "Downloads/albert camus www.iranfrench.ir/L'exil et le royaume (3536)/metadata.opf": {
+    "mtime_ns": 1373667107000000000,
+    "schema": 2,
+    "sha256": "9a1fbcd4fbedc579cc4d251083094a43e405b99e1db225a3cb113fe363c31d84",
+    "size": 1035
+  },
+  "Downloads/albert camus www.iranfrench.ir/L'homme revolte (3519)/L'homme revolte - Albert Camus.epub": {
+    "mtime_ns": 1373672079000000000,
+    "schema": 2,
+    "sha256": "f09e9e1e4d4f2a8b4b490cdcfe2af45d7f0514900a4d31c8fc387bf4cffc91af",
+    "size": 867916
+  },
+  "Downloads/albert camus www.iranfrench.ir/L'homme revolte (3519)/L'homme revolte - Albert Camus.zip": {
+    "mtime_ns": 1373672002000000000,
+    "schema": 2,
+    "sha256": "376f858df2431f464436eede518137ed12a9a3d30e01f96246038a10ae7c3235",
+    "size": 478549
+  },
+  "Downloads/albert camus www.iranfrench.ir/L'homme revolte (3519)/cover.jpg": {
+    "mtime_ns": 1373668197000000000,
+    "schema": 2,
+    "sha256": "7c7837a91a7952d596b149c493148d47ee30af51410e509bc9dd9b077012b6c4",
+    "size": 15857
+  },
+  "Downloads/albert camus www.iranfrench.ir/L'homme revolte (3519)/metadata.opf": {
+    "mtime_ns": 1373667107000000000,
+    "schema": 2,
+    "sha256": "495ef3a840c111c9505578decad7b189ce3d37015de55a6be4eea69b7710c370",
+    "size": 1029
+  },
+  "Downloads/albert camus www.iranfrench.ir/La chute (3533)/La chute - Albert Camus.epub": {
+    "mtime_ns": 1373671334000000000,
+    "schema": 2,
+    "sha256": "91743dc68e3c5bcc513b36c5d0124644ba10dcc5e4cbf3a7220d213f2f699130",
+    "size": 204627
+  },
+  "Downloads/albert camus www.iranfrench.ir/La chute (3533)/La chute - Albert Camus.zip": {
+    "mtime_ns": 1373671716000000000,
+    "schema": 2,
+    "sha256": "818512d522d0753af4b5d9454f70d6d44d21380bf7524fcf815545947fb0bfc0",
+    "size": 109737
+  },
+  "Downloads/albert camus www.iranfrench.ir/La chute (3533)/cover.jpg": {
+    "mtime_ns": 1373670558000000000,
+    "schema": 2,
+    "sha256": "921b3c966a05f56cb63b9fb5fdd74db0da8fa4b7786ce78df233673b7aa80ec1",
+    "size": 41477
+  },
+  "Downloads/albert camus www.iranfrench.ir/La chute (3533)/metadata.opf": {
+    "mtime_ns": 1373671205000000000,
+    "schema": 2,
+    "sha256": "9d6635ca43bc6569656c6a8429005bcf0d58c4a342a49115549417d5a2da130d",
+    "size": 1011
+  },
+  "Downloads/albert camus www.iranfrench.ir/La mort heureuse (3516)/La mort heureuse - Albert Camus.epub": {
+    "mtime_ns": 1373671636000000000,
+    "schema": 2,
+    "sha256": "2f664ba3af9874871944e4ec055e96c53090fb269261e0bcaf7f452ef63ab569",
+    "size": 206491
+  },
+  "Downloads/albert camus www.iranfrench.ir/La mort heureuse (3516)/La mort heureuse - Albert Camus.zip": {
+    "mtime_ns": 1373671869000000000,
+    "schema": 2,
+    "sha256": "05ee61e159e19bd228890ab3598e7a92b1a1b874ee34448b3b8b78df9e1e8d10",
+    "size": 133481
+  },
+  "Downloads/albert camus www.iranfrench.ir/La mort heureuse (3516)/cover.jpg": {
+    "mtime_ns": 1373670136000000000,
+    "schema": 2,
+    "sha256": "8fd378ab8c707d8f1c5cfa829b1659e87d55d96866d001d5a2f89a72469da3e3",
+    "size": 25188
+  },
+  "Downloads/albert camus www.iranfrench.ir/La mort heureuse (3516)/metadata.opf": {
+    "mtime_ns": 1373667107000000000,
+    "schema": 2,
+    "sha256": "bf9508056fbede310bf59e9d08acb6447d7d7835b7d9c59bd6de7694febdd045",
+    "size": 1027
+  },
+  "Downloads/albert camus www.iranfrench.ir/La peste (3513)/La peste - Albert Camus.epub": {
+    "mtime_ns": 1373671828000000000,
+    "schema": 2,
+    "sha256": "c80de7b5d3f2a5a01ebf7d75339bfd403b0e9864ab86c43abaafcc834231237f",
+    "size": 742450
+  },
+  "Downloads/albert camus www.iranfrench.ir/La peste (3513)/La peste - Albert Camus.zip": {
+    "mtime_ns": 1373671949000000000,
+    "schema": 2,
+    "sha256": "76eb8409f3467bd5e33c6a06d6d6082222ad5bcae42818fe5fe3676236593759",
+    "size": 251293
+  },
+  "Downloads/albert camus www.iranfrench.ir/La peste (3513)/cover.jpg": {
+    "mtime_ns": 1373671968000000000,
+    "schema": 2,
+    "sha256": "8ae80e76c33740b018d2aa72d8676bce69e6d8325ddd7a005b4f6e89872335ef",
+    "size": 68422
+  },
+  "Downloads/albert camus www.iranfrench.ir/La peste (3513)/metadata.opf": {
+    "mtime_ns": 1373671205000000000,
+    "schema": 2,
+    "sha256": "908cf6e0e092e42d367f20debcd627376cfffbe97c24583784a68aad03b2eddf",
+    "size": 1004
+  },
+  "Downloads/albert camus www.iranfrench.ir/Le malentendu (3534)/Le malentendu - Albert Camus.epub": {
+    "mtime_ns": 1373671719000000000,
+    "schema": 2,
+    "sha256": "75200ca71fa2c51fa734c50157e28bbcf3cab82199e93b62dea0b888f59ace60",
+    "size": 155244
+  },
+  "Downloads/albert camus www.iranfrench.ir/Le malentendu (3534)/Le malentendu - Albert Camus.zip": {
+    "mtime_ns": 1373671654000000000,
+    "schema": 2,
+    "sha256": "ce7e5acb57ce385027d193c2bba7e077f4a46ec5f762d07dd770d121375a65a2",
+    "size": 71884
+  },
+  "Downloads/albert camus www.iranfrench.ir/Le malentendu (3534)/cover.jpg": {
+    "mtime_ns": 1373672060000000000,
+    "schema": 2,
+    "sha256": "2b86dad2856921f7a300ed51422ad2df60a3127881c3f9d78ab9560d73e13457",
+    "size": 19102
+  },
+  "Downloads/albert camus www.iranfrench.ir/Le malentendu (3534)/metadata.opf": {
+    "mtime_ns": 1373667107000000000,
+    "schema": 2,
+    "sha256": "0566cc1484bd6710552926438c43b3b5b5b5ad2595b4258f7f8ba05c72f16754",
+    "size": 1021
+  },
+  "Downloads/albert camus www.iranfrench.ir/Le mythe de Sisyphe (3511)/Le mythe de Sisyphe - Albert Camus.epub": {
+    "mtime_ns": 1373670675000000000,
+    "schema": 2,
+    "sha256": "b09254d4cf0a10a4bd3b4243f41efd280ed98aa4267a8ba3ceb7294192395774",
+    "size": 204881
+  },
+  "Downloads/albert camus www.iranfrench.ir/Le mythe de Sisyphe (3511)/Le mythe de Sisyphe - Albert Camus.zip": {
+    "mtime_ns": 1373671675000000000,
+    "schema": 2,
+    "sha256": "c7e92cd8d47e7b305fa392c6f8fe9e5d10cea0061e97c38f02ff14ddd980803a",
+    "size": 128259
+  },
+  "Downloads/albert camus www.iranfrench.ir/Le mythe de Sisyphe (3511)/cover.jpg": {
+    "mtime_ns": 1373670136000000000,
+    "schema": 2,
+    "sha256": "5bfbc5a745e49540d381427960cffe1912ed866cb631e0040e7b0bf482fafbcc",
+    "size": 21397
+  },
+  "Downloads/albert camus www.iranfrench.ir/Le mythe de Sisyphe (3511)/metadata.opf": {
+    "mtime_ns": 1373667107000000000,
+    "schema": 2,
+    "sha256": "d5819e161efa9a597007f58d9813ab9342db36ed53ba29823633ea5701c89f12",
+    "size": 1033
+  },
+  "Downloads/albert camus www.iranfrench.ir/Les justes (3535)/Les justes - Albert Camus.epub": {
+    "mtime_ns": 1373672065000000000,
+    "schema": 2,
+    "sha256": "94efb143e7127e33a608181f2bbecbd7ebd2ce81fad0aa248c5f282236ee8d89",
+    "size": 216593
+  },
+  "Downloads/albert camus www.iranfrench.ir/Les justes (3535)/Les justes - Albert Camus.zip": {
+    "mtime_ns": 1373670723000000000,
+    "schema": 2,
+    "sha256": "c9b2b2802473012dd1505681b75561dbb613385c80fe84286050499a041e444e",
+    "size": 78462
+  },
+  "Downloads/albert camus www.iranfrench.ir/Les justes (3535)/cover.jpg": {
+    "mtime_ns": 1373667815000000000,
+    "schema": 2,
+    "sha256": "c7495e686940d0ff01a162c21d4219b562e16855bce716385ee8087fbca39b4d",
+    "size": 20705
+  },
+  "Downloads/albert camus www.iranfrench.ir/Les justes (3535)/metadata.opf": {
+    "mtime_ns": 1373667107000000000,
+    "schema": 2,
+    "sha256": "164a722418f4ac1d362dfb57ec933c9aea1b14f66a835bfa3d83e3c0b1746f5e",
+    "size": 1015
+  },
+  "Downloads/albert camus www.iranfrench.ir/Les possedes (3526)/Les possedes - Albert Camus.epub": {
+    "mtime_ns": 1373672137000000000,
+    "schema": 2,
+    "sha256": "c78104724ea0dcb974bbe938cccd2b5706bfdeebede3e3a10fe23168bcbf6905",
+    "size": 471689
+  },
+  "Downloads/albert camus www.iranfrench.ir/Les possedes (3526)/Les possedes - Albert Camus.zip": {
+    "mtime_ns": 1373672135000000000,
+    "schema": 2,
+    "sha256": "a601b113e1fc1f272586550966c2b7fc4973ab154ab50107df9564d0ff651bb0",
+    "size": 155214
+  },
+  "Downloads/albert camus www.iranfrench.ir/Les possedes (3526)/cover.jpg": {
+    "mtime_ns": 1373671574000000000,
+    "schema": 2,
+    "sha256": "da4d95fb6bd77434c6b52be09a40e33a09f11c8271279060edaf3c2da24391c3",
+    "size": 16998
+  },
+  "Downloads/albert camus www.iranfrench.ir/Les possedes (3526)/metadata.opf": {
+    "mtime_ns": 1373667107000000000,
+    "schema": 2,
+    "sha256": "fbc36be40962fc4cf1ec24a0facfc5f48c926ba5df31ec880c73b6618bf6fbdf",
+    "size": 1023
+  },
+  "Downloads/albert camus www.iranfrench.ir/Lettres a un ami allemand (3537)/Lettres a un ami allemand - Albert Camus.epub": {
+    "mtime_ns": 1373670230000000000,
+    "schema": 2,
+    "sha256": "6e163f16793ef8261f43e64a3c380ee4c95b1b161b6f77b582ff9eeb1b8625ba",
+    "size": 152725
+  },
+  "Downloads/albert camus www.iranfrench.ir/Lettres a un ami allemand (3537)/Lettres a un ami allemand - Albert Camus.zip": {
+    "mtime_ns": 1373671654000000000,
+    "schema": 2,
+    "sha256": "4999ef0afe8e9eae3951511089efe431c943f054b45b1161dc2b36cc3f1c77f7",
+    "size": 68566
+  },
+  "Downloads/albert camus www.iranfrench.ir/Lettres a un ami allemand (3537)/cover.jpg": {
+    "mtime_ns": 1373670128000000000,
+    "schema": 2,
+    "sha256": "7aa994ea14a7768d0d728ff9446b26ec6da6bdd2c88f38570c0bb57921d99807",
+    "size": 34176
+  },
+  "Downloads/albert camus www.iranfrench.ir/Lettres a un ami allemand (3537)/metadata.opf": {
+    "mtime_ns": 1373667107000000000,
+    "schema": 2,
+    "sha256": "996d0965210dd7ab873e7afabac9958d8d9156f219e98547a56b66a9ccff5293",
+    "size": 1047
+  },
+  "Downloads/albert camus www.iranfrench.ir/Noces, suivi de L'ete (3515)/Noces, suivi de L'ete - Albert Camus.epub": {
+    "mtime_ns": 1373672065000000000,
+    "schema": 2,
+    "sha256": "85d8ae05fe95e26412159bea4cacba6d710d5c66472ed019967121c388a774f1",
+    "size": 221353
+  },
+  "Downloads/albert camus www.iranfrench.ir/Noces, suivi de L'ete (3515)/Noces, suivi de L'ete - Albert Camus.zip": {
+    "mtime_ns": 1373671490000000000,
+    "schema": 2,
+    "sha256": "200f493c9c515ff7c35e09b00a6e5c123aafd20d73f46a57de1f2d2d3004a200",
+    "size": 131098
+  },
+  "Downloads/albert camus www.iranfrench.ir/Noces, suivi de L'ete (3515)/cover.jpg": {
+    "mtime_ns": 1373670128000000000,
+    "schema": 2,
+    "sha256": "3dd8be7a5ef8fd8aa848cbfe40b0e747b003214aaa3a08427affae06ac9ac8b5",
+    "size": 29270
+  },
+  "Downloads/albert camus www.iranfrench.ir/Noces, suivi de L'ete (3515)/metadata.opf": {
+    "mtime_ns": 1373667107000000000,
+    "schema": 2,
+    "sha256": "6b9679eea53bc7b715c4bea5128573a234a12128e036561c3aee59eddcc2b31a",
+    "size": 1041
+  },
+  "Downloads/albert camus www.iranfrench.ir/The Myth of Sisyphus and Other Essays (2540)/The Myth of Sisyphus and Other Essays - Albert Camus.epub": {
+    "mtime_ns": 1373672032000000000,
+    "schema": 2,
+    "sha256": "90af57c9c92c1724c9549fc16138cecfb0cb96a9a2475656082a9ec7078188ba",
+    "size": 212801
+  },
+  "Downloads/albert camus www.iranfrench.ir/The Myth of Sisyphus and Other Essays (2540)/cover.jpg": {
+    "mtime_ns": 1373669167000000000,
+    "schema": 2,
+    "sha256": "ea5c499c6e3523c03b439cf17110cf701051223c89056b3e31cd362e05672d99",
+    "size": 19623
+  },
+  "Downloads/albert camus www.iranfrench.ir/The Myth of Sisyphus and Other Essays (2540)/metadata.opf": {
+    "mtime_ns": 1373667124000000000,
+    "schema": 2,
+    "sha256": "8c2caccbb68c9089230e0cc96278b829ebc60f7d8116d3146a2b7116ae5fb525",
+    "size": 1128
+  },
+  "Downloads/albert camus www.iranfrench.ir/The Plague (2537)/The Plague - Albert Camus.epub": {
+    "mtime_ns": 1373672001000000000,
+    "schema": 2,
+    "sha256": "ee9f8c316b45b6e513a71760c9b60f28b7f85653c450d177fb0e62bcb75ff90d",
+    "size": 566173
+  },
+  "Downloads/albert camus www.iranfrench.ir/The Plague (2537)/cover.jpg": {
+    "mtime_ns": 1373671984000000000,
+    "schema": 2,
+    "sha256": "63a61f4649da044cac95d7f5cd1575c5f66a3ae8e6e7b29950af572a69c54f09",
+    "size": 42893
+  },
+  "Downloads/albert camus www.iranfrench.ir/The Plague (2537)/metadata.opf": {
+    "mtime_ns": 1373667124000000000,
+    "schema": 2,
+    "sha256": "af59e67fe1a1c3ea5417f89cfabca905be02c03ddb417ab60918a135ec410fe6",
+    "size": 1067
+  },
+  "Downloads/albert camus www.iranfrench.ir/The Stranger (2541)/The Stranger - Albert Camus.epub": {
+    "mtime_ns": 1373672092000000000,
+    "schema": 2,
+    "sha256": "619f4d8e6bbfefaf40aab7800a8a9094dbc6d1ea2a609393554e279eb25be57d",
+    "size": 319006
+  },
+  "Downloads/albert camus www.iranfrench.ir/The Stranger (2541)/cover.jpg": {
+    "mtime_ns": 1373669390000000000,
+    "schema": 2,
+    "sha256": "3c123d941a9322bb0c7d57083f2b41accbf2d3f1ef3726fb192815dce1c338ec",
+    "size": 38039
+  },
+  "Downloads/albert camus www.iranfrench.ir/The Stranger (2541)/metadata.opf": {
+    "mtime_ns": 1373667124000000000,
+    "schema": 2,
+    "sha256": "b3b424640abdd840a543c824a1c588698691f90a62192583226a8d2803ec5b71",
+    "size": 1830
+  },
+  "Downloads/albert camus www.iranfrench.ir/_Carnets I. Mai 1935 - Fevrier 1942 (3525)/_Carnets I. Mai 1935 - Fevrier 1942 - Albert Camus.epub": {
+    "mtime_ns": 1373671360000000000,
+    "schema": 2,
+    "sha256": "d021f641744e7e187155dbc31f678f85e0b43b6d5b8e27e29f04525a7f253f4f",
+    "size": 496294
+  },
+  "Downloads/albert camus www.iranfrench.ir/_Carnets I. Mai 1935 - Fevrier 1942 (3525)/_Carnets I. Mai 1935 - Fevrier 1942 - Albert Camus.zip": {
+    "mtime_ns": 1373671558000000000,
+    "schema": 2,
+    "sha256": "1e595b6dcf072e57894e6c731767af1d8bc6f24e76a18a4d71137d3add50b88e",
+    "size": 299354
+  },
+  "Downloads/albert camus www.iranfrench.ir/_Carnets I. Mai 1935 - Fevrier 1942 (3525)/cover.jpg": {
+    "mtime_ns": 1373671930000000000,
+    "schema": 2,
+    "sha256": "78f177eda29de11038f8e0b8d407ed71fab9c57038473f5a045113a729f25d48",
+    "size": 14849
+  },
+  "Downloads/albert camus www.iranfrench.ir/_Carnets I. Mai 1935 - Fevrier 1942 (3525)/metadata.opf": {
+    "mtime_ns": 1373667124000000000,
+    "schema": 2,
+    "sha256": "17890b768414a3817a488f392064097dad54189a29d119294b6baf65c7565c4d",
+    "size": 1065
+  },
+  "Downloads/albert camus www.iranfrench.ir/_Kadar a eu son jour de peur_ (3517)/_Kadar a eu son jour de peur_ - Albert Camus.epub": {
+    "mtime_ns": 1373669809000000000,
+    "schema": 2,
+    "sha256": "cbc62173876263be727fe90cd1ad8dc4a218f528e3e23f786805460b701e43d1",
+    "size": 66097
+  },
+  "Downloads/albert camus www.iranfrench.ir/_Kadar a eu son jour de peur_ (3517)/_Kadar a eu son jour de peur_ - Albert Camus.zip": {
+    "mtime_ns": 1373669966000000000,
+    "schema": 2,
+    "sha256": "56e09902966b3cb5cac45d552ea7db00f5edd51b167651ce834f4dc31b2eb20d",
+    "size": 40769
+  },
+  "Downloads/albert camus www.iranfrench.ir/_Kadar a eu son jour de peur_ (3517)/cover.jpg": {
+    "mtime_ns": 1373671410000000000,
+    "schema": 2,
+    "sha256": "53095ca8a34a0946c102440c2e204aed7443293067bb3a26be58921bbf9b0343",
+    "size": 10317
+  },
+  "Downloads/albert camus www.iranfrench.ir/_Kadar a eu son jour de peur_ (3517)/metadata.opf": {
+    "mtime_ns": 1373667124000000000,
+    "schema": 2,
+    "sha256": "21c0b8b6f6c29c699609fc8426608c4151e8a89773014a7f940a2712e4492505",
+    "size": 1058
+  },
+  "Downloads/albert camus www.iranfrench.ir/_Reflexions sur la guillotine_ (3510)/_Reflexions sur la guillotine_ - Albert Camus.epub": {
+    "mtime_ns": 1373671633000000000,
+    "schema": 2,
+    "sha256": "0a38fe1841349bdeb556b9a23f8bf4084ed20a6cae146d50d6cc83520c01b02c",
+    "size": 155205
+  },
+  "Downloads/albert camus www.iranfrench.ir/_Reflexions sur la guillotine_ (3510)/_Reflexions sur la guillotine_ - Albert Camus.zip": {
+    "mtime_ns": 1373670380000000000,
+    "schema": 2,
+    "sha256": "85e23b0a8f2189b4a916bbd2d612940e82f15f9ab15a32c62041563ae584e26c",
+    "size": 93269
+  },
+  "Downloads/albert camus www.iranfrench.ir/_Reflexions sur la guillotine_ (3510)/cover.jpg": {
+    "mtime_ns": 1373670128000000000,
+    "schema": 2,
+    "sha256": "c2a99b343cb816090251500bf335ffb3628a87be33e275c081a84a9e175fba6b",
+    "size": 28934
+  },
+  "Downloads/albert camus www.iranfrench.ir/_Reflexions sur la guillotine_ (3510)/metadata.opf": {
+    "mtime_ns": 1373667124000000000,
+    "schema": 2,
+    "sha256": "d19c87fd95e4463ba13d605e199f43f57543687c088dc0b1bab8a9a0537bd4bd",
+    "size": 1061
+  },
+  "Downloads/albert camus www.iranfrench.ir/_Remarque sur la revolte_ (3509)/_Remarque sur la revolte_ - Albert Camus.epub": {
+    "mtime_ns": 1373667513000000000,
+    "schema": 2,
+    "sha256": "99089e5f642c0dda3e59e905f0d282cbe38bda93fda93532be665d72fac25c09",
+    "size": 54920
+  },
+  "Downloads/albert camus www.iranfrench.ir/_Remarque sur la revolte_ (3509)/_Remarque sur la revolte_ - Albert Camus.zip": {
+    "mtime_ns": 1373669966000000000,
+    "schema": 2,
+    "sha256": "0cccc34ccc3176202aed350f5ce8a2fb47b34e684fa3010a4c8e100c7fb91bd4",
+    "size": 41465
+  },
+  "Downloads/albert camus www.iranfrench.ir/_Remarque sur la revolte_ (3509)/cover.jpg": {
+    "mtime_ns": 1373671410000000000,
+    "schema": 2,
+    "sha256": "1a6dcd14ba82c3782678fa9e0ae44b7c1df333e084c482561dea4a90febf37e3",
+    "size": 3725
+  },
+  "Downloads/albert camus www.iranfrench.ir/_Remarque sur la revolte_ (3509)/metadata.opf": {
+    "mtime_ns": 1373667107000000000,
+    "schema": 2,
+    "sha256": "13af25f280b9862082ba4e4fdf83df0ea083121cd386a976eaaba066b0a25fd8",
+    "size": 1052
+  },
+  "Downloads/albert camus www.iranfrench.ir/www.iranfrench.ir.jpg": {
+    "mtime_ns": 1408710357000000000,
+    "schema": 2,
+    "sha256": "a16273be1640906dcf45c10cf5f1856001fce21dd67ce0d225b5f865b0189b43",
+    "size": 37890
+  },
+  "Downloads/desktop.ini": {
+    "mtime_ns": 1784965407724505300,
+    "schema": 2,
+    "sha256": "b029393ea7b7cf644fb1c9f984f57c1980077562ee2e15d0ffd049c4c48098d3",
+    "size": 282
+  },
+  "Downloads/wp14056165-noir-city-wallpapers.jpg": {
+    "mtime_ns": 1788335444568133200,
+    "schema": 2,
+    "sha256": "f0093c26d823d727a7c04a593a8b18169919a66b92b927806b572b45bc514d72",
+    "size": 218604
+  },
+  "Downloads/wp14056167-noir-city-wallpapers.jpg": {
+    "mtime_ns": 1788356264321098000,
+    "schema": 2,
+    "sha256": "8763dce90d10b143818baaa761591394d1fb41ebb8743cadc35a2db92acfc489",
+    "size": 329593
+  },
+  "Downloads/wp14056252-noir-city-wallpapers.jpg": {
+    "mtime_ns": 1788356280079124800,
+    "schema": 2,
+    "sha256": "961f1564905e2213af83d74254771d8b58f4432b1cbebe02e35d5559e9814775",
+    "size": 331863
+  },
+  "Downloads/wp14056302-noir-city-wallpapers.jpg": {
+    "mtime_ns": 1788356290042161000,
+    "schema": 2,
+    "sha256": "bc23818e195090d43e5d763fb0dc472ba9b6319d9df55b6ecbf2e13a9e78961b",
+    "size": 4831383
+  },
+  "Downloads/wp2932625-noir-wallpaper.jpg": {
+    "mtime_ns": 1788356331404798900,
+    "schema": 2,
+    "sha256": "7941f054272e2cd5e5eef77ec654df94ae67724216ec56e4779d27c035a52b64",
+    "size": 362018
   }
 }
