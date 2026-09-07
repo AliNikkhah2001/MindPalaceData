@@ -23,6 +23,138 @@
     "sha256": "24b8d89e3a7007d245e43ff6637563ab1ed8ff4a63fbf9b7843a97e64963c068",
     "size": 10892640
   },
+  "Downloads/KB_9.7.2026.zip": {
+    "mtime_ns": 1788767308020552600,
+    "schema": 2,
+    "sha256": "739b7bc3504971cc1fdee7ef487b695e1e583900b66e49748bc15dd27a020654",
+    "size": 412662
+  },
+  "Downloads/KB_9.7.2026/\u062d\u0642\u06cc\u0642\u06cc/\u06af\u0632\u0627\u0631\u0634 \u0627\u0639\u062a\u0628\u0627\u0631\u06cc/IndividualCreditReport.xlsx": {
+    "mtime_ns": 1788767254874947600,
+    "schema": 2,
+    "sha256": "7edb55892e3c2a5b51bf380384669866a9455545bec6abcd7a3e79840f9c6fa8",
+    "size": 109614
+  },
+  "Downloads/KB_9.7.2026/\u062d\u0642\u06cc\u0642\u06cc/\u06af\u0632\u0627\u0631\u0634 \u0627\u0639\u062a\u0628\u0627\u0631\u06cc/Individual_CRM_Questions.xlsx": {
+    "mtime_ns": 1788767254784634700,
+    "schema": 2,
+    "sha256": "7d7d9a14f631dd715b55786763990d764c3f5e3627f402a297451ca0dd4bf18a",
+    "size": 125499
+  },
+  "Downloads/KB_9.7.2026/\u062d\u0642\u06cc\u0642\u06cc/\u06af\u0632\u0627\u0631\u0634 \u0627\u0639\u062a\u0628\u0627\u0631\u06cc/ReasonCode_IndividualAlternative-chatbot.xlsx": {
+    "mtime_ns": 1788767254955442900,
+    "schema": 2,
+    "sha256": "25877358548d178a161726bd92df442f018b6acf5eb4e3357cbfcc89c1cdcd62",
+    "size": 46197
+  },
+  "Downloads/KB_9.7.2026/\u062d\u0642\u06cc\u0642\u06cc/\u06af\u0632\u0627\u0631\u0634 \u0627\u0639\u062a\u0628\u0627\u0631\u06cc/ReasonCode_IndividualMain-chatbot.xlsx": {
+    "mtime_ns": 1788767254685778300,
+    "schema": 2,
+    "sha256": "cd451abe4897e3a33aec388d8d626ab7f392f151a23dce78784576296e3a93c3",
+    "size": 66937
+  },
+  "Downloads/KB_9.7.2026/\u062d\u0642\u06cc\u0642\u06cc/\u06af\u0632\u0627\u0631\u0634 \u0686\u06a9/ChequeQuestions.xlsx": {
+    "mtime_ns": 1788767254533127200,
+    "schema": 2,
+    "sha256": "2e56d81c3ab9e3335f826cb0e857b1c9820fd253805e9c2f3c9a5cc3ab3bb9e4",
+    "size": 76366
+  },
+  "Downloads/KB_9.7.2026/\u062d\u0642\u06cc\u0642\u06cc/\u06af\u0632\u0627\u0631\u0634 \u0686\u06a9/ChequeReport.xlsx": {
+    "mtime_ns": 1788767254598437800,
+    "schema": 2,
+    "sha256": "d79b5e4f4e32a349979d3649670965aa000341a2f701da3fe0ab4d8a1f03f81c",
+    "size": 16667
+  },
+  "Downloads/KB_9.7.2026/\u062d\u0642\u06cc\u0642\u06cc/\u06af\u0632\u0627\u0631\u0634 \u0686\u06a9/Cheque_ReasonCode_for_Chatbot.xlsx": {
+    "mtime_ns": 1788767254460033500,
+    "schema": 2,
+    "sha256": "25ebdcfa4be21c52e2ee50cf9adb6270ab771531e7263ee2917da5c36cb2e362",
+    "size": 42660
+  },
+  "Downloads/KB_9.7.2026/\u0633\u0627\u06cc\u0631/16 \u06a9\u0627\u0631\u0628\u0631\u062f \u0627\u0639\u062a\u0628\u0627\u0631\u0633\u0646\u062c\u06cc \u062f\u0631 \u0627\u0642\u062a\u0635\u0627\u062f.xlsx": {
+    "mtime_ns": 1788767254116206500,
+    "schema": 2,
+    "sha256": "b1ae3aaca813068ba6327cddac7533e06fe6ac5b7444d724dfc3f665c9480c9a",
+    "size": 66345
+  },
+  "Downloads/KB_9.7.2026/\u0633\u0627\u06cc\u0631/BoardOfDirectors.xlsx": {
+    "mtime_ns": 1788767254310903100,
+    "schema": 2,
+    "sha256": "755afefce1221449a6ad814e7cc888e1daa8ebe16b228f6b98184e756fb4b7dd",
+    "size": 18555
+  },
+  "Downloads/KB_9.7.2026/\u0633\u0627\u06cc\u0631/DataProviders.xlsx": {
+    "mtime_ns": 1788767253854021200,
+    "schema": 2,
+    "sha256": "a6d6dc0f4eff17d6b61d0198033be5b706b5b6068f275ed10d0bb9f14acf5aac",
+    "size": 10076
+  },
+  "Downloads/KB_9.7.2026/\u0633\u0627\u06cc\u0631/DataUsers.xlsx": {
+    "mtime_ns": 1788767253660262800,
+    "schema": 2,
+    "sha256": "5a5265473e1cae763809a78cea1d28ed4ef1e62207938a7ee20e9f53799c7863",
+    "size": 12916
+  },
+  "Downloads/KB_9.7.2026/\u0633\u0627\u06cc\u0631/DepartmentManagers.xlsx": {
+    "mtime_ns": 1788767253990113800,
+    "schema": 2,
+    "sha256": "21d5fb495599dd44e2c5551abd931beacb6f548cc3736b3eca2e32095d185793",
+    "size": 16229
+  },
+  "Downloads/KB_9.7.2026/\u0633\u0627\u06cc\u0631/DisputeQuestions.xlsx": {
+    "mtime_ns": 1788767253812014900,
+    "schema": 2,
+    "sha256": "ed8ec8d0570f391c2122aa8e6fa5a628307475507f28c2ee70713efcb292fd3a",
+    "size": 10628
+  },
+  "Downloads/KB_9.7.2026/\u0633\u0627\u06cc\u0631/EtebaritoProblems.xlsx": {
+    "mtime_ns": 1788767253765429400,
+    "schema": 2,
+    "sha256": "a8e236fa4bc9444e3fa6b758a47cf25c0eea416a8d82a330f0a065f0cbec9b6b",
+    "size": 12051
+  },
+  "Downloads/KB_9.7.2026/\u0633\u0627\u06cc\u0631/ExecutiveManagement.xlsx": {
+    "mtime_ns": 1788767254358023600,
+    "schema": 2,
+    "sha256": "6a8efe9eee34aaf8cf6c7a2672be7d4b2e6e8dc6d978abc0af170d67917687d2",
+    "size": 16071
+  },
+  "Downloads/KB_9.7.2026/\u0633\u0627\u06cc\u0631/ICS_Business_Model_Comparison.xlsx": {
+    "mtime_ns": 1788767253895953800,
+    "schema": 2,
+    "sha256": "37c707b139fd3767b95a814bade4f58bc4039758d69c96ea44a49151251f2f7c",
+    "size": 9482
+  },
+  "Downloads/KB_9.7.2026/\u0633\u0627\u06cc\u0631/ICS_Intro.xlsx": {
+    "mtime_ns": 1788767254027660000,
+    "schema": 2,
+    "sha256": "b4f7356b2c6e394623984990564f8edef9e6be79555b7bfd25349594077c50ac",
+    "size": 10633
+  },
+  "Downloads/KB_9.7.2026/\u0633\u0627\u06cc\u0631/ImportantLinks.xlsx": {
+    "mtime_ns": 1788767254266989200,
+    "schema": 2,
+    "sha256": "eb348e66e451f5f317b33bad7e779badb876706ef717f920989885743a67b1f3",
+    "size": 11386
+  },
+  "Downloads/KB_9.7.2026/\u0633\u0627\u06cc\u0631/PublicQuestions.xlsx": {
+    "mtime_ns": 1788767254211242400,
+    "schema": 2,
+    "sha256": "5fb62e1732bf00db69289aaeb277ef88790ff994726c7cf83008e48cb51c0551",
+    "size": 113736
+  },
+  "Downloads/KB_9.7.2026/\u0633\u0627\u06cc\u0631/StockHolders.xlsx": {
+    "mtime_ns": 1788767253719170900,
+    "schema": 2,
+    "sha256": "e11973fb176c301db9b4603106e19dea00c3dac79bc22ce80b655a30742ee116",
+    "size": 9501
+  },
+  "Downloads/KB_9.7.2026/\u0633\u0627\u06cc\u0631/\u0644\u06cc\u0633\u062a \u0648 \u0639\u0646\u0627\u0648\u06cc\u0646 \u0648\u0627\u0645 \u0647\u0627.xlsx": {
+    "mtime_ns": 1788767253954357300,
+    "schema": 2,
+    "sha256": "09b924de70ef440dace8f95433da8000d90d3d6c5696242b5e5e0d879fcaafe4",
+    "size": 19713
+  },
   "Downloads/albert camus www.iranfrench.ir.rar": {
     "mtime_ns": 1788698584924228700,
     "schema": 2,
@@ -154,6 +286,48 @@
     "schema": 2,
     "sha256": "14f0990f9863766f8b66c15d98858e36b284dff99f748655902f78595f976188",
     "size": 98305
+  },
+  "Downloads/albert camus www.iranfrench.ir/Caligula (3531)/Caligula - Albert Camus/META-INF/container.xml": {
+    "mtime_ns": 1788769961538288000,
+    "schema": 2,
+    "sha256": "2ffba6b75d46c551e80e800704238fdf0b303bab480f23b1d6c9d860fc9f27ba",
+    "size": 244
+  },
+  "Downloads/albert camus www.iranfrench.ir/Caligula (3531)/Caligula - Albert Camus/camus_caligula.htm": {
+    "mtime_ns": 1788769961742245200,
+    "schema": 2,
+    "sha256": "03aedb3e88efe745f6eb4c6805c13bff95325e2d7bf39d6698ca91e12e39d963",
+    "size": 734816
+  },
+  "Downloads/albert camus www.iranfrench.ir/Caligula (3531)/Caligula - Albert Camus/content.opf": {
+    "mtime_ns": 1788769962044426600,
+    "schema": 2,
+    "sha256": "18db890242dff3522fb238e85ef9d5c4ba4efccbdfc2d4a1d9bd6b77ab1b01f8",
+    "size": 1163
+  },
+  "Downloads/albert camus www.iranfrench.ir/Caligula (3531)/Caligula - Albert Camus/image001.png": {
+    "mtime_ns": 1788769962222411000,
+    "schema": 2,
+    "sha256": "4e7537b20a54e9247d532fb89d3a3b9e37b483b1ab0be62b9890cc1ad7f0ce01",
+    "size": 855
+  },
+  "Downloads/albert camus www.iranfrench.ir/Caligula (3531)/Caligula - Albert Camus/image002.jpg": {
+    "mtime_ns": 1788769962372734500,
+    "schema": 2,
+    "sha256": "db0b71087f59353a0855f4e81b5bca5d10c506d04d9523c879ef0706f75ff878",
+    "size": 2334
+  },
+  "Downloads/albert camus www.iranfrench.ir/Caligula (3531)/Caligula - Albert Camus/image003.jpg": {
+    "mtime_ns": 1788769962489109500,
+    "schema": 2,
+    "sha256": "366419d3d3c85d27ebf37010ed2949fd4851e906783f0991c31a41711940b1d1",
+    "size": 21124
+  },
+  "Downloads/albert camus www.iranfrench.ir/Caligula (3531)/Caligula - Albert Camus/mimetype": {
+    "mtime_ns": 1788769961399795600,
+    "schema": 2,
+    "sha256": "e468e350d1143eb648f60c7b0bd6031101ec0544a361ca74ecef256ac901f48b",
+    "size": 20
   },
   "Downloads/albert camus www.iranfrench.ir/Caligula (3531)/cover.jpg": {
     "mtime_ns": 1373668197000000000,
@@ -821,6 +995,12 @@
     "sha256": "b029393ea7b7cf644fb1c9f984f57c1980077562ee2e15d0ffd049c4c48098d3",
     "size": 282
   },
+  "Downloads/drive-download-20260907T074656Z-1-001.zip": {
+    "mtime_ns": 1788767229687970700,
+    "schema": 2,
+    "sha256": "3401d35473120cbdfa3419ddee7d7f6011614a966b0cc3558463adbc2e01d409",
+    "size": 412252
+  },
   "Downloads/wp14056165-noir-city-wallpapers.jpg": {
     "mtime_ns": 1788335444568133200,
     "schema": 2,
@@ -850,5 +1030,53 @@
     "schema": 2,
     "sha256": "7941f054272e2cd5e5eef77ec654df94ae67724216ec56e4779d27c035a52b64",
     "size": 362018
+  },
+  "MindPalace_Library/1602.04938v3.pdf": {
+    "mtime_ns": 1788702847680214800,
+    "schema": 2,
+    "sha256": "d0547f713f8bc4540f17925d12b4e4a87b5574d58e62bf7374eb5d750ce9618c",
+    "size": 4301729
+  },
+  "MindPalace_Library/1770443833075.pdf": {
+    "mtime_ns": 1788702847842576300,
+    "schema": 2,
+    "sha256": "949e650aafb94c31b20439347f6857664eeca9fe85b5194a55827a8990f70f24",
+    "size": 381255
+  },
+  "MindPalace_Library/2001.03447v2.pdf": {
+    "mtime_ns": 1788702847858648300,
+    "schema": 2,
+    "sha256": "b3711ca0b337fb57cbcf77a5599262760db0653a8dd945bb037b4db5e9d2719e",
+    "size": 891938
+  },
+  "MindPalace_Library/ACFrOgAHiLRTknCmZfMM1cvXAZm4j55lS547lIeMHqVcr3iNiHicn-xtVJS7MIIZx-cA34QrkesORWHvnTEFjYCjgWCcb6SWWw4znvq7kmiQvzdDVN_4tOf5s1ggjKWivNXGVucG9dofx_lqtQQ-.pdf": {
+    "mtime_ns": 1788702847890812400,
+    "schema": 2,
+    "sha256": "849739974f2c5b3fc7af371e5578b9c99e7023f88ef2ea8c68122f62a0b57d29",
+    "size": 701812
+  },
+  "MindPalace_Library/Data Science Series Liquet Benoit Moka Sarat Nazarathy Yoni Mathematical Engineering of Deep Learning CRC Press 2024.pdf": {
+    "mtime_ns": 1788702854200582700,
+    "schema": 2,
+    "sha256": "312b8f9f0e03f80837dc6ae1648adda14639eb0dfdfff940af969e3d84524cba",
+    "size": 31733379
+  },
+  "MindPalace_Library/SHAP and LIME- Foundations, Mathematical Principles, and Local Model Interpretability.pdf": {
+    "mtime_ns": 1788702854221622100,
+    "schema": 2,
+    "sha256": "39dfff31341d5f0bfd4470098bbb6825f09479e1ddc31208d555dfc45ccb384d",
+    "size": 698853
+  },
+  "MindPalace_Library/SHAP.pdf": {
+    "mtime_ns": 1788702854262052500,
+    "schema": 2,
+    "sha256": "01c7aa8f7d9edcf0cd185bf02e82363f743e441fcaf05b99e6054bfb470bf8ae",
+    "size": 1014198
+  },
+  "MindPalace_Library/mml-book.pdf": {
+    "mtime_ns": 1788702854277335500,
+    "schema": 2,
+    "sha256": "03743cafb084ced93358d1de9dc9935465a2562df18aa32f5cf4e6e702ddab1c",
+    "size": 133
   }
 }
