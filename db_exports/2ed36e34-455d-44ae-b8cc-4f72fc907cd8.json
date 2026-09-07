@@ -1,7 +1,28 @@
 {
   "deletions": {
     "activity_logs": [],
-    "cascading_goals": [],
+    "cascading_goals": [
+      {
+        "deleted_at": "2026-09-07T14:34:46.343636",
+        "origin_device": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "uuid": "8c94fbfa4696484ea653bdd02c4dc120"
+      },
+      {
+        "deleted_at": "2026-09-07T14:34:43.467468",
+        "origin_device": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "uuid": "9c91c539517141caba7bffbda8dddc6b"
+      },
+      {
+        "deleted_at": "2026-09-07T14:35:11.173562",
+        "origin_device": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "uuid": "a4456dedc0f746039e9da0dddb9e4519"
+      },
+      {
+        "deleted_at": "2026-09-07T14:34:47.239390",
+        "origin_device": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "uuid": "d3b7c023af164346af2464a46890535d"
+      }
+    ],
     "composite_foods": [],
     "courses": [],
     "custom_activities": [],
@@ -84,7 +105,7 @@
     "wallpapers": []
   },
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-09-07T11:00:43.646116Z",
+  "last_sync": "2026-09-07T11:12:40.949538Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -2483,36 +2504,59 @@
         "module": "Sync Error",
         "timestamp": "2026-09-07T14:24:55.472473",
         "uuid": "3313949f2f1d4d49961f4bd833b74534"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Push failed after 3 attempts: Cmd('git') failed due to: exit code(1)\n  cmdline: git push --porcelain --progress -- origin\n  stderr: 'error: failed to push some refs to 'https://github.com/alinikkhah2001/MindPalaceData''",
+        "id": 259,
+        "modified_at": "2026-09-07T14:37:11.838808",
+        "module": "Sync Error",
+        "timestamp": "2026-09-07T14:37:11.838808",
+        "uuid": "fcc1c07003e14f97bce2194a5a5862bd"
       }
     ],
     "cascading_goals": [
       {
-        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
         "category": null,
-        "deadline": "2026-08-16 11:03",
-        "id": 1,
+        "deadline": "2026-12-14 11:03",
+        "id": 3,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-08-15T14:35:14.331407",
+        "modified_at": "2026-09-07T14:33:33.208007",
         "parent_id": null,
         "parent_uuid": null,
-        "target_hours": 5.0,
-        "title": "Eco: Business Proposal",
-        "uuid": "8c94fbfa4696484ea653bdd02c4dc120"
+        "target_hours": 1000.0,
+        "title": "French",
+        "uuid": "26f6161befa94341ac25317649863c86"
       },
       {
         "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
         "category": null,
-        "deadline": "2026-09-09 10:26",
-        "id": 2,
+        "deadline": "2026-12-14 11:03",
+        "id": 4,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-09-02T13:56:32.772127",
-        "parent_id": 1,
-        "parent_uuid": "8c94fbfa4696484ea653bdd02c4dc120",
-        "target_hours": 33.0,
-        "title": "test",
-        "uuid": "d3b7c023af164346af2464a46890535d"
+        "modified_at": "2026-09-07T14:34:11.450567",
+        "parent_id": 3,
+        "parent_uuid": "26f6161befa94341ac25317649863c86",
+        "target_hours": 144.0,
+        "title": "Class",
+        "uuid": "3ed78fb3358449ea953c1f32ef0c0011"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "category": null,
+        "deadline": "2026-12-14 11:03",
+        "id": 5,
+        "level": null,
+        "logged_hours": 0.0,
+        "modified_at": "2026-09-07T14:34:25.081568",
+        "parent_id": 3,
+        "parent_uuid": "26f6161befa94341ac25317649863c86",
+        "target_hours": 100.0,
+        "title": "Reading Books",
+        "uuid": "73ea16ed767747e7a653e148b7fa2304"
       }
     ],
     "composite_foods": [
@@ -2895,6 +2939,76 @@
         "modified_at": "2026-09-02T13:56:22.201122",
         "status": 1,
         "uuid": "1e8eddbd1e924e99bad62033d261ff6d"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "date": "Tue, 9/1",
+        "habit_id": 7,
+        "habit_uuid": "65e42014b83e437ea878be6412b3d7a9",
+        "id": 28,
+        "modified_at": "2026-09-07T14:42:28.527007",
+        "status": 1,
+        "uuid": "9362b0f1d17941a5adbcb3ddce8bc3e2"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "date": "Wed, 9/2",
+        "habit_id": 7,
+        "habit_uuid": "65e42014b83e437ea878be6412b3d7a9",
+        "id": 29,
+        "modified_at": "2026-09-07T14:42:29.440402",
+        "status": 1,
+        "uuid": "45c34c888f07474084acab840131e489"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "date": "Thu, 9/3",
+        "habit_id": 7,
+        "habit_uuid": "65e42014b83e437ea878be6412b3d7a9",
+        "id": 30,
+        "modified_at": "2026-09-07T14:42:30.139029",
+        "status": 1,
+        "uuid": "5b8bc1c74062430997ad134b2e531e9d"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "date": "Wed, 9/2",
+        "habit_id": 8,
+        "habit_uuid": "67907a1bd2f04b979176265196fdc1a6",
+        "id": 31,
+        "modified_at": "2026-09-07T14:42:31.252164",
+        "status": 0,
+        "uuid": "526e51f95e35480884613adb917deb21"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "date": "Wed, 9/2",
+        "habit_id": 4,
+        "habit_uuid": "52adfb14d2e94bb6a988a0a339d8c28d",
+        "id": 32,
+        "modified_at": "2026-09-07T14:42:32.275069",
+        "status": 1,
+        "uuid": "8d3991e0bde64db0a7fb6aae23ff0a49"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "date": "Thu, 9/3",
+        "habit_id": 4,
+        "habit_uuid": "52adfb14d2e94bb6a988a0a339d8c28d",
+        "id": 33,
+        "modified_at": "2026-09-07T14:42:32.867576",
+        "status": 1,
+        "uuid": "d58856917639485ba855e53193f48282"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "date": "Fri, 9/4",
+        "habit_id": 4,
+        "habit_uuid": "52adfb14d2e94bb6a988a0a339d8c28d",
+        "id": 34,
+        "modified_at": "2026-09-07T14:42:33.523732",
+        "status": 1,
+        "uuid": "d3637c86bfc948c8ac0c76b30c140b6e"
       }
     ],
     "habits": [
