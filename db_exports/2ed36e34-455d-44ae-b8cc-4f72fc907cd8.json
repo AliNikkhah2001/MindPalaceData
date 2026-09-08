@@ -121,7 +121,7 @@
     "wallpapers": []
   },
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-09-08T09:56:51.722451Z",
+  "last_sync": "2026-09-08T10:07:00.194251Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -3146,6 +3146,15 @@
         "module": "Sync Error",
         "timestamp": "2026-09-08T13:24:20.389355",
         "uuid": "6f8c6ee963b746b2b34af4f465c57b87"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 328,
+        "modified_at": "2026-09-08T13:27:16.830153",
+        "module": "Sync",
+        "timestamp": "2026-09-08T13:27:16.830153",
+        "uuid": "8fdd88c0e1c244f9828f70a578c36f3c"
       }
     ],
     "cascading_goals": [
@@ -3161,7 +3170,7 @@
         "id": 1,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-09-08T13:26:51.717189",
+        "modified_at": "2026-09-08T13:37:00.188712",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 34.0,
@@ -3241,7 +3250,7 @@
         "id": 5,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-09-08T13:26:51.717189",
+        "modified_at": "2026-09-08T13:37:00.188712",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 10.0,
@@ -3477,7 +3486,7 @@
         "duration": 60,
         "id": 5,
         "modified_at": "2026-09-08T11:11:54.769320",
-        "status": "active",
+        "status": "completed",
         "title": "sample day > ai interview",
         "type": "Work",
         "uuid": "e3cae71aef5a4594b75cb3486d43b945"
@@ -3488,7 +3497,7 @@
         "duration": 15,
         "id": 6,
         "modified_at": "2026-09-08T11:12:03.560565",
-        "status": "pending",
+        "status": "active",
         "title": "General",
         "type": "Break",
         "uuid": "8900644c076249078f9e285413afe96c"
@@ -4867,6 +4876,21 @@
         "timestamp": "2026-09-08T12:27:05.234935",
         "type": "Work",
         "uuid": "cbd90c0c83454e5ab42ead7b2125d012"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "actual_duration": 60,
+        "course": "sample day > ai interview",
+        "distraction_data": "[]",
+        "distractions": 0,
+        "duration": 60,
+        "id": 19,
+        "modified_at": "2026-09-08T13:30:07.875074",
+        "note": null,
+        "timelapse_path": "",
+        "timestamp": "2026-09-08T13:27:22.199164",
+        "type": "Work",
+        "uuid": "9381ab220b89480388a88a52720e7939"
       }
     ],
     "quizzes": [
