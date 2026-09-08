@@ -76,9 +76,24 @@
         "uuid": "83415f7fbf8249688e4bb080f28421e0"
       },
       {
+        "deleted_at": "2026-09-08T13:37:42.722288",
+        "origin_device": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "uuid": "8675a944c5b54697a035c26d088b93e9"
+      },
+      {
+        "deleted_at": "2026-09-08T13:37:42.020234",
+        "origin_device": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "uuid": "8900644c076249078f9e285413afe96c"
+      },
+      {
         "deleted_at": "2026-08-19T13:51:49.029159",
         "origin_device": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
         "uuid": "8d1a596606634763859882c73a9d6f0d"
+      },
+      {
+        "deleted_at": "2026-09-08T13:37:42.428760",
+        "origin_device": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "uuid": "953efca6c6944e599989c6bb0482d1c1"
       },
       {
         "deleted_at": "2026-08-19T13:51:51.800557",
@@ -121,7 +136,7 @@
     "wallpapers": []
   },
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-09-08T10:07:00.194251Z",
+  "last_sync": "2026-09-08T10:12:59.551175Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -139,7 +154,7 @@
     "clock_indices": "Baton",
     "clock_style": "Analog Classic",
     "clock_ticks": "Crosshair",
-    "cognitio_vault_path": "D:\\Code\\IMPERIUM\\data\\knowledge",
+    "cognitio_vault_path": "D:\\Code\\IMPERIUM\\data\\knowledge_test",
     "custom_font_path": "",
     "dashboard_layout": {},
     "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
@@ -3155,6 +3170,15 @@
         "module": "Sync",
         "timestamp": "2026-09-08T13:27:16.830153",
         "uuid": "8fdd88c0e1c244f9828f70a578c36f3c"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 329,
+        "modified_at": "2026-09-08T13:37:24.856805",
+        "module": "Sync",
+        "timestamp": "2026-09-08T13:37:24.856805",
+        "uuid": "7c3f8c3203a1492aad6e70045b556cb0"
       }
     ],
     "cascading_goals": [
@@ -3170,7 +3194,7 @@
         "id": 1,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-09-08T13:37:00.188712",
+        "modified_at": "2026-09-08T13:42:59.547752",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 34.0,
@@ -3250,7 +3274,7 @@
         "id": 5,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-09-08T13:37:00.188712",
+        "modified_at": "2026-09-08T13:42:59.547752",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 10.0,
@@ -3490,39 +3514,6 @@
         "title": "sample day > ai interview",
         "type": "Work",
         "uuid": "e3cae71aef5a4594b75cb3486d43b945"
-      },
-      {
-        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-        "course": "General",
-        "duration": 15,
-        "id": 6,
-        "modified_at": "2026-09-08T11:12:03.560565",
-        "status": "active",
-        "title": "General",
-        "type": "Break",
-        "uuid": "8900644c076249078f9e285413afe96c"
-      },
-      {
-        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-        "course": "sample day > ai interview",
-        "duration": 60,
-        "id": 7,
-        "modified_at": "2026-09-08T11:12:35.180569",
-        "status": "pending",
-        "title": "sample day > ai interview",
-        "type": "Work",
-        "uuid": "953efca6c6944e599989c6bb0482d1c1"
-      },
-      {
-        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-        "course": "General",
-        "duration": 15,
-        "id": 8,
-        "modified_at": "2026-09-08T11:14:19.493618",
-        "status": "pending",
-        "title": "General",
-        "type": "Break",
-        "uuid": "8675a944c5b54697a035c26d088b93e9"
       }
     ],
     "food_logs": [],
