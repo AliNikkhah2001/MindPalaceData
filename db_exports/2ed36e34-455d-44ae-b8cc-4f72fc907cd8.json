@@ -121,7 +121,7 @@
     "wallpapers": []
   },
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-09-08T08:57:04.398248Z",
+  "last_sync": "2026-09-08T09:00:38.761508Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -2966,6 +2966,15 @@
         "module": "Sync",
         "timestamp": "2026-09-08T12:25:08.932767",
         "uuid": "b6c3b1ada81e4625999d1cfc8a7b02b7"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 308,
+        "modified_at": "2026-09-08T12:27:42.396920",
+        "module": "Sync",
+        "timestamp": "2026-09-08T12:27:42.396920",
+        "uuid": "c65b5bc646ed4473b0de059ab0e36eb1"
       }
     ],
     "cascading_goals": [
@@ -2981,7 +2990,7 @@
         "id": 1,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-09-08T12:27:04.388553",
+        "modified_at": "2026-09-08T12:30:38.758501",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 34.0,
@@ -3061,7 +3070,7 @@
         "id": 5,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-09-08T12:27:04.388553",
+        "modified_at": "2026-09-08T12:30:38.758501",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 10.0,
@@ -3286,7 +3295,7 @@
         "duration": 15,
         "id": 4,
         "modified_at": "2026-09-08T11:11:40.743167",
-        "status": "active",
+        "status": "completed",
         "title": "General",
         "type": "Break",
         "uuid": "5b43c51b3dca4c87b11eeb4509d0f603"
@@ -3297,7 +3306,7 @@
         "duration": 60,
         "id": 5,
         "modified_at": "2026-09-08T11:11:54.769320",
-        "status": "pending",
+        "status": "active",
         "title": "sample day > ai interview",
         "type": "Work",
         "uuid": "e3cae71aef5a4594b75cb3486d43b945"
@@ -4672,6 +4681,21 @@
         "timestamp": "2026-09-08T12:12:00.698981",
         "type": "Work",
         "uuid": "2c03d324deed46868da4a060dbf5fda8"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "actual_duration": 15,
+        "course": "General",
+        "distraction_data": "[]",
+        "distractions": 0,
+        "duration": 15,
+        "id": 18,
+        "modified_at": "2026-09-08T09:00:38.666314Z",
+        "note": null,
+        "timelapse_path": "",
+        "timestamp": "2026-09-08T12:27:05.234935",
+        "type": "Work",
+        "uuid": "cbd90c0c83454e5ab42ead7b2125d012"
       }
     ],
     "quizzes": [
