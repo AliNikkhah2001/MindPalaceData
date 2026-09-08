@@ -106,7 +106,7 @@
     "wallpapers": []
   },
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-09-08T05:40:47.850023Z",
+  "last_sync": "2026-09-08T05:48:47.883126Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -140,15 +140,15 @@
     "font_family": "Inter",
     "font_size": 16,
     "force_close_apps_mins": 5,
-    "glass_blur_percent": 70,
-    "glass_gradient_format": "orbs",
-    "glass_opacity_percent": 38,
-    "glass_primary_color": "#0ea5e9",
-    "glass_saturation_percent": 70,
-    "glass_secondary_color": "#8b5cf6",
-    "glass_shadow_percent": 45,
-    "glass_tertiary_color": "#14b8a6",
-    "glass_theme": "Aurora",
+    "glass_blur_percent": 100,
+    "glass_gradient_format": "spotlight",
+    "glass_opacity_percent": 88,
+    "glass_primary_color": "#f97316",
+    "glass_saturation_percent": 100,
+    "glass_secondary_color": "#e11d48",
+    "glass_shadow_percent": 90,
+    "glass_tertiary_color": "#a855f7",
+    "glass_theme": "Ember",
     "has_token": true,
     "health_activity": 1.2,
     "health_age": 24,
@@ -162,6 +162,7 @@
     "loop_5m": 5,
     "loop_60m": 30,
     "mapped_folders": [
+      "C:\\Users\\10225\\Downloads",
       "C:\\Users\\10225/MindPalace_Library"
     ],
     "mute_sounds": false,
@@ -178,8 +179,8 @@
     "start_fullscreen": false,
     "sync_enabled": true,
     "sync_interval": 360,
-    "sync_msg": "Push failed after 3 attempts: Hook('C:\\Users\\10225\\.mindpalace_sync_repo\\.git\\hooks\\post-commit') failed due to: exit code(1)\n  cmdline: C:\\Users\\10225\\.mindpalace_sync_repo\\.git\\hooks\\post-commit\n  stderr: '<3>WSL (10 - Relay) ERROR: CreateProcessCommon:800: execvpe(/bin/bash) failed: No such file or directory\n'",
-    "sync_progress_pct": 0,
+    "sync_msg": "Publishing local snapshot...",
+    "sync_progress_pct": 50,
     "timeline_end_hour": 24,
     "timeline_pixel_per_hour": 120,
     "timeline_start_hour": 0,
@@ -2599,6 +2600,24 @@
         "module": "Sync Error",
         "timestamp": "2026-09-07T20:39:00.501712",
         "uuid": "ae8a774be06c4b92824734bc70f97e5d"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Updated application settings via UI.",
+        "id": 269,
+        "modified_at": "2026-09-08T09:11:24.240278",
+        "module": "Settings",
+        "timestamp": "2026-09-08T09:11:24.240278",
+        "uuid": "caedb2e20c0a46f19aefa50aacb0c52b"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Push failed after 3 attempts: Cmd('git') failed due to: exit code(1)\n  cmdline: git push --porcelain --progress -- origin\n  stderr: 'error: failed to push some refs to 'https://github.com/alinikkhah2001/MindPalaceData''",
+        "id": 270,
+        "modified_at": "2026-09-08T09:17:49.676179",
+        "module": "Sync Error",
+        "timestamp": "2026-09-08T09:17:49.676179",
+        "uuid": "dbe96d6e6bdc43718ccac889a37a7810"
       }
     ],
     "cascading_goals": [
@@ -2614,7 +2633,7 @@
         "id": 1,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-09-08T09:10:47.847357",
+        "modified_at": "2026-09-08T09:18:47.880197",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 34.0,
@@ -2661,6 +2680,26 @@
         "texture": "grain",
         "title": "fdswsedfsd",
         "uuid": "61648c672e6640b48730369b1e8e54d6"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "category": "Goal",
+        "color": "#facc15",
+        "color_secondary": "#f97316",
+        "completed": 0,
+        "deadline": "2026-09-24 05:47",
+        "done": 0,
+        "icon": "target",
+        "id": 4,
+        "level": null,
+        "logged_hours": 0.0,
+        "modified_at": "2026-09-08T09:17:53.668213",
+        "parent_id": null,
+        "parent_uuid": null,
+        "target_hours": 33.0,
+        "texture": "paper",
+        "title": "fgedsfsd",
+        "uuid": "577d8a13e23e495fbb687fde1c5b5cf7"
       }
     ],
     "composite_foods": [
@@ -2770,6 +2809,17 @@
         "title": "General",
         "type": "Work",
         "uuid": "b030507bdcdf4ccdb775a849a40f1b73"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "course": "General",
+        "duration": 25,
+        "id": 2,
+        "modified_at": "2026-09-08T09:11:38.778776",
+        "status": "active",
+        "title": "General",
+        "type": "Work",
+        "uuid": "fb8d6b6c7cf2497cb4d3d0067a53dee9"
       }
     ],
     "food_logs": [],
@@ -2993,6 +3043,46 @@
         "modified_at": "2026-08-16T13:48:46.111786",
         "status": 0,
         "uuid": "f37ea73932c24b158aa0b95f2e7b9aa3"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "date": "Wed, 9/2",
+        "habit_id": 4,
+        "habit_uuid": "52adfb14d2e94bb6a988a0a339d8c28d",
+        "id": 23,
+        "modified_at": "2026-09-08T09:11:49.321694",
+        "status": 1,
+        "uuid": "268c46d37a1e4c12809e92cd3221d904"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "date": "Thu, 9/3",
+        "habit_id": 4,
+        "habit_uuid": "52adfb14d2e94bb6a988a0a339d8c28d",
+        "id": 24,
+        "modified_at": "2026-09-08T09:11:50.233699",
+        "status": 1,
+        "uuid": "5dc5cc5622f545f1a34028857595d185"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "date": "Wed, 9/2",
+        "habit_id": 3,
+        "habit_uuid": "51c5706ad8ce4926a30de1d36752240b",
+        "id": 25,
+        "modified_at": "2026-09-08T09:11:51.169943",
+        "status": 1,
+        "uuid": "a384faedac844519808d4e6734b64b00"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "date": "Wed, 9/2",
+        "habit_id": 5,
+        "habit_uuid": "594efeb7ae664e6b8e2fd544d598ca85",
+        "id": 26,
+        "modified_at": "2026-09-08T09:11:53.433194",
+        "status": 1,
+        "uuid": "3e56adc8fa4c4e72838e05cd67ad3794"
       }
     ],
     "habits": [
