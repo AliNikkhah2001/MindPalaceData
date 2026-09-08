@@ -121,7 +121,7 @@
     "wallpapers": []
   },
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-09-08T09:15:04.253192Z",
+  "last_sync": "2026-09-08T09:20:58.365686Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -3020,6 +3020,24 @@
         "module": "Sync",
         "timestamp": "2026-09-08T12:43:33.052775",
         "uuid": "a607baa3db674ae6800b8f8c279e28bd"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 314,
+        "modified_at": "2026-09-08T12:45:43.718686",
+        "module": "Sync",
+        "timestamp": "2026-09-08T12:45:43.718686",
+        "uuid": "965b2a9bbbd6424aa90f5882daf12482"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData/': CONNECT tunnel failed, response 500",
+        "id": 315,
+        "modified_at": "2026-09-08T12:48:14.561158",
+        "module": "Sync Error",
+        "timestamp": "2026-09-08T12:48:14.561158",
+        "uuid": "e808897811374315a3e693cbe6f11769"
       }
     ],
     "cascading_goals": [
@@ -3035,7 +3053,7 @@
         "id": 1,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-09-08T12:45:04.239478",
+        "modified_at": "2026-09-08T12:50:58.362397",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 34.0,
@@ -3115,7 +3133,7 @@
         "id": 5,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-09-08T12:45:04.239478",
+        "modified_at": "2026-09-08T12:50:58.362397",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 10.0,
