@@ -3,6 +3,11 @@
     "activity_logs": [],
     "cascading_goals": [
       {
+        "deleted_at": "2026-09-08T09:51:47.585663",
+        "origin_device": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "uuid": "6718a23534ec4934ab113aa35e3534bd"
+      },
+      {
         "deleted_at": "2026-09-07T14:34:46.343636",
         "origin_device": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
         "uuid": "8c94fbfa4696484ea653bdd02c4dc120"
@@ -106,7 +111,7 @@
     "wallpapers": []
   },
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-09-08T06:12:51.044516Z",
+  "last_sync": "2026-09-08T06:24:45.500464Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -2654,6 +2659,15 @@
         "module": "Sync Error",
         "timestamp": "2026-09-08T09:37:06.889756",
         "uuid": "c9d526660abb4e53870534f4633b91a5"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Push failed after 3 attempts: Cmd('git') failed due to: exit code(1)\n  cmdline: git push --porcelain --progress -- origin\n  stderr: 'error: RPC failed; curl 7 CONNECT tunnel failed, response 500\nfatal: the remote end hung up unexpectedly'",
+        "id": 275,
+        "modified_at": "2026-09-08T09:51:07.072074",
+        "module": "Sync Error",
+        "timestamp": "2026-09-08T09:51:07.072074",
+        "uuid": "34f200cbeb3c43c3be9d48bd999e76d6"
       }
     ],
     "cascading_goals": [
@@ -2669,7 +2683,7 @@
         "id": 1,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-09-08T09:42:51.039769",
+        "modified_at": "2026-09-08T09:54:45.497492",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 34.0,
@@ -2749,10 +2763,10 @@
         "id": 5,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-09-08T09:42:51.039769",
+        "modified_at": "2026-09-08T09:54:45.497492",
         "parent_id": null,
         "parent_uuid": null,
-        "target_hours": 5.0,
+        "target_hours": 10.0,
         "texture": "waves",
         "title": "sample day",
         "uuid": "74d5489565384477b2a857d649a2ada1"
@@ -2776,6 +2790,46 @@
         "texture": "waves",
         "title": "ai interview",
         "uuid": "35b3219ec83643188634fb4550897815"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "category": "Goal",
+        "color": "#fb7185",
+        "color_secondary": "#c084fc",
+        "completed": 0,
+        "deadline": "2026-09-09 02:38",
+        "done": 0,
+        "icon": "briefcase-business",
+        "id": 7,
+        "level": null,
+        "logged_hours": 0.0,
+        "modified_at": "2026-09-08T09:52:08.950490",
+        "parent_id": 5,
+        "parent_uuid": "74d5489565384477b2a857d649a2ada1",
+        "target_hours": 2.0,
+        "texture": "waves",
+        "title": "French",
+        "uuid": "4a90f146c7e84e3aa8815233594f2523"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "category": "Goal",
+        "color": "#fb7185",
+        "color_secondary": "#c084fc",
+        "completed": 0,
+        "deadline": "2026-09-09 02:38",
+        "done": 0,
+        "icon": "briefcase-business",
+        "id": 8,
+        "level": null,
+        "logged_hours": 0.0,
+        "modified_at": "2026-09-08T09:52:27.631797",
+        "parent_id": 5,
+        "parent_uuid": "74d5489565384477b2a857d649a2ada1",
+        "target_hours": 3.0,
+        "texture": "waves",
+        "title": "Paper",
+        "uuid": "64d1456086b440f78987b1b44616d065"
       }
     ],
     "composite_foods": [
@@ -2896,6 +2950,17 @@
         "title": "General",
         "type": "Work",
         "uuid": "fb8d6b6c7cf2497cb4d3d0067a53dee9"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "course": "sample day > ai interview",
+        "duration": 60,
+        "id": 3,
+        "modified_at": "2026-09-08T09:52:41.085835",
+        "status": "active",
+        "title": "sample day > ai interview",
+        "type": "Work",
+        "uuid": "ce9886b955244f1c9e03a2133f393959"
       }
     ],
     "food_logs": [],
