@@ -121,7 +121,7 @@
     "wallpapers": []
   },
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-09-08T09:00:38.761508Z",
+  "last_sync": "2026-09-08T09:06:53.665611Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -2975,6 +2975,24 @@
         "module": "Sync",
         "timestamp": "2026-09-08T12:27:42.396920",
         "uuid": "c65b5bc646ed4473b0de059ab0e36eb1"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 309,
+        "modified_at": "2026-09-08T12:31:15.058366",
+        "module": "Sync",
+        "timestamp": "2026-09-08T12:31:15.058366",
+        "uuid": "fdfc4188401e426492b6db9c3d79bb31"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData/': Proxy CONNECT aborted",
+        "id": 310,
+        "modified_at": "2026-09-08T12:32:44.985209",
+        "module": "Sync Error",
+        "timestamp": "2026-09-08T12:32:44.985209",
+        "uuid": "6094a0dd7e944e6d94413abb8018c836"
       }
     ],
     "cascading_goals": [
@@ -2990,7 +3008,7 @@
         "id": 1,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-09-08T12:30:38.758501",
+        "modified_at": "2026-09-08T12:36:53.660315",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 34.0,
@@ -3070,7 +3088,7 @@
         "id": 5,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-09-08T12:30:38.758501",
+        "modified_at": "2026-09-08T12:36:53.660315",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 10.0,
