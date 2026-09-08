@@ -71,6 +71,11 @@
         "uuid": "7043525e452a4be8b2e42fc5d9978384"
       },
       {
+        "deleted_at": "2026-09-08T11:09:15.350306",
+        "origin_device": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "uuid": "83415f7fbf8249688e4bb080f28421e0"
+      },
+      {
         "deleted_at": "2026-08-19T13:51:49.029159",
         "origin_device": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
         "uuid": "8d1a596606634763859882c73a9d6f0d"
@@ -94,6 +99,11 @@
         "deleted_at": "2026-08-19T13:51:49.830518",
         "origin_device": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
         "uuid": "c5da0c6f738043b49f7cfd1a9e54a0c0"
+      },
+      {
+        "deleted_at": "2026-09-08T11:09:16.069599",
+        "origin_device": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "uuid": "ce9886b955244f1c9e03a2133f393959"
       }
     ],
     "food_logs": [],
@@ -111,7 +121,7 @@
     "wallpapers": []
   },
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-09-08T07:36:32.025939Z",
+  "last_sync": "2026-09-08T07:42:39.072268Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -2776,6 +2786,15 @@
         "module": "Sync",
         "timestamp": "2026-09-08T11:01:02.460365",
         "uuid": "efe6f750ad17415fb47e03ebe25b8d38"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 288,
+        "modified_at": "2026-09-08T11:06:58.654177",
+        "module": "Sync",
+        "timestamp": "2026-09-08T11:06:58.654177",
+        "uuid": "49bf312b674649f6af3c0e029bfcfe48"
       }
     ],
     "cascading_goals": [
@@ -2791,7 +2810,7 @@
         "id": 1,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-09-08T11:06:32.023817",
+        "modified_at": "2026-09-08T11:12:39.069451",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 34.0,
@@ -2871,7 +2890,7 @@
         "id": 5,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-09-08T11:06:32.023817",
+        "modified_at": "2026-09-08T11:12:39.069451",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 10.0,
@@ -3064,11 +3083,55 @@
         "course": "sample day > ai interview",
         "duration": 60,
         "id": 3,
-        "modified_at": "2026-09-08T09:52:41.085835",
+        "modified_at": "2026-09-08T11:11:33.821079",
         "status": "active",
         "title": "sample day > ai interview",
         "type": "Work",
-        "uuid": "ce9886b955244f1c9e03a2133f393959"
+        "uuid": "c5d20e60e8bf472595fc7482a24f75af"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "course": "General",
+        "duration": 15,
+        "id": 4,
+        "modified_at": "2026-09-08T11:11:40.743167",
+        "status": "pending",
+        "title": "General",
+        "type": "Break",
+        "uuid": "5b43c51b3dca4c87b11eeb4509d0f603"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "course": "sample day > ai interview",
+        "duration": 60,
+        "id": 5,
+        "modified_at": "2026-09-08T11:11:54.769320",
+        "status": "pending",
+        "title": "sample day > ai interview",
+        "type": "Work",
+        "uuid": "e3cae71aef5a4594b75cb3486d43b945"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "course": "General",
+        "duration": 15,
+        "id": 6,
+        "modified_at": "2026-09-08T11:12:03.560565",
+        "status": "pending",
+        "title": "General",
+        "type": "Break",
+        "uuid": "8900644c076249078f9e285413afe96c"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "course": "sample day > ai interview",
+        "duration": 60,
+        "id": 7,
+        "modified_at": "2026-09-08T11:12:35.180569",
+        "status": "pending",
+        "title": "sample day > ai interview",
+        "type": "Work",
+        "uuid": "953efca6c6944e599989c6bb0482d1c1"
       }
     ],
     "food_logs": [],
