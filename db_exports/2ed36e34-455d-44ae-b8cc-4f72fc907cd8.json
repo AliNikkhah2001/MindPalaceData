@@ -106,7 +106,7 @@
     "wallpapers": []
   },
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-09-08T05:48:47.883126Z",
+  "last_sync": "2026-09-08T06:12:51.044516Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -2618,6 +2618,42 @@
         "module": "Sync Error",
         "timestamp": "2026-09-08T09:17:49.676179",
         "uuid": "dbe96d6e6bdc43718ccac889a37a7810"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Push failed after 3 attempts: Cmd('git') failed due to: exit code(1)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData/': CONNECT tunnel failed, response 500'",
+        "id": 271,
+        "modified_at": "2026-09-08T09:23:20.554171",
+        "module": "Sync Error",
+        "timestamp": "2026-09-08T09:23:20.554171",
+        "uuid": "689fd764fbaa41e18ec1e6b5fc651904"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData/': CONNECT tunnel failed, response 500",
+        "id": 272,
+        "modified_at": "2026-09-08T09:24:23.137911",
+        "module": "Sync Error",
+        "timestamp": "2026-09-08T09:24:23.137911",
+        "uuid": "29c677adc9284c049b857ff81b8c018c"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Pull failed: Cmd('git') failed due to: exit code(1)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData/': CONNECT tunnel failed, response 500'",
+        "id": 273,
+        "modified_at": "2026-09-08T09:30:42.247582",
+        "module": "Sync Error",
+        "timestamp": "2026-09-08T09:30:42.247582",
+        "uuid": "78b1746e9606413498d4d0f193a1b329"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Pull failed: Cmd('git') failed due to: exit code(1)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'error: RPC failed; curl 7 CONNECT tunnel failed, response 500\nfatal: expected flush after ref listing'",
+        "id": 274,
+        "modified_at": "2026-09-08T09:37:06.889756",
+        "module": "Sync Error",
+        "timestamp": "2026-09-08T09:37:06.889756",
+        "uuid": "c9d526660abb4e53870534f4633b91a5"
       }
     ],
     "cascading_goals": [
@@ -2633,7 +2669,7 @@
         "id": 1,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-09-08T09:18:47.880197",
+        "modified_at": "2026-09-08T09:42:51.039769",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 34.0,
@@ -2700,6 +2736,46 @@
         "texture": "paper",
         "title": "fgedsfsd",
         "uuid": "577d8a13e23e495fbb687fde1c5b5cf7"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "category": "Goal",
+        "color": "#fb7185",
+        "color_secondary": "#c084fc",
+        "completed": 0,
+        "deadline": "2026-09-09 06:09",
+        "done": 0,
+        "icon": "briefcase-business",
+        "id": 5,
+        "level": null,
+        "logged_hours": 0.0,
+        "modified_at": "2026-09-08T09:42:51.039769",
+        "parent_id": null,
+        "parent_uuid": null,
+        "target_hours": 5.0,
+        "texture": "waves",
+        "title": "sample day",
+        "uuid": "74d5489565384477b2a857d649a2ada1"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "category": "Goal",
+        "color": "#fb7185",
+        "color_secondary": "#c084fc",
+        "completed": 0,
+        "deadline": "2026-09-09 02:38",
+        "done": 0,
+        "icon": "briefcase-business",
+        "id": 6,
+        "level": null,
+        "logged_hours": 0.0,
+        "modified_at": "2026-09-08T09:40:15.027611",
+        "parent_id": 5,
+        "parent_uuid": "74d5489565384477b2a857d649a2ada1",
+        "target_hours": 5.0,
+        "texture": "waves",
+        "title": "ai interview",
+        "uuid": "35b3219ec83643188634fb4550897815"
       }
     ],
     "composite_foods": [
@@ -2816,7 +2892,7 @@
         "duration": 25,
         "id": 2,
         "modified_at": "2026-09-08T09:11:38.778776",
-        "status": "active",
+        "status": "completed",
         "title": "General",
         "type": "Work",
         "uuid": "fb8d6b6c7cf2497cb4d3d0067a53dee9"
@@ -4128,6 +4204,21 @@
         "timestamp": "2026-09-06T23:56:09.912205",
         "type": "Work",
         "uuid": "8fb7b30c39ac4b65911367bd04053829"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "actual_duration": 25,
+        "course": "General",
+        "distraction_data": "[]",
+        "distractions": 0,
+        "duration": 25,
+        "id": 16,
+        "modified_at": "2026-09-08T06:12:50.878228Z",
+        "note": null,
+        "timelapse_path": "",
+        "timestamp": "2026-09-08T09:36:44.670567",
+        "type": "Work",
+        "uuid": "54869d7f4f36407982fae31ecb5b54fe"
       }
     ],
     "quizzes": [
