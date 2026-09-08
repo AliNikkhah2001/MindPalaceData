@@ -121,7 +121,7 @@
     "wallpapers": []
   },
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-09-08T07:42:39.072268Z",
+  "last_sync": "2026-09-08T07:54:41.623111Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -2795,6 +2795,24 @@
         "module": "Sync",
         "timestamp": "2026-09-08T11:06:58.654177",
         "uuid": "49bf312b674649f6af3c0e029bfcfe48"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 289,
+        "modified_at": "2026-09-08T11:13:14.990532",
+        "module": "Sync",
+        "timestamp": "2026-09-08T11:13:14.990532",
+        "uuid": "18c4eb5b2691468d8c40223c410168b4"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Repository setup failed: unknown git error",
+        "id": 290,
+        "modified_at": "2026-09-08T11:18:12.298500",
+        "module": "Sync Error",
+        "timestamp": "2026-09-08T11:18:12.298500",
+        "uuid": "009708955faf49e491ca44a85529a93d"
       }
     ],
     "cascading_goals": [
@@ -2810,7 +2828,7 @@
         "id": 1,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-09-08T11:12:39.069451",
+        "modified_at": "2026-09-08T11:24:41.616658",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 34.0,
@@ -2890,7 +2908,7 @@
         "id": 5,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-09-08T11:12:39.069451",
+        "modified_at": "2026-09-08T11:24:41.616658",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 10.0,
@@ -2957,6 +2975,26 @@
         "texture": "waves",
         "title": "Paper",
         "uuid": "64d1456086b440f78987b1b44616d065"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "category": "Goal",
+        "color": "#34d399",
+        "color_secondary": "#06b6d4",
+        "completed": 0,
+        "deadline": "2026-09-15 07:42",
+        "done": 0,
+        "icon": "book-open",
+        "id": 9,
+        "level": null,
+        "logged_hours": 0.0,
+        "modified_at": "2026-09-08T11:13:54.776768",
+        "parent_id": null,
+        "parent_uuid": null,
+        "target_hours": 10.0,
+        "texture": "grain",
+        "title": "Research",
+        "uuid": "8c944f130900431eab332f36c91e1db7"
       }
     ],
     "composite_foods": [
@@ -3132,6 +3170,17 @@
         "title": "sample day > ai interview",
         "type": "Work",
         "uuid": "953efca6c6944e599989c6bb0482d1c1"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "course": "General",
+        "duration": 15,
+        "id": 8,
+        "modified_at": "2026-09-08T11:14:19.493618",
+        "status": "pending",
+        "title": "General",
+        "type": "Break",
+        "uuid": "8675a944c5b54697a035c26d088b93e9"
       }
     ],
     "food_logs": [],
