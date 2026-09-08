@@ -121,7 +121,7 @@
     "wallpapers": []
   },
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-09-08T09:08:59.230697Z",
+  "last_sync": "2026-09-08T09:12:40.597168Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -3002,6 +3002,15 @@
         "module": "Sync",
         "timestamp": "2026-09-08T12:37:30.710408",
         "uuid": "16910ca52703462793dd463625e5afec"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 312,
+        "modified_at": "2026-09-08T12:39:35.115229",
+        "module": "Sync",
+        "timestamp": "2026-09-08T12:39:35.115229",
+        "uuid": "15b7c8d43c7b4d98af65cf263124ea25"
       }
     ],
     "cascading_goals": [
@@ -3017,7 +3026,7 @@
         "id": 1,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-09-08T12:38:59.226240",
+        "modified_at": "2026-09-08T12:42:40.592161",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 34.0,
@@ -3097,7 +3106,7 @@
         "id": 5,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-09-08T12:38:59.226240",
+        "modified_at": "2026-09-08T12:42:40.592161",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 10.0,
