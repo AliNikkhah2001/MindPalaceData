@@ -111,7 +111,7 @@
     "wallpapers": []
   },
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-09-08T06:24:45.500464Z",
+  "last_sync": "2026-09-08T06:36:49.871447Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -122,13 +122,13 @@
     "bg_image_path": "",
     "blocked_apps": [],
     "blur_mode": "faked",
-    "clock_bezel": "Plain",
+    "clock_bezel": "Coin-Edge",
     "clock_case_shape": "Round",
     "clock_complication": "None",
-    "clock_hands": "Classic",
+    "clock_hands": "Sword",
     "clock_indices": "Baton",
     "clock_style": "Analog Classic",
-    "clock_ticks": "Standard",
+    "clock_ticks": "Crosshair",
     "cognitio_vault_path": "D:\\Code\\IMPERIUM\\data\\knowledge",
     "custom_font_path": "",
     "dashboard_layout": {},
@@ -2668,6 +2668,78 @@
         "module": "Sync Error",
         "timestamp": "2026-09-08T09:51:07.072074",
         "uuid": "34f200cbeb3c43c3be9d48bd999e76d6"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 276,
+        "modified_at": "2026-09-08T10:02:05.279081",
+        "module": "Sync",
+        "timestamp": "2026-09-08T10:02:05.279081",
+        "uuid": "ce020b1abc6b486aa875d4344d9a8608"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Updated application settings via UI.",
+        "id": 277,
+        "modified_at": "2026-09-08T10:02:23.677663",
+        "module": "Settings",
+        "timestamp": "2026-09-08T10:02:23.677663",
+        "uuid": "a569b0adc0e94681bb5367f60a7c8502"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Updated application settings via UI.",
+        "id": 278,
+        "modified_at": "2026-09-08T10:02:34.148572",
+        "module": "Settings",
+        "timestamp": "2026-09-08T10:02:34.148572",
+        "uuid": "b207a686619b41bebbeeac2244ee9eca"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Updated application settings via UI.",
+        "id": 279,
+        "modified_at": "2026-09-08T10:02:41.952919",
+        "module": "Settings",
+        "timestamp": "2026-09-08T10:02:41.952919",
+        "uuid": "97cddefeba354df98ef4c08024e0277c"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Updated application settings via UI.",
+        "id": 280,
+        "modified_at": "2026-09-08T10:02:56.848063",
+        "module": "Settings",
+        "timestamp": "2026-09-08T10:02:56.848063",
+        "uuid": "6ba0e80f054845579e2205d404b08981"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Updated application settings via UI.",
+        "id": 281,
+        "modified_at": "2026-09-08T10:03:03.527548",
+        "module": "Settings",
+        "timestamp": "2026-09-08T10:03:03.527548",
+        "uuid": "4eadd9558b3047549444719f9a0bc962"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Updated application settings via UI.",
+        "id": 282,
+        "modified_at": "2026-09-08T10:03:09.919328",
+        "module": "Settings",
+        "timestamp": "2026-09-08T10:03:09.919328",
+        "uuid": "903d09bf0304481dbc9b255676579abf"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Updated application settings via UI.",
+        "id": 283,
+        "modified_at": "2026-09-08T10:03:23.896081",
+        "module": "Settings",
+        "timestamp": "2026-09-08T10:03:23.896081",
+        "uuid": "a98d4eff98c944cab9ee6df8e154e44a"
       }
     ],
     "cascading_goals": [
@@ -2683,7 +2755,7 @@
         "id": 1,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-09-08T09:54:45.497492",
+        "modified_at": "2026-09-08T10:06:49.869247",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 34.0,
@@ -2763,7 +2835,7 @@
         "id": 5,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-09-08T09:54:45.497492",
+        "modified_at": "2026-09-08T10:06:49.869247",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 10.0,
