@@ -187,7 +187,7 @@
     "wallpapers": []
   },
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-09-15T13:29:04.775681Z",
+  "last_sync": "2026-09-15T13:35:02.214758Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -4014,6 +4014,15 @@
         "module": "Sync Error",
         "timestamp": "2026-09-15T16:58:32.192778",
         "uuid": "83a1650a3bfd4bcf91813acf3ad20e20"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Push failed after 3 attempts: Cmd('git') failed due to: exit code(1)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData/': OpenSSL SSL_read: OpenSSL/3.5.7: error:0A000126:SSL routines::unexpected eof while reading, errno 0'",
+        "id": 417,
+        "modified_at": "2026-09-15T17:01:07.389558",
+        "module": "Sync Error",
+        "timestamp": "2026-09-15T17:01:07.389558",
+        "uuid": "56819006a72844f983a980646b104788"
       }
     ],
     "cascading_goals": [],
