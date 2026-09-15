@@ -1103,6 +1103,12 @@
     "sha256": "312b8f9f0e03f80837dc6ae1648adda14639eb0dfdfff940af969e3d84524cba",
     "size": 31733379
   },
+  "MindPalace_Library/French-Reader-A2.pdf": {
+    "mtime_ns": 1789459660789710900,
+    "schema": 2,
+    "sha256": "e0df6a85cce16f8016104b8137d0c44ee1c1a4d7f7c30553d927debc87ef0824",
+    "size": 6160
+  },
   "MindPalace_Library/SHAP and LIME- Foundations, Mathematical Principles, and Local Model Interpretability.pdf": {
     "mtime_ns": 1788702854221622100,
     "schema": 2,
