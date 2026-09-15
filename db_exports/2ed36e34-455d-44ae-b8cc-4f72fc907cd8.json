@@ -187,7 +187,7 @@
     "wallpapers": []
   },
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-09-15T12:59:08.499192Z",
+  "last_sync": "2026-09-15T13:05:06.016159Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -3969,6 +3969,15 @@
         "module": "Sync Error",
         "timestamp": "2026-09-15T16:28:02.668068",
         "uuid": "5b129e20961341efa66d518a755ba4b2"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Push failed after 3 attempts: Cmd('git') failed due to: exit code(1)\n  cmdline: git push --porcelain --progress -- origin\n  stderr: 'error: failed to push some refs to 'https://github.com/alinikkhah2001/MindPalaceData''",
+        "id": 412,
+        "modified_at": "2026-09-15T16:32:33.179777",
+        "module": "Sync Error",
+        "timestamp": "2026-09-15T16:32:33.179777",
+        "uuid": "640feb7dd00045ce99b7cdc6f2383820"
       }
     ],
     "cascading_goals": [],
