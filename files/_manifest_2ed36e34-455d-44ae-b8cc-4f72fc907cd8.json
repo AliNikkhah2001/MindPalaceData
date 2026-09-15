@@ -1151,6 +1151,24 @@
     "sha256": "e0df6a85cce16f8016104b8137d0c44ee1c1a4d7f7c30553d927debc87ef0824",
     "size": 6160
   },
+  "MindPalace_Library/Matrix Calculus.pdf": {
+    "mtime_ns": 1784981805681706600,
+    "schema": 2,
+    "sha256": "ee3d28554bf92495d84e5f672e6c3820733e37daee95ba212bfaca6332ee77db",
+    "size": 1884010
+  },
+  "MindPalace_Library/RAG_Slide_ENG.pdf": {
+    "mtime_ns": 1784972910868253800,
+    "schema": 2,
+    "sha256": "e17ef3334cd3c36c185cf1078cb2438a2b7520de550087751f67d7aa1356e935",
+    "size": 9188735
+  },
+  "MindPalace_Library/Retrieval-Augmented.pdf": {
+    "mtime_ns": 1784972933990432200,
+    "schema": 2,
+    "sha256": "83c2aeaeb639001e94d3166d7be1cd1bb60ede3165fa058fe20a02f188ddb296",
+    "size": 4864090
+  },
   "MindPalace_Library/SHAP and LIME- Foundations, Mathematical Principles, and Local Model Interpretability.pdf": {
     "mtime_ns": 1788702854221622100,
     "schema": 2,
@@ -1162,6 +1180,18 @@
     "schema": 2,
     "sha256": "01c7aa8f7d9edcf0cd185bf02e82363f743e441fcaf05b99e6054bfb470bf8ae",
     "size": 1014198
+  },
+  "MindPalace_Library/Speech and Language Processing Chapter 11.pdf": {
+    "mtime_ns": 1784972905900815000,
+    "schema": 2,
+    "sha256": "884af70e98b60e42595823ce473062454829abd4c2acf0deff175d671094e247",
+    "size": 562486
+  },
+  "MindPalace_Library/Speech and Language Processing.pdf": {
+    "mtime_ns": 1784972918830826300,
+    "schema": 2,
+    "sha256": "50a9efbb459e8dc3811c88f417e9eaab085be473d8cdf1d558a05ee33290f661",
+    "size": 26357909
   },
   "MindPalace_Library/mml-book.pdf": {
     "mtime_ns": 1788702854277335500,
