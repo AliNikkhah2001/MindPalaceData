@@ -187,7 +187,7 @@
     "wallpapers": []
   },
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-09-15T13:53:02.296983Z",
+  "last_sync": "2026-09-15T13:59:03.850043Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -201,10 +201,10 @@
     "clock_bezel": "Coin-Edge",
     "clock_case_shape": "Round",
     "clock_complication": "Small Seconds",
-    "clock_hands": "Dauphine",
+    "clock_hands": "Arrow",
     "clock_indices": "California",
     "clock_style": "Analog Classic",
-    "clock_ticks": "Railroad",
+    "clock_ticks": "Crosshair",
     "cognitio_vault_path": "D:\\Code\\IMPERIUM\\data\\knowledge",
     "cognitio_zen": true,
     "custom_font_path": "",
@@ -4050,6 +4050,33 @@
         "module": "Sync Error",
         "timestamp": "2026-09-15T17:18:50.398893",
         "uuid": "4f6ce24d69b8411186fe0b7ab0c39a7a"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Push failed after 3 attempts: Cmd('git') failed due to: exit code(1)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData/': CONNECT tunnel failed, response 500'",
+        "id": 421,
+        "modified_at": "2026-09-15T17:24:49.859690",
+        "module": "Sync Error",
+        "timestamp": "2026-09-15T17:24:49.859690",
+        "uuid": "e1f8ee868eda4a3a8a4eb3095383bf78"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Updated application settings via UI.",
+        "id": 422,
+        "modified_at": "2026-09-15T17:28:40.081521",
+        "module": "Settings",
+        "timestamp": "2026-09-15T17:28:40.081521",
+        "uuid": "3b0dfee1b0b7485b9527ec3472950191"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Updated application settings via UI.",
+        "id": 423,
+        "modified_at": "2026-09-15T17:29:01.006917",
+        "module": "Settings",
+        "timestamp": "2026-09-15T17:29:01.006917",
+        "uuid": "bf3e3fc8ef114ae7b37b6029a7cb97a2"
       }
     ],
     "cascading_goals": [],
