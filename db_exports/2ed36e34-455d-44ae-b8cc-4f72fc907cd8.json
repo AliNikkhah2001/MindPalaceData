@@ -187,7 +187,7 @@
     "wallpapers": []
   },
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-09-15T14:11:06.664756Z",
+  "last_sync": "2026-09-15T14:23:01.022740Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -198,13 +198,13 @@
     "bg_image_path": "",
     "blocked_apps": [],
     "blur_mode": "faked",
-    "clock_bezel": "Coin-Edge",
+    "clock_bezel": "Fluted",
     "clock_case_shape": "Round",
-    "clock_complication": "Small Seconds",
-    "clock_hands": "Dauphine",
-    "clock_indices": "Dot",
+    "clock_complication": "Date Window",
+    "clock_hands": "Mercedes",
+    "clock_indices": "Roman",
     "clock_style": "Analog Classic",
-    "clock_ticks": "Crosshair",
+    "clock_ticks": "Railroad",
     "cognitio_vault_path": "D:\\Code\\IMPERIUM\\data\\knowledge",
     "cognitio_zen": true,
     "custom_font_path": "",
@@ -4095,6 +4095,24 @@
         "module": "Sync Error",
         "timestamp": "2026-09-15T17:34:55.687802",
         "uuid": "8f2318abe5f44ea1823d220ca6ffb448"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Updated application settings via UI.",
+        "id": 426,
+        "modified_at": "2026-09-15T17:44:39.906663",
+        "module": "Settings",
+        "timestamp": "2026-09-15T17:44:39.906663",
+        "uuid": "09a9501dca674c76bc0603029ce6d730"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Push failed after 3 attempts: Cmd('git') failed due to: exit code(1)\n  cmdline: git push --porcelain --progress -- origin\n  stderr: 'error: failed to push some refs to 'https://github.com/alinikkhah2001/MindPalaceData''",
+        "id": 427,
+        "modified_at": "2026-09-15T17:47:08.299701",
+        "module": "Sync Error",
+        "timestamp": "2026-09-15T17:47:08.299701",
+        "uuid": "ac6878fbe0014c098bc6d199d9b07bf1"
       }
     ],
     "cascading_goals": [],
@@ -4314,6 +4332,17 @@
         "title": "sample day > ai interview",
         "type": "Work",
         "uuid": "e3cae71aef5a4594b75cb3486d43b945"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "course": "General",
+        "duration": 25,
+        "id": 6,
+        "modified_at": "2026-09-15T17:44:02.608856",
+        "status": "active",
+        "title": "General",
+        "type": "Work",
+        "uuid": "0a712b163dca4f9dace60dd1ffca0c06"
       }
     ],
     "food_logs": [],
