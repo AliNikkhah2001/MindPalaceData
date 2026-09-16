@@ -187,7 +187,7 @@
     "wallpapers": []
   },
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-09-16T13:32:59.184162Z",
+  "last_sync": "2026-09-16T13:38:51.856984Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -4572,6 +4572,15 @@
         "module": "Sync Error",
         "timestamp": "2026-09-16T16:56:46.590004",
         "uuid": "5b84acc419c1494aa2cffce0c5a44b38"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Push failed after 3 attempts: Cmd('git') failed due to: exit code(1)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData/': CONNECT tunnel failed, response 500'",
+        "id": 479,
+        "modified_at": "2026-09-16T17:06:36.262786",
+        "module": "Sync Error",
+        "timestamp": "2026-09-16T17:06:36.262786",
+        "uuid": "aad2a39586a648fe92ac00a1f6a49592"
       }
     ],
     "cascading_goals": [],
