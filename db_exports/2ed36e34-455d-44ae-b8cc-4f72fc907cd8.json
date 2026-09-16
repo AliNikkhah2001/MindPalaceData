@@ -187,7 +187,7 @@
     "wallpapers": []
   },
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-09-16T11:57:47.517029Z",
+  "last_sync": "2026-09-16T12:21:58.442752Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -4491,6 +4491,24 @@
         "module": "Sync Error",
         "timestamp": "2026-09-16T15:21:42.524927",
         "uuid": "90aa055aa5b74e59b51055ed471f48e2"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Push failed after 3 attempts: Cmd('git') failed due to: exit code(1)\n  cmdline: git push --porcelain --progress -- origin\n  stderr: 'error: failed to push some refs to 'https://github.com/alinikkhah2001/MindPalaceData''",
+        "id": 470,
+        "modified_at": "2026-09-16T15:40:38.579549",
+        "module": "Sync Error",
+        "timestamp": "2026-09-16T15:40:38.579549",
+        "uuid": "acb3203fe4f14acbb86bfbce77f40510"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Pull failed: Cmd('git') failed due to: exit code(1)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData/': CONNECT tunnel failed, response 500'",
+        "id": 471,
+        "modified_at": "2026-09-16T15:45:46.659787",
+        "module": "Sync Error",
+        "timestamp": "2026-09-16T15:45:46.659787",
+        "uuid": "1373973d9be348beb039525920d9a5b0"
       }
     ],
     "cascading_goals": [],
