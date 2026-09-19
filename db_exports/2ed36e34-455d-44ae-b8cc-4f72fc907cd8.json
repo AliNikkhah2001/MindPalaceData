@@ -187,7 +187,7 @@
     "wallpapers": []
   },
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-09-16T14:56:54.976318Z",
+  "last_sync": "2026-09-19T07:19:49.068334Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -4635,6 +4635,15 @@
         "module": "Sync Error",
         "timestamp": "2026-09-16T18:20:56.910410",
         "uuid": "d69ce079ee3647a5b3dd03c2311ba15f"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData/': CONNECT tunnel failed, response 500",
+        "id": 486,
+        "modified_at": "2026-09-19T10:43:32.918170",
+        "module": "Sync Error",
+        "timestamp": "2026-09-19T10:43:32.918170",
+        "uuid": "67fc045ef283464db8ce5236119284e0"
       }
     ],
     "cascading_goals": [],
