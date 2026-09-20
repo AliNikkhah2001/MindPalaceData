@@ -1268,6 +1268,18 @@
     "repository_copy": "IMPERIUM-KB/.git/index.conflict-2ed36e34-455d-44ae-b8cc-4f72fc907cd8-504f74273c8e",
     "schema": 2
   },
+  "IMPERIUM-KB/.git/index.conflict-2ed36e34-455d-44ae-b8cc-4f72fc907cd8-504f74273c8e": {
+    "mtime_ns": 1789898588195947900,
+    "schema": 2,
+    "sha256": "504f74273c8ea6891d26a8c2be20137f06b7649c886b012f0a1584c1eaea0dd5",
+    "size": 104392
+  },
+  "IMPERIUM-KB/.git/index.conflict-remote-7f59e65038c9": {
+    "mtime_ns": 1789898511540464300,
+    "schema": 2,
+    "sha256": "7f59e65038c99a3bdeceebb5aa0321b09b9e883c272f7393235b57b3050e5bba",
+    "size": 104174
+  },
   "IMPERIUM-KB/.git/info/exclude": {
     "mtime_ns": 1789806875757309800,
     "schema": 2,

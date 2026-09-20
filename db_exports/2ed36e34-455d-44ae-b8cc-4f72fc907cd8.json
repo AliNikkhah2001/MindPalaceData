@@ -132,6 +132,11 @@
         "uuid": "83415f7fbf8249688e4bb080f28421e0"
       },
       {
+        "deleted_at": "2026-09-20T14:00:30.259599",
+        "origin_device": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "uuid": "84f9f0fd79e74ba9b225d69e2c8a3c0f"
+      },
+      {
         "deleted_at": "2026-09-08T13:37:42.722288",
         "origin_device": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
         "uuid": "8675a944c5b54697a035c26d088b93e9"
@@ -150,6 +155,11 @@
         "deleted_at": "2026-08-19T13:51:49.029159",
         "origin_device": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
         "uuid": "8d1a596606634763859882c73a9d6f0d"
+      },
+      {
+        "deleted_at": "2026-09-20T14:00:29.365430",
+        "origin_device": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "uuid": "91f683b698624691b50e74995caeadb9"
       },
       {
         "deleted_at": "2026-09-08T13:37:42.428760",
@@ -197,7 +207,7 @@
     "wallpapers": []
   },
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-09-20T10:19:24.717632Z",
+  "last_sync": "2026-09-20T10:37:25.931931Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -4790,6 +4800,15 @@
         "module": "Sync Error",
         "timestamp": "2026-09-20T13:47:57.578799",
         "uuid": "c25dd45f049c4b878425bd679639db44"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Push failed after 3 attempts: Cmd('git') failed due to: exit code(1)\n  cmdline: git push --porcelain --progress -- origin\n  stderr: 'error: failed to push some refs to 'https://github.com/alinikkhah2001/MindPalaceData''",
+        "id": 502,
+        "modified_at": "2026-09-20T14:05:03.496341",
+        "module": "Sync Error",
+        "timestamp": "2026-09-20T14:05:03.496341",
+        "uuid": "51f50635807343f0a6a1c5ba280bbc7c"
       }
     ],
     "cascading_goals": [
@@ -4845,7 +4864,7 @@
         "id": 3,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-09-20T13:49:24.712276",
+        "modified_at": "2026-09-20T14:07:25.927078",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 50.0,
@@ -5169,28 +5188,6 @@
       },
       {
         "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-        "course": "Work > Research R/D",
-        "duration": 60,
-        "id": 7,
-        "modified_at": "2026-09-20T13:46:34.080923",
-        "status": "active",
-        "title": "Work > Research R/D",
-        "type": "Work",
-        "uuid": "91f683b698624691b50e74995caeadb9"
-      },
-      {
-        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-        "course": "General",
-        "duration": 15,
-        "id": 8,
-        "modified_at": "2026-09-20T13:46:45.745378",
-        "status": "pending",
-        "title": "General",
-        "type": "Break",
-        "uuid": "84f9f0fd79e74ba9b225d69e2c8a3c0f"
-      },
-      {
-        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
         "course": "French",
         "duration": 60,
         "id": 9,
@@ -5199,6 +5196,17 @@
         "title": "French",
         "type": "Work",
         "uuid": "d062e77b44a842f896b9384e5a627e13"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "course": "Work > Research R/D",
+        "duration": 60,
+        "id": 10,
+        "modified_at": "2026-09-20T14:00:23.158561",
+        "status": "pending",
+        "title": "Work > Research R/D",
+        "type": "Work",
+        "uuid": "8bae9398d872483680da4fcfdec3e796"
       }
     ],
     "food_logs": [],
