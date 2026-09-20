@@ -187,7 +187,7 @@
     "wallpapers": []
   },
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-09-19T15:31:19.246720Z",
+  "last_sync": "2026-09-20T09:13:21.457877Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -4708,6 +4708,42 @@
         "module": "Sync Error",
         "timestamp": "2026-09-19T17:07:44.576187",
         "uuid": "69fdb3bed7a94c68876a93de77087435"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Sync failed: Another IMPERIUM process is already synchronizing",
+        "id": 494,
+        "modified_at": "2026-09-20T12:18:57.704151",
+        "module": "Sync Error",
+        "timestamp": "2026-09-20T12:18:57.704151",
+        "uuid": "1dc923d6af2c4e9a8d8ca596e05b101a"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Sync failed: Another IMPERIUM process is already synchronizing",
+        "id": 495,
+        "modified_at": "2026-09-20T12:24:57.658760",
+        "module": "Sync Error",
+        "timestamp": "2026-09-20T12:24:57.658760",
+        "uuid": "dc00a34ffd3049c5bfeb9fa441c1c1a4"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Sync failed: Another IMPERIUM process is already synchronizing",
+        "id": 496,
+        "modified_at": "2026-09-20T12:30:57.679453",
+        "module": "Sync Error",
+        "timestamp": "2026-09-20T12:30:57.679453",
+        "uuid": "e920ca68a6e14733803d3077c0cb249b"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Sync failed: Another IMPERIUM process is already synchronizing",
+        "id": 497,
+        "modified_at": "2026-09-20T12:36:57.803560",
+        "module": "Sync Error",
+        "timestamp": "2026-09-20T12:36:57.803560",
+        "uuid": "190d4ab93b6140dd8135b7277ef9bd56"
       }
     ],
     "cascading_goals": [
@@ -4763,7 +4799,7 @@
         "id": 3,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-09-19T19:01:19.243509",
+        "modified_at": "2026-09-20T12:43:21.452346",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 50.0,
