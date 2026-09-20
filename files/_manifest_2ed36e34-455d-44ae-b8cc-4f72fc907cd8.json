@@ -1152,10 +1152,10 @@
     "size": 11599
   },
   "IMPERIUM-KB/.git/COMMIT_EDITMSG": {
-    "mtime_ns": 1789816918938806600,
+    "mtime_ns": 1789898588229833900,
     "schema": 2,
-    "sha256": "47b339a56a74fe36c1599667d0b34b635cde9add850a5812e282e6266f4b94e3",
-    "size": 95
+    "sha256": "905904c7a12b7d591b589997ecc89736c04be7fa9395cd2a2389d9d995a702d5",
+    "size": 60
   },
   "IMPERIUM-KB/.git/HEAD": {
     "mtime_ns": 1789806877308814100,
@@ -1260,10 +1260,13 @@
     "size": 3650
   },
   "IMPERIUM-KB/.git/index": {
-    "mtime_ns": 1789898328175887200,
-    "schema": 2,
-    "sha256": "8c621939e6ad1543c8e4f5d5b6e7e65f9e38ab19851016a02e139cc915d9718d",
-    "size": 104174
+    "base_sha256": "8c621939e6ad1543c8e4f5d5b6e7e65f9e38ab19851016a02e139cc915d9718d",
+    "conflict": true,
+    "local_copy": "index.conflict-remote-7f59e65038c9",
+    "local_sha256": "504f74273c8ea6891d26a8c2be20137f06b7649c886b012f0a1584c1eaea0dd5",
+    "remote_sha256": "7f59e65038c99a3bdeceebb5aa0321b09b9e883c272f7393235b57b3050e5bba",
+    "repository_copy": "IMPERIUM-KB/.git/index.conflict-2ed36e34-455d-44ae-b8cc-4f72fc907cd8-504f74273c8e",
+    "schema": 2
   },
   "IMPERIUM-KB/.git/info/exclude": {
     "mtime_ns": 1789806875757309800,
@@ -1278,16 +1281,46 @@
     "size": 57
   },
   "IMPERIUM-KB/.git/logs/HEAD": {
-    "mtime_ns": 1789816918960990400,
+    "mtime_ns": 1789898588267371600,
     "schema": 2,
-    "sha256": "fcdadb3b91708095581f8bfe8f8a8239bc342f846a7baa691585b26f62089121",
-    "size": 269
+    "sha256": "d0136d4c71fac5eba37cf81c7a89213605c28f2c19dd4513378a4c37e052ddce",
+    "size": 473
   },
   "IMPERIUM-KB/.git/logs/refs/heads/main": {
-    "mtime_ns": 1789816918962035900,
+    "mtime_ns": 1789898588273484300,
     "schema": 2,
-    "sha256": "fcdadb3b91708095581f8bfe8f8a8239bc342f846a7baa691585b26f62089121",
-    "size": 269
+    "sha256": "d0136d4c71fac5eba37cf81c7a89213605c28f2c19dd4513378a4c37e052ddce",
+    "size": 473
+  },
+  "IMPERIUM-KB/.git/objects/2b/90fe895117e180f17f9b8ec285c75b775c251a": {
+    "mtime_ns": 1789898588238942500,
+    "schema": 2,
+    "sha256": "08e9d8c40dbb483f8ba3cd48a5e19dcd013b0bb1e0f71e7c8f50f441cd300cf4",
+    "size": 197
+  },
+  "IMPERIUM-KB/.git/objects/6a/b20ce2f0b87fdf067b516b2d8ae51be92e7d19": {
+    "mtime_ns": 1789898588188111200,
+    "schema": 2,
+    "sha256": "82f04a2f3430f1cc0c165e3ee5333c1fe7c8caaf37efb36d4c51e9d44ff3a060",
+    "size": 152
+  },
+  "IMPERIUM-KB/.git/objects/8c/60435535e1e7361d48ccf9b9b5a481d5ff13c5": {
+    "mtime_ns": 1789898585804995200,
+    "schema": 2,
+    "sha256": "0a71e0e57c27fd56c2db13ad5225e81a019c6d8092611b34dea852e3167d1faf",
+    "size": 200
+  },
+  "IMPERIUM-KB/.git/objects/9a/6c7bbb9cea7f885ebdc89fcf6def3348043c2c": {
+    "mtime_ns": 1789898588175957300,
+    "schema": 2,
+    "sha256": "527e23995e8e4ed485f80dfff9544e4bef3102dc26b90b549a1d31a82a330036",
+    "size": 90
+  },
+  "IMPERIUM-KB/.git/objects/d7/01d9e42bf8f47b212b21accc2f46375a8348ce": {
+    "mtime_ns": 1789898585791418000,
+    "schema": 2,
+    "sha256": "548c7e84f2d0a758e54f38bb6c58c9f3437a1f9f4ae58f0e115780af3066b87c",
+    "size": 210
   },
   "IMPERIUM-KB/.git/objects/info/packs": {
     "mtime_ns": 1789816924393290100,
@@ -1320,10 +1353,22 @@
     "size": 3764
   },
   "IMPERIUM-KB/.git/refs/heads/main": {
-    "mtime_ns": 1789816918955228700,
+    "mtime_ns": 1789898588264364100,
     "schema": 2,
-    "sha256": "a724b0e60472ab1748e2b58fe65562dbe417f23e780747c27371e6c5265d4947",
+    "sha256": "c9558cfd7e8c7c8e1b9bb962f27784fe87ab2a8018a640f7f03828e084e4abd5",
     "size": 41
+  },
+  "IMPERIUM-KB/.obsidian/app.json": {
+    "mtime_ns": 1789898547275544800,
+    "schema": 2,
+    "sha256": "a1f10aca3daddda200739fc8c405a3dd005a116f08d4e757c75ef333be4e880b",
+    "size": 357
+  },
+  "IMPERIUM-KB/.obsidian/core-plugins.json": {
+    "mtime_ns": 1789898547710332500,
+    "schema": 2,
+    "sha256": "f27c3693800ed000bf91a2e48552dd37badc4af973c2a1aeb7b9d5bad30e334d",
+    "size": 375
   },
   "IMPERIUM-KB/README.md": {
     "mtime_ns": 1789815387706029100,
