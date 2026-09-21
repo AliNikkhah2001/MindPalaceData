@@ -212,7 +212,7 @@
     "wallpapers": []
   },
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-09-21T09:16:24.838387Z",
+  "last_sync": "2026-09-21T09:34:26.106865Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -5111,6 +5111,15 @@
         "module": "Sync Error",
         "timestamp": "2026-09-21T12:43:47.894694",
         "uuid": "056427c05d334e4aa30b6efb04cd7dd2"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Push failed after 3 attempts: Cmd('git') failed due to: exit code(1)\n  cmdline: git push --porcelain --progress -- origin\n  stderr: 'error: failed to push some refs to 'https://github.com/alinikkhah2001/MindPalaceData''",
+        "id": 536,
+        "modified_at": "2026-09-21T13:02:34.626595",
+        "module": "Sync Error",
+        "timestamp": "2026-09-21T13:02:34.626595",
+        "uuid": "f79395f8a01c4ea19dd58f16ba374d50"
       }
     ],
     "cascading_goals": [
@@ -5166,7 +5175,7 @@
         "id": 3,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-09-21T12:46:24.835242",
+        "modified_at": "2026-09-21T13:04:26.104150",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 50.0,
@@ -5516,10 +5525,21 @@
         "duration": 60,
         "id": 12,
         "modified_at": "2026-09-21T11:56:21.321582",
-        "status": "active",
+        "status": "completed",
         "title": "Work > Research R/D",
         "type": "Work",
         "uuid": "f76251623c384346939ba2ecf5642e63"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "course": "Work > Research R/D",
+        "duration": 60,
+        "id": 13,
+        "modified_at": "2026-09-21T13:00:59.851500",
+        "status": "active",
+        "title": "Work > Research R/D",
+        "type": "Work",
+        "uuid": "51a27bdc0bed41e29d6afbda21db9925"
       }
     ],
     "food_logs": [],
@@ -6942,6 +6962,21 @@
         "timestamp": "2026-09-21T10:18:58.802628",
         "type": "Work",
         "uuid": "3da1a3bb91524b198fdfafa2da340fa8"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "actual_duration": 60,
+        "course": "Work > Research R/D",
+        "distraction_data": "[]",
+        "distractions": 0,
+        "duration": 60,
+        "id": 23,
+        "modified_at": "2026-09-21T09:34:26.008042Z",
+        "note": null,
+        "timelapse_path": "",
+        "timestamp": "2026-09-21T12:56:42.517985",
+        "type": "Work",
+        "uuid": "8d1d667c494542cdb29800c0b02c48bd"
       }
     ],
     "quizzes": [
