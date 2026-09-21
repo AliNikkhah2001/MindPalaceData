@@ -212,7 +212,7 @@
     "wallpapers": []
   },
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-09-21T14:16:32.646591Z",
+  "last_sync": "2026-09-21T14:34:26.417550Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -5149,6 +5149,15 @@
         "module": "Sync Error",
         "timestamp": "2026-09-21T17:42:51.782040",
         "uuid": "5527baa7d86f49f98ba59d93dfdd65aa"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Push failed after 3 attempts: Cmd('git') failed due to: exit code(1)\n  cmdline: git push --porcelain --progress -- origin\n  stderr: 'error: failed to push some refs to 'https://github.com/alinikkhah2001/MindPalaceData''",
+        "id": 540,
+        "modified_at": "2026-09-21T18:00:35.371270",
+        "module": "Sync Error",
+        "timestamp": "2026-09-21T18:00:35.371270",
+        "uuid": "13c4d41a67f649a4b643e79ee6bd8e7a"
       }
     ],
     "cascading_goals": [
@@ -5204,7 +5213,7 @@
         "id": 3,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-09-21T17:46:32.644228",
+        "modified_at": "2026-09-21T18:04:26.414794",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 50.0,
@@ -5576,7 +5585,7 @@
         "duration": 60,
         "id": 14,
         "modified_at": "2026-09-21T16:52:31.440128",
-        "status": "active",
+        "status": "completed",
         "title": "General",
         "type": "Work",
         "uuid": "3255f5eb65614193ba615becc062eb83"
@@ -7032,6 +7041,21 @@
         "timestamp": "2026-09-21T16:52:22.853716",
         "type": "Work",
         "uuid": "e3c2f716204e4511b9298e526e1e161a"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "actual_duration": 60,
+        "course": "General",
+        "distraction_data": "[]",
+        "distractions": 0,
+        "duration": 60,
+        "id": 25,
+        "modified_at": "2026-09-21T14:34:26.320044Z",
+        "note": null,
+        "timelapse_path": "",
+        "timestamp": "2026-09-21T17:52:42.902989",
+        "type": "Work",
+        "uuid": "e82947f67f684595b66bf44aec9e66ef"
       }
     ],
     "quizzes": [
