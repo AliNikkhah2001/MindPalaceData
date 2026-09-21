@@ -212,7 +212,7 @@
     "wallpapers": []
   },
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-09-21T12:29:24.394100Z",
+  "last_sync": "2026-09-21T13:28:28.810168Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -223,15 +223,15 @@
     "bg_image_path": "",
     "blocked_apps": [],
     "blur_mode": "faked",
-    "clock_bezel": "Fluted",
-    "clock_case_shape": "Round",
+    "clock_bezel": "Pilot Slide Rule",
+    "clock_case_shape": "Cushion",
     "clock_complication": "Date Window",
     "clock_dial_texture": "None",
-    "clock_hands": "Mercedes",
-    "clock_indices": "Roman",
+    "clock_hands": "Assegai",
+    "clock_indices": "Baton",
     "clock_lume": "None",
     "clock_style": "Analog Classic",
-    "clock_ticks": "Railroad",
+    "clock_ticks": "Roman Chapter",
     "cognitio_vault_path": "D:\\Code\\IMPERIUM\\data\\knowledge",
     "cognitio_zen": true,
     "custom_font_path": "",
@@ -5177,7 +5177,7 @@
         "id": 3,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-09-21T15:59:24.390183",
+        "modified_at": "2026-09-21T16:58:28.807211",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 50.0,
@@ -5542,6 +5542,17 @@
         "title": "Work > Research R/D",
         "type": "Work",
         "uuid": "51a27bdc0bed41e29d6afbda21db9925"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "course": "General",
+        "duration": 60,
+        "id": 14,
+        "modified_at": "2026-09-21T16:52:31.440128",
+        "status": "active",
+        "title": "General",
+        "type": "Work",
+        "uuid": "3255f5eb65614193ba615becc062eb83"
       }
     ],
     "food_logs": [],
@@ -6979,6 +6990,21 @@
         "timestamp": "2026-09-21T12:56:42.517985",
         "type": "Work",
         "uuid": "8d1d667c494542cdb29800c0b02c48bd"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "actual_duration": 0,
+        "course": "General",
+        "distraction_data": "[]",
+        "distractions": 0,
+        "duration": 0,
+        "id": 24,
+        "modified_at": "2026-09-21T13:28:28.722592Z",
+        "note": null,
+        "timelapse_path": "",
+        "timestamp": "2026-09-21T16:52:22.853716",
+        "type": "Work",
+        "uuid": "e3c2f716204e4511b9298e526e1e161a"
       }
     ],
     "quizzes": [
