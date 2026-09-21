@@ -212,7 +212,7 @@
     "wallpapers": []
   },
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-09-21T09:34:26.106865Z",
+  "last_sync": "2026-09-21T12:29:24.394100Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -226,8 +226,10 @@
     "clock_bezel": "Fluted",
     "clock_case_shape": "Round",
     "clock_complication": "Date Window",
+    "clock_dial_texture": "None",
     "clock_hands": "Mercedes",
     "clock_indices": "Roman",
+    "clock_lume": "None",
     "clock_style": "Analog Classic",
     "clock_ticks": "Railroad",
     "cognitio_vault_path": "D:\\Code\\IMPERIUM\\data\\knowledge",
@@ -5175,7 +5177,7 @@
         "id": 3,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-09-21T13:04:26.104150",
+        "modified_at": "2026-09-21T15:59:24.390183",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 50.0,
