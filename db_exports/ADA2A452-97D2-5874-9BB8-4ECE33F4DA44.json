@@ -136,7 +136,7 @@
     "wallpapers": []
   },
   "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-  "last_sync": "2026-09-23T10:36:47.794797Z",
+  "last_sync": "2026-09-23T14:16:19.954915Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -3429,6 +3429,33 @@
         "module": "Settings",
         "timestamp": "2026-09-23T13:03:03.712281",
         "uuid": "2ddb0525b0504e67aca56438f7b5565a"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Push failed after 3 attempts: Cmd('git') failed due to: exit code(1)\n  cmdline: git push --porcelain --progress -- origin\n  stderr: 'error: failed to push some refs to 'https://github.com/alinikkhah2001/MindPalaceData.git''",
+        "id": 358,
+        "modified_at": "2026-09-23T14:14:54.720360",
+        "module": "Sync Error",
+        "timestamp": "2026-09-23T14:14:54.720360",
+        "uuid": "9981a755c05944e6b62d65b73f6bb6c2"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Push failed after 3 attempts: Cmd('git') failed due to: exit code(1)\n  cmdline: git push --porcelain --progress -- origin\n  stderr: 'error: failed to push some refs to 'https://github.com/alinikkhah2001/MindPalaceData.git''",
+        "id": 359,
+        "modified_at": "2026-09-23T15:14:55.276589",
+        "module": "Sync Error",
+        "timestamp": "2026-09-23T15:14:55.276589",
+        "uuid": "da6184fa6ff94244922bf21ba168b1dd"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Push failed after 3 attempts: Cmd('git') failed due to: exit code(1)\n  cmdline: git push --porcelain --progress -- origin\n  stderr: 'error: failed to push some refs to 'https://github.com/alinikkhah2001/MindPalaceData.git''",
+        "id": 360,
+        "modified_at": "2026-09-23T16:18:04.185989",
+        "module": "Sync Error",
+        "timestamp": "2026-09-23T16:18:04.185989",
+        "uuid": "16c48505adf14bb4ab56978441d18848"
       }
     ],
     "cascading_goals": [
@@ -3557,7 +3584,7 @@
         "id": 8,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-09-23T14:06:47.794518",
+        "modified_at": "2026-09-23T17:46:19.954571",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 10.0,
@@ -3595,7 +3622,7 @@
         "id": 10,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-09-23T14:06:47.794518",
+        "modified_at": "2026-09-23T17:46:19.954571",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 34.0,
