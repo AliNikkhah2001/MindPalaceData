@@ -136,7 +136,7 @@
     "wallpapers": []
   },
   "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-  "last_sync": "2026-09-23T14:48:28.385469Z",
+  "last_sync": "2026-09-23T19:49:48.060520Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -3456,6 +3456,42 @@
         "module": "Sync Error",
         "timestamp": "2026-09-23T16:18:04.185989",
         "uuid": "16c48505adf14bb4ab56978441d18848"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 361,
+        "modified_at": "2026-09-23T19:21:14.509174",
+        "module": "Sync Error",
+        "timestamp": "2026-09-23T19:21:14.509174",
+        "uuid": "441f215d5d3b4755aec26d4a138a6760"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 362,
+        "modified_at": "2026-09-23T20:29:14.315239",
+        "module": "Sync Error",
+        "timestamp": "2026-09-23T20:29:14.315239",
+        "uuid": "e005423a8d3e42759a8dd13289df2b93"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 363,
+        "modified_at": "2026-09-23T21:26:36.301237",
+        "module": "Sync Error",
+        "timestamp": "2026-09-23T21:26:36.301237",
+        "uuid": "eb3435c2a5ac40baa8ab0a788bdf2d83"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 364,
+        "modified_at": "2026-09-23T22:28:58.991364",
+        "module": "Sync Error",
+        "timestamp": "2026-09-23T22:28:58.991364",
+        "uuid": "4eb7d3461b124618ba8a291cee35747d"
       }
     ],
     "cascading_goals": [
@@ -3584,7 +3620,7 @@
         "id": 8,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-09-23T18:18:28.385136",
+        "modified_at": "2026-09-23T23:19:48.060113",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 10.0,
@@ -3622,7 +3658,7 @@
         "id": 10,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-09-23T18:18:28.385136",
+        "modified_at": "2026-09-23T23:19:48.060113",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 34.0,
