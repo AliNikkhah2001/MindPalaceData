@@ -202,7 +202,7 @@
     "wallpapers": []
   },
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-09-27T14:43:31.522980Z",
+  "last_sync": "2026-09-27T14:49:31.342191Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -6381,6 +6381,15 @@
         "module": "Sync Error",
         "timestamp": "2026-09-27T18:08:34.638292",
         "uuid": "2a94490bbe60468890dc7ae9d4d741dc"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Push failed after 3 attempts: Cmd('git') failed due to: exit code(1)\n  cmdline: git push --porcelain --progress -- origin",
+        "id": 678,
+        "modified_at": "2026-09-27T18:14:26.183454",
+        "module": "Sync Error",
+        "timestamp": "2026-09-27T18:14:26.183454",
+        "uuid": "7b498bd978db491eafafca18457df641"
       }
     ],
     "cascading_goals": [
@@ -6436,7 +6445,7 @@
         "id": 3,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-09-27T18:13:31.518261",
+        "modified_at": "2026-09-27T18:19:31.336254",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 50.0,
