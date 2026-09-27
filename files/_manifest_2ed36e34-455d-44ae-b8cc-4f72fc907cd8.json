@@ -1091,6 +1091,36 @@
     "sha256": "3401d35473120cbdfa3419ddee7d7f6011614a966b0cc3558463adbc2e01d409",
     "size": 412252
   },
+  "Downloads/drive-download-20260922T093738Z-1-001.zip": {
+    "mtime_ns": 1790069871999590100,
+    "schema": 2,
+    "sha256": "a108c25205daf20a4fa86fa3f28e861ce8f56cf35403ca6b7bc0445898f5f51c",
+    "size": 615730
+  },
+  "Downloads/excel.xlsx": {
+    "mtime_ns": 1790417800517449600,
+    "schema": 2,
+    "sha256": "c3972f559aea57df0b9b1f8a762179b8918e709d7711daabc0938df8b8dca7b7",
+    "size": 19340
+  },
+  "Downloads/jobvision_resumes(1).zip": {
+    "mtime_ns": 1790173275702531500,
+    "schema": 2,
+    "sha256": "37b89cc41dab9153383e5552d0de87a911314546b4f05556be42d6f5488d1474",
+    "size": 256074
+  },
+  "Downloads/jobvision_resumes(2).zip": {
+    "mtime_ns": 1790417722091140700,
+    "schema": 2,
+    "sha256": "12928a3808c3fe3f65a85f946b4638af66159807720d561af93c3b164f5e441a",
+    "size": 538574
+  },
+  "Downloads/jobvision_resumes.zip": {
+    "mtime_ns": 1790173243917250000,
+    "schema": 2,
+    "sha256": "f855c8cd9f17be490863c81e9f3d9ec83f90eabca3c7ccfe288113ee8cc9f421",
+    "size": 500000
+  },
   "Downloads/kd;o,hi.docx": {
     "mtime_ns": 1788953641545064100,
     "schema": 2,
@@ -1145,11 +1175,173 @@
     "sha256": "09ec23ac97ed3fb4e1d31bb76ba1bddaf242d3489e48fceb1062de09507f6cfb",
     "size": 14018
   },
+  "Downloads/\u0628\u0647\u0646\u0627\u0645 \u06cc\u0648\u0633\u0641\u06cc \u0645\u0647\u0631_JobVision_Personal_Resume.pdf": {
+    "mtime_ns": 1790417113601203800,
+    "schema": 2,
+    "sha256": "a0a23cf28a55caeb01a005c64da09319e203f7d7b3c1c72d4cf1b6088db8b038",
+    "size": 850740
+  },
+  "Downloads/\u062f\u0646\u06cc\u0627_\u0641\u06cc\u0648\u062c\u06cc_JobVision_Persian_Resume.pdf": {
+    "mtime_ns": 1790163546494576500,
+    "schema": 2,
+    "sha256": "7fd2bd347d8224f77b96eacd179a470b120f18717a1edcf6f89d69f52ee4fe2b",
+    "size": 55046
+  },
+  "Downloads/\u0633\u0648\u0627\u0644\u0627\u062a \u0628\u0633\u06cc\u0627\u0631 \u0645\u062a\u062f\u0627\u0648\u0644.xlsx": {
+    "mtime_ns": 1790071372326092500,
+    "schema": 2,
+    "sha256": "4691e4470cb7a6ae6e9f489fcb863d6cae83eac5c24b292e1392cf7b492615b4",
+    "size": 57719
+  },
   "Downloads/\u0633\u0648\u0627\u0644\u0627\u062a \u0686\u062a \u0628\u0627\u062a.xlsx": {
     "mtime_ns": 1789555085234937500,
     "schema": 2,
     "sha256": "124bb39e89d27d282476a6bace9383bbc37d27592173d6dfcbc6db592452619b",
     "size": 11599
+  },
+  "Downloads/\u0644\u064a\u0633\u062a/\u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u06a9\u0646\u0646\u062f\u06af\u0627\u0646 \u0627\u0632 \u0627\u0637\u0644\u0627\u0639\u0627\u062a.xlsx": {
+    "mtime_ns": 1790071372119617200,
+    "schema": 2,
+    "sha256": "5a5265473e1cae763809a78cea1d28ed4ef1e62207938a7ee20e9f53799c7863",
+    "size": 12916
+  },
+  "Downloads/\u0644\u064a\u0633\u062a/\u062a\u0627\u0645\u06cc\u0646 \u06a9\u0646\u0646\u062f\u06af\u0627\u0646 \u0627\u0637\u0644\u0627\u0639\u0627\u062a.xlsx": {
+    "mtime_ns": 1790071372169383700,
+    "schema": 2,
+    "sha256": "a6d6dc0f4eff17d6b61d0198033be5b706b5b6068f275ed10d0bb9f14acf5aac",
+    "size": 10076
+  },
+  "Downloads/\u0644\u064a\u0633\u062a/\u0633\u0647\u0627\u0645\u062f\u0627\u0631\u0627\u0646.xlsx": {
+    "mtime_ns": 1790071372079477500,
+    "schema": 2,
+    "sha256": "e11973fb176c301db9b4603106e19dea00c3dac79bc22ce80b655a30742ee116",
+    "size": 9501
+  },
+  "Downloads/\u0644\u064a\u0633\u062a/\u0644\u06cc\u0633\u062a \u0645\u0648\u0628\u0627\u06cc\u0644 \u0628\u0627\u0646\u06a9 \u0647\u0627.xlsx": {
+    "mtime_ns": 1790071372204939700,
+    "schema": 2,
+    "sha256": "718820c2262c41be9f6820f41659de9fa4948089969555ca95c3bb75fcb013c7",
+    "size": 9576
+  },
+  "Downloads/\u0644\u064a\u0633\u062a/\u0644\u06cc\u0633\u062a \u0646\u0626\u0648\u0628\u0627\u0646\u06a9 \u0647\u0627.xlsx": {
+    "mtime_ns": 1790071372239166200,
+    "schema": 2,
+    "sha256": "df63b78e6865a388bb86aa58f24e5ff227ae844f6e244d624e1e061b1efe5131",
+    "size": 9489
+  },
+  "Downloads/\u0644\u064a\u0633\u062a/\u0644\u06cc\u0633\u062a \u0648 \u0639\u0646\u0627\u0648\u06cc\u0646 \u0648\u0627\u0645 \u0647\u0627.xlsx": {
+    "mtime_ns": 1790071372033015700,
+    "schema": 2,
+    "sha256": "09b924de70ef440dace8f95433da8000d90d3d6c5696242b5e5e0d879fcaafe4",
+    "size": 19713
+  },
+  "Downloads/\u0645\u062d\u0645\u062f\u0631\u0636\u0627_\u0645\u062d\u0645\u062f\u0647\u0627\u0634\u0645\u06cc_JobVision_Persian_Resume.pdf": {
+    "mtime_ns": 1790165414005728900,
+    "schema": 2,
+    "sha256": "b7fd022f77c3bf705924ee2cf2da0bfd1ccec1a7a4329c69cd6dfbb05edac0fd",
+    "size": 53952
+  },
+  "Downloads/\u067e\u0627\u06cc\u06af\u0627\u0647 \u062f\u0627\u0646\u0634 28 \u0634\u0647\u0631\u06cc\u0648\u0631 05/\u0627\u0634\u062e\u0627\u0635/\u06af\u0632\u0627\u0631\u0634 \u062a\u0633\u0647\u06cc\u0644\u0627\u062a \u0627\u0634\u062e\u0627\u0635/\u062a\u0648\u0636\u06cc\u062d\u0627\u062a \u0628\u062e\u0634 \u0647\u0627\u06cc \u0645\u062e\u062a\u0644\u0641 \u06af\u0632\u0627\u0631\u0634 \u0627\u0639\u062a\u0628\u0627\u0631\u06cc \u0627\u0634\u062e\u0627\u0635.xlsx": {
+    "mtime_ns": 1790071372923126000,
+    "schema": 2,
+    "sha256": "d646df05294f59bcb932508539883af7dbcf680dea4539c433ed4451a2fa8d7d",
+    "size": 84980
+  },
+  "Downloads/\u067e\u0627\u06cc\u06af\u0627\u0647 \u062f\u0627\u0646\u0634 28 \u0634\u0647\u0631\u06cc\u0648\u0631 05/\u0627\u0634\u062e\u0627\u0635/\u06af\u0632\u0627\u0631\u0634 \u062a\u0633\u0647\u06cc\u0644\u0627\u062a \u0627\u0634\u062e\u0627\u0635/\u062f\u0644\u0627\u06cc\u0644 \u06a9\u0627\u0647\u0634 \u0627\u0645\u062a\u06cc\u0627\u0632 \u0627\u0639\u062a\u0628\u0627\u0631\u06cc \u0627\u0634\u062e\u0627\u0635-\u0627\u0635\u0644\u06cc.xlsx": {
+    "mtime_ns": 1790071372841561200,
+    "schema": 2,
+    "sha256": "8b9799220594e03d3c6f94463632dc7dbdb2b63a9dde131e720803336c2b18af",
+    "size": 47068
+  },
+  "Downloads/\u067e\u0627\u06cc\u06af\u0627\u0647 \u062f\u0627\u0646\u0634 28 \u0634\u0647\u0631\u06cc\u0648\u0631 05/\u0627\u0634\u062e\u0627\u0635/\u06af\u0632\u0627\u0631\u0634 \u062a\u0633\u0647\u06cc\u0644\u0627\u062a \u0627\u0634\u062e\u0627\u0635/\u062f\u0644\u0627\u06cc\u0644 \u06a9\u0627\u0647\u0634 \u0627\u0645\u062a\u06cc\u0627\u0632 \u0627\u0639\u062a\u0628\u0627\u0631\u06cc \u0627\u0634\u062e\u0627\u0635-\u062c\u0627\u06cc\u06af\u0632\u06cc\u0646.xlsx": {
+    "mtime_ns": 1790071372776115500,
+    "schema": 2,
+    "sha256": "0ec113faa40d325f25e309e4b4bb1e8d0bebfb06063c65a2c5dcd838a0c726d9",
+    "size": 12985
+  },
+  "Downloads/\u067e\u0627\u06cc\u06af\u0627\u0647 \u062f\u0627\u0646\u0634 28 \u0634\u0647\u0631\u06cc\u0648\u0631 05/\u0627\u0634\u062e\u0627\u0635/\u06af\u0632\u0627\u0631\u0634 \u062a\u0633\u0647\u06cc\u0644\u0627\u062a \u0627\u0634\u062e\u0627\u0635/\u0633\u0648\u0627\u0644\u0627\u062a \u0627\u0634\u062e\u0627\u0635 \u0627\u0632 \u067e\u0634\u062a\u06cc\u0628\u0627\u0646\u06cc.xlsx": {
+    "mtime_ns": 1790071373003183400,
+    "schema": 2,
+    "sha256": "3a45807d579ff531ac4b4799ed37f6fd9168ab9c2cc11c191ce5bbd7fe05e83a",
+    "size": 132072
+  },
+  "Downloads/\u067e\u0627\u06cc\u06af\u0627\u0647 \u062f\u0627\u0646\u0634 28 \u0634\u0647\u0631\u06cc\u0648\u0631 05/\u0627\u0634\u062e\u0627\u0635/\u06af\u0632\u0627\u0631\u0634 \u0686\u06a9 \u0627\u0634\u062e\u0627\u0635/\u062a\u0648\u0636\u06cc\u062d \u0628\u062e\u0634 \u0647\u0627\u06cc \u0645\u062e\u062a\u0644\u0641 \u06af\u0632\u0627\u0631\u0634 \u0686\u06a9.xlsx": {
+    "mtime_ns": 1790071373169414000,
+    "schema": 2,
+    "sha256": "af4aaf7a763c56f818c7a11484d9e113469e901a32b7b14b591abb4f37affa7e",
+    "size": 64642
+  },
+  "Downloads/\u067e\u0627\u06cc\u06af\u0627\u0647 \u062f\u0627\u0646\u0634 28 \u0634\u0647\u0631\u06cc\u0648\u0631 05/\u0627\u0634\u062e\u0627\u0635/\u06af\u0632\u0627\u0631\u0634 \u0686\u06a9 \u0627\u0634\u062e\u0627\u0635/\u062f\u0644\u0627\u06cc\u0644 \u06a9\u0627\u0647\u0634 \u0627\u0645\u062a\u06cc\u0627\u0632 \u0686\u06a9.xlsx": {
+    "mtime_ns": 1790071373089155900,
+    "schema": 2,
+    "sha256": "06913c6f66a68ff75f0d280c4d9063e00dde50808069c006faa5cd61622e2b5b",
+    "size": 47682
+  },
+  "Downloads/\u067e\u0627\u06cc\u06af\u0627\u0647 \u062f\u0627\u0646\u0634 28 \u0634\u0647\u0631\u06cc\u0648\u0631 05/\u0627\u0634\u062e\u0627\u0635/\u06af\u0632\u0627\u0631\u0634 \u0686\u06a9 \u0627\u0634\u062e\u0627\u0635/\u0633\u0648\u0627\u0644\u0627\u062a \u0686\u06a9.xlsx": {
+    "mtime_ns": 1790071373259368300,
+    "schema": 2,
+    "sha256": "ac194cb2ee8b19bb73108a98c6177705a1805834de23d24d1e908b75eacdd583",
+    "size": 118996
+  },
+  "Downloads/\u067e\u0627\u06cc\u06af\u0627\u0647 \u062f\u0627\u0646\u0634 28 \u0634\u0647\u0631\u06cc\u0648\u0631 05/\u0627\u0637\u0644\u0627\u0639\u0627\u062a \u0639\u0645\u0648\u0645\u06cc/16 \u06a9\u0627\u0631\u0628\u0631\u062f \u0627\u0639\u062a\u0628\u0627\u0631\u0633\u0646\u062c\u06cc \u062f\u0631 \u0627\u0642\u062a\u0635\u0627\u062f.xlsx": {
+    "mtime_ns": 1790071372631816300,
+    "schema": 2,
+    "sha256": "914a4ba1f220992a09a1a9b5ee1c9d6a85eb10c6547b042ab46f8e9a06fd90e5",
+    "size": 78887
+  },
+  "Downloads/\u067e\u0627\u06cc\u06af\u0627\u0647 \u062f\u0627\u0646\u0634 28 \u0634\u0647\u0631\u06cc\u0648\u0631 05/\u0627\u0637\u0644\u0627\u0639\u0627\u062a \u0639\u0645\u0648\u0645\u06cc/\u0633\u0648\u0627\u0644\u0627\u062a \u0639\u0645\u0648\u0645\u06cc.xlsx": {
+    "mtime_ns": 1790071372569278100,
+    "schema": 2,
+    "sha256": "0affd969e3a93eeaf8a99c5156ca8d69614de129112ff7c6db12538bd99ad3eb",
+    "size": 95762
+  },
+  "Downloads/\u067e\u0627\u06cc\u06af\u0627\u0647 \u062f\u0627\u0646\u0634 28 \u0634\u0647\u0631\u06cc\u0648\u0631 05/\u0627\u0637\u0644\u0627\u0639\u0627\u062a \u0639\u0645\u0648\u0645\u06cc/\u0644\u06cc\u0646\u06a9 \u0647\u0627.xlsx": {
+    "mtime_ns": 1790071372459381900,
+    "schema": 2,
+    "sha256": "eb348e66e451f5f317b33bad7e779badb876706ef717f920989885743a67b1f3",
+    "size": 11386
+  },
+  "Downloads/\u067e\u0627\u06cc\u06af\u0627\u0647 \u062f\u0627\u0646\u0634 28 \u0634\u0647\u0631\u06cc\u0648\u0631 05/\u0627\u0637\u0644\u0627\u0639\u0627\u062a \u0639\u0645\u0648\u0645\u06cc/\u0645\u0639\u0631\u0641\u06cc \u0634\u0631\u06a9\u062a \u0627\u0639\u062a\u0628\u0627\u0631\u0633\u0646\u062c\u06cc \u0627\u06cc\u0631\u0627\u0646.xlsx": {
+    "mtime_ns": 1790071372697198300,
+    "schema": 2,
+    "sha256": "a3930de984cfe36b45648870992032d44bfe03173412f306a02d34abec646cd6",
+    "size": 64859
+  },
+  "Downloads/\u067e\u0627\u06cc\u06af\u0627\u0647 \u062f\u0627\u0646\u0634 28 \u0634\u0647\u0631\u06cc\u0648\u0631 05/\u0627\u0637\u0644\u0627\u0639\u0627\u062a \u0639\u0645\u0648\u0645\u06cc/\u0645\u0642\u0627\u06cc\u0633\u0647 \u06a9\u0633\u0628 \u0648 \u06a9\u0627\u0631 \u0634\u0631\u06a9\u062a \u0627\u0639\u062a\u0628\u0627\u0631\u0633\u0646\u062c\u06cc \u0627\u06cc\u0631\u0627\u0646 \u0628\u0627 \u062f\u06cc\u06af\u0631 \u0634\u0631\u06a9\u062a \u0647\u0627.xlsx": {
+    "mtime_ns": 1790071372502570400,
+    "schema": 2,
+    "sha256": "b00eb8655e8835199bf524ae223b2fe225ed2866777ddf74e211c24d9080154a",
+    "size": 9505
+  },
+  "Downloads/\u067e\u0627\u06cc\u06af\u0627\u0647 \u062f\u0627\u0646\u0634 28 \u0634\u0647\u0631\u06cc\u0648\u0631 05/\u0627\u0637\u0644\u0627\u0639\u0627\u062a \u0639\u0645\u0648\u0645\u06cc/\u0647\u06cc\u0626\u062a \u0645\u062f\u06cc\u0631\u0647.xlsx": {
+    "mtime_ns": 1790071372422910900,
+    "schema": 2,
+    "sha256": "56b469e8a23a324913b7284b0b844b5965e00887ddc7778c105baf5e6f651533",
+    "size": 54084
+  },
+  "Downloads/\u067e\u0627\u06cc\u06af\u0627\u0647 \u062f\u0627\u0646\u0634 28 \u0634\u0647\u0631\u06cc\u0648\u0631 05/\u0634\u0631\u06a9\u062a\u200c\u0647\u0627/\u062a\u0648\u0636\u06cc\u062d\u0627\u062a \u0628\u062e\u0634_\u0647\u0627\u06cc \u0645\u062e\u062a\u0644\u0641 \u06af\u0632\u0627\u0631\u0634 \u0627\u0639\u062a\u0628\u0627\u0631\u06cc \u0634\u0631\u06a9\u062a\u0647\u0627.xlsx": {
+    "mtime_ns": 1790071373391797600,
+    "schema": 2,
+    "sha256": "00ddf546453f4eb779ad6b0d3f2964853a08062c1430f86708e9b9999bd1f5bb",
+    "size": 60727
+  },
+  "Downloads/\u067e\u0627\u06cc\u06af\u0627\u0647 \u062f\u0627\u0646\u0634 28 \u0634\u0647\u0631\u06cc\u0648\u0631 05/\u0634\u0631\u06a9\u062a\u200c\u0647\u0627/\u0631\u06cc\u0632\u0646 \u06a9\u062f \u0645\u062f\u0644 \u0628\u0631\u0627\u06cc \u0634\u0631\u06a9\u062a\u0647\u0627.xlsx": {
+    "mtime_ns": 1790071373323588300,
+    "schema": 2,
+    "sha256": "4dee4059ebcec98c225cb74431650f99cbabffa2fcd5ab232d6a5d753d7e32de",
+    "size": 22381
+  },
+  "Downloads/\u067e\u0627\u06cc\u06af\u0627\u0647 \u062f\u0627\u0646\u0634 28 \u0634\u0647\u0631\u06cc\u0648\u0631 05/\u0634\u0631\u06a9\u062a\u200c\u0647\u0627/\u0633\u0648\u0627\u0644\u0627\u062a \u0634\u0631\u06a9\u062a\u0647\u0627 \u0627\u0632 \u067e\u0634\u062a\u06cc\u0628\u0627\u0646\u06cc.xlsx": {
+    "mtime_ns": 1790071373494569700,
+    "schema": 2,
+    "sha256": "aa3d46822ebe040819b7f7b27f4f9894e1ce12a7328ffc6ec521edc1cd55e288",
+    "size": 124710
+  },
+  "Downloads/\u06a9\u06cc\u0645\u06cc\u0627 \u0646\u0647\u0631\u0648\u0627\u0646\u06cc\u0627\u0646_JobVision_Personal_Resume.pdf": {
+    "mtime_ns": 1790416330470926000,
+    "schema": 2,
+    "sha256": "9350550866ebcf089c899361b051d5b25bc887549e4315c3b712e05f26e9a9d5",
+    "size": 130279
   },
   "IMPERIUM-KB/.git/COMMIT_EDITMSG": {
     "mtime_ns": 1789898588229833900,
@@ -1164,10 +1356,10 @@
     "size": 21
   },
   "IMPERIUM-KB/.git/config": {
-    "mtime_ns": 1789806877315358700,
+    "mtime_ns": 1790155692842097500,
     "schema": 2,
-    "sha256": "ca68b05caa35e0214bd55a8b6a83ee9f3da345fcb20287160d2e17dcbe7dfb7f",
-    "size": 308
+    "sha256": "5a16d2f1b80817c5251126ae0297e25e0205c1f59bb9ee2bd54b6bc5300b1de8",
+    "size": 364
   },
   "IMPERIUM-KB/.git/description": {
     "mtime_ns": 1789806875713141900,
@@ -1260,12 +1452,12 @@
     "size": 3650
   },
   "IMPERIUM-KB/.git/index": {
-    "base_sha256": "8c621939e6ad1543c8e4f5d5b6e7e65f9e38ab19851016a02e139cc915d9718d",
+    "base_sha256": null,
     "conflict": true,
     "local_copy": "index.conflict-remote-7f59e65038c9",
-    "local_sha256": "504f74273c8ea6891d26a8c2be20137f06b7649c886b012f0a1584c1eaea0dd5",
+    "local_sha256": "520f34ad15911a1c0f12e31b52762fd10ca2ef3d10b9f1c6a5c6733c7280217a",
     "remote_sha256": "7f59e65038c99a3bdeceebb5aa0321b09b9e883c272f7393235b57b3050e5bba",
-    "repository_copy": "IMPERIUM-KB/.git/index.conflict-2ed36e34-455d-44ae-b8cc-4f72fc907cd8-504f74273c8e",
+    "repository_copy": "IMPERIUM-KB/.git/index.conflict-2ed36e34-455d-44ae-b8cc-4f72fc907cd8-520f34ad1591",
     "schema": 2
   },
   "IMPERIUM-KB/.git/index.conflict-2ed36e34-455d-44ae-b8cc-4f72fc907cd8-504f74273c8e": {
@@ -1303,6 +1495,12 @@
     "schema": 2,
     "sha256": "d0136d4c71fac5eba37cf81c7a89213605c28f2c19dd4513378a4c37e052ddce",
     "size": 473
+  },
+  "IMPERIUM-KB/.git/logs/refs/remotes/origin/main": {
+    "mtime_ns": 1790155700843484500,
+    "schema": 2,
+    "sha256": "c46505d2d5f735b3186f4b20561ad1f5fead0c6f27382b36dcd4a20c69fb0c7a",
+    "size": 151
   },
   "IMPERIUM-KB/.git/objects/2b/90fe895117e180f17f9b8ec285c75b775c251a": {
     "mtime_ns": 1789898588238942500,
@@ -1370,6 +1568,12 @@
     "sha256": "c9558cfd7e8c7c8e1b9bb962f27784fe87ab2a8018a640f7f03828e084e4abd5",
     "size": 41
   },
+  "IMPERIUM-KB/.git/refs/remotes/origin/main": {
+    "mtime_ns": 1790155700833788200,
+    "schema": 2,
+    "sha256": "c9558cfd7e8c7c8e1b9bb962f27784fe87ab2a8018a640f7f03828e084e4abd5",
+    "size": 41
+  },
   "IMPERIUM-KB/.obsidian/app.json": {
     "mtime_ns": 1789898547275544800,
     "schema": 2,
@@ -1383,7 +1587,7 @@
     "size": 375
   },
   "IMPERIUM-KB/README.md": {
-    "mtime_ns": 1789815387706029100,
+    "mtime_ns": 1790175393158166300,
     "schema": 2,
     "sha256": "30509babc9df13cba65ec79977b9860a96f28725c87721dae0824f8312cbd9e9",
     "size": 560

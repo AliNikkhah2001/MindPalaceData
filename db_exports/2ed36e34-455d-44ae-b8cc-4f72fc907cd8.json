@@ -38,11 +38,6 @@
         "uuid": "6718a23534ec4934ab113aa35e3534bd"
       },
       {
-        "deleted_at": "2026-09-15T14:33:39.813050",
-        "origin_device": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-        "uuid": "74d5489565384477b2a857d649a2ada1"
-      },
-      {
         "deleted_at": "2026-09-15T14:33:41.681944",
         "origin_device": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
         "uuid": "8c944f130900431eab332f36c91e1db7"
@@ -61,11 +56,6 @@
         "deleted_at": "2026-09-07T14:35:11.173562",
         "origin_device": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
         "uuid": "a4456dedc0f746039e9da0dddb9e4519"
-      },
-      {
-        "deleted_at": "2026-09-15T14:33:44.914193",
-        "origin_device": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-        "uuid": "bc1bac23dca54c6cbe10335cfc5613d6"
       },
       {
         "deleted_at": "2026-09-07T14:34:47.239390",
@@ -212,7 +202,7 @@
     "wallpapers": []
   },
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-09-21T14:52:25.573425Z",
+  "last_sync": "2026-09-27T10:35:54.496294Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -5167,6 +5157,780 @@
         "module": "Sync Error",
         "timestamp": "2026-09-21T18:16:58.563163",
         "uuid": "2a2e0c0c638f42daa42ba4c92ffb51ab"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Pull failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: refusing to merge unrelated histories'",
+        "id": 542,
+        "modified_at": "2026-09-27T12:24:42.142242",
+        "module": "Sync Error",
+        "timestamp": "2026-09-27T12:24:42.142242",
+        "uuid": "b863fc1771c743e8955694868b282df9"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Pull failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: refusing to merge unrelated histories'",
+        "id": 543,
+        "modified_at": "2026-09-27T12:25:26.503538",
+        "module": "Sync Error",
+        "timestamp": "2026-09-27T12:25:26.503538",
+        "uuid": "6ef0db3942c449138fbccffd2aac23d7"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Pull failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: refusing to merge unrelated histories'",
+        "id": 544,
+        "modified_at": "2026-09-27T12:29:48.988028",
+        "module": "Sync Error",
+        "timestamp": "2026-09-27T12:29:48.988028",
+        "uuid": "337de159910a4599aa9deb0e44fd977f"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Pull failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: refusing to merge unrelated histories'",
+        "id": 545,
+        "modified_at": "2026-09-27T12:30:40.377046",
+        "module": "Sync Error",
+        "timestamp": "2026-09-27T12:30:40.377046",
+        "uuid": "b7e1fbac9f354329949e3d375a767b6e"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Pull failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: refusing to merge unrelated histories'",
+        "id": 546,
+        "modified_at": "2026-09-27T12:31:23.445057",
+        "module": "Sync Error",
+        "timestamp": "2026-09-27T12:31:23.445057",
+        "uuid": "5ea20ab988c9499ea31e9a3a7170b852"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Pull failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: refusing to merge unrelated histories'",
+        "id": 547,
+        "modified_at": "2026-09-27T12:35:48.752338",
+        "module": "Sync Error",
+        "timestamp": "2026-09-27T12:35:48.752338",
+        "uuid": "dd622d2792fb4acba891e8879643216b"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Pull failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: refusing to merge unrelated histories'",
+        "id": 548,
+        "modified_at": "2026-09-27T12:36:39.883331",
+        "module": "Sync Error",
+        "timestamp": "2026-09-27T12:36:39.883331",
+        "uuid": "4152a391fef94b1d87f32d2b9b5a4523"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Pull failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: refusing to merge unrelated histories'",
+        "id": 549,
+        "modified_at": "2026-09-27T12:37:24.009597",
+        "module": "Sync Error",
+        "timestamp": "2026-09-27T12:37:24.009597",
+        "uuid": "b3422a1b6fe7409090933d4cfc138d90"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Pull failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: refusing to merge unrelated histories'",
+        "id": 550,
+        "modified_at": "2026-09-27T12:41:47.973629",
+        "module": "Sync Error",
+        "timestamp": "2026-09-27T12:41:47.973629",
+        "uuid": "efe07954566f48c989bef2007563a6f1"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Pull failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: refusing to merge unrelated histories'",
+        "id": 551,
+        "modified_at": "2026-09-27T12:42:44.206737",
+        "module": "Sync Error",
+        "timestamp": "2026-09-27T12:42:44.206737",
+        "uuid": "1a8fbc22e439453fa1ab65999e9b6c14"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Pull failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: refusing to merge unrelated histories'",
+        "id": 552,
+        "modified_at": "2026-09-27T12:43:24.123495",
+        "module": "Sync Error",
+        "timestamp": "2026-09-27T12:43:24.123495",
+        "uuid": "fe62e23ec0094c228012d92346af3c5f"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Pull failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: refusing to merge unrelated histories'",
+        "id": 553,
+        "modified_at": "2026-09-27T12:47:48.431506",
+        "module": "Sync Error",
+        "timestamp": "2026-09-27T12:47:48.431506",
+        "uuid": "66b799542f4645b3b50ff51aec69d47e"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Pull failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: refusing to merge unrelated histories'",
+        "id": 554,
+        "modified_at": "2026-09-27T12:48:39.469749",
+        "module": "Sync Error",
+        "timestamp": "2026-09-27T12:48:39.469749",
+        "uuid": "075ee9afc3104ae0aafd26deef7b2831"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Pull failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: refusing to merge unrelated histories'",
+        "id": 555,
+        "modified_at": "2026-09-27T12:49:24.358077",
+        "module": "Sync Error",
+        "timestamp": "2026-09-27T12:49:24.358077",
+        "uuid": "08a88d9aabb84fed9345e29bbe1114a3"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Pull failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: refusing to merge unrelated histories'",
+        "id": 556,
+        "modified_at": "2026-09-27T12:53:48.690978",
+        "module": "Sync Error",
+        "timestamp": "2026-09-27T12:53:48.690978",
+        "uuid": "b6d6bcd11bb74bf382949ec3fe54e368"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Pull failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: refusing to merge unrelated histories'",
+        "id": 557,
+        "modified_at": "2026-09-27T12:54:39.489294",
+        "module": "Sync Error",
+        "timestamp": "2026-09-27T12:54:39.489294",
+        "uuid": "e9d32caaa1754987932bab4179d55ece"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Pull failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: refusing to merge unrelated histories'",
+        "id": 558,
+        "modified_at": "2026-09-27T12:55:23.862806",
+        "module": "Sync Error",
+        "timestamp": "2026-09-27T12:55:23.862806",
+        "uuid": "290809fac456423785d5f0740941eff0"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Pull failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: refusing to merge unrelated histories'",
+        "id": 559,
+        "modified_at": "2026-09-27T12:59:50.304267",
+        "module": "Sync Error",
+        "timestamp": "2026-09-27T12:59:50.304267",
+        "uuid": "e2244cfc0bb94ddaad55db169e1ddc24"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Pull failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: refusing to merge unrelated histories'",
+        "id": 560,
+        "modified_at": "2026-09-27T13:00:48.792599",
+        "module": "Sync Error",
+        "timestamp": "2026-09-27T13:00:48.792599",
+        "uuid": "a35e272cfd8647da8fe280b5e1de212e"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Pull failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: refusing to merge unrelated histories'",
+        "id": 561,
+        "modified_at": "2026-09-27T13:01:25.647558",
+        "module": "Sync Error",
+        "timestamp": "2026-09-27T13:01:25.647558",
+        "uuid": "a686ba610c184b928db900e44cb07fda"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Pull failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: refusing to merge unrelated histories'",
+        "id": 562,
+        "modified_at": "2026-09-27T13:05:50.538945",
+        "module": "Sync Error",
+        "timestamp": "2026-09-27T13:05:50.538945",
+        "uuid": "0ecce89b6ca5437ebdbff6f2d750cdda"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Pull failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: refusing to merge unrelated histories'",
+        "id": 563,
+        "modified_at": "2026-09-27T13:06:42.531660",
+        "module": "Sync Error",
+        "timestamp": "2026-09-27T13:06:42.531660",
+        "uuid": "fb18f9bb6a8841dfbed4510671d8f9b9"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Pull failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: refusing to merge unrelated histories'",
+        "id": 564,
+        "modified_at": "2026-09-27T13:07:27.147378",
+        "module": "Sync Error",
+        "timestamp": "2026-09-27T13:07:27.147378",
+        "uuid": "835922bd8cc943aea1e8153a1b50472c"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Pull failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: refusing to merge unrelated histories'",
+        "id": 565,
+        "modified_at": "2026-09-27T13:11:53.812839",
+        "module": "Sync Error",
+        "timestamp": "2026-09-27T13:11:53.812839",
+        "uuid": "39f80dbbb097419d950c8881d040e77e"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Pull failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: refusing to merge unrelated histories'",
+        "id": 566,
+        "modified_at": "2026-09-27T13:12:43.787215",
+        "module": "Sync Error",
+        "timestamp": "2026-09-27T13:12:43.787215",
+        "uuid": "d59740964c7244d0bb216caf6794b72c"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Pull failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: refusing to merge unrelated histories'",
+        "id": 567,
+        "modified_at": "2026-09-27T13:13:28.833913",
+        "module": "Sync Error",
+        "timestamp": "2026-09-27T13:13:28.833913",
+        "uuid": "7ef188dfcd9648a28b09be227cc819f7"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Pull failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: refusing to merge unrelated histories'",
+        "id": 568,
+        "modified_at": "2026-09-27T13:17:54.455906",
+        "module": "Sync Error",
+        "timestamp": "2026-09-27T13:17:54.455906",
+        "uuid": "9a0a7edf8c5b403db1c0c2004417a34a"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Pull failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: refusing to merge unrelated histories'",
+        "id": 569,
+        "modified_at": "2026-09-27T13:18:45.779089",
+        "module": "Sync Error",
+        "timestamp": "2026-09-27T13:18:45.779089",
+        "uuid": "ce8f0bf4096b4867963590894478cf54"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Pull failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: refusing to merge unrelated histories'",
+        "id": 570,
+        "modified_at": "2026-09-27T13:19:29.874303",
+        "module": "Sync Error",
+        "timestamp": "2026-09-27T13:19:29.874303",
+        "uuid": "eafe20213cca49919c9eb30db6028357"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Pull failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: refusing to merge unrelated histories'",
+        "id": 571,
+        "modified_at": "2026-09-27T13:24:01.591872",
+        "module": "Sync Error",
+        "timestamp": "2026-09-27T13:24:01.591872",
+        "uuid": "4f71e3f9fe0748dc97ac962f39259553"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Pull failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: refusing to merge unrelated histories'",
+        "id": 572,
+        "modified_at": "2026-09-27T13:24:49.374486",
+        "module": "Sync Error",
+        "timestamp": "2026-09-27T13:24:49.374486",
+        "uuid": "9743c39428c249adb42cf84cf0233f76"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Pull failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: refusing to merge unrelated histories'",
+        "id": 573,
+        "modified_at": "2026-09-27T13:25:28.403694",
+        "module": "Sync Error",
+        "timestamp": "2026-09-27T13:25:28.403694",
+        "uuid": "35617bbe9fb649068e6c3f3a75793a9c"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Pull failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: refusing to merge unrelated histories'",
+        "id": 574,
+        "modified_at": "2026-09-27T13:29:50.720518",
+        "module": "Sync Error",
+        "timestamp": "2026-09-27T13:29:50.720518",
+        "uuid": "f50dcc873a5a45aaa453b2e9cb98a236"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Pull failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: refusing to merge unrelated histories'",
+        "id": 575,
+        "modified_at": "2026-09-27T13:30:43.525474",
+        "module": "Sync Error",
+        "timestamp": "2026-09-27T13:30:43.525474",
+        "uuid": "4ec3dd3b17fd4857b092a877a5f7eaa1"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Pull failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: refusing to merge unrelated histories'",
+        "id": 576,
+        "modified_at": "2026-09-27T13:31:26.671992",
+        "module": "Sync Error",
+        "timestamp": "2026-09-27T13:31:26.671992",
+        "uuid": "875ec3a0fb4f41539caea68b4c971a22"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Pull failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: refusing to merge unrelated histories'",
+        "id": 577,
+        "modified_at": "2026-09-27T13:35:51.593448",
+        "module": "Sync Error",
+        "timestamp": "2026-09-27T13:35:51.593448",
+        "uuid": "b06aa997241e488d8fc90e4f47957de8"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Pull failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: refusing to merge unrelated histories'",
+        "id": 578,
+        "modified_at": "2026-09-27T13:36:43.267974",
+        "module": "Sync Error",
+        "timestamp": "2026-09-27T13:36:43.267974",
+        "uuid": "b53453e5098442179fc4580e93a8572c"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Pull failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: refusing to merge unrelated histories'",
+        "id": 579,
+        "modified_at": "2026-09-27T13:37:26.417190",
+        "module": "Sync Error",
+        "timestamp": "2026-09-27T13:37:26.417190",
+        "uuid": "e4b15e1f3a644ee8aee8675ed04c6bf1"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Pull failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: refusing to merge unrelated histories'",
+        "id": 580,
+        "modified_at": "2026-09-27T13:41:50.939415",
+        "module": "Sync Error",
+        "timestamp": "2026-09-27T13:41:50.939415",
+        "uuid": "b2ca7d12e8e443c3b3ab3a60ee717887"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Pull failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: refusing to merge unrelated histories'",
+        "id": 581,
+        "modified_at": "2026-09-27T13:42:40.282674",
+        "module": "Sync Error",
+        "timestamp": "2026-09-27T13:42:40.282674",
+        "uuid": "71ca2e4906004a3592378a6538786974"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Pull failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: refusing to merge unrelated histories'",
+        "id": 582,
+        "modified_at": "2026-09-27T13:43:25.357756",
+        "module": "Sync Error",
+        "timestamp": "2026-09-27T13:43:25.357756",
+        "uuid": "bf403962ef014ef780eeeb46c45024b4"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Pull failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: refusing to merge unrelated histories'",
+        "id": 583,
+        "modified_at": "2026-09-27T13:47:53.233057",
+        "module": "Sync Error",
+        "timestamp": "2026-09-27T13:47:53.233057",
+        "uuid": "c96709e5a5384ac185ffdd3f579a1050"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Pull failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: refusing to merge unrelated histories'",
+        "id": 584,
+        "modified_at": "2026-09-27T13:48:43.605509",
+        "module": "Sync Error",
+        "timestamp": "2026-09-27T13:48:43.605509",
+        "uuid": "e10766a75cfe4c4f9575efbc08fcc228"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Pull failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: refusing to merge unrelated histories'",
+        "id": 585,
+        "modified_at": "2026-09-27T13:49:26.702834",
+        "module": "Sync Error",
+        "timestamp": "2026-09-27T13:49:26.702834",
+        "uuid": "ece632f317b14627968fe91f8517ba26"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Pull failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: refusing to merge unrelated histories'",
+        "id": 586,
+        "modified_at": "2026-09-27T13:53:56.107077",
+        "module": "Sync Error",
+        "timestamp": "2026-09-27T13:53:56.107077",
+        "uuid": "f300889a3d7e493e846e61e10736fca7"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData/': CONNECT tunnel failed, response 500",
+        "id": 587,
+        "modified_at": "2026-09-27T13:54:35.297225",
+        "module": "Sync Error",
+        "timestamp": "2026-09-27T13:54:35.297225",
+        "uuid": "7eeba2665d4443e29aa00a373f47bdf7"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Pull failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: refusing to merge unrelated histories'",
+        "id": 588,
+        "modified_at": "2026-09-27T13:55:26.544227",
+        "module": "Sync Error",
+        "timestamp": "2026-09-27T13:55:26.544227",
+        "uuid": "cfbbcc5020084adc9404e5877ee32221"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Pull failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: refusing to merge unrelated histories'",
+        "id": 589,
+        "modified_at": "2026-09-27T13:59:51.853198",
+        "module": "Sync Error",
+        "timestamp": "2026-09-27T13:59:51.853198",
+        "uuid": "b3d60684edc94b049145312f0e256057"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Pull failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: refusing to merge unrelated histories'",
+        "id": 590,
+        "modified_at": "2026-09-27T14:00:48.602821",
+        "module": "Sync Error",
+        "timestamp": "2026-09-27T14:00:48.602821",
+        "uuid": "1959c1941c224389ae57c4ee2bdefb15"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Pull failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: refusing to merge unrelated histories'",
+        "id": 591,
+        "modified_at": "2026-09-27T14:01:30.729970",
+        "module": "Sync Error",
+        "timestamp": "2026-09-27T14:01:30.729970",
+        "uuid": "7372fe2b354546be86c154cd54caf3e0"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 592,
+        "modified_at": "2026-09-23T04:49:20.360654",
+        "module": "Sync Error",
+        "timestamp": "2026-09-23T04:49:20.360654",
+        "uuid": "035d14c06aaf4d898b46033b6b5cb089"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 593,
+        "modified_at": "2026-09-22T20:47:21.809137",
+        "module": "Sync Error",
+        "timestamp": "2026-09-22T20:47:21.809137",
+        "uuid": "0be5b6a6758c473682e0e8dfbe10e52e"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Push failed after 3 attempts: Cmd('git') failed due to: exit code(1)\n  cmdline: git push --porcelain --progress -- origin\n  stderr: 'error: failed to push some refs to 'https://github.com/alinikkhah2001/MindPalaceData.git''",
+        "id": 594,
+        "modified_at": "2026-09-23T16:18:04.185989",
+        "module": "Sync Error",
+        "timestamp": "2026-09-23T16:18:04.185989",
+        "uuid": "16c48505adf14bb4ab56978441d18848"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 595,
+        "modified_at": "2026-09-23T10:55:24.338644",
+        "module": "Sync Error",
+        "timestamp": "2026-09-23T10:55:24.338644",
+        "uuid": "2035c33dfcb74e9895519cb7713b3dd7"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 596,
+        "modified_at": "2026-09-24T01:20:47.324378",
+        "module": "Sync Error",
+        "timestamp": "2026-09-24T01:20:47.324378",
+        "uuid": "21bcf28fcbb645ee9b238e35254b10fa"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 597,
+        "modified_at": "2026-09-22T16:52:42.233200",
+        "module": "Sync Error",
+        "timestamp": "2026-09-22T16:52:42.233200",
+        "uuid": "2c3731024b914759b78ac1bc01797423"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Updated application settings via UI.",
+        "id": 598,
+        "modified_at": "2026-09-23T13:03:03.712281",
+        "module": "Settings",
+        "timestamp": "2026-09-23T13:03:03.712281",
+        "uuid": "2ddb0525b0504e67aca56438f7b5565a"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 599,
+        "modified_at": "2026-09-24T02:21:48.444043",
+        "module": "Sync Error",
+        "timestamp": "2026-09-24T02:21:48.444043",
+        "uuid": "2e20750ae0994674b89e286920718a97"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 600,
+        "modified_at": "2026-09-23T01:43:51.339345",
+        "module": "Sync Error",
+        "timestamp": "2026-09-23T01:43:51.339345",
+        "uuid": "322435dbb59c49919685357f81118141"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 601,
+        "modified_at": "2026-09-22T22:59:18.345103",
+        "module": "Sync Error",
+        "timestamp": "2026-09-22T22:59:18.345103",
+        "uuid": "36219c30f71b4d868f6aa7d4d3b4f236"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 602,
+        "modified_at": "2026-09-23T19:21:14.509174",
+        "module": "Sync Error",
+        "timestamp": "2026-09-23T19:21:14.509174",
+        "uuid": "441f215d5d3b4755aec26d4a138a6760"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 603,
+        "modified_at": "2026-09-23T02:56:22.403857",
+        "module": "Sync Error",
+        "timestamp": "2026-09-23T02:56:22.403857",
+        "uuid": "49d2f9232c35487c95d9617d7ddb42a4"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 604,
+        "modified_at": "2026-09-22T14:43:32.995305",
+        "module": "Sync Error",
+        "timestamp": "2026-09-22T14:43:32.995305",
+        "uuid": "4d2df66671794771b1550c64ed4656a9"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 605,
+        "modified_at": "2026-09-23T22:28:58.991364",
+        "module": "Sync Error",
+        "timestamp": "2026-09-23T22:28:58.991364",
+        "uuid": "4eb7d3461b124618ba8a291cee35747d"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 606,
+        "modified_at": "2026-09-23T07:54:27.370244",
+        "module": "Sync Error",
+        "timestamp": "2026-09-23T07:54:27.370244",
+        "uuid": "71f883e0d8d74e42be0506cd867f3828"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 607,
+        "modified_at": "2026-09-23T09:54:01.374026",
+        "module": "Sync Error",
+        "timestamp": "2026-09-23T09:54:01.374026",
+        "uuid": "77d6a967e7f34ecea6d3e70e47d5992b"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Push failed after 3 attempts: Cmd('git') failed due to: exit code(1)\n  cmdline: git pull -v --progress -- origin\n  stderr: 'fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com'",
+        "id": 608,
+        "modified_at": "2026-09-23T23:52:53.974993",
+        "module": "Sync Error",
+        "timestamp": "2026-09-23T23:52:53.974993",
+        "uuid": "783bdf43eda44789bf7f6d10609d4f93"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 609,
+        "modified_at": "2026-09-23T06:48:59.360007",
+        "module": "Sync Error",
+        "timestamp": "2026-09-23T06:48:59.360007",
+        "uuid": "7bf3148f44514966a6a16466a5873a25"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 610,
+        "modified_at": "2026-09-23T03:57:40.323114",
+        "module": "Sync Error",
+        "timestamp": "2026-09-23T03:57:40.323114",
+        "uuid": "7c23321384614660b55e82b369b0eed4"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 611,
+        "modified_at": "2026-09-24T00:26:11.290899",
+        "module": "Sync Error",
+        "timestamp": "2026-09-24T00:26:11.290899",
+        "uuid": "842ed51b62bb4c36a931d5900be75f71"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 612,
+        "modified_at": "2026-09-23T05:53:01.359574",
+        "module": "Sync Error",
+        "timestamp": "2026-09-23T05:53:01.359574",
+        "uuid": "86601d7dc85c4e4c91690405a1610983"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 613,
+        "modified_at": "2026-09-23T00:55:02.143039",
+        "module": "Sync Error",
+        "timestamp": "2026-09-23T00:55:02.143039",
+        "uuid": "906ad30df11a4fdeb9eaaa538ae0f308"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Push failed after 3 attempts: Cmd('git') failed due to: exit code(1)\n  cmdline: git push --porcelain --progress -- origin\n  stderr: 'error: failed to push some refs to 'https://github.com/alinikkhah2001/MindPalaceData.git''",
+        "id": 614,
+        "modified_at": "2026-09-23T14:14:54.720360",
+        "module": "Sync Error",
+        "timestamp": "2026-09-23T14:14:54.720360",
+        "uuid": "9981a755c05944e6b62d65b73f6bb6c2"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Push failed after 3 attempts: Cmd('git') failed due to: exit code(1)\n  cmdline: git push --porcelain --progress -- origin\n  stderr: 'error: failed to push some refs to 'https://github.com/alinikkhah2001/MindPalaceData.git''",
+        "id": 615,
+        "modified_at": "2026-09-22T15:44:57.496456",
+        "module": "Sync Error",
+        "timestamp": "2026-09-22T15:44:57.496456",
+        "uuid": "9dd8ac7757f54c40a26dfe8cddb0bff1"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 616,
+        "modified_at": "2026-09-22T23:44:12.330102",
+        "module": "Sync Error",
+        "timestamp": "2026-09-22T23:44:12.330102",
+        "uuid": "a83bb42cc0e2431fab24090b5e49f646"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 617,
+        "modified_at": "2026-09-22T19:53:07.327590",
+        "module": "Sync Error",
+        "timestamp": "2026-09-22T19:53:07.327590",
+        "uuid": "aa1e0b13840e495dafc292d88f517919"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 618,
+        "modified_at": "2026-09-23T08:51:29.329654",
+        "module": "Sync Error",
+        "timestamp": "2026-09-23T08:51:29.329654",
+        "uuid": "b33e6af642c449aa86af46e7cfbb8b39"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Push failed after 3 attempts: Cmd('git') failed due to: exit code(1)\n  cmdline: git push --porcelain --progress -- origin\n  stderr: 'error: failed to push some refs to 'https://github.com/alinikkhah2001/MindPalaceData.git''",
+        "id": 619,
+        "modified_at": "2026-09-23T13:02:53.144073",
+        "module": "Sync Error",
+        "timestamp": "2026-09-23T13:02:53.144073",
+        "uuid": "b3e7bd2f3d004171a6398139340a8039"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 620,
+        "modified_at": "2026-09-08T17:25:56.787258",
+        "module": "Sync Error",
+        "timestamp": "2026-09-08T17:25:56.787258",
+        "uuid": "bfded2d26e5f4edd8264dcc92a2be8eb"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 621,
+        "modified_at": "2026-09-22T17:51:54.427952",
+        "module": "Sync Error",
+        "timestamp": "2026-09-22T17:51:54.427952",
+        "uuid": "cb94df0e1f834380a987457147664d02"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 622,
+        "modified_at": "2026-09-22T18:57:27.532316",
+        "module": "Sync Error",
+        "timestamp": "2026-09-22T18:57:27.532316",
+        "uuid": "d8125cbcea6c48d4b406250c7828f4fa"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Push failed after 3 attempts: Cmd('git') failed due to: exit code(1)\n  cmdline: git push --porcelain --progress -- origin\n  stderr: 'error: failed to push some refs to 'https://github.com/alinikkhah2001/MindPalaceData.git''",
+        "id": 623,
+        "modified_at": "2026-09-23T15:14:55.276589",
+        "module": "Sync Error",
+        "timestamp": "2026-09-23T15:14:55.276589",
+        "uuid": "da6184fa6ff94244922bf21ba168b1dd"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 624,
+        "modified_at": "2026-09-24T03:19:53.579864",
+        "module": "Sync",
+        "timestamp": "2026-09-24T03:19:53.579864",
+        "uuid": "dc58ab49784949cab87268b1759a3cfc"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 625,
+        "modified_at": "2026-09-23T20:29:14.315239",
+        "module": "Sync Error",
+        "timestamp": "2026-09-23T20:29:14.315239",
+        "uuid": "e005423a8d3e42759a8dd13289df2b93"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 626,
+        "modified_at": "2026-09-23T21:26:36.301237",
+        "module": "Sync Error",
+        "timestamp": "2026-09-23T21:26:36.301237",
+        "uuid": "eb3435c2a5ac40baa8ab0a788bdf2d83"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 627,
+        "modified_at": "2026-09-22T21:56:04.341475",
+        "module": "Sync Error",
+        "timestamp": "2026-09-22T21:56:04.341475",
+        "uuid": "f895684c951e4018bace3becc8c8fc77"
       }
     ],
     "cascading_goals": [
@@ -5222,7 +5986,7 @@
         "id": 3,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-09-21T18:22:25.569436",
+        "modified_at": "2026-09-27T14:05:54.484965",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 50.0,
@@ -5249,6 +6013,46 @@
         "texture": "grid",
         "title": "Research R/D",
         "uuid": "c733d694dc4b45bba747cb8e7bd4f3c7"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "category": "Goal",
+        "color": "#fb7185",
+        "color_secondary": "#c084fc",
+        "completed": 0,
+        "deadline": "2026-09-09 06:09",
+        "done": 0,
+        "icon": "briefcase-business",
+        "id": 5,
+        "level": null,
+        "logged_hours": 0.0,
+        "modified_at": "2026-09-24T04:19:47.557267",
+        "parent_id": null,
+        "parent_uuid": null,
+        "target_hours": 10.0,
+        "texture": "waves",
+        "title": "sample day",
+        "uuid": "74d5489565384477b2a857d649a2ada1"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "category": null,
+        "color": "#3b82f6",
+        "color_secondary": "#8b5cf6",
+        "completed": 0,
+        "deadline": "2026-09-14 17:10",
+        "done": 0,
+        "icon": "target",
+        "id": 6,
+        "level": null,
+        "logged_hours": 0.0,
+        "modified_at": "2026-09-24T04:19:47.557267",
+        "parent_id": null,
+        "parent_uuid": null,
+        "target_hours": 34.0,
+        "texture": "grain",
+        "title": "dasdsadsa",
+        "uuid": "bc1bac23dca54c6cbe10335cfc5613d6"
       }
     ],
     "composite_foods": [
@@ -5330,6 +6134,19 @@
         "sleep_quality": 2,
         "stress_level": 2,
         "uuid": "9047744d32734f71990cfb9db60e920b"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "date": "2026-09-22",
+        "energy_level": 3,
+        "id": 5,
+        "modified_at": "2026-09-23T00:32:38.556922",
+        "mood_tags": "[]",
+        "notes": "",
+        "sleep_hours": 7.5,
+        "sleep_quality": 3,
+        "stress_level": 2,
+        "uuid": "85487323e07b47d69639ca533be6b5c1"
       }
     ],
     "flashcards": [
