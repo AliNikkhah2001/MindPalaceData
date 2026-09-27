@@ -202,7 +202,7 @@
     "wallpapers": []
   },
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-09-27T11:29:50.585370Z",
+  "last_sync": "2026-09-27T11:35:54.560851Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -6174,6 +6174,33 @@
         "module": "Sync Error",
         "timestamp": "2026-09-27T14:55:15.728269",
         "uuid": "0300cc898d6a4e1f851501da5c035cd6"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Sync failed: Another IMPERIUM process is already synchronizing",
+        "id": 655,
+        "modified_at": "2026-09-27T15:00:28.971607",
+        "module": "Sync Error",
+        "timestamp": "2026-09-27T15:00:28.971607",
+        "uuid": "c0332115be7d4f83821d307a5e5182b4"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Sync failed: Another IMPERIUM process is already synchronizing",
+        "id": 656,
+        "modified_at": "2026-09-27T15:01:13.427302",
+        "module": "Sync Error",
+        "timestamp": "2026-09-27T15:01:13.427302",
+        "uuid": "c6be9a7417574df2977ea6ff7444bd76"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Push failed after 3 attempts: Cmd('git') failed due to: exit code(1)\n  cmdline: git push --porcelain --progress -- origin\n  stderr: 'error: failed to push some refs to 'https://github.com/alinikkhah2001/MindPalaceData''",
+        "id": 657,
+        "modified_at": "2026-09-27T15:01:26.669778",
+        "module": "Sync Error",
+        "timestamp": "2026-09-27T15:01:26.669778",
+        "uuid": "86450630ad8447dcb83527c428e15c34"
       }
     ],
     "cascading_goals": [
@@ -6229,7 +6256,7 @@
         "id": 3,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-09-27T14:59:50.577740",
+        "modified_at": "2026-09-27T15:05:54.556955",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 50.0,
