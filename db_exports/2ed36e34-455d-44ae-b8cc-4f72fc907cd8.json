@@ -202,7 +202,7 @@
     "wallpapers": []
   },
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-09-27T11:35:54.560851Z",
+  "last_sync": "2026-09-27T11:37:23.641288Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -6201,6 +6201,24 @@
         "module": "Sync Error",
         "timestamp": "2026-09-27T15:01:26.669778",
         "uuid": "86450630ad8447dcb83527c428e15c34"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Sync failed: Another IMPERIUM process is already synchronizing",
+        "id": 658,
+        "modified_at": "2026-09-27T15:06:28.937215",
+        "module": "Sync Error",
+        "timestamp": "2026-09-27T15:06:28.937215",
+        "uuid": "e56fb557926348d0a6988d699de0ba67"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Sync failed: Push failed after 3 attempts: Cmd('git') failed due to: exit code(1)\n  cmdline: git push --porcelain --progress -- origin\n  stderr: 'error: failed to push some refs to 'https://github.com/alinikkhah2001/MindPalaceData''",
+        "id": 659,
+        "modified_at": "2026-09-27T15:06:53.309811",
+        "module": "Sync Error",
+        "timestamp": "2026-09-27T15:06:53.309811",
+        "uuid": "fe451d1be5254f9299c99e93dee2cc37"
       }
     ],
     "cascading_goals": [
@@ -6256,7 +6274,7 @@
         "id": 3,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-09-27T15:05:54.556955",
+        "modified_at": "2026-09-27T15:07:23.635377",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 50.0,
