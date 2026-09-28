@@ -202,7 +202,7 @@
     "wallpapers": []
   },
   "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-  "last_sync": "2026-09-27T14:21:16.017214Z",
+  "last_sync": "2026-09-28T07:22:22.719449Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -6383,7 +6383,7 @@
         "id": 12,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-09-27T17:51:16.016078",
+        "modified_at": "2026-09-28T10:52:22.717775",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 50.0,
