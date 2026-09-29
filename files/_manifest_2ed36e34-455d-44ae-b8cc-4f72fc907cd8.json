@@ -1067,6 +1067,18 @@
     "sha256": "ea1e4d60faee8ae6d6e1af459e149998949aa763eed1900d259791d57304a6af",
     "size": 38030
   },
+  "Downloads/chatbot.conflict-2ed36e34-455d-44ae-b8cc-4f72fc907cd8-30bc2c62b1c1.pptx": {
+    "mtime_ns": 1789823387749671000,
+    "schema": 2,
+    "sha256": "30bc2c62b1c18c80ee18a81aca473a66ed4e7a4e62a87a6072b7966cd48559d0",
+    "size": 6266599
+  },
+  "Downloads/chatbot.conflict-remote-bd7d7d28a67a.pptx": {
+    "mtime_ns": 1790662700996773300,
+    "schema": 2,
+    "sha256": "bd7d7d28a67a2f9f4b9a0bf5ec9c70ecf08fa0ddabe0851ee4a31f8d686933ef",
+    "size": 6290734
+  },
   "Downloads/chatbot.pptx": {
     "base_sha256": null,
     "conflict": true,
