@@ -201,7 +201,7 @@
     "recipe_ingredients": []
   },
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-09-29T11:49:09.206190Z",
+  "last_sync": "2026-09-29T12:04:34.551077Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -7153,60 +7153,6 @@
         "module": "Sync Error",
         "timestamp": "2026-09-29T14:22:34.419249",
         "uuid": "4d95e5a61d984fedb43d1986e30873d1"
-      },
-      {
-        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-        "description": "Sync failed: Push failed after 3 attempts: Cmd('git') failed due to: exit code(1)\n  cmdline: git push --porcelain --progress -- origin\n  stderr: 'error: failed to push some refs to 'https://github.com/alinikkhah2001/MindPalaceData''",
-        "id": 764,
-        "modified_at": "2026-09-29T14:34:32.302532",
-        "module": "Sync Error",
-        "timestamp": "2026-09-29T14:34:32.302532",
-        "uuid": "ae4c54d86aac49b9bff973db6a2fce74"
-      },
-      {
-        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-        "description": "Sync failed: Push failed after 3 attempts: Cmd('git') failed due to: exit code(1)\n  cmdline: git push --porcelain --progress -- origin\n  stderr: 'error: failed to push some refs to 'https://github.com/alinikkhah2001/MindPalaceData''",
-        "id": 765,
-        "modified_at": "2026-09-29T14:40:22.092710",
-        "module": "Sync Error",
-        "timestamp": "2026-09-29T14:40:22.092710",
-        "uuid": "d84e94f5f2444a7eb5a6fe3eab7b9ad9"
-      },
-      {
-        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-        "description": "Successfully synced with Git cluster. Sync completed successfully",
-        "id": 766,
-        "modified_at": "2026-09-29T14:55:35.267355",
-        "module": "Sync",
-        "timestamp": "2026-09-29T14:55:35.267355",
-        "uuid": "323802731de243a99fd7950b5bac0dda"
-      },
-      {
-        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-        "description": "Successfully synced with Git cluster. Sync completed successfully",
-        "id": 767,
-        "modified_at": "2026-09-29T15:01:29.596554",
-        "module": "Sync",
-        "timestamp": "2026-09-29T15:01:29.596554",
-        "uuid": "8bcb7df4ffdb44818c25e24d543f5849"
-      },
-      {
-        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-        "description": "Successfully synced with Git cluster. Sync completed successfully",
-        "id": 768,
-        "modified_at": "2026-09-29T15:07:40.551107",
-        "module": "Sync",
-        "timestamp": "2026-09-29T15:07:40.551107",
-        "uuid": "76a45ab9314f4f25a4f30a8eb78110cd"
-      },
-      {
-        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-        "description": "Successfully synced with Git cluster. Sync completed successfully",
-        "id": 769,
-        "modified_at": "2026-09-29T15:13:53.399982",
-        "module": "Sync",
-        "timestamp": "2026-09-29T15:13:53.399982",
-        "uuid": "01e9b35962154a86bbb426a090c26e08"
       }
     ],
     "cascading_goals": [
@@ -7262,7 +7208,7 @@
         "id": 3,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-09-29T15:19:09.202878",
+        "modified_at": "2026-09-29T15:34:34.547764",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 50.0,
