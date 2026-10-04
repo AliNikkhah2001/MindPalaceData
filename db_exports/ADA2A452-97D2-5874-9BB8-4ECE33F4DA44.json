@@ -212,7 +212,7 @@
     "recipe_ingredients": []
   },
   "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-  "last_sync": "2026-10-04T11:38:11.036894Z",
+  "last_sync": "2026-10-04T11:41:42.434811Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -7913,7 +7913,7 @@
         "id": 12,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-10-04T15:08:11.036347",
+        "modified_at": "2026-10-04T15:11:42.434248",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 50.0,
