@@ -1364,6 +1364,15 @@
     "sha256": "eb119b89c56fc96902a0adc2fb68d8aa394c7140d36d4c2fc79da447cc281be0",
     "size": 242487
   },
+  "Downloads/\u0646\u0648\u06cc\u062f \u0633\u0647\u0631\u0627\u0628\u06cc_JobVision_Personal_Resume.pdf": {
+    "base_sha256": null,
+    "conflict": true,
+    "local_copy": "\u0646\u0648\u06cc\u062f \u0633\u0647\u0631\u0627\u0628\u06cc_JobVision_Personal_Resume.conflict-remote-9b2f1422c641.pdf",
+    "local_sha256": "5708c23ba8966c89ba00a27b775ec66b5c018b17d31d9e128eee311743b99b46",
+    "remote_sha256": "9b2f1422c641066f065c31769ab93fffeeba809825476b294245ab36d7eb807a",
+    "repository_copy": "Downloads/\u0646\u0648\u06cc\u062f \u0633\u0647\u0631\u0627\u0628\u06cc_JobVision_Personal_Resume.conflict-2ed36e34-455d-44ae-b8cc-4f72fc907cd8-5708c23ba896.pdf",
+    "schema": 2
+  },
   "Downloads/\u0646\u06af\u0627\u0631 \u06a9\u0627\u0645\u0631\u0627\u0646\u06cc\u0627\u0646_JobVision_Personal_Resume.pdf": {
     "mtime_ns": 1790587924401757200,
     "schema": 2,
