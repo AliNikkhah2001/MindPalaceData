@@ -201,7 +201,7 @@
     "recipe_ingredients": []
   },
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-10-04T08:24:37.995612Z",
+  "last_sync": "2026-10-04T08:30:36.934279Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -7558,6 +7558,24 @@
         "module": "Sync",
         "timestamp": "2026-10-03T16:12:39.301789",
         "uuid": "7e857d16355e4e8b927a8c89d464e268"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 809,
+        "modified_at": "2026-10-04T11:55:45.211266",
+        "module": "Sync",
+        "timestamp": "2026-10-04T11:55:45.211266",
+        "uuid": "829075097d9243068e81dbcc2855050a"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Successfully synced with Git cluster. Verify: error \u2014 fetch failed: Cmd('git') failed due to: exit code(128)\n  cmdline: git fetch -v -- origin --prune\n  stderr: 'fatal: couldn't find remote ref --prune'",
+        "id": 810,
+        "modified_at": "2026-10-04T11:59:14.477313",
+        "module": "Sync",
+        "timestamp": "2026-10-04T11:59:14.477313",
+        "uuid": "3be38314007a4d9c94c6c14d89e3d91b"
       }
     ],
     "cascading_goals": [
@@ -7613,7 +7631,7 @@
         "id": 3,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-10-04T11:54:37.989487",
+        "modified_at": "2026-10-04T12:00:36.926165",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 50.0,
