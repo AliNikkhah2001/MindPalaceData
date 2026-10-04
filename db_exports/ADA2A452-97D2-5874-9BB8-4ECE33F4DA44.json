@@ -212,7 +212,7 @@
     "recipe_ingredients": []
   },
   "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-  "last_sync": "2026-10-04T16:48:15.771382Z",
+  "last_sync": "2026-10-04T18:50:03.573096Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -7878,6 +7878,24 @@
         "module": "Sync",
         "timestamp": "2026-10-04T19:07:15.041809",
         "uuid": "c542e4c308c24fc9b6d9c1057e9c7ae2"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 844,
+        "modified_at": "2026-10-04T20:35:45.031845",
+        "module": "Sync",
+        "timestamp": "2026-10-04T20:35:45.031845",
+        "uuid": "cb7379f8fe1e4fdca56b38b02ae836cf"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: error: RPC failed; curl 16 Error in the HTTP2 framing layer\nfatal: expected flush after ref listing",
+        "id": 845,
+        "modified_at": "2026-10-04T21:43:10.128901",
+        "module": "Sync Error",
+        "timestamp": "2026-10-04T21:43:10.128901",
+        "uuid": "7f225b3164614a0b8df2667ed1daa0d3"
       }
     ],
     "cascading_goals": [
@@ -7949,7 +7967,7 @@
         "id": 12,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-10-04T20:18:15.526330",
+        "modified_at": "2026-10-04T22:20:03.550500",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 50.0,
