@@ -201,7 +201,7 @@
     "recipe_ingredients": []
   },
   "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-  "last_sync": "2026-10-04T10:25:32.530307Z",
+  "last_sync": "2026-10-04T11:24:19.733300Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -220,7 +220,7 @@
     "clock_lume": "None",
     "clock_style": "Analog Classic",
     "clock_ticks": "Standard",
-    "cognitio_vault_path": "/Users/alinikkhah/Documents/Personal Projects/Shadow_Git/Personal_Shadow/IMPERIUM/modules/cognitio/vault",
+    "cognitio_vault_path": "/Users/alinikkhah/Documents/Personal Projects/Shadow_Git/Personal_Shadow/IMPERIUM/data/knowledge",
     "custom_font_path": "",
     "dashboard_layout": {},
     "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
@@ -7732,6 +7732,96 @@
         "module": "Sync Error",
         "timestamp": "2026-09-29T11:42:43.337975",
         "uuid": "ff9d5502ea8444a89ab3dd42e6b6b064"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 829,
+        "modified_at": "2026-10-04T14:21:27.099531",
+        "module": "Sync",
+        "timestamp": "2026-10-04T14:21:27.099531",
+        "uuid": "01d9fee4733e4f4c9336f793e7e9864c"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 830,
+        "modified_at": "2026-10-04T14:15:28.232687",
+        "module": "Sync",
+        "timestamp": "2026-10-04T14:15:28.232687",
+        "uuid": "095c8a18b7df40eea3da305b503c1ffe"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 831,
+        "modified_at": "2026-10-04T13:51:56.692660",
+        "module": "Sync",
+        "timestamp": "2026-10-04T13:51:56.692660",
+        "uuid": "15a2edf237f9416691cab56ab3397a59"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 832,
+        "modified_at": "2026-10-04T14:03:34.794979",
+        "module": "Sync",
+        "timestamp": "2026-10-04T14:03:34.794979",
+        "uuid": "47a14919c57e44d2b7f9a8bca275a820"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 833,
+        "modified_at": "2026-10-04T14:09:20.325679",
+        "module": "Sync",
+        "timestamp": "2026-10-04T14:09:20.325679",
+        "uuid": "50c93a0291504903a1abaf5715d4f474"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 834,
+        "modified_at": "2026-10-04T14:33:27.147925",
+        "module": "Sync",
+        "timestamp": "2026-10-04T14:33:27.147925",
+        "uuid": "5605657d41f64cf0909772ab1b49df6a"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 835,
+        "modified_at": "2026-10-04T14:45:05.316612",
+        "module": "Sync",
+        "timestamp": "2026-10-04T14:45:05.316612",
+        "uuid": "77dbd163d81446779abf577a67178d0a"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 836,
+        "modified_at": "2026-10-04T14:39:27.039142",
+        "module": "Sync",
+        "timestamp": "2026-10-04T14:39:27.039142",
+        "uuid": "8b323ac7ede14f238f39bbb7fea04597"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 837,
+        "modified_at": "2026-10-04T13:57:32.105938",
+        "module": "Sync",
+        "timestamp": "2026-10-04T13:57:32.105938",
+        "uuid": "8f6adb1556fa46e4b617ffdc7f069ff2"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 838,
+        "modified_at": "2026-10-04T14:27:23.598723",
+        "module": "Sync",
+        "timestamp": "2026-10-04T14:27:23.598723",
+        "uuid": "d065d858533546bba0e66f138acffc5a"
       }
     ],
     "cascading_goals": [
@@ -7803,7 +7893,7 @@
         "id": 12,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-10-04T13:55:32.529721",
+        "modified_at": "2026-10-04T14:54:19.732561",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 50.0,
