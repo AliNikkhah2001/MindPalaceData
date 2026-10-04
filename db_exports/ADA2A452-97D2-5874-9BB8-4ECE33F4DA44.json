@@ -87,6 +87,11 @@
         "uuid": "2ca4b72939474367a62ce08f7ab53a27"
       },
       {
+        "deleted_at": "2026-10-04T15:00:41.150059",
+        "origin_device": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "uuid": "51a27bdc0bed41e29d6afbda21db9925"
+      },
+      {
         "deleted_at": "2026-09-02T17:13:02.947433",
         "origin_device": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
         "uuid": "582e7dbf889f4fff93e695ff597dfa7d"
@@ -189,7 +194,13 @@
     ],
     "food_logs": [],
     "habit_logs": [],
-    "habits": [],
+    "habits": [
+      {
+        "deleted_at": "2026-10-04T15:00:23.481964",
+        "origin_device": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "uuid": "65e42014b83e437ea878be6412b3d7a9"
+      }
+    ],
     "health_logs": [],
     "health_plans": [],
     "health_profile": [],
@@ -201,7 +212,7 @@
     "recipe_ingredients": []
   },
   "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-  "last_sync": "2026-10-04T11:26:18.387999Z",
+  "last_sync": "2026-10-04T11:38:11.036894Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -7822,6 +7833,15 @@
         "module": "Sync",
         "timestamp": "2026-10-04T14:27:23.598723",
         "uuid": "d065d858533546bba0e66f138acffc5a"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 839,
+        "modified_at": "2026-10-04T14:51:05.789825",
+        "module": "Sync",
+        "timestamp": "2026-10-04T14:51:05.789825",
+        "uuid": "cb680779a91d4b8ab3380c8ec57282bb"
       }
     ],
     "cascading_goals": [
@@ -7893,7 +7913,7 @@
         "id": 12,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-10-04T14:56:18.387486",
+        "modified_at": "2026-10-04T15:08:11.036347",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 50.0,
@@ -8272,17 +8292,6 @@
         "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
         "course": "Work > Research R/D",
         "duration": 60,
-        "id": 9,
-        "modified_at": "2026-09-21T13:00:59.851500",
-        "status": "active",
-        "title": "Work > Research R/D",
-        "type": "Work",
-        "uuid": "51a27bdc0bed41e29d6afbda21db9925"
-      },
-      {
-        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-        "course": "Work > Research R/D",
-        "duration": 60,
         "id": 10,
         "modified_at": "2026-09-20T14:00:23.158561",
         "status": "completed",
@@ -8300,6 +8309,17 @@
         "title": "Work > Research R/D",
         "type": "Work",
         "uuid": "f76251623c384346939ba2ecf5642e63"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "course": "Work > Research R/D",
+        "duration": 60,
+        "id": 12,
+        "modified_at": "2026-10-04T15:00:50.734455",
+        "status": "active",
+        "title": "Work > Research R/D",
+        "type": "Work",
+        "uuid": "6d3dd961d1824760992723eaaa01bb4f"
       }
     ],
     "food_logs": [],
@@ -8563,6 +8583,56 @@
         "modified_at": "2026-09-08T09:11:51.169943",
         "status": 1,
         "uuid": "a384faedac844519808d4e6734b64b00"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "date": "Sat, 10/3",
+        "habit_id": 1,
+        "habit_uuid": "0f2365f62fa446938fda7107986b9c1c",
+        "id": 27,
+        "modified_at": "2026-10-04T15:00:10.866353",
+        "status": 1,
+        "uuid": "7a2446df49254eff809bd576da987cb2"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "date": "Sat, 10/3",
+        "habit_id": 3,
+        "habit_uuid": "51c5706ad8ce4926a30de1d36752240b",
+        "id": 28,
+        "modified_at": "2026-10-04T15:00:16.495788",
+        "status": 1,
+        "uuid": "fe59dc38e45546c7bb18dc335bd8e744"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "date": "Sat, 10/3",
+        "habit_id": 4,
+        "habit_uuid": "52adfb14d2e94bb6a988a0a339d8c28d",
+        "id": 29,
+        "modified_at": "2026-10-04T15:00:17.236878",
+        "status": 1,
+        "uuid": "c4f05f2c7bd147809578ca12d07ca63c"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "date": "Sat, 10/3",
+        "habit_id": 5,
+        "habit_uuid": "594efeb7ae664e6b8e2fd544d598ca85",
+        "id": 30,
+        "modified_at": "2026-10-04T15:00:19.582476",
+        "status": 1,
+        "uuid": "7eaaf54c076f402fa644b54ea07ae14d"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "date": "Sat, 10/3",
+        "habit_id": 10,
+        "habit_uuid": "77aad0db9d0f492a9e175ca595cd1a31",
+        "id": 31,
+        "modified_at": "2026-10-04T15:00:27.482730",
+        "status": 1,
+        "uuid": "18fff8f266404cacae373cd6c2e7374d"
       }
     ],
     "habits": [
@@ -8625,16 +8695,6 @@
         "name": "Course Self Study",
         "type": "Positive",
         "uuid": "64cb5451e4da4151a91f7dff16278cf7"
-      },
-      {
-        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-        "created_at": "2026-08-21T16:22:14.822748",
-        "goal_path": "",
-        "id": 7,
-        "modified_at": "2026-08-21T16:22:14.822739",
-        "name": "damavand",
-        "type": "Positive",
-        "uuid": "65e42014b83e437ea878be6412b3d7a9"
       },
       {
         "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
