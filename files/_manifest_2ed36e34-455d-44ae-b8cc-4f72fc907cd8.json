@@ -1,4 +1,52 @@
 {
+  "Downloads/$RECYCLE.BIN/desktop.ini": {
+    "mtime_ns": 1791113200522802500,
+    "schema": 2,
+    "sha256": "e1b9ce9b57957b1a0607a72a057d6b7a9b34ea60f3f8aa8f38a3af979bd23066",
+    "size": 129
+  },
+  "Downloads/.ipynb_checkpoints/Convolution_model_Step_by_Step_v1-checkpoint.ipynb": {
+    "mtime_ns": 1791113200524816500,
+    "schema": 2,
+    "sha256": "a2c5ed7fc82bfe4200fa095a78c38f0944c68f0f1a438d82e2acaaa571116889",
+    "size": 65894
+  },
+  "Downloads/.ipynb_checkpoints/fds-finalproject-webscrap-4-checkpoint.ipynb": {
+    "mtime_ns": 1791113200526222700,
+    "schema": 2,
+    "sha256": "f753c8c01df61f00db6c03f595f393bd1345699b383bc5b3420e242480549186",
+    "size": 27120
+  },
+  "Downloads/.ipynb_checkpoints/reports-checkpoint.ipynb": {
+    "mtime_ns": 1791113200528234700,
+    "schema": 2,
+    "sha256": "e3cc40b946008e85c3ef869a508153926914743995f9d2e99e75994f712bb007",
+    "size": 34866
+  },
+  "Downloads/.ipynb_checkpoints/week2-checkpoint.ipynb": {
+    "mtime_ns": 1791113200528234700,
+    "schema": 2,
+    "sha256": "a2f90009249c41d6722c9b5109a9c41ff1b2ff3fcd710dd746479182566b9c8e",
+    "size": 18314
+  },
+  "Downloads/.ipynb_checkpoints/week2_knn-checkpoint.ipynb": {
+    "mtime_ns": 1791113200532682400,
+    "schema": 2,
+    "sha256": "8a54392e398dc4cfa2e8ab9d6cb45653e65cd47c8f91e76a82cd701c25375fca",
+    "size": 10553
+  },
+  "Downloads/.jupyter/desktop-workspaces/default-37a8.jupyterlab-workspace": {
+    "mtime_ns": 1791113200537032300,
+    "schema": 2,
+    "sha256": "3723b71f76c89ca6141a4713143022018a83dad8087b28cbf3534348948594f0",
+    "size": 453
+  },
+  "Downloads/.localized": {
+    "mtime_ns": 1791113200537032300,
+    "schema": 2,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "size": 0
+  },
   "Downloads/01 - Tintin au pays des Soviets - iranfrench.ir.pdf": {
     "mtime_ns": 1788700090896550600,
     "schema": 2,
@@ -232,6 +280,18 @@
     "schema": 2,
     "sha256": "c1e06c288b22700f5bf2aca79b90167e4bad0e4665a5452949782b0d83b0ddcc",
     "size": 85691506
+  },
+  "Downloads/Telegram Desktop/Independent_Multi_Bureau_Capable_Scoring_Solutions_Sebastian_dElboux.pdf": {
+    "mtime_ns": 1791113200544639600,
+    "schema": 2,
+    "sha256": "4cb8e074f06d48133ed3c7cee03d8c24f68cf2a4c51721847a7acc58e255727e",
+    "size": 1598424
+  },
+  "Downloads/Telegram Desktop/\u062f\u0641\u062a\u0631\u0686\u0647_\u0631\u0627\u0647\u0646\u0645\u0627\u06cc_\u062b\u0628\u062a_\u0646\u0627\u0645_\u0622\u0632\u0645\u0648\u0646_\u06a9\u0627\u0631\u0634\u0646\u0627\u0633\u0627\u0646_\u0631\u0633\u0645\u06cc_\u062f\u0627\u062f\u06af\u0633\u062a\u0631\u06cc_\u0633\u0627\u0644_1405_\u0648\u06cc\u0631\u0627\u06cc\u0634.pdf": {
+    "mtime_ns": 1791113200606174500,
+    "schema": 2,
+    "sha256": "7f6785922b6203c644dc8a225977f56e418781d5a3c655fe1dc477c0cd58d83c",
+    "size": 1297365
   },
   "Downloads/albert camus www.iranfrench.ir.rar": {
     "mtime_ns": 1788698584924228700,
@@ -1184,6 +1244,54 @@
     "sha256": "1a3f132a99c66a69a28dce9967366ed628c3f33d6e6dd0ebffab5a71306306b8",
     "size": 246009
   },
+  "Downloads/~$040525124040_2.pdf": {
+    "mtime_ns": 1791113200676587600,
+    "schema": 2,
+    "sha256": "8cc684be370db3888ac4f88a38cbb6487267a71351ca1bdfa1daa27ae502c78f",
+    "size": 162
+  },
+  "Downloads/~$2 (1).docx": {
+    "mtime_ns": 1791113200678600500,
+    "schema": 2,
+    "sha256": "8cc684be370db3888ac4f88a38cbb6487267a71351ca1bdfa1daa27ae502c78f",
+    "size": 162
+  },
+  "Downloads/~$2 (7).docx": {
+    "mtime_ns": 1791113200684697500,
+    "schema": 2,
+    "sha256": "8cc684be370db3888ac4f88a38cbb6487267a71351ca1bdfa1daa27ae502c78f",
+    "size": 162
+  },
+  "Downloads/~$2.docx": {
+    "mtime_ns": 1791113200688546300,
+    "schema": 2,
+    "sha256": "8cc684be370db3888ac4f88a38cbb6487267a71351ca1bdfa1daa27ae502c78f",
+    "size": 162
+  },
+  "Downloads/~$Mode.docx": {
+    "mtime_ns": 1791113200694830300,
+    "schema": 2,
+    "sha256": "8cc684be370db3888ac4f88a38cbb6487267a71351ca1bdfa1daa27ae502c78f",
+    "size": 162
+  },
+  "Downloads/~$i_Nik_Visa_Support_Request_for_Incoming_AI_Engineers\u2013_Enterprise.docx": {
+    "mtime_ns": 1791113200694830300,
+    "schema": 2,
+    "sha256": "8cc684be370db3888ac4f88a38cbb6487267a71351ca1bdfa1daa27ae502c78f",
+    "size": 162
+  },
+  "Downloads/~$it.docx": {
+    "mtime_ns": 1791113200705017600,
+    "schema": 2,
+    "sha256": "8cc684be370db3888ac4f88a38cbb6487267a71351ca1bdfa1daa27ae502c78f",
+    "size": 162
+  },
+  "Downloads/~$zarcheh.docx": {
+    "mtime_ns": 1791113200707476600,
+    "schema": 2,
+    "sha256": "8cc684be370db3888ac4f88a38cbb6487267a71351ca1bdfa1daa27ae502c78f",
+    "size": 162
+  },
   "Downloads/~WRL0003.tmp": {
     "mtime_ns": 1788952800630561300,
     "schema": 2,
@@ -1213,12 +1321,6 @@
     "schema": 2,
     "sha256": "a0a23cf28a55caeb01a005c64da09319e203f7d7b3c1c72d4cf1b6088db8b038",
     "size": 850740
-  },
-  "Downloads/\u062d\u0633\u0646 \u0635\u0628\u0648\u0631_JobVision_Personal_Resume.pdf": {
-    "mtime_ns": 1791111172629915600,
-    "schema": 2,
-    "sha256": "949d816a3abe99851d6518b398f8273e9333b5bc620d7bd95a72e622f2ea70b9",
-    "size": 94687
   },
   "Downloads/\u062f\u0627\u062f\u0628\u0647 \u062a\u0648\u0627\u0646\u0627\u06cc\u06cc_JobVision_Personal_Resume.pdf": {
     "mtime_ns": 1790588038577744600,
@@ -1399,12 +1501,6 @@
     "schema": 2,
     "sha256": "3fc48b1139d2d82c5a845dab7d2d22d626bc6955293dc3715254520501fbead2",
     "size": 118618
-  },
-  "Downloads/\u0646\u0648\u06cc\u062f \u0633\u0647\u0631\u0627\u0628\u06cc_JobVision_Personal_Resume.conflict-2ed36e34-455d-44ae-b8cc-4f72fc907cd8-5708c23ba896.pdf": {
-    "mtime_ns": 1790672625434879800,
-    "schema": 2,
-    "sha256": "5708c23ba8966c89ba00a27b775ec66b5c018b17d31d9e128eee311743b99b46",
-    "size": 66449
   },
   "Downloads/\u0646\u0648\u06cc\u062f \u0633\u0647\u0631\u0627\u0628\u06cc_JobVision_Personal_Resume.conflict-remote-9b2f1422c641.pdf": {
     "mtime_ns": 1791109599047955100,
