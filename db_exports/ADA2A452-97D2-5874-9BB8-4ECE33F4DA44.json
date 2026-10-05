@@ -107,6 +107,11 @@
         "uuid": "5f1eb14a9d024dbfb5ae08457c8c2eba"
       },
       {
+        "deleted_at": "2026-10-05T16:03:24.745388",
+        "origin_device": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "uuid": "6d3dd961d1824760992723eaaa01bb4f"
+      },
+      {
         "deleted_at": "2026-09-06T17:28:28.332771",
         "origin_device": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
         "uuid": "6e48397ea45e42fe9bc33510a644ad16"
@@ -212,7 +217,7 @@
     "recipe_ingredients": []
   },
   "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-  "last_sync": "2026-10-05T11:37:05.137176Z",
+  "last_sync": "2026-10-05T12:37:03.240665Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -224,14 +229,17 @@
     "blur_mode": "faked",
     "clock_bezel": "Plain",
     "clock_case_shape": "Round",
-    "clock_complication": "None",
-    "clock_dial_texture": "None",
+    "clock_complication": "Moon Phase",
+    "clock_dial_texture": "Sunburst",
     "clock_hands": "Classic",
     "clock_indices": "Baton",
-    "clock_lume": "None",
+    "clock_lume": "BGW9 Blue",
     "clock_style": "Analog Classic",
     "clock_ticks": "Standard",
+    "cognitio_dim_pending": false,
+    "cognitio_read_view": "all",
     "cognitio_vault_path": "/Users/alinikkhah/Documents/Personal Projects/Shadow_Git/Personal_Shadow/IMPERIUM/data/knowledge",
+    "cognitio_zen": false,
     "custom_font_path": "",
     "dashboard_layout": {},
     "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
@@ -8022,6 +8030,42 @@
         "module": "Sync",
         "timestamp": "2026-10-05T14:07:07.252000",
         "uuid": "baefc79ef3bb437b98455668766406c1"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 860,
+        "modified_at": "2026-10-05T15:07:16.560544",
+        "module": "Sync",
+        "timestamp": "2026-10-05T15:07:16.560544",
+        "uuid": "12719238e3c342f7b2eeac955586c5df"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Updated application settings via UI.",
+        "id": 861,
+        "modified_at": "2026-10-05T16:05:41.827448",
+        "module": "Settings",
+        "timestamp": "2026-10-05T16:05:41.827448",
+        "uuid": "9c4a9dc1a3264e209ce9e0e0b08eea8f"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Updated application settings via UI.",
+        "id": 862,
+        "modified_at": "2026-10-05T16:05:42.552630",
+        "module": "Settings",
+        "timestamp": "2026-10-05T16:05:42.552630",
+        "uuid": "a35236e159534daf9cf59c061c8b1f24"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Updated application settings via UI.",
+        "id": 863,
+        "modified_at": "2026-10-05T16:05:43.157738",
+        "module": "Settings",
+        "timestamp": "2026-10-05T16:05:43.157738",
+        "uuid": "d6c443e6f34f4e11bec9b8836f83f65d"
       }
     ],
     "cascading_goals": [
@@ -8093,7 +8137,7 @@
         "id": 12,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-10-05T15:07:05.135889",
+        "modified_at": "2026-10-05T16:07:03.239788",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 50.0,
@@ -8495,11 +8539,11 @@
         "course": "Work > Research R/D",
         "duration": 60,
         "id": 12,
-        "modified_at": "2026-10-04T15:00:50.734455",
+        "modified_at": "2026-10-05T16:03:31.207206",
         "status": "active",
         "title": "Work > Research R/D",
         "type": "Work",
-        "uuid": "6d3dd961d1824760992723eaaa01bb4f"
+        "uuid": "6da66748b946430191627085277a1c37"
       }
     ],
     "food_logs": [],
