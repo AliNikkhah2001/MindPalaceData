@@ -6,9 +6,9 @@
     "size": 129
   },
   "Downloads/.DS_Store": {
-    "mtime_ns": 1790928420539133807,
+    "mtime_ns": 1791184663410287121,
     "schema": 2,
-    "sha256": "937f7b95be731faf8478c35eeb9bb78afb70b8e35f49976e402c9f23a6334750",
+    "sha256": "add81b15cc3a1aa630f7c0a1f0c5cc7957f6058eb5d256201d7ab6d382234ac1",
     "size": 6148
   },
   "Downloads/.ipynb_checkpoints/Convolution_model_Step_by_Step_v1-checkpoint.ipynb": {
@@ -287,11 +287,65 @@
     "sha256": "d0ed8a474d5d6b5464eb9bdf49fcfe62e31cbf8e7568e8f0c6c653852465ab93",
     "size": 133
   },
+  "Downloads/Telegram Desktop/.DS_Store": {
+    "mtime_ns": 1791184650929755677,
+    "schema": 2,
+    "sha256": "36bf10d2b12f59a7eea8e15c2f281bdf31daad65c30ef85baa8d140fa74596e0",
+    "size": 6148
+  },
   "Downloads/Telegram Desktop/Independent_Multi_Bureau_Capable_Scoring_Solutions_Sebastian_dElboux.pdf": {
     "mtime_ns": 1791034443236129469,
     "schema": 2,
     "sha256": "e7a2c796496d733482ff8583ffecfb1d2705cd688dfd3da9bafd84bf61b45f3f",
     "size": 1591134
+  },
+  "Downloads/Telegram Desktop/Mahsa_Morady_CV_Product_Manager (1).pdf": {
+    "mtime_ns": 1791184644664316054,
+    "schema": 2,
+    "sha256": "004e1ac923c7ac4c76cce30935fb1f396dd5f1ca3cf7d2427b919b6a4d7b1694",
+    "size": 72637
+  },
+  "Downloads/Telegram Desktop/Mahsa_Morady_CV_Product_Manager.pdf": {
+    "mtime_ns": 1791184645790034394,
+    "schema": 2,
+    "sha256": "aa5cd6f68a301638a19d3913932b93e2b99390464e9aeac733e373b05ce5fcf2",
+    "size": 72648
+  },
+  "Downloads/Telegram Desktop/Mahsa_Morady_CV_Product_Manager_Formal (1) (2).pdf": {
+    "mtime_ns": 1791184644801868117,
+    "schema": 2,
+    "sha256": "84cceaeea11135cfe09435c177565142b0bca7624cd1e309a37b4388746e31c5",
+    "size": 70217
+  },
+  "Downloads/Telegram Desktop/Mahsa_Morady_CV_Product_Manager_Formal (1).pdf": {
+    "mtime_ns": 1791184644921923053,
+    "schema": 2,
+    "sha256": "84cceaeea11135cfe09435c177565142b0bca7624cd1e309a37b4388746e31c5",
+    "size": 70217
+  },
+  "Downloads/Telegram Desktop/Mahsa_Morady_CV_Product_Manager_Formal.pdf": {
+    "mtime_ns": 1791184645789574063,
+    "schema": 2,
+    "sha256": "949eb21d34b39ed08ec0d3a4cf35d61d009114bcb9f87f3949409f4b0b17da93",
+    "size": 70226
+  },
+  "Downloads/Telegram Desktop/files (4).zip": {
+    "mtime_ns": 1791184644543472164,
+    "schema": 2,
+    "sha256": "d14c973ac4a69ad6fa8a561f3c5ed0ab240b25851f6d0fdaa429797801099995",
+    "size": 133146
+  },
+  "Downloads/Telegram Desktop/files (4)/Mahsa_Morady_CV_Product_Manager.pdf": {
+    "mtime_ns": 1791170710000000000,
+    "schema": 2,
+    "sha256": "c26d8a8cdb4eb2c5718d3806f7124c50f0eddd2e3ba93c81190042960c3e02e7",
+    "size": 72243
+  },
+  "Downloads/Telegram Desktop/files (4)/Mahsa_Morady_CV_Product_Manager_Formal.pdf": {
+    "mtime_ns": 1791170710000000000,
+    "schema": 2,
+    "sha256": "ed418e32b07f859f0dc11e3658f28857a1e6401ebeeb00aa18153d4fd1352b08",
+    "size": 69815
   },
   "Downloads/Telegram Desktop/\u062f\u0641\u062a\u0631\u0686\u0647_\u0631\u0627\u0647\u0646\u0645\u0627\u06cc_\u062b\u0628\u062a_\u0646\u0627\u0645_\u0627\u0653\u0632\u0645\u0648\u0646_\u06a9\u0627\u0631\u0634\u0646\u0627\u0633\u0627\u0646_\u0631\u0633\u0645\u06cc_\u062f\u0627\u062f\u06af\u0633\u062a\u0631\u06cc_\u0633\u0627\u0644_1405_\u0648\u06cc\u0631\u0627\u06cc\u0634.pdf": {
     "mtime_ns": 1791034315366286794,
