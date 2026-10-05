@@ -212,7 +212,7 @@
     "recipe_ingredients": []
   },
   "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-  "last_sync": "2026-10-05T07:37:27.690754Z",
+  "last_sync": "2026-10-05T09:37:08.156222Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -7986,6 +7986,24 @@
         "module": "Sync",
         "timestamp": "2026-10-05T10:07:12.342111",
         "uuid": "fe2e0953241c485c84265b2cb558b7a6"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 856,
+        "modified_at": "2026-10-05T11:07:45.221681",
+        "module": "Sync",
+        "timestamp": "2026-10-05T11:07:45.221681",
+        "uuid": "bd148058f34a45a191453339e489ef4c"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to github.com:443",
+        "id": 857,
+        "modified_at": "2026-10-05T12:06:59.488070",
+        "module": "Sync Error",
+        "timestamp": "2026-10-05T12:06:59.488070",
+        "uuid": "2cc81fc8cb824ba0ac40555e34b4de3e"
       }
     ],
     "cascading_goals": [
@@ -8057,7 +8075,7 @@
         "id": 12,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-10-05T11:07:26.915295",
+        "modified_at": "2026-10-05T13:07:08.137259",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 50.0,
