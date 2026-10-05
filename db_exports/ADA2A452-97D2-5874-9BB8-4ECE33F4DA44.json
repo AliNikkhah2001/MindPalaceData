@@ -217,7 +217,7 @@
     "recipe_ingredients": []
   },
   "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-  "last_sync": "2026-10-05T12:37:03.240665Z",
+  "last_sync": "2026-10-05T13:37:02.430952Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -229,11 +229,11 @@
     "blur_mode": "faked",
     "clock_bezel": "Plain",
     "clock_case_shape": "Round",
-    "clock_complication": "Moon Phase",
-    "clock_dial_texture": "Sunburst",
+    "clock_complication": "Power Reserve",
+    "clock_dial_texture": "Barleycorn",
     "clock_hands": "Classic",
     "clock_indices": "Baton",
-    "clock_lume": "BGW9 Blue",
+    "clock_lume": "C3 Green",
     "clock_style": "Analog Classic",
     "clock_ticks": "Standard",
     "cognitio_dim_pending": false,
@@ -8066,6 +8066,33 @@
         "module": "Settings",
         "timestamp": "2026-10-05T16:05:43.157738",
         "uuid": "d6c443e6f34f4e11bec9b8836f83f65d"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 864,
+        "modified_at": "2026-10-05T16:07:10.336261",
+        "module": "Sync",
+        "timestamp": "2026-10-05T16:07:10.336261",
+        "uuid": "bb402a9307e34fd1b0eeaf7575f38276"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Updated application settings via UI.",
+        "id": 865,
+        "modified_at": "2026-10-05T16:32:41.076479",
+        "module": "Settings",
+        "timestamp": "2026-10-05T16:32:41.076479",
+        "uuid": "544a7b78ed9146fc9794c77663e0a027"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Updated application settings via UI.",
+        "id": 866,
+        "modified_at": "2026-10-05T16:36:56.099956",
+        "module": "Settings",
+        "timestamp": "2026-10-05T16:36:56.099956",
+        "uuid": "59946a13fe5d4182a735f2312fc80cc7"
       }
     ],
     "cascading_goals": [
@@ -8137,7 +8164,7 @@
         "id": 12,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-10-05T16:07:03.239788",
+        "modified_at": "2026-10-05T17:07:02.429624",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 50.0,
@@ -8540,10 +8567,21 @@
         "duration": 60,
         "id": 12,
         "modified_at": "2026-10-05T16:03:31.207206",
-        "status": "active",
+        "status": "completed",
         "title": "Work > Research R/D",
         "type": "Work",
         "uuid": "6da66748b946430191627085277a1c37"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "course": "Break",
+        "duration": 15,
+        "id": 13,
+        "modified_at": "2026-10-05T17:05:05.241464",
+        "status": "active",
+        "title": "General",
+        "type": "Break",
+        "uuid": "e25f1d648d564d0c8de777d13ecdae74"
       }
     ],
     "food_logs": [],
@@ -10017,6 +10055,21 @@
         "timestamp": "2026-09-21T17:52:42.902989",
         "type": "Work",
         "uuid": "e82947f67f684595b66bf44aec9e66ef"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "actual_duration": 60,
+        "course": "Work > Research R/D",
+        "distraction_data": "[]",
+        "distractions": 0,
+        "duration": 60,
+        "id": 26,
+        "modified_at": "2026-10-05T13:37:02.390421Z",
+        "note": null,
+        "timelapse_path": "/Users/alinikkhah/Documents/Personal Projects/Shadow_Git/Personal_Shadow/IMPERIUM/data/timelapses/Work_Work_>_Research_RD_20261005_160332.avi",
+        "timestamp": "2026-10-05T17:06:11.223858",
+        "type": "Work",
+        "uuid": "de678febaaa2490ea38b87d44f3be528"
       }
     ],
     "quizzes": [
