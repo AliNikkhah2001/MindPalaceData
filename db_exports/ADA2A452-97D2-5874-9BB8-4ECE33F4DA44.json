@@ -217,7 +217,7 @@
     "recipe_ingredients": []
   },
   "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-  "last_sync": "2026-10-05T13:37:02.430952Z",
+  "last_sync": "2026-10-05T14:37:03.302961Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -8093,6 +8093,15 @@
         "module": "Settings",
         "timestamp": "2026-10-05T16:36:56.099956",
         "uuid": "59946a13fe5d4182a735f2312fc80cc7"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 867,
+        "modified_at": "2026-10-05T17:07:09.166384",
+        "module": "Sync",
+        "timestamp": "2026-10-05T17:07:09.166384",
+        "uuid": "6826b912a4404bd6ab4b3df171592155"
       }
     ],
     "cascading_goals": [
@@ -8164,7 +8173,7 @@
         "id": 12,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-10-05T17:07:02.429624",
+        "modified_at": "2026-10-05T18:07:03.300616",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 50.0,
@@ -8578,10 +8587,21 @@
         "duration": 15,
         "id": 13,
         "modified_at": "2026-10-05T17:05:05.241464",
-        "status": "active",
+        "status": "completed",
         "title": "General",
         "type": "Break",
         "uuid": "e25f1d648d564d0c8de777d13ecdae74"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "course": "French",
+        "duration": 30,
+        "id": 14,
+        "modified_at": "2026-10-05T17:58:08.535189",
+        "status": "active",
+        "title": "French",
+        "type": "Work",
+        "uuid": "23d644f1d2df4ae78d40b04926013338"
       }
     ],
     "food_logs": [],
@@ -10070,6 +10090,21 @@
         "timestamp": "2026-10-05T17:06:11.223858",
         "type": "Work",
         "uuid": "de678febaaa2490ea38b87d44f3be528"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "actual_duration": 15,
+        "course": "Break",
+        "distraction_data": "[]",
+        "distractions": 0,
+        "duration": 15,
+        "id": 27,
+        "modified_at": "2026-10-05T17:42:34.642804",
+        "note": null,
+        "timelapse_path": "/Users/alinikkhah/Documents/Personal Projects/Shadow_Git/Personal_Shadow/IMPERIUM/data/timelapses/Work_Break_20261005_170611.avi",
+        "timestamp": "2026-10-05T17:21:11.309811",
+        "type": "Work",
+        "uuid": "8b10c07fb6d64f949dd4e707fe989342"
       }
     ],
     "quizzes": [
