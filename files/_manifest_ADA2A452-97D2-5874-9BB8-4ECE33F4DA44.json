@@ -1235,6 +1235,18 @@
     "sha256": "c3972f559aea57df0b9b1f8a762179b8918e709d7711daabc0938df8b8dca7b7",
     "size": 19340
   },
+  "Downloads/images-2.jpeg": {
+    "mtime_ns": 1791193491456464000,
+    "schema": 2,
+    "sha256": "3c04492cb9604452193c54f04ab93106627eade89f77036853c30d5374e5bc3e",
+    "size": 12176
+  },
+  "Downloads/images.jpeg": {
+    "mtime_ns": 1791193251047534000,
+    "schema": 2,
+    "sha256": "7395cb392b39292c49ffc52a03a3346e788e3df007990a5db08724c99c787b79",
+    "size": 12596
+  },
   "Downloads/jobvision_resumes(1).zip": {
     "mtime_ns": 1790518653081788142,
     "schema": 2,
