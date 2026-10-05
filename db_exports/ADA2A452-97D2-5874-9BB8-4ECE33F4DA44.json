@@ -217,7 +217,7 @@
     "recipe_ingredients": []
   },
   "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-  "last_sync": "2026-10-05T14:37:03.302961Z",
+  "last_sync": "2026-10-05T15:37:06.670552Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -8102,6 +8102,15 @@
         "module": "Sync",
         "timestamp": "2026-10-05T17:07:09.166384",
         "uuid": "6826b912a4404bd6ab4b3df171592155"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 868,
+        "modified_at": "2026-10-05T18:07:11.092692",
+        "module": "Sync",
+        "timestamp": "2026-10-05T18:07:11.092692",
+        "uuid": "354991bca8954b85920d91917e045626"
       }
     ],
     "cascading_goals": [
@@ -8173,7 +8182,7 @@
         "id": 12,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-10-05T18:07:03.300616",
+        "modified_at": "2026-10-05T19:07:06.668066",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 50.0,
@@ -8598,10 +8607,21 @@
         "duration": 30,
         "id": 14,
         "modified_at": "2026-10-05T17:58:08.535189",
-        "status": "active",
+        "status": "completed",
         "title": "French",
         "type": "Work",
         "uuid": "23d644f1d2df4ae78d40b04926013338"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "course": "General",
+        "duration": 25,
+        "id": 15,
+        "modified_at": "2026-10-05T18:32:00.928370",
+        "status": "completed",
+        "title": "General",
+        "type": "Work",
+        "uuid": "2b728d6160f94135add133f780e786b6"
       }
     ],
     "food_logs": [],
@@ -10105,6 +10125,36 @@
         "timestamp": "2026-10-05T17:21:11.309811",
         "type": "Work",
         "uuid": "8b10c07fb6d64f949dd4e707fe989342"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "actual_duration": 30,
+        "course": "French",
+        "distraction_data": "[]",
+        "distractions": 0,
+        "duration": 30,
+        "id": 28,
+        "modified_at": "2026-10-05T15:37:06.050395Z",
+        "note": "kos",
+        "timelapse_path": "/Users/alinikkhah/Documents/Personal Projects/Shadow_Git/Personal_Shadow/IMPERIUM/data/timelapses/Work_French_20261005_175810.avi",
+        "timestamp": "2026-10-05T18:28:10.732439",
+        "type": "Work",
+        "uuid": "f992a0c139c14de1a5fecb251b83b402"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "actual_duration": 25,
+        "course": "General",
+        "distraction_data": "[]",
+        "distractions": 0,
+        "duration": 25,
+        "id": 29,
+        "modified_at": "2026-10-05T15:37:06.050395Z",
+        "note": null,
+        "timelapse_path": "/Users/alinikkhah/Documents/Personal Projects/Shadow_Git/Personal_Shadow/IMPERIUM/data/timelapses/Work_General_20261005_183202.avi",
+        "timestamp": "2026-10-05T18:57:02.142175",
+        "type": "Work",
+        "uuid": "ff74181a10954c42a903e49c80c596a8"
       }
     ],
     "quizzes": [
