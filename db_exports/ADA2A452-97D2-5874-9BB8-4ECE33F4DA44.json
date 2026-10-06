@@ -217,7 +217,7 @@
     "recipe_ingredients": []
   },
   "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-  "last_sync": "2026-10-05T15:37:06.670552Z",
+  "last_sync": "2026-10-05T18:19:48.057400Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -245,9 +245,9 @@
     "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
     "dist_delay": 3,
     "dummy": "dummy",
-    "face_min_neighbors": 8,
-    "face_min_size": 120,
-    "face_scale_factor": 1.2,
+    "face_min_neighbors": 4,
+    "face_min_size": 40,
+    "face_scale_factor": 1.1,
     "font_color": "#e2e8f0",
     "font_family": "Inter",
     "font_size": 16,
@@ -8111,6 +8111,15 @@
         "module": "Sync",
         "timestamp": "2026-10-05T18:07:11.092692",
         "uuid": "354991bca8954b85920d91917e045626"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 869,
+        "modified_at": "2026-10-05T19:07:43.853552",
+        "module": "Sync",
+        "timestamp": "2026-10-05T19:07:43.853552",
+        "uuid": "6326f40afd0247c4bcc1cb1939defaf0"
       }
     ],
     "cascading_goals": [
@@ -8182,7 +8191,7 @@
         "id": 12,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-10-05T19:07:06.668066",
+        "modified_at": "2026-10-05T21:49:48.056480",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 50.0,
@@ -8622,6 +8631,17 @@
         "title": "General",
         "type": "Work",
         "uuid": "2b728d6160f94135add133f780e786b6"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "course": "General",
+        "duration": 25,
+        "id": 16,
+        "modified_at": "2026-10-05T19:38:00.657611",
+        "status": "active",
+        "title": "General",
+        "type": "Work",
+        "uuid": "4b35504ad7cc4dbe92ce9837b2257495"
       }
     ],
     "food_logs": [],
