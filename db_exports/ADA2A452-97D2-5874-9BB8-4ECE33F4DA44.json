@@ -217,7 +217,7 @@
     "recipe_ingredients": []
   },
   "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-  "last_sync": "2026-10-05T18:19:48.057400Z",
+  "last_sync": "2026-10-06T09:32:10.025702Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -8120,6 +8120,24 @@
         "module": "Sync",
         "timestamp": "2026-10-05T19:07:43.853552",
         "uuid": "6326f40afd0247c4bcc1cb1939defaf0"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 870,
+        "modified_at": "2026-10-06T11:07:04.322425",
+        "module": "Sync",
+        "timestamp": "2026-10-06T11:07:04.322425",
+        "uuid": "6eb915f853c64702b8a924e022d89509"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: File sync failed: Mapped file exceeds the 100 MiB safety limit: /Users/alinikkhah/Downloads/Mr.Robot.S04E08.720p.WEB.DL.PaHe.mkv",
+        "id": 871,
+        "modified_at": "2026-10-06T11:22:35.676531",
+        "module": "Sync Error",
+        "timestamp": "2026-10-06T11:22:35.676531",
+        "uuid": "69959f0dc1644e93958fd7580f3aed16"
       }
     ],
     "cascading_goals": [
@@ -8191,7 +8209,7 @@
         "id": 12,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-10-05T21:49:48.056480",
+        "modified_at": "2026-10-06T13:02:10.025045",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 50.0,
