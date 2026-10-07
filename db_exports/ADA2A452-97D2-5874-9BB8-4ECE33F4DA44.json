@@ -38,6 +38,11 @@
         "uuid": "6718a23534ec4934ab113aa35e3534bd"
       },
       {
+        "deleted_at": "2026-10-07T15:08:20.304013",
+        "origin_device": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "uuid": "74d5489565384477b2a857d649a2ada1"
+      },
+      {
         "deleted_at": "2026-09-15T14:33:41.681944",
         "origin_device": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
         "uuid": "8c944f130900431eab332f36c91e1db7"
@@ -56,6 +61,11 @@
         "deleted_at": "2026-09-07T14:35:11.173562",
         "origin_device": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
         "uuid": "a4456dedc0f746039e9da0dddb9e4519"
+      },
+      {
+        "deleted_at": "2026-10-07T15:08:20.897740",
+        "origin_device": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "uuid": "bc1bac23dca54c6cbe10335cfc5613d6"
       },
       {
         "deleted_at": "2026-09-07T14:34:47.239390",
@@ -85,6 +95,16 @@
         "deleted_at": "2026-08-19T13:51:49.991246",
         "origin_device": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
         "uuid": "2ca4b72939474367a62ce08f7ab53a27"
+      },
+      {
+        "deleted_at": "2026-10-07T15:08:12.761994",
+        "origin_device": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "uuid": "34c1c74c2dce4aa49d4a2142f6d34c39"
+      },
+      {
+        "deleted_at": "2026-10-07T15:08:11.966621",
+        "origin_device": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "uuid": "4b35504ad7cc4dbe92ce9837b2257495"
       },
       {
         "deleted_at": "2026-10-04T15:00:41.150059",
@@ -182,6 +202,16 @@
         "uuid": "ae83d83d18c34a8fa1bee72196ec4595"
       },
       {
+        "deleted_at": "2026-10-07T15:08:12.420131",
+        "origin_device": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "uuid": "b3c0271e8ad7443da81c4d038ce00c0e"
+      },
+      {
+        "deleted_at": "2026-10-07T15:08:13.182156",
+        "origin_device": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "uuid": "b8ca43e9a367453bb9270d9814957425"
+      },
+      {
         "deleted_at": "2026-08-19T13:51:49.830518",
         "origin_device": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
         "uuid": "c5da0c6f738043b49f7cfd1a9e54a0c0"
@@ -217,7 +247,7 @@
     "recipe_ingredients": []
   },
   "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-  "last_sync": "2026-10-06T11:32:10.230590Z",
+  "last_sync": "2026-10-07T12:05:02.109791Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -238,7 +268,7 @@
     "clock_ticks": "Standard",
     "cognitio_dim_pending": false,
     "cognitio_read_view": "all",
-    "cognitio_vault_path": "/Users/alinikkhah/Documents/Personal Projects/Shadow_Git/Personal_Shadow/IMPERIUM/data/knowledge",
+    "cognitio_vault_path": "/Users/alinikkhah/Library/Application Support/IMPERIUM/knowledge",
     "cognitio_zen": false,
     "custom_font_path": "",
     "dashboard_layout": {},
@@ -261,7 +291,7 @@
     "glass_shadow_percent": 87,
     "glass_tertiary_color": "#84cc16",
     "glass_theme": "Emerald",
-    "has_token": true,
+    "has_token": false,
     "health_activity": 1.2,
     "health_age": 24,
     "health_deficit": 1000,
@@ -274,7 +304,9 @@
     "loop_5m": 5,
     "loop_60m": 30,
     "mapped_folders": [
-      "/Users/alinikkhah/MindPalace_Library"
+      "/Users/alinikkhah/Downloads",
+      "/Users/alinikkhah/MindPalace_Library",
+      "/Users/alinikkhah/Library/Application Support/IMPERIUM/knowledge"
     ],
     "mute_sounds": false,
     "mute_speech": false,
@@ -290,13 +322,13 @@
     "start_fullscreen": false,
     "sync_enabled": true,
     "sync_interval": 3600,
-    "sync_msg": "Push failed after 3 attempts: Cmd('git') failed due to: exit code(1)\n  cmdline: git push --porcelain --progress -- origin\n  stderr: 'error: failed to push some refs to 'https://github.com/alinikkhah2001/MindPalaceData.git''",
+    "sync_msg": "Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Resolving timed out after 908791 milliseconds",
     "sync_progress_pct": 0,
     "timeline_end_hour": 24,
     "timeline_pixel_per_hour": 120,
     "timeline_start_hour": 0,
-    "vision_mode": "Strict (Face & Eyes)",
-    "vision_sample_interval": 30
+    "vision_mode": "Visible (Face Only)",
+    "vision_sample_interval": 10
   },
   "tables": {
     "activity_logs": [
@@ -8156,47 +8188,90 @@
         "module": "Sync Error",
         "timestamp": "2026-10-06T14:02:22.131237",
         "uuid": "d408ba8abd8b48159a2595f97187e5bc"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Push failed after 3 attempts: Cmd('git') failed due to: exit code(1)\n  cmdline: git push --porcelain --progress -- origin\n  stderr: 'error: failed to push some refs to 'https://github.com/alinikkhah2001/MindPalaceData.git''",
+        "id": 874,
+        "modified_at": "2026-10-06T15:02:26.705837",
+        "module": "Sync Error",
+        "timestamp": "2026-10-06T15:02:26.705837",
+        "uuid": "735a189d20a84cb1bd0a149964507aa3"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 875,
+        "modified_at": "2026-10-06T23:41:58.959108",
+        "module": "Sync Error",
+        "timestamp": "2026-10-06T23:41:58.959108",
+        "uuid": "f5092bf9ae9348b59ca251d0f3f45ee4"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Resolving timed out after 908791 milliseconds",
+        "id": 876,
+        "modified_at": "2026-10-07T00:57:30.722887",
+        "module": "Sync Error",
+        "timestamp": "2026-10-07T00:57:30.722887",
+        "uuid": "3134ec5c890642068f93dcf6663c455a"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Updated application settings via UI.",
+        "id": 877,
+        "modified_at": "2026-10-07T01:04:17.274142",
+        "module": "Settings",
+        "timestamp": "2026-10-07T01:04:17.274142",
+        "uuid": "1438cdd6e25e4318a16b9916704d8109"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Updated application settings via UI.",
+        "id": 878,
+        "modified_at": "2026-10-07T01:04:18.382392",
+        "module": "Settings",
+        "timestamp": "2026-10-07T01:04:18.382392",
+        "uuid": "1b900011a3ba4bda875a77f08897c07e"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 879,
+        "modified_at": "2026-10-07T01:53:46.038241",
+        "module": "Sync Error",
+        "timestamp": "2026-10-07T01:53:46.038241",
+        "uuid": "c745e8607b6a494897565232f762156a"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: File sync failed: Mapped file exceeds the 100 MiB safety limit: /Users/alinikkhah/Downloads/Mr.Robot.S04E08.720p.WEB.DL.PaHe.mkv",
+        "id": 880,
+        "modified_at": "2026-10-07T12:26:36.621354",
+        "module": "Sync Error",
+        "timestamp": "2026-10-07T12:26:36.621354",
+        "uuid": "d3172dcd7cb54f26ade890e70cb778d4"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: File sync failed: Mapped file exceeds the 100 MiB safety limit: /Users/alinikkhah/Downloads/Mr.Robot.S04E08.720p.WEB.DL.PaHe.mkv",
+        "id": 881,
+        "modified_at": "2026-10-07T12:41:58.583730",
+        "module": "Sync Error",
+        "timestamp": "2026-10-07T12:41:58.583730",
+        "uuid": "27c48c67e5c7412895c8bd6f004bc395"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: File sync failed: Mapped file exceeds the 100 MiB safety limit: /Users/alinikkhah/Downloads/Mr.Robot.S04E08.720p.WEB.DL.PaHe.mkv",
+        "id": 882,
+        "modified_at": "2026-10-07T13:42:00.105990",
+        "module": "Sync Error",
+        "timestamp": "2026-10-07T13:42:00.105990",
+        "uuid": "7b4bf25ce67248ae88df74b50adbb011"
       }
     ],
     "cascading_goals": [
-      {
-        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-        "category": "Goal",
-        "color": "#fb7185",
-        "color_secondary": "#c084fc",
-        "completed": 0,
-        "deadline": "2026-09-09 06:09",
-        "icon": "briefcase-business",
-        "id": 8,
-        "level": null,
-        "logged_hours": 0.0,
-        "modified_at": "2026-09-27T17:50:22.474211",
-        "parent_id": null,
-        "parent_uuid": null,
-        "target_hours": 10.0,
-        "texture": "waves",
-        "title": "sample day",
-        "uuid": "74d5489565384477b2a857d649a2ada1"
-      },
-      {
-        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-        "category": null,
-        "color": "#3b82f6",
-        "color_secondary": "#8b5cf6",
-        "completed": 0,
-        "deadline": "2026-09-14 17:10",
-        "icon": "target",
-        "id": 10,
-        "level": null,
-        "logged_hours": 0.0,
-        "modified_at": "2026-09-27T17:50:22.474211",
-        "parent_id": null,
-        "parent_uuid": null,
-        "target_hours": 34.0,
-        "texture": "grain",
-        "title": "dasdsadsa",
-        "uuid": "bc1bac23dca54c6cbe10335cfc5613d6"
-      },
       {
         "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
         "category": "Goal",
@@ -8227,7 +8302,7 @@
         "id": 12,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-10-06T15:02:10.227392",
+        "modified_at": "2026-10-07T15:35:02.109383",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 50.0,
@@ -8667,17 +8742,6 @@
         "title": "General",
         "type": "Work",
         "uuid": "2b728d6160f94135add133f780e786b6"
-      },
-      {
-        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-        "course": "General",
-        "duration": 25,
-        "id": 16,
-        "modified_at": "2026-10-05T19:38:00.657611",
-        "status": "active",
-        "title": "General",
-        "type": "Work",
-        "uuid": "4b35504ad7cc4dbe92ce9837b2257495"
       }
     ],
     "food_logs": [],
@@ -10211,6 +10275,36 @@
         "timestamp": "2026-10-05T18:57:02.142175",
         "type": "Work",
         "uuid": "ff74181a10954c42a903e49c80c596a8"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "actual_duration": 0,
+        "course": "General",
+        "distraction_data": "[]",
+        "distractions": 0,
+        "duration": 0,
+        "id": 30,
+        "modified_at": "2026-10-07T10:11:59.913682Z",
+        "note": null,
+        "timelapse_path": "/Users/alinikkhah/Library/Application Support/IMPERIUM/timelapses/Work_General_20261007_131949.avi",
+        "timestamp": "2026-10-07T13:19:50.822940",
+        "type": "Work",
+        "uuid": "a588c3fc327041d6b6525f1f1465e8f5"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "actual_duration": 0,
+        "course": "General",
+        "distraction_data": "[]",
+        "distractions": 0,
+        "duration": 0,
+        "id": 31,
+        "modified_at": "2026-10-07T12:05:02.077145Z",
+        "note": null,
+        "timelapse_path": "/Users/alinikkhah/Library/Application Support/IMPERIUM/timelapses/Work_General_20261007_144412.avi",
+        "timestamp": "2026-10-07T14:44:13.819723",
+        "type": "Work",
+        "uuid": "a13b68184baf484ab508cfb942cf7a4f"
       }
     ],
     "quizzes": [
