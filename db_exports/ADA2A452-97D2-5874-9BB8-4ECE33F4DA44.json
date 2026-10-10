@@ -157,6 +157,11 @@
         "uuid": "5f1eb14a9d024dbfb5ae08457c8c2eba"
       },
       {
+        "deleted_at": "2026-10-10T15:39:10.141171",
+        "origin_device": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "uuid": "65fe98c7086049779edc5883be8ad07a"
+      },
+      {
         "deleted_at": "2026-10-10T10:26:28.392938",
         "origin_device": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
         "uuid": "6952e85d9ae3438cba08a809ab779960"
@@ -302,7 +307,7 @@
     "recipe_ingredients": []
   },
   "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-  "last_sync": "2026-10-10T11:59:52.622745Z",
+  "last_sync": "2026-10-10T12:59:51.407252Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -340,12 +345,12 @@
     "glass_blur_percent": 13,
     "glass_gradient_format": "mesh",
     "glass_opacity_percent": 51,
-    "glass_primary_color": "#0284c7",
+    "glass_primary_color": "#f97316",
     "glass_saturation_percent": 22,
-    "glass_secondary_color": "#2563eb",
+    "glass_secondary_color": "#e11d48",
     "glass_shadow_percent": 70,
-    "glass_tertiary_color": "#22d3ee",
-    "glass_theme": "Ocean",
+    "glass_tertiary_color": "#a855f7",
+    "glass_theme": "Ember",
     "has_token": true,
     "health_activity": 1.2,
     "health_age": 24,
@@ -8881,6 +8886,33 @@
         "module": "Settings",
         "timestamp": "2026-10-10T14:37:50.594983",
         "uuid": "d6f108fd241043b78b2348a063605ab1"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 945,
+        "modified_at": "2026-10-10T15:30:03.839725",
+        "module": "Sync",
+        "timestamp": "2026-10-10T15:30:03.839725",
+        "uuid": "26a3fc50bd0a48e3af20e1510f434075"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Updated application settings via UI.",
+        "id": 946,
+        "modified_at": "2026-10-10T15:40:55.300674",
+        "module": "Settings",
+        "timestamp": "2026-10-10T15:40:55.300674",
+        "uuid": "8de408f4cef44601b2769b0d76094876"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Updated application settings via UI.",
+        "id": 947,
+        "modified_at": "2026-10-10T15:41:06.156134",
+        "module": "Settings",
+        "timestamp": "2026-10-10T15:41:06.156134",
+        "uuid": "bd7aa326271847aea5d6d7da19cf3a4e"
       }
     ],
     "cascading_goals": [
@@ -8914,7 +8946,7 @@
         "id": 12,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-10-10T15:29:52.622167",
+        "modified_at": "2026-10-10T16:29:51.406730",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 110.0,
@@ -8952,7 +8984,7 @@
         "id": 14,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-10-10T15:29:52.622167",
+        "modified_at": "2026-10-10T16:29:51.406730",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 1000.0,
@@ -9488,11 +9520,11 @@
         "course": "AI > Implmenetaion",
         "duration": 90,
         "id": 19,
-        "modified_at": "2026-10-10T14:15:19.389801",
+        "modified_at": "2026-10-10T15:39:19.151975",
         "status": "active",
         "title": "AI > Implmenetaion",
         "type": "Work",
-        "uuid": "65fe98c7086049779edc5883be8ad07a"
+        "uuid": "6902f460ef2f4cda996ab69e4dfd2ced"
       }
     ],
     "food_logs": [],
@@ -11101,6 +11133,21 @@
         "timestamp": "2026-10-10T14:09:12.588526",
         "type": "Work",
         "uuid": "ab8ed06ec64e47dcaf0bdcee8be2a68d"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "actual_duration": 0,
+        "course": "General",
+        "distraction_data": "[]",
+        "distractions": 0,
+        "duration": 0,
+        "id": 35,
+        "modified_at": "2026-10-10T12:59:51.371560Z",
+        "note": null,
+        "timelapse_path": "/Users/alinikkhah/Library/Application Support/IMPERIUM/timelapses/Work_General_20261010_153904.avi",
+        "timestamp": "2026-10-10T15:39:05.959459",
+        "type": "Work",
+        "uuid": "c8c3b87aad3949c3ac0ce8b4c12fbc75"
       }
     ],
     "quizzes": [
