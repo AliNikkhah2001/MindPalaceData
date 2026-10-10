@@ -87,6 +87,21 @@
     ],
     "focus_queue": [
       {
+        "deleted_at": "2026-10-10T12:09:38.775987",
+        "origin_device": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "uuid": "085da133becf4a47a24747bcd538d255"
+      },
+      {
+        "deleted_at": "2026-10-10T13:53:10.728185",
+        "origin_device": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "uuid": "167b97eb388a4361bb7657165f72172f"
+      },
+      {
+        "deleted_at": "2026-10-10T11:10:36.755305",
+        "origin_device": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "uuid": "1c7ec65a2e6445329947e8af46f31a21"
+      },
+      {
         "deleted_at": "2026-08-19T13:51:50.152155",
         "origin_device": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
         "uuid": "1e538f68930f4e48a7a97423374fed23"
@@ -162,9 +177,19 @@
         "uuid": "7043525e452a4be8b2e42fc5d9978384"
       },
       {
+        "deleted_at": "2026-10-10T11:16:01.831293",
+        "origin_device": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "uuid": "78ac51653769437db6fd24f6eb50e97b"
+      },
+      {
         "deleted_at": "2026-09-20T13:46:25.701935",
         "origin_device": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
         "uuid": "79272935977e4f04ba797ebf823f413c"
+      },
+      {
+        "deleted_at": "2026-10-10T11:16:01.443511",
+        "origin_device": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "uuid": "80e2b1477233458bbf89920b7fa4dc7d"
       },
       {
         "deleted_at": "2026-09-08T11:09:15.350306",
@@ -237,6 +262,11 @@
         "uuid": "b8ca43e9a367453bb9270d9814957425"
       },
       {
+        "deleted_at": "2026-10-10T11:10:36.352058",
+        "origin_device": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "uuid": "c49b3582c29e4dfd8f6435a21370ab33"
+      },
+      {
         "deleted_at": "2026-08-19T13:51:49.830518",
         "origin_device": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
         "uuid": "c5da0c6f738043b49f7cfd1a9e54a0c0"
@@ -272,7 +302,7 @@
     "recipe_ingredients": []
   },
   "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-  "last_sync": "2026-10-10T07:02:39.002419Z",
+  "last_sync": "2026-10-10T11:59:52.622745Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -281,16 +311,16 @@
     "beep_freq": 3,
     "bg_image_path": "",
     "blocked_apps": [],
-    "blur_mode": "faked",
-    "clock_bezel": "Compass",
+    "blur_mode": "frosted",
+    "clock_bezel": "World Time",
     "clock_case_shape": "Round",
-    "clock_complication": "GMT Hand",
-    "clock_dial_texture": "Guilloch\u00e9",
-    "clock_hands": "Feuille",
-    "clock_indices": "Circles",
-    "clock_lume": "Vintage Cream",
+    "clock_complication": "Day/Night",
+    "clock_dial_texture": "Barleycorn",
+    "clock_hands": "Snowflake",
+    "clock_indices": "Diamond",
+    "clock_lume": "C3 Green",
     "clock_style": "Analog Classic",
-    "clock_ticks": "Crosshair",
+    "clock_ticks": "Dots",
     "cognitio_dim_pending": false,
     "cognitio_read_view": "all",
     "cognitio_vault_path": "/Users/alinikkhah/Library/Application Support/IMPERIUM/knowledge",
@@ -307,16 +337,16 @@
     "font_family": "Inter",
     "font_size": 16,
     "force_close_apps_mins": 5,
-    "glass_blur_percent": 100,
-    "glass_gradient_format": "diagonal",
-    "glass_opacity_percent": 86,
-    "glass_primary_color": "#10b981",
-    "glass_saturation_percent": 70,
-    "glass_secondary_color": "#06b6d4",
-    "glass_shadow_percent": 87,
-    "glass_tertiary_color": "#84cc16",
-    "glass_theme": "Emerald",
-    "has_token": false,
+    "glass_blur_percent": 13,
+    "glass_gradient_format": "mesh",
+    "glass_opacity_percent": 51,
+    "glass_primary_color": "#0284c7",
+    "glass_saturation_percent": 22,
+    "glass_secondary_color": "#2563eb",
+    "glass_shadow_percent": 70,
+    "glass_tertiary_color": "#22d3ee",
+    "glass_theme": "Ocean",
+    "has_token": true,
     "health_activity": 1.2,
     "health_age": 24,
     "health_deficit": 1000,
@@ -346,10 +376,10 @@
     "start_fullscreen": false,
     "sync_enabled": true,
     "sync_interval": 3600,
-    "sync_msg": "File sync failed: Mapped file exceeds the 100 MiB safety limit: /Users/alinikkhah/Downloads/Mr.Robot.S04E08.720p.WEB.DL.PaHe.mkv",
-    "sync_progress_pct": 0,
+    "sync_msg": "Sync configured; remote not contacted",
+    "sync_progress_pct": 100,
     "timeline_end_hour": 24,
-    "timeline_pixel_per_hour": 120,
+    "timeline_pixel_per_hour": 60,
     "timeline_start_hour": 0,
     "vision_mode": "Visible (Face Only)",
     "vision_sample_interval": 50
@@ -8689,6 +8719,168 @@
         "module": "Sync",
         "timestamp": "2026-10-10T10:32:28.623791",
         "uuid": "b3c3c887d5f34827b1b63c777d331afa"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Push failed after 3 attempts: Cmd('git') failed due to: exit code(1)\n  cmdline: git push --porcelain --progress -- origin\n  stderr: 'error: failed to push some refs to 'https://github.com/alinikkhah2001/MindPalaceData.git''",
+        "id": 927,
+        "modified_at": "2026-10-10T10:32:49.852907",
+        "module": "Sync Error",
+        "timestamp": "2026-10-10T10:32:49.852907",
+        "uuid": "ef5bfe7f018a4500ac06b69485fa54c5"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: File sync failed: Mapped file exceeds the 100 MiB safety limit: /Users/alinikkhah/Downloads/Hamnet_2025_10bit_720p_x265_WEB-DL_6CH_PSA.mkv",
+        "id": 928,
+        "modified_at": "2026-10-10T12:29:48.894529",
+        "module": "Sync Error",
+        "timestamp": "2026-10-10T12:29:48.894529",
+        "uuid": "4029da69c27a479d8a6eab93b3b833b8"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Updated application settings via UI.",
+        "id": 929,
+        "modified_at": "2026-10-10T12:43:02.969282",
+        "module": "Settings",
+        "timestamp": "2026-10-10T12:43:02.969282",
+        "uuid": "674528c18e9548dca2952dcf663df4c1"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Updated application settings via UI.",
+        "id": 930,
+        "modified_at": "2026-10-10T12:43:03.483401",
+        "module": "Settings",
+        "timestamp": "2026-10-10T12:43:03.483401",
+        "uuid": "b77fb2d24ea34d1896b27ee15284f19f"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Updated application settings via UI.",
+        "id": 931,
+        "modified_at": "2026-10-10T12:43:04.401654",
+        "module": "Settings",
+        "timestamp": "2026-10-10T12:43:04.401654",
+        "uuid": "bf487fdd67064addbc5c903ac714a687"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Updated application settings via UI.",
+        "id": 932,
+        "modified_at": "2026-10-10T12:43:04.993316",
+        "module": "Settings",
+        "timestamp": "2026-10-10T12:43:04.993316",
+        "uuid": "f223101a764941a8b3a926fc106b02b8"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Updated application settings via UI.",
+        "id": 933,
+        "modified_at": "2026-10-10T12:44:43.637227",
+        "module": "Settings",
+        "timestamp": "2026-10-10T12:44:43.637227",
+        "uuid": "57ecb6370c8c42958ff66a99c0e6d4f4"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Updated application settings via UI.",
+        "id": 934,
+        "modified_at": "2026-10-10T12:45:36.407365",
+        "module": "Settings",
+        "timestamp": "2026-10-10T12:45:36.407365",
+        "uuid": "61af2984a26c4dba8996b6f84df52071"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Updated application settings via UI.",
+        "id": 935,
+        "modified_at": "2026-10-10T12:46:17.499729",
+        "module": "Settings",
+        "timestamp": "2026-10-10T12:46:17.499729",
+        "uuid": "951b214bfdee4821a5a0f2b3b51a5eca"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Updated application settings via UI.",
+        "id": 936,
+        "modified_at": "2026-10-10T12:46:26.186694",
+        "module": "Settings",
+        "timestamp": "2026-10-10T12:46:26.186694",
+        "uuid": "b6146bef4fbf4a95aac766aac6f2e702"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Updated application settings via UI.",
+        "id": 937,
+        "modified_at": "2026-10-10T12:46:33.852342",
+        "module": "Settings",
+        "timestamp": "2026-10-10T12:46:33.852342",
+        "uuid": "c4cd8c98b4be43fa8ee9f8c75a07fc8a"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Updated application settings via UI.",
+        "id": 938,
+        "modified_at": "2026-10-10T12:46:45.201360",
+        "module": "Settings",
+        "timestamp": "2026-10-10T12:46:45.201360",
+        "uuid": "20191644449547b8b9f4bfc209ca9c52"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Updated application settings via UI.",
+        "id": 939,
+        "modified_at": "2026-10-10T12:46:51.239015",
+        "module": "Settings",
+        "timestamp": "2026-10-10T12:46:51.239015",
+        "uuid": "f5fb47569ad345cca47dd5a32f16e35f"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Updated application settings via UI.",
+        "id": 940,
+        "modified_at": "2026-10-10T12:47:06.036622",
+        "module": "Settings",
+        "timestamp": "2026-10-10T12:47:06.036622",
+        "uuid": "e54dcf1589ea48f09239dc66d6249038"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Updated application settings via UI.",
+        "id": 941,
+        "modified_at": "2026-10-10T12:47:08.874515",
+        "module": "Settings",
+        "timestamp": "2026-10-10T12:47:08.874515",
+        "uuid": "0f2c10927f56468b81e1c0a13c54ba3c"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: File sync failed: Mapped file exceeds the 100 MiB safety limit: /Users/alinikkhah/Downloads/Hamnet_2025_10bit_720p_x265_WEB-DL_6CH_PSA.mkv",
+        "id": 942,
+        "modified_at": "2026-10-10T13:34:36.544996",
+        "module": "Sync Error",
+        "timestamp": "2026-10-10T13:34:36.544996",
+        "uuid": "cb148906f6434f8eadcacdb9fd0ec7d2"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Updated application settings via UI.",
+        "id": 943,
+        "modified_at": "2026-10-10T14:35:23.229330",
+        "module": "Settings",
+        "timestamp": "2026-10-10T14:35:23.229330",
+        "uuid": "518b956336714627bed09ec0ff1a8172"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Updated application settings via UI.",
+        "id": 944,
+        "modified_at": "2026-10-10T14:37:50.594983",
+        "module": "Settings",
+        "timestamp": "2026-10-10T14:37:50.594983",
+        "uuid": "d6f108fd241043b78b2348a063605ab1"
       }
     ],
     "cascading_goals": [
@@ -8722,7 +8914,7 @@
         "id": 12,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-10-10T10:32:39.001780",
+        "modified_at": "2026-10-10T15:29:52.622167",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 110.0,
@@ -8760,7 +8952,7 @@
         "id": 14,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-10-10T10:32:39.001780",
+        "modified_at": "2026-10-10T15:29:52.622167",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 1000.0,
@@ -9274,11 +9466,33 @@
         "course": "General",
         "duration": 60,
         "id": 17,
-        "modified_at": "2026-10-10T10:30:09.797169",
-        "status": "active",
+        "modified_at": "2026-10-10T12:34:39.160142",
+        "status": "completed",
         "title": "General",
         "type": "Work",
-        "uuid": "c49b3582c29e4dfd8f6435a21370ab33"
+        "uuid": "03856e91ee1e46e3a3619eb8f35d5c95"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "course": "Break",
+        "duration": 15,
+        "id": 18,
+        "modified_at": "2026-10-10T13:53:15.355429",
+        "status": "completed",
+        "title": "General",
+        "type": "Break",
+        "uuid": "5c6f4c264b164db1bef5c58caa136910"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "course": "AI > Implmenetaion",
+        "duration": 90,
+        "id": 19,
+        "modified_at": "2026-10-10T14:15:19.389801",
+        "status": "active",
+        "title": "AI > Implmenetaion",
+        "type": "Work",
+        "uuid": "65fe98c7086049779edc5883be8ad07a"
       }
     ],
     "food_logs": [],
@@ -10857,6 +11071,36 @@
         "timestamp": "2026-10-07T17:22:51.731386",
         "type": "Work",
         "uuid": "e53c8d0794d845e084345f0bdf560b7b"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "actual_duration": 60,
+        "course": "General",
+        "distraction_data": "[[8.033333333333333, 0.03333333333333333, \"Camera\"], [13.4, 0.03333333333333333, \"Camera\"], [15.6, 0.016666666666666666, \"Camera\"], [15.9, 0.016666666666666666, \"Camera\"], [26.05, 0.03333333333333333, \"Camera\"], [28.616666666666667, 0.016666666666666666, \"Camera\"], [29.083333333333332, 0.016666666666666666, \"Camera\"], [29.266666666666666, 0.016666666666666666, \"Camera\"], [29.983333333333334, 0.016666666666666666, \"Camera\"], [34.733333333333334, 0.03333333333333333, \"Camera\"], [38.583333333333336, 0.016666666666666666, \"Camera\"], [38.88333333333333, 0.03333333333333333, \"Camera\"], [42.233333333333334, 0.03333333333333333, \"Camera\"], [43.85, 0.016666666666666666, \"Camera\"], [45.21666666666667, 0.1, \"Camera\"], [45.5, 0.03333333333333333, \"Camera\"], [45.75, 0.016666666666666666, \"Camera\"], [45.96666666666667, 0.016666666666666666, \"Camera\"], [46.03333333333333, 0.016666666666666666, \"Camera\"], [46.1, 0.1, \"Camera\"], [46.166666666666664, 0.016666666666666666, \"Camera\"], [46.18333333333333, 0.03333333333333333, \"Camera\"], [50.93333333333333, 0.016666666666666666, \"Camera\"], [53.21666666666667, 0.016666666666666666, \"Camera\"], [54.766666666666666, 0.016666666666666666, \"Camera\"], [54.78333333333333, 0.016666666666666666, \"Camera\"], [54.8, 0.06666666666666667, \"Camera\"], [54.81666666666667, 0.016666666666666666, \"Camera\"], [56.05, 0.016666666666666666, \"Camera\"], [58.71666666666667, 0.03333333333333333, \"Camera\"]]",
+        "distractions": 52,
+        "duration": 60,
+        "id": 33,
+        "modified_at": "2026-10-10T14:29:45.721092",
+        "note": "fuck yeah",
+        "timelapse_path": "/Users/alinikkhah/Library/Application Support/IMPERIUM/timelapses/Work_General_20261010_123441.avi",
+        "timestamp": "2026-10-10T13:52:42.944171",
+        "type": "Work",
+        "uuid": "ad379106079241129028a31d26cda015"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "actual_duration": 15,
+        "course": "Break",
+        "distraction_data": "[[0.11666666666666667, 0.016666666666666666, \"Camera\"], [0.48333333333333334, 0.03333333333333333, \"Camera\"], [0.7, 0.016666666666666666, \"Camera\"], [1.1666666666666667, 0.05, \"Camera\"], [1.95, 0.016666666666666666, \"Camera\"], [2.816666666666667, 0.03333333333333333, \"Camera\"], [2.85, 0.016666666666666666, \"Camera\"], [3.8666666666666667, 0.03333333333333333, \"Camera\"], [4.316666666666666, 0.03333333333333333, \"Camera\"], [7.1, 0.016666666666666666, \"Camera\"], [8.116666666666667, 0.016666666666666666, \"Camera\"], [8.133333333333333, 0.016666666666666666, \"Camera\"], [8.2, 0.016666666666666666, \"Camera\"], [8.216666666666667, 0.03333333333333333, \"Camera\"], [9.4, 0.016666666666666666, \"Camera\"], [9.95, 0.03333333333333333, \"Camera\"], [10.333333333333334, 0.016666666666666666, \"Camera\"]]",
+        "distractions": 25,
+        "duration": 15,
+        "id": 34,
+        "modified_at": "2026-10-10T14:29:45.721092",
+        "note": null,
+        "timelapse_path": "/Users/alinikkhah/Library/Application Support/IMPERIUM/timelapses/Work_Break_20261010_135346.avi",
+        "timestamp": "2026-10-10T14:09:12.588526",
+        "type": "Work",
+        "uuid": "ab8ed06ec64e47dcaf0bdcee8be2a68d"
       }
     ],
     "quizzes": [
