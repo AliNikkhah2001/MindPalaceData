@@ -307,7 +307,7 @@
     "recipe_ingredients": []
   },
   "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-  "last_sync": "2026-10-11T15:34:07.115839Z",
+  "last_sync": "2026-10-11T16:28:04.199983Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -9228,6 +9228,24 @@
         "module": "Sync Error",
         "timestamp": "2026-10-11T19:04:01.510436",
         "uuid": "e82ec2677a664e46ae67dd3eaab3c82b"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Push failed after 3 attempts: Cmd('git') failed due to: exit code(1)\n  cmdline: git push --porcelain --progress -- origin\n  stderr: 'error: failed to push some refs to 'https://github.com/alinikkhah2001/MindPalaceData.git''",
+        "id": 983,
+        "modified_at": "2026-10-11T19:04:12.224415",
+        "module": "Sync Error",
+        "timestamp": "2026-10-11T19:04:12.224415",
+        "uuid": "0eaca4bad5854c23bf9a11a0ff75b7da"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: File sync failed: Mapped file exceeds the 100 MiB safety limit: /Users/alinikkhah/Downloads/Hamnet_2025_10bit_720p_x265_WEB-DL_6CH_PSA.mkv",
+        "id": 984,
+        "modified_at": "2026-10-11T19:57:59.402101",
+        "module": "Sync Error",
+        "timestamp": "2026-10-11T19:57:59.402101",
+        "uuid": "36db274aaf024fdfa7583869361e0d23"
       }
     ],
     "cascading_goals": [
@@ -9261,7 +9279,7 @@
         "id": 12,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-10-11T19:04:07.114996",
+        "modified_at": "2026-10-11T19:58:04.199161",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 110.0,
@@ -9299,7 +9317,7 @@
         "id": 14,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-10-11T19:04:07.114996",
+        "modified_at": "2026-10-11T19:58:04.199161",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 1000.0,
