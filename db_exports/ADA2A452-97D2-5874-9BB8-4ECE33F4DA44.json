@@ -307,7 +307,7 @@
     "recipe_ingredients": []
   },
   "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-  "last_sync": "2026-10-11T12:28:04.090065Z",
+  "last_sync": "2026-10-11T15:34:07.115839Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -9174,6 +9174,60 @@
         "module": "Sync Error",
         "timestamp": "2026-10-11T15:57:59.428916",
         "uuid": "a3801c9f0b2147388ccbb98ddaef4297"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Push failed after 3 attempts: Cmd('git') failed due to: exit code(1)\n  cmdline: git push --porcelain --progress -- origin\n  stderr: 'error: failed to push some refs to 'https://github.com/alinikkhah2001/MindPalaceData.git''",
+        "id": 977,
+        "modified_at": "2026-10-11T15:58:09.486539",
+        "module": "Sync Error",
+        "timestamp": "2026-10-11T15:58:09.486539",
+        "uuid": "85bdcba45c724fc1aed0f04f021b3378"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Sync failed: Another IMPERIUM process is already synchronizing",
+        "id": 978,
+        "modified_at": "2026-10-11T16:59:47.746808",
+        "module": "Sync Error",
+        "timestamp": "2026-10-11T16:59:47.746808",
+        "uuid": "f301247a71b9403bbec46e2378eab5e5"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 979,
+        "modified_at": "2026-10-11T16:59:47.829656",
+        "module": "Sync Error",
+        "timestamp": "2026-10-11T16:59:47.829656",
+        "uuid": "3baf9bafeba44a96bdd4b5bac9e68d3a"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Sync failed: Another IMPERIUM process is already synchronizing",
+        "id": 980,
+        "modified_at": "2026-10-11T18:08:13.041085",
+        "module": "Sync Error",
+        "timestamp": "2026-10-11T18:08:13.041085",
+        "uuid": "2306a270a3ff45238b1827fed5182c0d"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: File sync failed: Mapped file exceeds the 100 MiB safety limit: /Users/alinikkhah/Downloads/Hamnet_2025_10bit_720p_x265_WEB-DL_6CH_PSA.mkv",
+        "id": 981,
+        "modified_at": "2026-10-11T18:08:15.997080",
+        "module": "Sync Error",
+        "timestamp": "2026-10-11T18:08:15.997080",
+        "uuid": "3dae3381f213486faae23de5baec611a"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Sync failed: Another IMPERIUM process is already synchronizing",
+        "id": 982,
+        "modified_at": "2026-10-11T19:04:01.510436",
+        "module": "Sync Error",
+        "timestamp": "2026-10-11T19:04:01.510436",
+        "uuid": "e82ec2677a664e46ae67dd3eaab3c82b"
       }
     ],
     "cascading_goals": [
@@ -9207,7 +9261,7 @@
         "id": 12,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-10-11T15:58:04.089528",
+        "modified_at": "2026-10-11T19:04:07.114996",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 110.0,
@@ -9245,7 +9299,7 @@
         "id": 14,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-10-11T15:58:04.089528",
+        "modified_at": "2026-10-11T19:04:07.114996",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 1000.0,
