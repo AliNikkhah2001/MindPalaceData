@@ -307,7 +307,7 @@
     "recipe_ingredients": []
   },
   "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-  "last_sync": "2026-10-11T06:59:53.505452Z",
+  "last_sync": "2026-10-11T08:43:50.939135Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -9066,6 +9066,33 @@
         "module": "Sync Error",
         "timestamp": "2026-10-11T09:42:38.183830",
         "uuid": "350bd75ec56d4d5aa51329e94f63c59b"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 965,
+        "modified_at": "2026-10-11T10:30:01.478452",
+        "module": "Sync",
+        "timestamp": "2026-10-11T10:30:01.478452",
+        "uuid": "84cc81ac8dd6448fa8cb8443fe2d60a3"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Sync failed: Another IMPERIUM process is already synchronizing",
+        "id": 966,
+        "modified_at": "2026-10-11T11:58:02.800927",
+        "module": "Sync Error",
+        "timestamp": "2026-10-11T11:58:02.800927",
+        "uuid": "0016d7201c2b4ba29ac9dcb14baa374f"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: File sync failed: Mapped file exceeds the 100 MiB safety limit: /Users/alinikkhah/Downloads/Hamnet_2025_10bit_720p_x265_WEB-DL_6CH_PSA.mkv",
+        "id": 967,
+        "modified_at": "2026-10-11T12:13:41.060839",
+        "module": "Sync Error",
+        "timestamp": "2026-10-11T12:13:41.060839",
+        "uuid": "3481344b4ebf4da7a8173e1b8ea0d667"
       }
     ],
     "cascading_goals": [
@@ -9099,7 +9126,7 @@
         "id": 12,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-10-11T10:29:53.504894",
+        "modified_at": "2026-10-11T12:13:50.938240",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 110.0,
@@ -9137,7 +9164,7 @@
         "id": 14,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-10-11T10:29:53.504894",
+        "modified_at": "2026-10-11T12:13:50.938240",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 1000.0,
