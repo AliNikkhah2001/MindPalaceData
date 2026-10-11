@@ -307,7 +307,7 @@
     "recipe_ingredients": []
   },
   "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-  "last_sync": "2026-10-10T23:05:16.866253Z",
+  "last_sync": "2026-10-11T01:06:50.058941Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -8994,6 +8994,24 @@
         "module": "Sync",
         "timestamp": "2026-10-11T01:52:43.757782",
         "uuid": "33598e0e8a5f4ace964201370ee40e21"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 957,
+        "modified_at": "2026-10-11T02:35:39.803380",
+        "module": "Sync",
+        "timestamp": "2026-10-11T02:35:39.803380",
+        "uuid": "ab8195476caa488492087bd4fa314563"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 958,
+        "modified_at": "2026-10-11T03:40:27.164578",
+        "module": "Sync Error",
+        "timestamp": "2026-10-11T03:40:27.164578",
+        "uuid": "1660d856a4d7436ebcddc46149942a32"
       }
     ],
     "cascading_goals": [
@@ -9027,7 +9045,7 @@
         "id": 12,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-10-11T02:35:16.865225",
+        "modified_at": "2026-10-11T04:36:50.057146",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 110.0,
@@ -9065,7 +9083,7 @@
         "id": 14,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-10-11T02:35:16.865225",
+        "modified_at": "2026-10-11T04:36:50.057146",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 1000.0,
