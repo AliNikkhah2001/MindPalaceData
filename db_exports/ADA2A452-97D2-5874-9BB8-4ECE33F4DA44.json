@@ -307,7 +307,7 @@
     "recipe_ingredients": []
   },
   "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-  "last_sync": "2026-10-11T04:05:51.725020Z",
+  "last_sync": "2026-10-11T06:59:53.505452Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -9039,6 +9039,33 @@
         "module": "Sync",
         "timestamp": "2026-10-11T06:44:03.457135",
         "uuid": "c4767cbe90174f65a429cfd63114e036"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 962,
+        "modified_at": "2026-10-11T07:35:55.493753",
+        "module": "Sync",
+        "timestamp": "2026-10-11T07:35:55.493753",
+        "uuid": "ce53dbf5353842678ba8449252aa653f"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 963,
+        "modified_at": "2026-10-11T08:33:05.237117",
+        "module": "Sync Error",
+        "timestamp": "2026-10-11T08:33:05.237117",
+        "uuid": "1ac26be95da845baa0b5537745e530f4"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 964,
+        "modified_at": "2026-10-11T09:42:38.183830",
+        "module": "Sync Error",
+        "timestamp": "2026-10-11T09:42:38.183830",
+        "uuid": "350bd75ec56d4d5aa51329e94f63c59b"
       }
     ],
     "cascading_goals": [
@@ -9072,7 +9099,7 @@
         "id": 12,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-10-11T07:35:51.724404",
+        "modified_at": "2026-10-11T10:29:53.504894",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 110.0,
@@ -9110,7 +9137,7 @@
         "id": 14,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-10-11T07:35:51.724404",
+        "modified_at": "2026-10-11T10:29:53.504894",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 1000.0,
@@ -9658,7 +9685,7 @@
         "duration": 90,
         "id": 20,
         "modified_at": "2026-10-10T17:53:51.323838",
-        "status": "active",
+        "status": "pending",
         "title": "General",
         "type": "Work",
         "uuid": "b4d9cedd0dc94e648aaf861d13a37aef"
