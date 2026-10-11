@@ -307,7 +307,7 @@
     "recipe_ingredients": []
   },
   "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-  "last_sync": "2026-10-11T16:28:04.199983Z",
+  "last_sync": "2026-10-11T19:34:49.783336Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -9246,6 +9246,51 @@
         "module": "Sync Error",
         "timestamp": "2026-10-11T19:57:59.402101",
         "uuid": "36db274aaf024fdfa7583869361e0d23"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Push failed after 3 attempts: Cmd('git') failed due to: exit code(1)\n  cmdline: git push --porcelain --progress -- origin\n  stderr: 'error: failed to push some refs to 'https://github.com/alinikkhah2001/MindPalaceData.git''",
+        "id": 985,
+        "modified_at": "2026-10-11T19:58:08.880788",
+        "module": "Sync Error",
+        "timestamp": "2026-10-11T19:58:08.880788",
+        "uuid": "cf842c66fec64dc48e278420c0dd21a8"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Sync failed: Another IMPERIUM process is already synchronizing",
+        "id": 986,
+        "modified_at": "2026-10-11T21:06:39.027482",
+        "module": "Sync Error",
+        "timestamp": "2026-10-11T21:06:39.027482",
+        "uuid": "607e51ee845d4bf899e8856fea2be81f"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: File sync failed: Mapped file exceeds the 100 MiB safety limit: /Users/alinikkhah/Downloads/Hamnet_2025_10bit_720p_x265_WEB-DL_6CH_PSA.mkv",
+        "id": 987,
+        "modified_at": "2026-10-11T21:06:41.462728",
+        "module": "Sync Error",
+        "timestamp": "2026-10-11T21:06:41.462728",
+        "uuid": "210ea8c538e4495f824ea3c60cbfec06"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Sync failed: Another IMPERIUM process is already synchronizing",
+        "id": 988,
+        "modified_at": "2026-10-11T22:06:33.650359",
+        "module": "Sync Error",
+        "timestamp": "2026-10-11T22:06:33.650359",
+        "uuid": "de3bfeba3afe469387c69a662ea08263"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: File sync failed: Mapped file exceeds the 100 MiB safety limit: /Users/alinikkhah/Downloads/Hamnet_2025_10bit_720p_x265_WEB-DL_6CH_PSA.mkv",
+        "id": 989,
+        "modified_at": "2026-10-11T22:06:36.196502",
+        "module": "Sync Error",
+        "timestamp": "2026-10-11T22:06:36.196502",
+        "uuid": "ea59c45849c44c33871ef26060f7cc1c"
       }
     ],
     "cascading_goals": [
@@ -9279,7 +9324,7 @@
         "id": 12,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-10-11T19:58:04.199161",
+        "modified_at": "2026-10-11T23:04:49.782826",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 110.0,
@@ -9317,7 +9362,7 @@
         "id": 14,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-10-11T19:58:04.199161",
+        "modified_at": "2026-10-11T23:04:49.782826",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 1000.0,
