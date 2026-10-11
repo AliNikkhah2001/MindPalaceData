@@ -307,7 +307,7 @@
     "recipe_ingredients": []
   },
   "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-  "last_sync": "2026-10-11T19:34:49.783336Z",
+  "last_sync": "2026-10-11T20:34:34.191062Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -9291,6 +9291,33 @@
         "module": "Sync Error",
         "timestamp": "2026-10-11T22:06:36.196502",
         "uuid": "ea59c45849c44c33871ef26060f7cc1c"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Sync failed: Another IMPERIUM process is already synchronizing",
+        "id": 990,
+        "modified_at": "2026-10-11T23:04:50.184903",
+        "module": "Sync Error",
+        "timestamp": "2026-10-11T23:04:50.184903",
+        "uuid": "6dae42e08d104d9eba3ca71c93c0b3f1"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Push failed after 3 attempts: Cmd('git') failed due to: exit code(1)\n  cmdline: git push --porcelain --progress -- origin\n  stderr: 'error: failed to push some refs to 'https://github.com/alinikkhah2001/MindPalaceData.git''",
+        "id": 991,
+        "modified_at": "2026-10-11T23:07:35.460253",
+        "module": "Sync Error",
+        "timestamp": "2026-10-11T23:07:35.460253",
+        "uuid": "c1a2a5c4bf3145a3a52f2db9ca15fde7"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Sync failed: Another IMPERIUM process is already synchronizing",
+        "id": 992,
+        "modified_at": "2026-10-12T00:04:32.956211",
+        "module": "Sync Error",
+        "timestamp": "2026-10-12T00:04:32.956211",
+        "uuid": "529c4172ae464fbfb75294fc4839981d"
       }
     ],
     "cascading_goals": [
@@ -9324,7 +9351,7 @@
         "id": 12,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-10-11T23:04:49.782826",
+        "modified_at": "2026-10-12T00:04:34.190495",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 110.0,
@@ -9362,7 +9389,7 @@
         "id": 14,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-10-11T23:04:49.782826",
+        "modified_at": "2026-10-12T00:04:34.190495",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 1000.0,
