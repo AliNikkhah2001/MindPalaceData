@@ -307,7 +307,7 @@
     "recipe_ingredients": []
   },
   "device_id": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-  "last_sync": "2026-10-11T09:28:07.747425Z",
+  "last_sync": "2026-10-11T12:28:04.090065Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -9111,6 +9111,69 @@
         "module": "Sync Error",
         "timestamp": "2026-10-11T12:58:02.083584",
         "uuid": "19020bec53714a29ac0b6882715ce8a9"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Push failed after 3 attempts: Cmd('git') failed due to: exit code(1)\n  cmdline: git push --porcelain --progress -- origin\n  stderr: 'error: failed to push some refs to 'https://github.com/alinikkhah2001/MindPalaceData.git''",
+        "id": 970,
+        "modified_at": "2026-10-11T12:58:20.235645",
+        "module": "Sync Error",
+        "timestamp": "2026-10-11T12:58:20.235645",
+        "uuid": "f600943990d7466885a480465dc1fec9"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Successfully synced with Git cluster. Verify: attention \u2014 remote has data you lack AND your snapshot is not fully shared",
+        "id": 971,
+        "modified_at": "2026-10-11T13:01:06.189801",
+        "module": "Sync",
+        "timestamp": "2026-10-11T13:01:06.189801",
+        "uuid": "1c5295fbdee84a169db359f17a1a1cbe"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Sync failed: Another IMPERIUM process is already synchronizing",
+        "id": 972,
+        "modified_at": "2026-10-11T13:58:02.552499",
+        "module": "Sync Error",
+        "timestamp": "2026-10-11T13:58:02.552499",
+        "uuid": "d6d6e80f53cb401b9b9a3e50ab3a70d5"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: File sync failed: Mapped file exceeds the 100 MiB safety limit: /Users/alinikkhah/Downloads/Hamnet_2025_10bit_720p_x265_WEB-DL_6CH_PSA.mkv",
+        "id": 973,
+        "modified_at": "2026-10-11T13:58:02.766875",
+        "module": "Sync Error",
+        "timestamp": "2026-10-11T13:58:02.766875",
+        "uuid": "0f8a15c1a49a41c49de3b2c2b1953a0e"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Sync failed: Another IMPERIUM process is already synchronizing",
+        "id": 974,
+        "modified_at": "2026-10-11T14:58:02.127373",
+        "module": "Sync Error",
+        "timestamp": "2026-10-11T14:58:02.127373",
+        "uuid": "dd9ddfcece15427397513682fed34e13"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: File sync failed: Mapped file exceeds the 100 MiB safety limit: /Users/alinikkhah/Downloads/Hamnet_2025_10bit_720p_x265_WEB-DL_6CH_PSA.mkv",
+        "id": 975,
+        "modified_at": "2026-10-11T14:58:03.047980",
+        "module": "Sync Error",
+        "timestamp": "2026-10-11T14:58:03.047980",
+        "uuid": "053c98720c24409f890bf7e2bfc6a863"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: File sync failed: Mapped file exceeds the 100 MiB safety limit: /Users/alinikkhah/Downloads/Hamnet_2025_10bit_720p_x265_WEB-DL_6CH_PSA.mkv",
+        "id": 976,
+        "modified_at": "2026-10-11T15:57:59.428916",
+        "module": "Sync Error",
+        "timestamp": "2026-10-11T15:57:59.428916",
+        "uuid": "a3801c9f0b2147388ccbb98ddaef4297"
       }
     ],
     "cascading_goals": [
@@ -9144,7 +9207,7 @@
         "id": 12,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-10-11T12:58:07.746886",
+        "modified_at": "2026-10-11T15:58:04.089528",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 110.0,
@@ -9182,7 +9245,7 @@
         "id": 14,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-10-11T12:58:07.746886",
+        "modified_at": "2026-10-11T15:58:04.089528",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 1000.0,
