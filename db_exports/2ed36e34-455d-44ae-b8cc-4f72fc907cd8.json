@@ -307,7 +307,7 @@
     "recipe_ingredients": []
   },
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-10-12T13:46:09.489321Z",
+  "last_sync": "2026-10-12T13:48:38.080893Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -9437,6 +9437,15 @@
         "module": "Sync",
         "timestamp": "2026-10-12T17:13:05.452352",
         "uuid": "bf2f514fa91148489da80cbe041a38e4"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 1006,
+        "modified_at": "2026-10-12T17:16:51.487327",
+        "module": "Sync",
+        "timestamp": "2026-10-12T17:16:51.487327",
+        "uuid": "5dc514b6836b4ddc8aed91d4361a54a5"
       }
     ],
     "cascading_goals": [
@@ -9472,7 +9481,7 @@
         "id": 2,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-10-12T17:16:09.486158",
+        "modified_at": "2026-10-12T17:18:38.076888",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 1000.0,
@@ -9492,7 +9501,7 @@
         "id": 3,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-10-12T17:16:09.486158",
+        "modified_at": "2026-10-12T17:18:38.076888",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 110.0,
