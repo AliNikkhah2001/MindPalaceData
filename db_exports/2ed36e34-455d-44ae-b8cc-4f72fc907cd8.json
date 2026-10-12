@@ -38,6 +38,11 @@
         "uuid": "6718a23534ec4934ab113aa35e3534bd"
       },
       {
+        "deleted_at": "2026-10-07T15:08:20.304013",
+        "origin_device": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "uuid": "74d5489565384477b2a857d649a2ada1"
+      },
+      {
         "deleted_at": "2026-09-15T14:33:41.681944",
         "origin_device": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
         "uuid": "8c944f130900431eab332f36c91e1db7"
@@ -56,6 +61,11 @@
         "deleted_at": "2026-09-07T14:35:11.173562",
         "origin_device": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
         "uuid": "a4456dedc0f746039e9da0dddb9e4519"
+      },
+      {
+        "deleted_at": "2026-10-07T15:08:20.897740",
+        "origin_device": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "uuid": "bc1bac23dca54c6cbe10335cfc5613d6"
       },
       {
         "deleted_at": "2026-09-07T14:34:47.239390",
@@ -77,6 +87,21 @@
     ],
     "focus_queue": [
       {
+        "deleted_at": "2026-10-10T12:09:38.775987",
+        "origin_device": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "uuid": "085da133becf4a47a24747bcd538d255"
+      },
+      {
+        "deleted_at": "2026-10-10T13:53:10.728185",
+        "origin_device": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "uuid": "167b97eb388a4361bb7657165f72172f"
+      },
+      {
+        "deleted_at": "2026-10-10T11:10:36.755305",
+        "origin_device": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "uuid": "1c7ec65a2e6445329947e8af46f31a21"
+      },
+      {
         "deleted_at": "2026-08-19T13:51:50.152155",
         "origin_device": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
         "uuid": "1e538f68930f4e48a7a97423374fed23"
@@ -85,6 +110,36 @@
         "deleted_at": "2026-08-19T13:51:49.991246",
         "origin_device": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
         "uuid": "2ca4b72939474367a62ce08f7ab53a27"
+      },
+      {
+        "deleted_at": "2026-10-10T10:30:05.388451",
+        "origin_device": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "uuid": "2de1eb09f10f48998185808467074bf7"
+      },
+      {
+        "deleted_at": "2026-10-07T15:08:12.761994",
+        "origin_device": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "uuid": "34c1c74c2dce4aa49d4a2142f6d34c39"
+      },
+      {
+        "deleted_at": "2026-10-10T10:27:49.211730",
+        "origin_device": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "uuid": "3c7b830fdcb24330bde44381916f7719"
+      },
+      {
+        "deleted_at": "2026-10-07T15:08:11.966621",
+        "origin_device": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "uuid": "4b35504ad7cc4dbe92ce9837b2257495"
+      },
+      {
+        "deleted_at": "2026-10-10T10:26:27.409351",
+        "origin_device": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "uuid": "4e45bad5af354ea097c7707727985edc"
+      },
+      {
+        "deleted_at": "2026-10-04T15:00:41.150059",
+        "origin_device": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "uuid": "51a27bdc0bed41e29d6afbda21db9925"
       },
       {
         "deleted_at": "2026-09-02T17:13:02.947433",
@@ -102,6 +157,21 @@
         "uuid": "5f1eb14a9d024dbfb5ae08457c8c2eba"
       },
       {
+        "deleted_at": "2026-10-10T15:39:10.141171",
+        "origin_device": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "uuid": "65fe98c7086049779edc5883be8ad07a"
+      },
+      {
+        "deleted_at": "2026-10-10T10:26:28.392938",
+        "origin_device": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "uuid": "6952e85d9ae3438cba08a809ab779960"
+      },
+      {
+        "deleted_at": "2026-10-05T16:03:24.745388",
+        "origin_device": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "uuid": "6d3dd961d1824760992723eaaa01bb4f"
+      },
+      {
         "deleted_at": "2026-09-06T17:28:28.332771",
         "origin_device": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
         "uuid": "6e48397ea45e42fe9bc33510a644ad16"
@@ -112,9 +182,19 @@
         "uuid": "7043525e452a4be8b2e42fc5d9978384"
       },
       {
+        "deleted_at": "2026-10-10T11:16:01.831293",
+        "origin_device": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "uuid": "78ac51653769437db6fd24f6eb50e97b"
+      },
+      {
         "deleted_at": "2026-09-20T13:46:25.701935",
         "origin_device": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
         "uuid": "79272935977e4f04ba797ebf823f413c"
+      },
+      {
+        "deleted_at": "2026-10-10T11:16:01.443511",
+        "origin_device": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "uuid": "80e2b1477233458bbf89920b7fa4dc7d"
       },
       {
         "deleted_at": "2026-09-08T11:09:15.350306",
@@ -172,6 +252,26 @@
         "uuid": "ae83d83d18c34a8fa1bee72196ec4595"
       },
       {
+        "deleted_at": "2026-10-07T15:08:12.420131",
+        "origin_device": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "uuid": "b3c0271e8ad7443da81c4d038ce00c0e"
+      },
+      {
+        "deleted_at": "2026-10-10T10:27:47.437770",
+        "origin_device": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "uuid": "b621882faab94516a7da503a1375de3a"
+      },
+      {
+        "deleted_at": "2026-10-07T15:08:13.182156",
+        "origin_device": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "uuid": "b8ca43e9a367453bb9270d9814957425"
+      },
+      {
+        "deleted_at": "2026-10-10T11:10:36.352058",
+        "origin_device": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "uuid": "c49b3582c29e4dfd8f6435a21370ab33"
+      },
+      {
         "deleted_at": "2026-08-19T13:51:49.830518",
         "origin_device": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
         "uuid": "c5da0c6f738043b49f7cfd1a9e54a0c0"
@@ -189,7 +289,13 @@
     ],
     "food_logs": [],
     "habit_logs": [],
-    "habits": [],
+    "habits": [
+      {
+        "deleted_at": "2026-10-04T15:00:23.481964",
+        "origin_device": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "uuid": "65e42014b83e437ea878be6412b3d7a9"
+      }
+    ],
     "health_logs": [],
     "health_plans": [],
     "health_profile": [],
@@ -201,7 +307,7 @@
     "recipe_ingredients": []
   },
   "device_id": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-  "last_sync": "2026-10-04T11:26:48.477305Z",
+  "last_sync": "2026-10-12T11:46:34.489917Z",
   "protocol_version": 2,
   "settings": {
     "allowed_apps": [],
@@ -7837,6 +7943,1140 @@
         "module": "Sync",
         "timestamp": "2026-10-04T14:51:05.789825",
         "uuid": "cb680779a91d4b8ab3380c8ec57282bb"
+      },
+      {
+        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 840,
+        "modified_at": "2026-10-04T14:57:18.410041",
+        "module": "Sync",
+        "timestamp": "2026-10-04T14:57:18.410041",
+        "uuid": "1e3982b9bd6f4a6eb9f0773dbb41fd65"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: File sync failed: Mapped file exceeds the 100 MiB safety limit: /Users/alinikkhah/Downloads/Mr.Robot.S04E08.720p.WEB.DL.PaHe.mkv",
+        "id": 841,
+        "modified_at": "2026-10-07T20:35:00.358569",
+        "module": "Sync Error",
+        "timestamp": "2026-10-07T20:35:00.358569",
+        "uuid": "019323cf424f4d9d9b363ff6f41ac30a"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Push failed after 3 attempts: Cmd('git') failed due to: exit code(1)\n  cmdline: git push --porcelain --progress -- origin\n  stderr: 'error: failed to push some refs to 'https://github.com/alinikkhah2001/MindPalaceData.git''",
+        "id": 842,
+        "modified_at": "2026-10-07T15:55:25.115873",
+        "module": "Sync Error",
+        "timestamp": "2026-10-07T15:55:25.115873",
+        "uuid": "02507492590b40329ebe69d7156162d1"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: File sync failed: Mapped file exceeds the 100 MiB safety limit: /Users/alinikkhah/Downloads/Mr.Robot.S04E12.720p.WEB.DL.PaHe.mkv",
+        "id": 843,
+        "modified_at": "2026-10-09T07:53:16.290135",
+        "module": "Sync Error",
+        "timestamp": "2026-10-09T07:53:16.290135",
+        "uuid": "028e374fdcb64cb79305b29217fd5684"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 844,
+        "modified_at": "2026-10-04T18:07:14.777987",
+        "module": "Sync",
+        "timestamp": "2026-10-04T18:07:14.777987",
+        "uuid": "0869aee5abc54328b5499ba621a36376"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 845,
+        "modified_at": "2026-10-10T20:45:35.512833",
+        "module": "Sync",
+        "timestamp": "2026-10-10T20:45:35.512833",
+        "uuid": "091ca21d45d8480e8c4b0651e83596d0"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Updated application settings via UI.",
+        "id": 846,
+        "modified_at": "2026-10-07T17:22:40.574328",
+        "module": "Settings",
+        "timestamp": "2026-10-07T17:22:40.574328",
+        "uuid": "0ccec373eaf24cb184f33ace7ba20ae8"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Updated application settings via UI.",
+        "id": 847,
+        "modified_at": "2026-10-10T12:47:08.874515",
+        "module": "Settings",
+        "timestamp": "2026-10-10T12:47:08.874515",
+        "uuid": "0f2c10927f56468b81e1c0a13c54ba3c"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 848,
+        "modified_at": "2026-10-07T18:38:11.740793",
+        "module": "Sync Error",
+        "timestamp": "2026-10-07T18:38:11.740793",
+        "uuid": "1176ea7562ff4504b88f61860b31a30b"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 849,
+        "modified_at": "2026-10-05T15:07:16.560544",
+        "module": "Sync",
+        "timestamp": "2026-10-05T15:07:16.560544",
+        "uuid": "12719238e3c342f7b2eeac955586c5df"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 850,
+        "modified_at": "2026-10-10T19:29:59.881923",
+        "module": "Sync",
+        "timestamp": "2026-10-10T19:29:59.881923",
+        "uuid": "12ea12a11076491da13e95f4da8fb0c4"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Updated application settings via UI.",
+        "id": 851,
+        "modified_at": "2026-10-07T01:04:17.274142",
+        "module": "Settings",
+        "timestamp": "2026-10-07T01:04:17.274142",
+        "uuid": "1438cdd6e25e4318a16b9916704d8109"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 852,
+        "modified_at": "2026-10-11T03:40:27.164578",
+        "module": "Sync Error",
+        "timestamp": "2026-10-11T03:40:27.164578",
+        "uuid": "1660d856a4d7436ebcddc46149942a32"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: File sync failed: Mapped file exceeds the 100 MiB safety limit: /Users/alinikkhah/Downloads/Mr.Robot.S04E12.720p.WEB.DL.PaHe.mkv",
+        "id": 853,
+        "modified_at": "2026-10-09T03:52:38.344503",
+        "module": "Sync Error",
+        "timestamp": "2026-10-09T03:52:38.344503",
+        "uuid": "177c26200c654e6db49f7def23b85da6"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 854,
+        "modified_at": "2026-10-04T16:07:19.492568",
+        "module": "Sync",
+        "timestamp": "2026-10-04T16:07:19.492568",
+        "uuid": "1902b78f437a4d9295534d4ce828fc71"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 855,
+        "modified_at": "2026-10-11T08:33:05.237117",
+        "module": "Sync Error",
+        "timestamp": "2026-10-11T08:33:05.237117",
+        "uuid": "1ac26be95da845baa0b5537745e530f4"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Updated application settings via UI.",
+        "id": 856,
+        "modified_at": "2026-10-07T01:04:18.382392",
+        "module": "Settings",
+        "timestamp": "2026-10-07T01:04:18.382392",
+        "uuid": "1b900011a3ba4bda875a77f08897c07e"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 857,
+        "modified_at": "2026-10-10T17:29:59.368226",
+        "module": "Sync",
+        "timestamp": "2026-10-10T17:29:59.368226",
+        "uuid": "1ca462810b2140b6bba2741c8c8a4d87"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 858,
+        "modified_at": "2026-10-09T08:53:24.929165",
+        "module": "Sync Error",
+        "timestamp": "2026-10-09T08:53:24.929165",
+        "uuid": "1d4c6356788b4747b5a8b691c7641695"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Updated application settings via UI.",
+        "id": 859,
+        "modified_at": "2026-10-10T12:46:45.201360",
+        "module": "Settings",
+        "timestamp": "2026-10-10T12:46:45.201360",
+        "uuid": "20191644449547b8b9f4bfc209ca9c52"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: File sync failed: Mapped file exceeds the 100 MiB safety limit: /Users/alinikkhah/Downloads/Mr.Robot.S04E08.720p.WEB.DL.PaHe.mkv",
+        "id": 860,
+        "modified_at": "2026-10-07T22:35:23.954875",
+        "module": "Sync Error",
+        "timestamp": "2026-10-07T22:35:23.954875",
+        "uuid": "25f0c69e1432423eb2ccfb3f79978c6e"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 861,
+        "modified_at": "2026-10-10T15:30:03.839725",
+        "module": "Sync",
+        "timestamp": "2026-10-10T15:30:03.839725",
+        "uuid": "26a3fc50bd0a48e3af20e1510f434075"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: File sync failed: Mapped file exceeds the 100 MiB safety limit: /Users/alinikkhah/Downloads/Mr.Robot.S04E08.720p.WEB.DL.PaHe.mkv",
+        "id": 862,
+        "modified_at": "2026-10-07T12:41:58.583730",
+        "module": "Sync Error",
+        "timestamp": "2026-10-07T12:41:58.583730",
+        "uuid": "27c48c67e5c7412895c8bd6f004bc395"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to github.com:443",
+        "id": 863,
+        "modified_at": "2026-10-05T12:06:59.488070",
+        "module": "Sync Error",
+        "timestamp": "2026-10-05T12:06:59.488070",
+        "uuid": "2cc81fc8cb824ba0ac40555e34b4de3e"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Resolving timed out after 908791 milliseconds",
+        "id": 864,
+        "modified_at": "2026-10-07T00:57:30.722887",
+        "module": "Sync Error",
+        "timestamp": "2026-10-07T00:57:30.722887",
+        "uuid": "3134ec5c890642068f93dcf6663c455a"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 865,
+        "modified_at": "2026-10-11T01:52:43.757782",
+        "module": "Sync",
+        "timestamp": "2026-10-11T01:52:43.757782",
+        "uuid": "33598e0e8a5f4ace964201370ee40e21"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 866,
+        "modified_at": "2026-10-11T09:42:38.183830",
+        "module": "Sync Error",
+        "timestamp": "2026-10-11T09:42:38.183830",
+        "uuid": "350bd75ec56d4d5aa51329e94f63c59b"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 867,
+        "modified_at": "2026-10-05T18:07:11.092692",
+        "module": "Sync",
+        "timestamp": "2026-10-05T18:07:11.092692",
+        "uuid": "354991bca8954b85920d91917e045626"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Updated application settings via UI.",
+        "id": 868,
+        "modified_at": "2026-10-07T16:51:30.486515",
+        "module": "Settings",
+        "timestamp": "2026-10-07T16:51:30.486515",
+        "uuid": "3614c252d64345539c1dd7ca18e638ca"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: File sync failed: Mapped file exceeds the 100 MiB safety limit: /Users/alinikkhah/Downloads/Mr.Robot.S04E08.720p.WEB.DL.PaHe.mkv",
+        "id": 869,
+        "modified_at": "2026-10-07T19:34:59.893212",
+        "module": "Sync Error",
+        "timestamp": "2026-10-07T19:34:59.893212",
+        "uuid": "38bd811dfe6243e48012b2cb4d3d4c43"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: File sync failed: Mapped file exceeds the 100 MiB safety limit: /Users/alinikkhah/Downloads/Mr.Robot.S04E12.720p.WEB.DL.PaHe.mkv",
+        "id": 870,
+        "modified_at": "2026-10-09T06:47:45.938837",
+        "module": "Sync Error",
+        "timestamp": "2026-10-09T06:47:45.938837",
+        "uuid": "39e14f923bc84cf6ac63bc8885c9a8e3"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: File sync failed: Mapped file exceeds the 100 MiB safety limit: /Users/alinikkhah/Downloads/Mr.Robot.S04E08.720p.WEB.DL.PaHe.mkv",
+        "id": 871,
+        "modified_at": "2026-10-07T16:35:01.213967",
+        "module": "Sync Error",
+        "timestamp": "2026-10-07T16:35:01.213967",
+        "uuid": "3bc8d3c6ddca4bb0bb16a6d33ff3ad35"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Push failed after 3 attempts: Cmd('git') failed due to: exit code(1)\n  cmdline: git push --porcelain --progress -- origin\n  stderr: 'error: failed to push some refs to 'https://github.com/alinikkhah2001/MindPalaceData.git''",
+        "id": 872,
+        "modified_at": "2026-10-06T13:02:27.511483",
+        "module": "Sync Error",
+        "timestamp": "2026-10-06T13:02:27.511483",
+        "uuid": "3c6e191d4a694201b70303f2c2f35200"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Updated application settings via UI.",
+        "id": 873,
+        "modified_at": "2026-10-07T17:24:02.975622",
+        "module": "Settings",
+        "timestamp": "2026-10-07T17:24:02.975622",
+        "uuid": "3e7a1d9148e1449295c154322530dd05"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: File sync failed: Mapped file exceeds the 100 MiB safety limit: /Users/alinikkhah/Downloads/Hamnet_2025_10bit_720p_x265_WEB-DL_6CH_PSA.mkv",
+        "id": 874,
+        "modified_at": "2026-10-10T12:29:48.894529",
+        "module": "Sync Error",
+        "timestamp": "2026-10-10T12:29:48.894529",
+        "uuid": "4029da69c27a479d8a6eab93b3b833b8"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 875,
+        "modified_at": "2026-10-10T18:30:00.571288",
+        "module": "Sync",
+        "timestamp": "2026-10-10T18:30:00.571288",
+        "uuid": "41667243ca8545e7bd93f07692611d8f"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: File sync failed: Mapped file exceeds the 100 MiB safety limit: /Users/alinikkhah/Downloads/Mr.Robot.S04E12.720p.WEB.DL.PaHe.mkv",
+        "id": 876,
+        "modified_at": "2026-10-08T20:44:27.900043",
+        "module": "Sync Error",
+        "timestamp": "2026-10-08T20:44:27.900043",
+        "uuid": "43918b17d6d14c949c080a274584ceb0"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: File sync failed: Mapped file exceeds the 100 MiB safety limit: /Users/alinikkhah/Downloads/Mr.Robot.S04E08.720p.WEB.DL.PaHe.mkv",
+        "id": 877,
+        "modified_at": "2026-10-08T15:44:26.866255",
+        "module": "Sync Error",
+        "timestamp": "2026-10-08T15:44:26.866255",
+        "uuid": "46a4b9c0fe724f41b5a96bcc3f4a0593"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: File sync failed: Mapped file exceeds the 100 MiB safety limit: /Users/alinikkhah/Downloads/Mr.Robot.S04E12.720p.WEB.DL.PaHe.mkv",
+        "id": 878,
+        "modified_at": "2026-10-08T21:44:27.769134",
+        "module": "Sync Error",
+        "timestamp": "2026-10-08T21:44:27.769134",
+        "uuid": "475efa02657640c5b25ef613a7e0fb54"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Updated application settings via UI.",
+        "id": 879,
+        "modified_at": "2026-10-10T14:35:23.229330",
+        "module": "Settings",
+        "timestamp": "2026-10-10T14:35:23.229330",
+        "uuid": "518b956336714627bed09ec0ff1a8172"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: File sync failed: Mapped file exceeds the 100 MiB safety limit: /Users/alinikkhah/Downloads/Mr.Robot.S04E12.720p.WEB.DL.PaHe.mkv",
+        "id": 880,
+        "modified_at": "2026-10-08T18:44:28.271096",
+        "module": "Sync Error",
+        "timestamp": "2026-10-08T18:44:28.271096",
+        "uuid": "53bd425a1e3f4d7fb945b21232829bf7"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Updated application settings via UI.",
+        "id": 881,
+        "modified_at": "2026-10-05T16:32:41.076479",
+        "module": "Settings",
+        "timestamp": "2026-10-05T16:32:41.076479",
+        "uuid": "544a7b78ed9146fc9794c77663e0a027"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: File sync failed: Mapped file exceeds the 100 MiB safety limit: /Users/alinikkhah/Downloads/Mr.Robot.S04E12.720p.WEB.DL.PaHe.mkv",
+        "id": 882,
+        "modified_at": "2026-10-08T16:44:26.525799",
+        "module": "Sync Error",
+        "timestamp": "2026-10-08T16:44:26.525799",
+        "uuid": "55eae6a02a82442bb3d8fb55808b9cb4"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Updated application settings via UI.",
+        "id": 883,
+        "modified_at": "2026-10-07T16:51:26.257517",
+        "module": "Settings",
+        "timestamp": "2026-10-07T16:51:26.257517",
+        "uuid": "56feb777f4484e1385b95136e302c223"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Updated application settings via UI.",
+        "id": 884,
+        "modified_at": "2026-10-10T12:44:43.637227",
+        "module": "Settings",
+        "timestamp": "2026-10-10T12:44:43.637227",
+        "uuid": "57ecb6370c8c42958ff66a99c0e6d4f4"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Updated application settings via UI.",
+        "id": 885,
+        "modified_at": "2026-10-05T16:36:56.099956",
+        "module": "Settings",
+        "timestamp": "2026-10-05T16:36:56.099956",
+        "uuid": "59946a13fe5d4182a735f2312fc80cc7"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 886,
+        "modified_at": "2026-10-07T23:43:25.995743",
+        "module": "Sync Error",
+        "timestamp": "2026-10-07T23:43:25.995743",
+        "uuid": "5dd596f1d8174cd0b4799bf81ad66d79"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Updated application settings via UI.",
+        "id": 887,
+        "modified_at": "2026-10-10T12:45:36.407365",
+        "module": "Settings",
+        "timestamp": "2026-10-10T12:45:36.407365",
+        "uuid": "61af2984a26c4dba8996b6f84df52071"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 888,
+        "modified_at": "2026-10-05T19:07:43.853552",
+        "module": "Sync",
+        "timestamp": "2026-10-05T19:07:43.853552",
+        "uuid": "6326f40afd0247c4bcc1cb1939defaf0"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: File sync failed: Mapped file exceeds the 100 MiB safety limit: /Users/alinikkhah/Downloads/Mr.Robot.S04E12.720p.WEB.DL.PaHe.mkv",
+        "id": 889,
+        "modified_at": "2026-10-09T02:50:50.862138",
+        "module": "Sync Error",
+        "timestamp": "2026-10-09T02:50:50.862138",
+        "uuid": "648e2e971e2c4840bfef7e7cd8b41067"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Updated application settings via UI.",
+        "id": 890,
+        "modified_at": "2026-10-10T12:43:02.969282",
+        "module": "Settings",
+        "timestamp": "2026-10-10T12:43:02.969282",
+        "uuid": "674528c18e9548dca2952dcf663df4c1"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 891,
+        "modified_at": "2026-10-05T17:07:09.166384",
+        "module": "Sync",
+        "timestamp": "2026-10-05T17:07:09.166384",
+        "uuid": "6826b912a4404bd6ab4b3df171592155"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: File sync failed: Mapped file exceeds the 100 MiB safety limit: /Users/alinikkhah/Downloads/Mr.Robot.S04E12.720p.WEB.DL.PaHe.mkv",
+        "id": 892,
+        "modified_at": "2026-10-09T04:50:17.327640",
+        "module": "Sync Error",
+        "timestamp": "2026-10-09T04:50:17.327640",
+        "uuid": "693623b9e380496da6a7c463732a2b78"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 893,
+        "modified_at": "2026-10-11T04:37:13.201116",
+        "module": "Sync",
+        "timestamp": "2026-10-11T04:37:13.201116",
+        "uuid": "69764b36e35b46d4b5ba0f35b63596bd"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: File sync failed: Mapped file exceeds the 100 MiB safety limit: /Users/alinikkhah/Downloads/Mr.Robot.S04E08.720p.WEB.DL.PaHe.mkv",
+        "id": 894,
+        "modified_at": "2026-10-06T11:22:35.676531",
+        "module": "Sync Error",
+        "timestamp": "2026-10-06T11:22:35.676531",
+        "uuid": "69959f0dc1644e93958fd7580f3aed16"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 895,
+        "modified_at": "2026-10-10T21:34:49.932673",
+        "module": "Sync",
+        "timestamp": "2026-10-10T21:34:49.932673",
+        "uuid": "69e34b36f0b043748066806af30453c4"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 896,
+        "modified_at": "2026-10-05T13:07:49.062871",
+        "module": "Sync",
+        "timestamp": "2026-10-05T13:07:49.062871",
+        "uuid": "6cd393a10ff74fe6bb67854ed6c7d2b7"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 897,
+        "modified_at": "2026-10-10T22:37:27.006508",
+        "module": "Sync",
+        "timestamp": "2026-10-10T22:37:27.006508",
+        "uuid": "6cf23ef5d8af49178605e9353ff5c2a8"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 898,
+        "modified_at": "2026-10-06T11:07:04.322425",
+        "module": "Sync",
+        "timestamp": "2026-10-06T11:07:04.322425",
+        "uuid": "6eb915f853c64702b8a924e022d89509"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 899,
+        "modified_at": "2026-10-05T01:23:26.779036",
+        "module": "Sync",
+        "timestamp": "2026-10-05T01:23:26.779036",
+        "uuid": "732c5787786a49ccb8e72aa0447d9fc4"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Push failed after 3 attempts: Cmd('git') failed due to: exit code(1)\n  cmdline: git push --porcelain --progress -- origin\n  stderr: 'error: failed to push some refs to 'https://github.com/alinikkhah2001/MindPalaceData.git''",
+        "id": 900,
+        "modified_at": "2026-10-06T15:02:26.705837",
+        "module": "Sync Error",
+        "timestamp": "2026-10-06T15:02:26.705837",
+        "uuid": "735a189d20a84cb1bd0a149964507aa3"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 901,
+        "modified_at": "2026-10-05T05:08:57.119331",
+        "module": "Sync Error",
+        "timestamp": "2026-10-05T05:08:57.119331",
+        "uuid": "74fd532585e94201a77b8c25e4385da5"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: File sync failed: Mapped file exceeds the 100 MiB safety limit: /Users/alinikkhah/Downloads/Mr.Robot.S04E08.720p.WEB.DL.PaHe.mkv",
+        "id": 902,
+        "modified_at": "2026-10-07T13:42:00.105990",
+        "module": "Sync Error",
+        "timestamp": "2026-10-07T13:42:00.105990",
+        "uuid": "7b4bf25ce67248ae88df74b50adbb011"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 903,
+        "modified_at": "2026-10-05T04:24:42.979748",
+        "module": "Sync",
+        "timestamp": "2026-10-05T04:24:42.979748",
+        "uuid": "7cabbe7f1ab1414d89001ed478ff86b4"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: error: RPC failed; curl 16 Error in the HTTP2 framing layer\nfatal: expected flush after ref listing",
+        "id": 904,
+        "modified_at": "2026-10-04T21:43:10.128901",
+        "module": "Sync Error",
+        "timestamp": "2026-10-04T21:43:10.128901",
+        "uuid": "7f225b3164614a0b8df2667ed1daa0d3"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 905,
+        "modified_at": "2026-10-09T10:57:03.272173",
+        "module": "Sync Error",
+        "timestamp": "2026-10-09T10:57:03.272173",
+        "uuid": "810a60b3452548ef9258e00228c2618f"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: File sync failed: Mapped file exceeds the 100 MiB safety limit: /Users/alinikkhah/Downloads/Mr.Robot.S04E12.720p.WEB.DL.PaHe.mkv",
+        "id": 906,
+        "modified_at": "2026-10-09T00:44:28.222335",
+        "module": "Sync Error",
+        "timestamp": "2026-10-09T00:44:28.222335",
+        "uuid": "8371aba045284eecba11e1e3cc604b8c"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Updated application settings via UI.",
+        "id": 907,
+        "modified_at": "2026-10-10T10:29:17.351369",
+        "module": "Settings",
+        "timestamp": "2026-10-10T10:29:17.351369",
+        "uuid": "853921869c5c4940823459dcbf952979"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 908,
+        "modified_at": "2026-10-04T17:07:11.491808",
+        "module": "Sync",
+        "timestamp": "2026-10-04T17:07:11.491808",
+        "uuid": "892ae727a4214f28813efd519a39d402"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Updated application settings via UI.",
+        "id": 909,
+        "modified_at": "2026-10-07T16:51:31.626192",
+        "module": "Settings",
+        "timestamp": "2026-10-07T16:51:31.626192",
+        "uuid": "8b3afd29c3c14bee94b4240f20a77820"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Updated application settings via UI.",
+        "id": 910,
+        "modified_at": "2026-10-10T10:29:32.307596",
+        "module": "Settings",
+        "timestamp": "2026-10-10T10:29:32.307596",
+        "uuid": "8cdb05436f674542a36067afe95e07d3"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Updated application settings via UI.",
+        "id": 911,
+        "modified_at": "2026-10-10T15:40:55.300674",
+        "module": "Settings",
+        "timestamp": "2026-10-10T15:40:55.300674",
+        "uuid": "8de408f4cef44601b2769b0d76094876"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Updated application settings via UI.",
+        "id": 912,
+        "modified_at": "2026-10-10T12:46:17.499729",
+        "module": "Settings",
+        "timestamp": "2026-10-10T12:46:17.499729",
+        "uuid": "951b214bfdee4821a5a0f2b3b51a5eca"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Updated application settings via UI.",
+        "id": 913,
+        "modified_at": "2026-10-05T16:05:41.827448",
+        "module": "Settings",
+        "timestamp": "2026-10-05T16:05:41.827448",
+        "uuid": "9c4a9dc1a3264e209ce9e0e0b08eea8f"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: File sync failed: Mapped file exceeds the 100 MiB safety limit: /Users/alinikkhah/Downloads/Mr.Robot.S04E12.720p.WEB.DL.PaHe.mkv",
+        "id": 914,
+        "modified_at": "2026-10-08T19:44:28.021551",
+        "module": "Sync Error",
+        "timestamp": "2026-10-08T19:44:28.021551",
+        "uuid": "9dee4afcaeec4fd4ac4b439406733d20"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Updated application settings via UI.",
+        "id": 915,
+        "modified_at": "2026-10-07T17:22:45.074583",
+        "module": "Settings",
+        "timestamp": "2026-10-07T17:22:45.074583",
+        "uuid": "a1024cc5d7a24eb18ad8c33135ed5cb0"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Updated application settings via UI.",
+        "id": 916,
+        "modified_at": "2026-10-05T16:05:42.552630",
+        "module": "Settings",
+        "timestamp": "2026-10-05T16:05:42.552630",
+        "uuid": "a35236e159534daf9cf59c061c8b1f24"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: File sync failed: Mapped file exceeds the 100 MiB safety limit: /Users/alinikkhah/Downloads/Mr.Robot.S04E08.720p.WEB.DL.PaHe.mkv",
+        "id": 917,
+        "modified_at": "2026-10-07T21:35:24.957562",
+        "module": "Sync Error",
+        "timestamp": "2026-10-07T21:35:24.957562",
+        "uuid": "a699354e123a44fe9ebdcbb71a1c5e38"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 918,
+        "modified_at": "2026-10-11T02:35:39.803380",
+        "module": "Sync",
+        "timestamp": "2026-10-11T02:35:39.803380",
+        "uuid": "ab8195476caa488492087bd4fa314563"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 919,
+        "modified_at": "2026-10-05T09:22:32.366118",
+        "module": "Sync",
+        "timestamp": "2026-10-05T09:22:32.366118",
+        "uuid": "acb96c832cf04854a584d706f591b362"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Successfully synced with Git cluster. Verify: attention \u2014 remote has data you lack AND your snapshot is not fully shared",
+        "id": 920,
+        "modified_at": "2026-10-10T10:32:28.623791",
+        "module": "Sync",
+        "timestamp": "2026-10-10T10:32:28.623791",
+        "uuid": "b3c3c887d5f34827b1b63c777d331afa"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 921,
+        "modified_at": "2026-10-05T00:35:49.583805",
+        "module": "Sync",
+        "timestamp": "2026-10-05T00:35:49.583805",
+        "uuid": "b5bbbde9d55f4b5783b95644f1420dcd"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Updated application settings via UI.",
+        "id": 922,
+        "modified_at": "2026-10-10T12:46:26.186694",
+        "module": "Settings",
+        "timestamp": "2026-10-10T12:46:26.186694",
+        "uuid": "b6146bef4fbf4a95aac766aac6f2e702"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Updated application settings via UI.",
+        "id": 923,
+        "modified_at": "2026-10-10T12:43:03.483401",
+        "module": "Settings",
+        "timestamp": "2026-10-10T12:43:03.483401",
+        "uuid": "b77fb2d24ea34d1896b27ee15284f19f"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: File sync failed: Mapped file exceeds the 100 MiB safety limit: /Users/alinikkhah/Downloads/Mr.Robot.S04E12.720p.WEB.DL.PaHe.mkv",
+        "id": 924,
+        "modified_at": "2026-10-08T22:44:28.133187",
+        "module": "Sync Error",
+        "timestamp": "2026-10-08T22:44:28.133187",
+        "uuid": "b902b71b5dc644cebd4a6c48601b86c7"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 925,
+        "modified_at": "2026-10-05T14:07:07.252000",
+        "module": "Sync",
+        "timestamp": "2026-10-05T14:07:07.252000",
+        "uuid": "baefc79ef3bb437b98455668766406c1"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 926,
+        "modified_at": "2026-10-05T16:07:10.336261",
+        "module": "Sync",
+        "timestamp": "2026-10-05T16:07:10.336261",
+        "uuid": "bb402a9307e34fd1b0eeaf7575f38276"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 927,
+        "modified_at": "2026-10-05T11:07:45.221681",
+        "module": "Sync",
+        "timestamp": "2026-10-05T11:07:45.221681",
+        "uuid": "bd148058f34a45a191453339e489ef4c"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Updated application settings via UI.",
+        "id": 928,
+        "modified_at": "2026-10-10T15:41:06.156134",
+        "module": "Settings",
+        "timestamp": "2026-10-10T15:41:06.156134",
+        "uuid": "bd7aa326271847aea5d6d7da19cf3a4e"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Updated application settings via UI.",
+        "id": 929,
+        "modified_at": "2026-10-10T12:43:04.401654",
+        "module": "Settings",
+        "timestamp": "2026-10-10T12:43:04.401654",
+        "uuid": "bf487fdd67064addbc5c903ac714a687"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 930,
+        "modified_at": "2026-10-11T06:44:03.457135",
+        "module": "Sync",
+        "timestamp": "2026-10-11T06:44:03.457135",
+        "uuid": "c4767cbe90174f65a429cfd63114e036"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Updated application settings via UI.",
+        "id": 931,
+        "modified_at": "2026-10-10T12:46:33.852342",
+        "module": "Settings",
+        "timestamp": "2026-10-10T12:46:33.852342",
+        "uuid": "c4cd8c98b4be43fa8ee9f8c75a07fc8a"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 932,
+        "modified_at": "2026-10-04T19:07:15.041809",
+        "module": "Sync",
+        "timestamp": "2026-10-04T19:07:15.041809",
+        "uuid": "c542e4c308c24fc9b6d9c1057e9c7ae2"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 933,
+        "modified_at": "2026-10-11T00:18:50.968443",
+        "module": "Sync",
+        "timestamp": "2026-10-11T00:18:50.968443",
+        "uuid": "c69e63751cd34adf83bad2baa1d01fa6"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: File sync failed: Mapped file exceeds the 100 MiB safety limit: /Users/alinikkhah/Downloads/Mr.Robot.S04E12.720p.WEB.DL.PaHe.mkv",
+        "id": 934,
+        "modified_at": "2026-10-08T17:44:26.499833",
+        "module": "Sync Error",
+        "timestamp": "2026-10-08T17:44:26.499833",
+        "uuid": "c6d48052f6da460e991070496d363bc2"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 935,
+        "modified_at": "2026-10-07T01:53:46.038241",
+        "module": "Sync Error",
+        "timestamp": "2026-10-07T01:53:46.038241",
+        "uuid": "c745e8607b6a494897565232f762156a"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: File sync failed: Mapped file exceeds the 100 MiB safety limit: /Users/alinikkhah/Downloads/Hamnet_2025_10bit_720p_x265_WEB-DL_6CH_PSA.mkv",
+        "id": 936,
+        "modified_at": "2026-10-10T13:34:36.544996",
+        "module": "Sync Error",
+        "timestamp": "2026-10-10T13:34:36.544996",
+        "uuid": "cb148906f6434f8eadcacdb9fd0ec7d2"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 937,
+        "modified_at": "2026-10-04T20:35:45.031845",
+        "module": "Sync",
+        "timestamp": "2026-10-04T20:35:45.031845",
+        "uuid": "cb7379f8fe1e4fdca56b38b02ae836cf"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: File sync failed: Mapped file exceeds the 100 MiB safety limit: /Users/alinikkhah/Downloads/Mr.Robot.S04E12.720p.WEB.DL.PaHe.mkv",
+        "id": 938,
+        "modified_at": "2026-10-09T01:44:28.218463",
+        "module": "Sync Error",
+        "timestamp": "2026-10-09T01:44:28.218463",
+        "uuid": "cc58e4d0e5474e019dcbf81d56db440c"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 939,
+        "modified_at": "2026-10-05T02:07:08.234469",
+        "module": "Sync",
+        "timestamp": "2026-10-05T02:07:08.234469",
+        "uuid": "cdb539df67054173be62bcfbe7315602"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 940,
+        "modified_at": "2026-10-11T07:35:55.493753",
+        "module": "Sync",
+        "timestamp": "2026-10-11T07:35:55.493753",
+        "uuid": "ce53dbf5353842678ba8449252aa653f"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: File sync failed: Mapped file exceeds the 100 MiB safety limit: /Users/alinikkhah/Downloads/Mr.Robot.S04E08.720p.WEB.DL.PaHe.mkv",
+        "id": 941,
+        "modified_at": "2026-10-07T12:26:36.621354",
+        "module": "Sync Error",
+        "timestamp": "2026-10-07T12:26:36.621354",
+        "uuid": "d3172dcd7cb54f26ade890e70cb778d4"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Push failed after 3 attempts: Cmd('git') failed due to: exit code(1)\n  cmdline: git push --porcelain --progress -- origin\n  stderr: 'error: failed to push some refs to 'https://github.com/alinikkhah2001/MindPalaceData.git''",
+        "id": 942,
+        "modified_at": "2026-10-06T14:02:22.131237",
+        "module": "Sync Error",
+        "timestamp": "2026-10-06T14:02:22.131237",
+        "uuid": "d408ba8abd8b48159a2595f97187e5bc"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Updated application settings via UI.",
+        "id": 943,
+        "modified_at": "2026-10-05T16:05:43.157738",
+        "module": "Settings",
+        "timestamp": "2026-10-05T16:05:43.157738",
+        "uuid": "d6c443e6f34f4e11bec9b8836f83f65d"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Updated application settings via UI.",
+        "id": 944,
+        "modified_at": "2026-10-10T14:37:50.594983",
+        "module": "Settings",
+        "timestamp": "2026-10-10T14:37:50.594983",
+        "uuid": "d6f108fd241043b78b2348a063605ab1"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 945,
+        "modified_at": "2026-10-05T03:08:11.245919",
+        "module": "Sync",
+        "timestamp": "2026-10-05T03:08:11.245919",
+        "uuid": "ddbd0dce81c1441088672047b2d59c83"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: File sync failed: Mapped file exceeds the 100 MiB safety limit: /Users/alinikkhah/Downloads/Mr.Robot.S04E08.720p.WEB.DL.PaHe.mkv",
+        "id": 946,
+        "modified_at": "2026-10-07T17:35:01.494504",
+        "module": "Sync Error",
+        "timestamp": "2026-10-07T17:35:01.494504",
+        "uuid": "ddfdcd8cb9f848bb99d6d8ac67d2a8a2"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 947,
+        "modified_at": "2026-10-11T05:35:06.540911",
+        "module": "Sync",
+        "timestamp": "2026-10-11T05:35:06.540911",
+        "uuid": "df31b02ae47c443fa9b9f6f23d714926"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Updated application settings via UI.",
+        "id": 948,
+        "modified_at": "2026-10-10T12:47:06.036622",
+        "module": "Settings",
+        "timestamp": "2026-10-10T12:47:06.036622",
+        "uuid": "e54dcf1589ea48f09239dc66d6249038"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 949,
+        "modified_at": "2026-10-09T11:57:16.961696",
+        "module": "Sync Error",
+        "timestamp": "2026-10-09T11:57:16.961696",
+        "uuid": "e5637ddc45a64bbfb2990157ca04957b"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: File sync failed: Mapped file exceeds the 100 MiB safety limit: /Users/alinikkhah/Downloads/Mr.Robot.S04E08.720p.WEB.DL.PaHe.mkv",
+        "id": 950,
+        "modified_at": "2026-10-08T00:34:59.774050",
+        "module": "Sync Error",
+        "timestamp": "2026-10-08T00:34:59.774050",
+        "uuid": "e6ed41768b1e4b57b0f52cf536229717"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Updated application settings via UI.",
+        "id": 951,
+        "modified_at": "2026-10-07T16:01:56.414107",
+        "module": "Settings",
+        "timestamp": "2026-10-07T16:01:56.414107",
+        "uuid": "e79e7aa7ed0041ea937af8acfda16aca"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 952,
+        "modified_at": "2026-10-04T23:20:57.241878",
+        "module": "Sync",
+        "timestamp": "2026-10-04T23:20:57.241878",
+        "uuid": "e9d3a21918214bafa3220945c90125ff"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: File sync failed: Mapped file exceeds the 100 MiB safety limit: /Users/alinikkhah/Downloads/Mr.Robot.S04E12.720p.WEB.DL.PaHe.mkv",
+        "id": 953,
+        "modified_at": "2026-10-08T23:44:28.271670",
+        "module": "Sync Error",
+        "timestamp": "2026-10-08T23:44:28.271670",
+        "uuid": "eae22d29fbeb4630967621b1d062e8d5"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: File sync failed: Mapped file exceeds the 100 MiB safety limit: /Users/alinikkhah/Downloads/Mr.Robot.S04E12.720p.WEB.DL.PaHe.mkv",
+        "id": 954,
+        "modified_at": "2026-10-09T05:46:54.262847",
+        "module": "Sync Error",
+        "timestamp": "2026-10-09T05:46:54.262847",
+        "uuid": "edf7a8ad09db44c29d674a58ff739724"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 955,
+        "modified_at": "2026-10-08T01:36:28.152329",
+        "module": "Sync Error",
+        "timestamp": "2026-10-08T01:36:28.152329",
+        "uuid": "ef1b0503034243078897cea2ed04a49c"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Push failed after 3 attempts: Cmd('git') failed due to: exit code(1)\n  cmdline: git push --porcelain --progress -- origin\n  stderr: 'error: failed to push some refs to 'https://github.com/alinikkhah2001/MindPalaceData.git''",
+        "id": 956,
+        "modified_at": "2026-10-10T10:32:49.852907",
+        "module": "Sync Error",
+        "timestamp": "2026-10-10T10:32:49.852907",
+        "uuid": "ef5bfe7f018a4500ac06b69485fa54c5"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Updated application settings via UI.",
+        "id": 957,
+        "modified_at": "2026-10-10T12:43:04.993316",
+        "module": "Settings",
+        "timestamp": "2026-10-10T12:43:04.993316",
+        "uuid": "f223101a764941a8b3a926fc106b02b8"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 958,
+        "modified_at": "2026-10-06T23:41:58.959108",
+        "module": "Sync Error",
+        "timestamp": "2026-10-06T23:41:58.959108",
+        "uuid": "f5092bf9ae9348b59ca251d0f3f45ee4"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Updated application settings via UI.",
+        "id": 959,
+        "modified_at": "2026-10-10T12:46:51.239015",
+        "module": "Settings",
+        "timestamp": "2026-10-10T12:46:51.239015",
+        "uuid": "f5fb47569ad345cca47dd5a32f16e35f"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 960,
+        "modified_at": "2026-10-10T16:29:58.147687",
+        "module": "Sync",
+        "timestamp": "2026-10-10T16:29:58.147687",
+        "uuid": "f8f2551a2b55440ab580ff12cbeeeed2"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Updated application settings via UI.",
+        "id": 961,
+        "modified_at": "2026-10-07T16:01:31.189579",
+        "module": "Settings",
+        "timestamp": "2026-10-07T16:01:31.189579",
+        "uuid": "fab33262d5824d959e8414bca7bacc5e"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 962,
+        "modified_at": "2026-10-05T10:07:12.342111",
+        "module": "Sync",
+        "timestamp": "2026-10-05T10:07:12.342111",
+        "uuid": "fe2e0953241c485c84265b2cb558b7a6"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: Repository setup failed: fatal: unable to access 'https://github.com/alinikkhah2001/MindPalaceData.git/': Could not resolve host: github.com",
+        "id": 963,
+        "modified_at": "2026-10-09T09:56:22.444552",
+        "module": "Sync Error",
+        "timestamp": "2026-10-09T09:56:22.444552",
+        "uuid": "ff5fecd5827d452b82344aa2f904e00b"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Successfully synced with Git cluster. Sync completed successfully",
+        "id": 964,
+        "modified_at": "2026-10-04T22:20:12.909719",
+        "module": "Sync",
+        "timestamp": "2026-10-04T22:20:12.909719",
+        "uuid": "ff9459d18c114ddb89ee26d3aca07a6c"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "description": "Sync failed: File sync failed: Mapped file exceeds the 100 MiB safety limit: /Users/alinikkhah/Downloads/Mr.Robot.S04E12.720p.WEB.DL.PaHe.mkv",
+        "id": 965,
+        "modified_at": "2026-10-10T10:29:42.515167",
+        "module": "Sync Error",
+        "timestamp": "2026-10-10T10:29:42.515167",
+        "uuid": "ffa967ef77c64c7892f5cb17f5bffd45"
       }
     ],
     "cascading_goals": [
@@ -7872,7 +9112,7 @@
         "id": 2,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-09-19T15:51:40.924514",
+        "modified_at": "2026-10-12T15:16:34.476104",
         "parent_id": null,
         "parent_uuid": null,
         "target_hours": 1000.0,
@@ -7892,18 +9132,18 @@
         "id": 3,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-10-04T14:56:48.471832",
+        "modified_at": "2026-10-12T15:16:34.476104",
         "parent_id": null,
         "parent_uuid": null,
-        "target_hours": 50.0,
+        "target_hours": 110.0,
         "texture": "grid",
         "title": "Work",
         "uuid": "9850e45ee84a43e5b811b8ac36b1dd6b"
       },
       {
-        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
         "category": "Goal",
-        "color": "#fb7185",
+        "color": "#ff5500",
         "color_secondary": "#c084fc",
         "completed": 0,
         "deadline": "2026-10-26 08:49",
@@ -7912,7 +9152,7 @@
         "id": 4,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-09-19T15:52:39.893403",
+        "modified_at": "2026-10-07T16:00:20.219173",
         "parent_id": 3,
         "parent_uuid": "9850e45ee84a43e5b811b8ac36b1dd6b",
         "target_hours": 50.0,
@@ -7923,42 +9163,102 @@
       {
         "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
         "category": "Goal",
-        "color": "#fb7185",
-        "color_secondary": "#c084fc",
+        "color": "#fb923c",
+        "color_secondary": "#ef4444",
         "completed": 0,
-        "deadline": "2026-09-09 06:09",
+        "deadline": "2027-09-26 08:49",
         "done": 0,
-        "icon": "briefcase-business",
-        "id": 5,
+        "icon": "book-open",
+        "id": 7,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-09-27T17:50:22.474211",
-        "parent_id": null,
-        "parent_uuid": null,
-        "target_hours": 10.0,
-        "texture": "waves",
-        "title": "sample day",
-        "uuid": "74d5489565384477b2a857d649a2ada1"
+        "modified_at": "2026-10-07T15:59:46.977587",
+        "parent_id": 2,
+        "parent_uuid": "f04f6d25b1e947d6b06ba840fce61380",
+        "target_hours": 500.0,
+        "texture": "paper",
+        "title": "Reading Literature",
+        "uuid": "091f9e98697f450c9d5fdae44ab5932b"
       },
       {
         "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-        "category": null,
-        "color": "#3b82f6",
-        "color_secondary": "#8b5cf6",
+        "category": "Goal",
+        "color": "#fb923c",
+        "color_secondary": "#ef4444",
         "completed": 0,
-        "deadline": "2026-09-14 17:10",
+        "deadline": "2027-09-26 08:49",
         "done": 0,
-        "icon": "target",
-        "id": 6,
+        "icon": "book-open",
+        "id": 8,
         "level": null,
         "logged_hours": 0.0,
-        "modified_at": "2026-09-27T17:50:22.474211",
-        "parent_id": null,
-        "parent_uuid": null,
-        "target_hours": 34.0,
-        "texture": "grain",
-        "title": "dasdsadsa",
-        "uuid": "bc1bac23dca54c6cbe10335cfc5613d6"
+        "modified_at": "2026-10-07T16:00:05.345976",
+        "parent_id": 2,
+        "parent_uuid": "f04f6d25b1e947d6b06ba840fce61380",
+        "target_hours": 200.0,
+        "texture": "paper",
+        "title": "Course",
+        "uuid": "1212c6474bec4670b542f5afaadfe7b6"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "category": "Goal",
+        "color": "#ff5500",
+        "color_secondary": "#c084fc",
+        "completed": 0,
+        "deadline": "2026-10-26 08:49",
+        "done": 0,
+        "icon": "briefcase-business",
+        "id": 9,
+        "level": null,
+        "logged_hours": 0.0,
+        "modified_at": "2026-10-07T16:00:19.249443",
+        "parent_id": 3,
+        "parent_uuid": "9850e45ee84a43e5b811b8ac36b1dd6b",
+        "target_hours": 50.0,
+        "texture": "grid",
+        "title": "Code Feats",
+        "uuid": "16f4b9b68a564479b16cf7d59ea71c1c"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "category": "Goal",
+        "color": "#fb923c",
+        "color_secondary": "#ef4444",
+        "completed": 0,
+        "deadline": "2027-09-26 08:49",
+        "done": 0,
+        "icon": "book-open",
+        "id": 10,
+        "level": null,
+        "logged_hours": 0.0,
+        "modified_at": "2026-10-07T15:59:58.629607",
+        "parent_id": 2,
+        "parent_uuid": "f04f6d25b1e947d6b06ba840fce61380",
+        "target_hours": 300.0,
+        "texture": "paper",
+        "title": "Implmenetaion",
+        "uuid": "2ad8dff7476447c880f7e63d7ac9761f"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "category": "Goal",
+        "color": "#ff5500",
+        "color_secondary": "#c084fc",
+        "completed": 0,
+        "deadline": "2026-10-26 08:49",
+        "done": 0,
+        "icon": "briefcase-business",
+        "id": 11,
+        "level": null,
+        "logged_hours": 0.0,
+        "modified_at": "2026-10-07T15:59:32.378513",
+        "parent_id": 3,
+        "parent_uuid": "9850e45ee84a43e5b811b8ac36b1dd6b",
+        "target_hours": 10.0,
+        "texture": "grid",
+        "title": "Documentation and Refactoring",
+        "uuid": "e03f22ad449147998a36f53d83f5bb12"
       }
     ],
     "composite_foods": [
@@ -8302,17 +9602,6 @@
       },
       {
         "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
-        "course": "Work > Research R/D",
-        "duration": 60,
-        "id": 13,
-        "modified_at": "2026-09-21T13:00:59.851500",
-        "status": "active",
-        "title": "Work > Research R/D",
-        "type": "Work",
-        "uuid": "51a27bdc0bed41e29d6afbda21db9925"
-      },
-      {
-        "__sync_origin": "2ed36e34-455d-44ae-b8cc-4f72fc907cd8",
         "course": "General",
         "duration": 60,
         "id": 14,
@@ -8321,6 +9610,105 @@
         "title": "General",
         "type": "Work",
         "uuid": "3255f5eb65614193ba615becc062eb83"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "course": "General",
+        "duration": 60,
+        "id": 15,
+        "modified_at": "2026-10-10T12:34:39.160142",
+        "status": "completed",
+        "title": "General",
+        "type": "Work",
+        "uuid": "03856e91ee1e46e3a3619eb8f35d5c95"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "course": "French",
+        "duration": 30,
+        "id": 16,
+        "modified_at": "2026-10-05T17:58:08.535189",
+        "status": "completed",
+        "title": "French",
+        "type": "Work",
+        "uuid": "23d644f1d2df4ae78d40b04926013338"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "course": "General",
+        "duration": 25,
+        "id": 17,
+        "modified_at": "2026-10-05T18:32:00.928370",
+        "status": "completed",
+        "title": "General",
+        "type": "Work",
+        "uuid": "2b728d6160f94135add133f780e786b6"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "course": "Break",
+        "duration": 15,
+        "id": 18,
+        "modified_at": "2026-10-10T13:53:15.355429",
+        "status": "completed",
+        "title": "General",
+        "type": "Break",
+        "uuid": "5c6f4c264b164db1bef5c58caa136910"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "course": "AI > Implmenetaion",
+        "duration": 90,
+        "id": 19,
+        "modified_at": "2026-10-10T15:39:19.151975",
+        "status": "completed",
+        "title": "AI > Implmenetaion",
+        "type": "Work",
+        "uuid": "6902f460ef2f4cda996ab69e4dfd2ced"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "course": "Work > Research R/D",
+        "duration": 60,
+        "id": 20,
+        "modified_at": "2026-10-05T16:03:31.207206",
+        "status": "completed",
+        "title": "Work > Research R/D",
+        "type": "Work",
+        "uuid": "6da66748b946430191627085277a1c37"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "course": "Work > Code Feats",
+        "duration": 60,
+        "id": 21,
+        "modified_at": "2026-10-07T16:02:44.138954",
+        "status": "completed",
+        "title": "Work > Code Feats",
+        "type": "Work",
+        "uuid": "a5027b0acd084f45b6feee5c93760ea1"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "course": "General",
+        "duration": 90,
+        "id": 22,
+        "modified_at": "2026-10-10T17:53:51.323838",
+        "status": "pending",
+        "title": "General",
+        "type": "Work",
+        "uuid": "b4d9cedd0dc94e648aaf861d13a37aef"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "course": "Break",
+        "duration": 15,
+        "id": 23,
+        "modified_at": "2026-10-05T17:05:05.241464",
+        "status": "completed",
+        "title": "General",
+        "type": "Break",
+        "uuid": "e25f1d648d564d0c8de777d13ecdae74"
       }
     ],
     "food_logs": [],
@@ -8584,6 +9972,56 @@
         "modified_at": "2026-09-08T09:11:53.433194",
         "status": 1,
         "uuid": "3e56adc8fa4c4e72838e05cd67ad3794"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "date": "Sat, 10/3",
+        "habit_id": 10,
+        "habit_uuid": "77aad0db9d0f492a9e175ca595cd1a31",
+        "id": 27,
+        "modified_at": "2026-10-04T15:00:27.482730",
+        "status": 1,
+        "uuid": "18fff8f266404cacae373cd6c2e7374d"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "date": "Sat, 10/3",
+        "habit_id": 1,
+        "habit_uuid": "0f2365f62fa446938fda7107986b9c1c",
+        "id": 28,
+        "modified_at": "2026-10-04T15:00:10.866353",
+        "status": 1,
+        "uuid": "7a2446df49254eff809bd576da987cb2"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "date": "Sat, 10/3",
+        "habit_id": 5,
+        "habit_uuid": "594efeb7ae664e6b8e2fd544d598ca85",
+        "id": 29,
+        "modified_at": "2026-10-04T15:00:19.582476",
+        "status": 1,
+        "uuid": "7eaaf54c076f402fa644b54ea07ae14d"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "date": "Sat, 10/3",
+        "habit_id": 4,
+        "habit_uuid": "52adfb14d2e94bb6a988a0a339d8c28d",
+        "id": 30,
+        "modified_at": "2026-10-04T15:00:17.236878",
+        "status": 1,
+        "uuid": "c4f05f2c7bd147809578ca12d07ca63c"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "date": "Sat, 10/3",
+        "habit_id": 3,
+        "habit_uuid": "51c5706ad8ce4926a30de1d36752240b",
+        "id": 31,
+        "modified_at": "2026-10-04T15:00:16.495788",
+        "status": 1,
+        "uuid": "fe59dc38e45546c7bb18dc335bd8e744"
       }
     ],
     "habits": [
@@ -8658,18 +10096,6 @@
         "name": "Course Self Study",
         "type": "Positive",
         "uuid": "64cb5451e4da4151a91f7dff16278cf7"
-      },
-      {
-        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
-        "color": "#3b82f6",
-        "course": "General",
-        "created_at": "2026-08-21T16:22:14.822748",
-        "goal_path": "",
-        "id": 7,
-        "modified_at": "2026-08-21T16:22:14.822739",
-        "name": "damavand",
-        "type": "Positive",
-        "uuid": "65e42014b83e437ea878be6412b3d7a9"
       },
       {
         "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
@@ -9788,6 +11214,171 @@
         "timestamp": "2026-09-21T17:52:42.902989",
         "type": "Work",
         "uuid": "e82947f67f684595b66bf44aec9e66ef"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "actual_duration": 90,
+        "course": "AI > Implmenetaion",
+        "distraction_data": "[[0.35, 0.016666666666666666, \"Camera\"], [1.8166666666666667, 0.03333333333333333, \"Camera\"], [2.0, 0.016666666666666666, \"Camera\"], [2.2333333333333334, 0.016666666666666666, \"Camera\"], [3.3833333333333333, 0.016666666666666666, \"Camera\"], [3.6333333333333333, 0.016666666666666666, \"Camera\"], [5.05, 0.016666666666666666, \"Camera\"], [7.266666666666667, 0.08333333333333333, \"Camera\"], [7.933333333333334, 0.016666666666666666, \"Camera\"], [7.95, 0.03333333333333333, \"Camera\"], [7.983333333333333, 0.03333333333333333, \"Camera\"], [8.816666666666666, 0.016666666666666666, \"Camera\"], [8.9, 0.08333333333333333, \"Camera\"], [8.983333333333333, 0.06666666666666667, \"Camera\"], [9.033333333333333, 0.1, \"Camera\"], [9.1, 0.05, \"Camera\"], [9.733333333333333, 0.016666666666666666, \"Camera\"], [10.033333333333333, 0.03333333333333333, \"Camera\"], [10.816666666666666, 0.03333333333333333, \"Camera\"], [11.383333333333333, 0.016666666666666666, \"Camera\"], [11.933333333333334, 0.016666666666666666, \"Camera\"], [12.383333333333333, 0.016666666666666666, \"Camera\"], [14.066666666666666, 0.03333333333333333, \"Camera\"], [24.016666666666666, 0.016666666666666666, \"Camera\"], [24.616666666666667, 0.016666666666666666, \"Camera\"], [25.016666666666666, 0.03333333333333333, \"Camera\"], [37.083333333333336, 0.016666666666666666, \"Camera\"], [37.166666666666664, 0.05, \"Camera\"], [37.21666666666667, 0.016666666666666666, \"Camera\"], [38.11666666666667, 0.016666666666666666, \"Camera\"], [38.516666666666666, 0.016666666666666666, \"Camera\"], [38.95, 0.03333333333333333, \"Camera\"], [39.78333333333333, 0.03333333333333333, \"Camera\"], [40.7, 0.016666666666666666, \"Camera\"], [40.71666666666667, 0.016666666666666666, \"Camera\"], [41.13333333333333, 0.03333333333333333, \"Camera\"], [41.95, 0.03333333333333333, \"Camera\"], [42.43333333333333, 0.016666666666666666, \"Camera\"], [42.68333333333333, 0.016666666666666666, \"Camera\"], [42.7, 0.03333333333333333, \"Camera\"], [42.71666666666667, 0.016666666666666666, \"Camera\"], [42.733333333333334, 0.016666666666666666, \"Camera\"], [42.75, 0.03333333333333333, \"Camera\"], [43.2, 0.03333333333333333, \"Camera\"], [50.88333333333333, 0.03333333333333333, \"Camera\"], [76.43333333333334, 0.016666666666666666, \"Camera\"], [78.25, 0.03333333333333333, \"Camera\"]]",
+        "distractions": 83,
+        "duration": 90,
+        "id": 26,
+        "modified_at": "2026-10-10T14:59:52.308558Z",
+        "note": null,
+        "timelapse_path": "/Users/alinikkhah/Library/Application Support/IMPERIUM/timelapses/Work_AI_>_Implmenetaion_20261010_153921.avi",
+        "timestamp": "2026-10-10T17:30:29.514707",
+        "type": "Work",
+        "uuid": "5e6e6d4b469e4760862915178e2a06ac"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "actual_duration": 15,
+        "course": "Break",
+        "distraction_data": "[]",
+        "distractions": 0,
+        "duration": 15,
+        "id": 27,
+        "modified_at": "2026-10-05T17:42:34.642804",
+        "note": null,
+        "timelapse_path": "/Users/alinikkhah/Documents/Personal Projects/Shadow_Git/Personal_Shadow/IMPERIUM/data/timelapses/Work_Break_20261005_170611.avi",
+        "timestamp": "2026-10-05T17:21:11.309811",
+        "type": "Work",
+        "uuid": "8b10c07fb6d64f949dd4e707fe989342"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "actual_duration": 0,
+        "course": "General",
+        "distraction_data": "[]",
+        "distractions": 0,
+        "duration": 0,
+        "id": 28,
+        "modified_at": "2026-10-07T12:05:02.077145Z",
+        "note": null,
+        "timelapse_path": "/Users/alinikkhah/Library/Application Support/IMPERIUM/timelapses/Work_General_20261007_144412.avi",
+        "timestamp": "2026-10-07T14:44:13.819723",
+        "type": "Work",
+        "uuid": "a13b68184baf484ab508cfb942cf7a4f"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "actual_duration": 0,
+        "course": "General",
+        "distraction_data": "[]",
+        "distractions": 0,
+        "duration": 0,
+        "id": 29,
+        "modified_at": "2026-10-07T10:11:59.913682Z",
+        "note": null,
+        "timelapse_path": "/Users/alinikkhah/Library/Application Support/IMPERIUM/timelapses/Work_General_20261007_131949.avi",
+        "timestamp": "2026-10-07T13:19:50.822940",
+        "type": "Work",
+        "uuid": "a588c3fc327041d6b6525f1f1465e8f5"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "actual_duration": 15,
+        "course": "Break",
+        "distraction_data": "[[0.11666666666666667, 0.016666666666666666, \"Camera\"], [0.48333333333333334, 0.03333333333333333, \"Camera\"], [0.7, 0.016666666666666666, \"Camera\"], [1.1666666666666667, 0.05, \"Camera\"], [1.95, 0.016666666666666666, \"Camera\"], [2.816666666666667, 0.03333333333333333, \"Camera\"], [2.85, 0.016666666666666666, \"Camera\"], [3.8666666666666667, 0.03333333333333333, \"Camera\"], [4.316666666666666, 0.03333333333333333, \"Camera\"], [7.1, 0.016666666666666666, \"Camera\"], [8.116666666666667, 0.016666666666666666, \"Camera\"], [8.133333333333333, 0.016666666666666666, \"Camera\"], [8.2, 0.016666666666666666, \"Camera\"], [8.216666666666667, 0.03333333333333333, \"Camera\"], [9.4, 0.016666666666666666, \"Camera\"], [9.95, 0.03333333333333333, \"Camera\"], [10.333333333333334, 0.016666666666666666, \"Camera\"]]",
+        "distractions": 25,
+        "duration": 15,
+        "id": 30,
+        "modified_at": "2026-10-10T14:29:45.721092",
+        "note": null,
+        "timelapse_path": "/Users/alinikkhah/Library/Application Support/IMPERIUM/timelapses/Work_Break_20261010_135346.avi",
+        "timestamp": "2026-10-10T14:09:12.588526",
+        "type": "Work",
+        "uuid": "ab8ed06ec64e47dcaf0bdcee8be2a68d"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "actual_duration": 60,
+        "course": "General",
+        "distraction_data": "[[8.033333333333333, 0.03333333333333333, \"Camera\"], [13.4, 0.03333333333333333, \"Camera\"], [15.6, 0.016666666666666666, \"Camera\"], [15.9, 0.016666666666666666, \"Camera\"], [26.05, 0.03333333333333333, \"Camera\"], [28.616666666666667, 0.016666666666666666, \"Camera\"], [29.083333333333332, 0.016666666666666666, \"Camera\"], [29.266666666666666, 0.016666666666666666, \"Camera\"], [29.983333333333334, 0.016666666666666666, \"Camera\"], [34.733333333333334, 0.03333333333333333, \"Camera\"], [38.583333333333336, 0.016666666666666666, \"Camera\"], [38.88333333333333, 0.03333333333333333, \"Camera\"], [42.233333333333334, 0.03333333333333333, \"Camera\"], [43.85, 0.016666666666666666, \"Camera\"], [45.21666666666667, 0.1, \"Camera\"], [45.5, 0.03333333333333333, \"Camera\"], [45.75, 0.016666666666666666, \"Camera\"], [45.96666666666667, 0.016666666666666666, \"Camera\"], [46.03333333333333, 0.016666666666666666, \"Camera\"], [46.1, 0.1, \"Camera\"], [46.166666666666664, 0.016666666666666666, \"Camera\"], [46.18333333333333, 0.03333333333333333, \"Camera\"], [50.93333333333333, 0.016666666666666666, \"Camera\"], [53.21666666666667, 0.016666666666666666, \"Camera\"], [54.766666666666666, 0.016666666666666666, \"Camera\"], [54.78333333333333, 0.016666666666666666, \"Camera\"], [54.8, 0.06666666666666667, \"Camera\"], [54.81666666666667, 0.016666666666666666, \"Camera\"], [56.05, 0.016666666666666666, \"Camera\"], [58.71666666666667, 0.03333333333333333, \"Camera\"]]",
+        "distractions": 52,
+        "duration": 60,
+        "id": 31,
+        "modified_at": "2026-10-10T14:29:45.721092",
+        "note": "fuck yeah",
+        "timelapse_path": "/Users/alinikkhah/Library/Application Support/IMPERIUM/timelapses/Work_General_20261010_123441.avi",
+        "timestamp": "2026-10-10T13:52:42.944171",
+        "type": "Work",
+        "uuid": "ad379106079241129028a31d26cda015"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "actual_duration": 0,
+        "course": "General",
+        "distraction_data": "[]",
+        "distractions": 0,
+        "duration": 0,
+        "id": 32,
+        "modified_at": "2026-10-10T12:59:51.371560Z",
+        "note": null,
+        "timelapse_path": "/Users/alinikkhah/Library/Application Support/IMPERIUM/timelapses/Work_General_20261010_153904.avi",
+        "timestamp": "2026-10-10T15:39:05.959459",
+        "type": "Work",
+        "uuid": "c8c3b87aad3949c3ac0ce8b4c12fbc75"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "actual_duration": 60,
+        "course": "Work > Research R/D",
+        "distraction_data": "[]",
+        "distractions": 0,
+        "duration": 60,
+        "id": 33,
+        "modified_at": "2026-10-05T13:37:02.390421Z",
+        "note": null,
+        "timelapse_path": "/Users/alinikkhah/Documents/Personal Projects/Shadow_Git/Personal_Shadow/IMPERIUM/data/timelapses/Work_Work_>_Research_RD_20261005_160332.avi",
+        "timestamp": "2026-10-05T17:06:11.223858",
+        "type": "Work",
+        "uuid": "de678febaaa2490ea38b87d44f3be528"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "actual_duration": 60,
+        "course": "Work > Code Feats",
+        "distraction_data": "[[8.75, 0.05, \"Camera\"], [26.716666666666665, 0.016666666666666666, \"Camera\"], [40.0, 0.016666666666666666, \"Camera\"], [48.61666666666667, 0.03333333333333333, \"Camera\"], [48.81666666666667, 0.016666666666666666, \"Camera\"]]",
+        "distractions": 8,
+        "duration": 60,
+        "id": 34,
+        "modified_at": "2026-10-07T14:05:01.319361Z",
+        "note": null,
+        "timelapse_path": "/Users/alinikkhah/Library/Application Support/IMPERIUM/timelapses/Work_Work_>_Code_Feats_20261007_160246.avi",
+        "timestamp": "2026-10-07T17:22:51.731386",
+        "type": "Work",
+        "uuid": "e53c8d0794d845e084345f0bdf560b7b"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "actual_duration": 30,
+        "course": "French",
+        "distraction_data": "[]",
+        "distractions": 0,
+        "duration": 30,
+        "id": 35,
+        "modified_at": "2026-10-05T15:37:06.050395Z",
+        "note": "kos",
+        "timelapse_path": "/Users/alinikkhah/Documents/Personal Projects/Shadow_Git/Personal_Shadow/IMPERIUM/data/timelapses/Work_French_20261005_175810.avi",
+        "timestamp": "2026-10-05T18:28:10.732439",
+        "type": "Work",
+        "uuid": "f992a0c139c14de1a5fecb251b83b402"
+      },
+      {
+        "__sync_origin": "ADA2A452-97D2-5874-9BB8-4ECE33F4DA44",
+        "actual_duration": 25,
+        "course": "General",
+        "distraction_data": "[]",
+        "distractions": 0,
+        "duration": 25,
+        "id": 36,
+        "modified_at": "2026-10-05T15:37:06.050395Z",
+        "note": null,
+        "timelapse_path": "/Users/alinikkhah/Documents/Personal Projects/Shadow_Git/Personal_Shadow/IMPERIUM/data/timelapses/Work_General_20261005_183202.avi",
+        "timestamp": "2026-10-05T18:57:02.142175",
+        "type": "Work",
+        "uuid": "ff74181a10954c42a903e49c80c596a8"
       }
     ],
     "quizzes": [
